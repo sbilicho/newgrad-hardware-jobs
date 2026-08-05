@@ -1,0 +1,37 @@
+{
+  "jobs": [
+    {
+      "id": 101,
+      "title": "ASIC Physical Design Engineer - New Grad",
+      "updated_at": "2026-08-05T12:00:00-07:00",
+      "location": { "name": "San Jose, CA, United States" },
+      "absolute_url": "https://job-boards.greenhouse.io/example/jobs/101",
+      "content": "<p>Full-time role for a new graduate.</p><p>Use SystemVerilog, synthesis, Innovus, STA, and timing closure.</p>",
+      "departments": [{ "name": "Silicon Engineering" }],
+      "offices": [{ "name": "San Jose", "location": "San Jose, CA" }],
+      "metadata": [{ "name": "Employment Type", "value": "Full Time" }]
+    },
+    {
+      "id": 102,
+      "title": "FPGA Engineering Intern",
+      "updated_at": "2026-08-05T10:00:00Z",
+      "location": { "name": "Austin, TX" },
+      "absolute_url": "https://job-boards.greenhouse.io/example/jobs/102",
+      "content": "<p>Summer internship using Verilog.</p>",
+      "departments": [{ "name": "Hardware" }],
+      "offices": [],
+      "metadata": []
+    },
+    {
+      "id": 103,
+      "title": "RTL Design Engineer",
+      "updated_at": "2026-08-05T09:00:00Z",
+      "location": { "name": "Bengaluru, India" },
+      "absolute_url": "https://job-boards.greenhouse.io/example/jobs/103",
+      "content": "<p>Full-time RTL design using SystemVerilog.</p>",
+      "departments": [{ "name": "ASIC" }],
+      "offices": [],
+      "metadata": []
+    }
+  ]
+}

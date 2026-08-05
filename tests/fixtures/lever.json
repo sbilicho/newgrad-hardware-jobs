@@ -1,0 +1,35 @@
+[
+  {
+    "id": "lever-101",
+    "text": "Associate FPGA Design Engineer",
+    "categories": {
+      "commitment": "Full-time",
+      "department": "Hardware Engineering",
+      "team": "FPGA",
+      "location": "Austin, TX",
+      "country": "US"
+    },
+    "allLocations": ["Austin, TX"],
+    "descriptionPlain": "Entry-level FPGA role using Verilog, Vivado, Python, and timing analysis.",
+    "additionalPlain": "Bachelor's or Master's degree in Electrical Engineering.",
+    "lists": [{ "text": "Responsibilities", "content": "<li>Develop RTL and verification testbenches.</li>" }],
+    "createdAt": 1785956400000,
+    "workplaceType": "on-site",
+    "hostedUrl": "https://jobs.lever.co/example/lever-101",
+    "applyUrl": "https://jobs.lever.co/example/lever-101/apply"
+  },
+  {
+    "id": "lever-102",
+    "text": "Contract Hardware Engineer",
+    "categories": {
+      "commitment": "Contract",
+      "department": "Hardware",
+      "location": "London, United Kingdom",
+      "country": "GB"
+    },
+    "descriptionPlain": "Six-month contract.",
+    "createdAt": 1785956400000,
+    "hostedUrl": "https://jobs.lever.co/example/lever-102",
+    "applyUrl": "https://jobs.lever.co/example/lever-102/apply"
+  }
+]

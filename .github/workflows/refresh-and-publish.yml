@@ -1,0 +1,87 @@
+name: Refresh and publish hardware jobs
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/refresh-and-publish.yml"
+      - "config/**"
+      - "lib/**"
+      - "site/**"
+      - "tests/**"
+      - "generate_public_site.ps1"
+      - "monitor.ps1"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: public-hardware-job-board
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out monitor state
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Run parser, scoring, and privacy tests
+        if: github.event_name != 'schedule'
+        shell: pwsh
+        run: ./tests/run_tests.ps1
+
+      - name: Scan allowed job sources
+        id: scan
+        continue-on-error: true
+        shell: pwsh
+        run: ./monitor.ps1 -Mode Scan
+
+      - name: Generate sanitized public site
+        if: always()
+        shell: pwsh
+        run: ./generate_public_site.ps1 -OutputDirectory ./public
+
+      - name: Persist monitor state
+        if: always()
+        shell: bash
+        run: |
+          git config user.name "signalpath-job-monitor[bot]"
+          git config user.email "signalpath-job-monitor[bot]@users.noreply.github.com"
+          git add alerts health reports state
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh hardware job data"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+
+      - name: Configure GitHub Pages
+        if: always()
+        uses: actions/configure-pages@v5
+
+      - name: Upload site artifact
+        if: always()
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Deploy public job board
+        if: always()
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Preserve failed scan status
+        if: steps.scan.outcome == 'failure'
+        shell: bash
+        run: exit 1

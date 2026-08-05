@@ -1,0 +1,61 @@
+{
+  "jobs": [
+    {
+      "id": "ashby-101",
+      "title": "Digital IC Design Engineer I",
+      "location": "Santa Clara, CA",
+      "secondaryLocations": [],
+      "department": "Silicon",
+      "team": "RTL",
+      "isRemote": false,
+      "workplaceType": "OnSite",
+      "descriptionPlain": "Full-time digital design role using SystemVerilog, RTL, CDC, synthesis, and Python.",
+      "publishedAt": "2026-08-05T16:00:00Z",
+      "employmentType": "FullTime",
+      "address": {
+        "postalAddress": {
+          "addressLocality": "Santa Clara",
+          "addressRegion": "CA",
+          "addressCountry": "United States"
+        }
+      },
+      "jobUrl": "https://jobs.ashbyhq.com/example/ashby-101",
+      "applyUrl": "https://jobs.ashbyhq.com/example/ashby-101/application",
+      "isListed": true
+    },
+    {
+      "id": "ashby-102",
+      "title": "ASIC Verification Intern",
+      "location": "San Francisco",
+      "secondaryLocations": [],
+      "department": "Hardware",
+      "team": "Verification",
+      "isRemote": false,
+      "workplaceType": "OnSite",
+      "descriptionPlain": "Internship using UVM and SystemVerilog.",
+      "publishedAt": "2026-08-05T15:00:00Z",
+      "employmentType": "Intern",
+      "address": { "postalAddress": { "addressCountry": "United States" } },
+      "jobUrl": "https://jobs.ashbyhq.com/example/ashby-102",
+      "applyUrl": "https://jobs.ashbyhq.com/example/ashby-102/application",
+      "isListed": true
+    },
+    {
+      "id": "ashby-103",
+      "title": "Physical Design Engineer",
+      "location": "Toronto, Ontario, Canada",
+      "secondaryLocations": [],
+      "department": "Silicon",
+      "team": "Physical Design",
+      "isRemote": false,
+      "workplaceType": "OnSite",
+      "descriptionPlain": "Full-time physical design, place and route, and STA.",
+      "publishedAt": "2026-08-05T14:00:00Z",
+      "employmentType": "FullTime",
+      "address": { "postalAddress": { "addressCountry": "Canada" } },
+      "jobUrl": "https://jobs.ashbyhq.com/example/ashby-103",
+      "applyUrl": "https://jobs.ashbyhq.com/example/ashby-103/application",
+      "isListed": true
+    }
+  ]
+}

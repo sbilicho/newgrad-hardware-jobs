@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "fitThreshold": 30,
+  "initialLookbackDays": 7,
+  "stateRetentionDays": 180,
+  "staleAfterHours": 2,
+  "maxDetailFetches": 8,
+  "maxCompanyDetailFetches": 120,
+  "sources": {
+    "landingUrl": "https://www.newgrad-jobs.com/?k=eng",
+    "embeddedUrl": "https://jobright.ai/minisites-jobs/newgrad/us/engineering_development?embed=true",
+    "searchBaseUrl": "https://jobright.ai/jobs/",
+    "searchPages": [
+      { "id": "physical_design_new_grad", "path": "physical-design-engineer-new-grad-jobs-in-united-states" },
+      { "id": "physical_design_entry", "path": "physical-design-engineer-entry-level-jobs-in-united-states" },
+      { "id": "sta_timing", "path": "static-timing-analysis-timing-closure-engineer-jobs-in-united-states" },
+      { "id": "asic_rtl", "path": "asic-rtl-design-engineer-new-grad-jobs-in-united-states" },
+      { "id": "digital_ic", "path": "digital-ic-design-engineer-entry-level-jobs-in-united-states" },
+      { "id": "soc_design", "path": "soc-design-engineer-new-grad-jobs-in-united-states" },
+      { "id": "microarchitecture", "path": "hardware-microarchitecture-engineer-new-grad-jobs-in-united-states" },
+      { "id": "asic_verification", "path": "asic-design-verification-engineer-entry-level-jobs-in-united-states" },
+      { "id": "hardware_verification", "path": "hardware-verification-engineer-new-grad-jobs-in-united-states" },
+      { "id": "dft", "path": "dft-design-for-test-engineer-entry-level-jobs-in-united-states" },
+      { "id": "fpga", "path": "fpga-design-engineer-entry-level-jobs-in-united-states" },
+      { "id": "silicon_validation", "path": "silicon-validation-engineer-entry-level-jobs-in-united-states" },
+      { "id": "post_silicon", "path": "post-silicon-validation-engineer-new-grad-jobs-in-united-states" },
+      { "id": "semiconductor_test", "path": "semiconductor-product-test-engineer-entry-level-jobs-in-united-states" },
+      { "id": "yield_reliability", "path": "semiconductor-yield-reliability-engineer-entry-level-jobs-in-united-states" },
+      { "id": "analog_mixed_signal", "path": "analog-mixed-signal-ic-design-engineer-entry-level-jobs-in-united-states" },
+      { "id": "custom_layout", "path": "custom-ic-layout-engineer-entry-level-jobs-in-united-states" },
+      { "id": "eda_methodology", "path": "eda-cad-design-methodology-engineer-entry-level-jobs-in-united-states" },
+      { "id": "electrical", "path": "electrical-engineer-i-electronics-entry-level-jobs-in-united-states" },
+      { "id": "hardware", "path": "hardware-engineer-entry-level-electrical-jobs-in-united-states" },
+      { "id": "firmware", "path": "firmware-engineer-entry-level-embedded-hardware-jobs-in-united-states" },
+      { "id": "cpu_gpu", "path": "cpu-gpu-hardware-engineer-new-grad-jobs-in-united-states" }
+    ]
+  },
+  "scoring": {
+    "titleMaximum": 45,
+    "skillMaximum": 30,
+    "domainMaximum": 15,
+    "earlyCareerMaximum": 10,
+    "threeYearPenalty": 15,
+    "titlePhrases": [
+      { "family": "Physical Design", "points": 45, "terms": ["physical design", "physical implementation", "place and route", "place & route", "p&r engineer", "pnr engineer", "floorplan engineer"] },
+      { "family": "Timing and Signoff", "points": 45, "terms": ["static timing", "sta engineer", "timing closure", "timing engineer", "signoff engineer"] },
+      { "family": "ASIC and RTL", "points": 45, "terms": ["asic design", "asic engineer", "rtl design", "rtl engineer", "digital ic", "digital design", "logic design"] },
+      { "family": "SoC and Microarchitecture", "points": 45, "terms": ["soc design", "soc engineer", "soc integration", "microarchitecture", "micro-architecture", "cpu design", "cpu engineer", "gpu design", "gpu engineer"] },
+      { "family": "Verification", "points": 43, "terms": ["design verification", "verification engineer", "asic verification", "rtl verification", "formal verification", "hardware verification"] },
+      { "family": "DFT", "points": 43, "terms": ["dft engineer", "dft design", "design for test", "scan engineer", "atpg engineer"] },
+      { "family": "FPGA", "points": 40, "terms": ["fpga design", "fpga engineer", "fpga verification"] },
+      { "family": "Silicon Validation", "points": 40, "terms": ["silicon validation", "post silicon", "post-silicon", "silicon bring-up", "hardware validation", "validation engineer"] },
+      { "family": "EDA and Methodology", "points": 40, "terms": ["eda engineer", "cad engineer", "design methodology", "design automation", "flow engineer"] },
+      { "family": "Analog and Mixed Signal", "points": 40, "terms": ["analog ic", "analog design", "analog engineer", "mixed signal", "mixed-signal", "circuit design", "custom ic layout", "analog layout"] },
+      { "family": "Semiconductor Test", "points": 35, "terms": ["semiconductor test", "product engineer", "yield engineer", "reliability engineer", "test engineer", "test development engineer", "ate engineer", "failure analysis engineer"] },
+      { "family": "Firmware and Embedded", "points": 32, "terms": ["firmware engineer", "embedded firmware", "embedded systems", "embedded engineer", "hardware firmware"] },
+      { "family": "Electrical Hardware", "points": 30, "terms": ["electronics engineer", "hardware engineer", "hardware electrical", "hardware design", "electrical hardware", "electrical design", "signal integrity", "power integrity", "power electronics", "pcb design", "board design", "avionics engineer"] },
+      { "family": "Electrical Engineering", "points": 25, "terms": ["electrical engineer", "rf engineer", "microwave engineer", "controls engineer"] }
+    ],
+    "skillClusters": [
+      { "name": "RTL and digital design", "points": 6, "terms": ["systemverilog", "verilog", "rtl", "fsm", "digital logic", "microarchitecture"] },
+      { "name": "Physical implementation and timing", "points": 6, "terms": ["rtl-to-gds", "rtl to gds", "synthesis", "floorplanning", "placement", "clock tree", "cts", "routing", "static timing", "timing closure", "sdc", "parasitic extraction", "eco"] },
+      { "name": "Verification and DFT", "points": 5, "terms": ["uvm", "testbench", "functional verification", "formal verification", "cdc", "scan", "atpg", "dft"] },
+      { "name": "SoC and architecture", "points": 4, "terms": ["soc", "subsystem", "register map", "interconnect", "micro-architecture", "microarchitecture", "cpu", "gpu"] },
+      { "name": "Analog and custom circuits", "points": 5, "terms": ["mixed signal", "mixed-signal", "hspice", "virtuoso", "cmos", "transistor", "drc", "lvs", "post-layout"] },
+      { "name": "EDA and automation", "points": 4, "terms": ["innovus", "design compiler", "genus", "primetime", "python", "tcl", "linux", "eda flow"] },
+      { "name": "Validation and test", "points": 4, "terms": ["silicon validation", "bring-up", "lab debug", "oscilloscope", "logic analyzer", "product test", "yield", "reliability"] },
+      { "name": "Embedded and interfaces", "points": 4, "terms": ["embedded c", "firmware", "uart", "spi", "i2c", "rs-485", "modbus", "fpga"] }
+    ],
+    "domainClusters": [
+      { "name": "Semiconductor and silicon", "points": 8, "terms": ["semiconductor", "silicon", "asic", "soc", "vlsi", "chip", "integrated circuit", "foundry"] },
+      { "name": "Electrical and electronics", "points": 5, "terms": ["electrical", "electronics", "hardware", "circuit", "digital", "analog"] },
+      { "name": "Relevant industry", "points": 3, "terms": ["computer hardware", "eda", "aerospace", "telecommunications", "wireless", "defense"] }
+    ],
+    "earlyCareerTerms": ["new grad", "new graduate", "university graduate", "college graduate", "new college grad", "entry level", "early career", "associate engineer", "engineer i", "engineer 1", "0 years", "0-2 years", "0 to 2 years"],
+    "graduationTerms": ["2027", "january 2027", "class of 2027"]
+  },
+  "eligibility": {
+    "excludedEmploymentTerms": ["intern", "internship", "intern role", "summer intern", "co-op", "coop", "part-time", "part time", "temporary", "seasonal", "contract position", "contractor role", "apprenticeship"],
+    "seniorTerms": ["senior", "sr.", "sr ", "staff", "principal", "lead", "lead engineer", "technical leader", "mid-level", "mid level", "manager", "director", "head of", "architect"],
+    "entryTerms": ["new grad", "new graduate", "entry level", "early career", "associate", "engineer i", "engineer 1", "level i", "level 1", "university graduate", "college graduate", "0-2 years", "0 to 2 years"],
+    "unrelatedTitleTerms": ["civil engineer", "structural engineer", "geotechnical", "environmental engineer", "mechanical engineer", "chemical engineer", "biomedical engineer", "packaging engineer", "sales engineer", "community association", "installer", "warehouse", "plumbing", "hvac"],
+    "targetRescueTerms": ["asic", "rtl", "soc", "fpga", "semiconductor", "silicon", "electrical", "electronics", "hardware", "firmware", "embedded", "circuit", "vlsi", "verification", "dft", "timing", "analog", "mixed signal", "mixed-signal", "eda"],
+    "explicitNonUsTerms": ["canada", "ontario", "quebec", "british columbia", "vancouver", "toronto", "montreal", "united kingdom", "london, uk", "india", "bengaluru", "hyderabad", "germany", "france", "ireland", "australia"],
+    "usTerms": ["united states", "usa", "u.s.", "us remote", "remote - us", "remote, us"]
+  }
+}

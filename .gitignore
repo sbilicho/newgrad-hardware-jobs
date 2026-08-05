@@ -1,0 +1,5 @@
+public/
+*-preview.png
+*.tmp
+.DS_Store
+Thumbs.db
