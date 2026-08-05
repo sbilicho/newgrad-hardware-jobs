@@ -37,6 +37,10 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Synchronize latest cloud state
+        shell: bash
+        run: git pull --rebase origin "${GITHUB_REF_NAME}"
+
       - name: Run parser, scoring, and privacy tests
         if: github.event_name != 'schedule'
         shell: pwsh
