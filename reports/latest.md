@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-05 22:42:05Z UTC
+Updated: 2026-08-05 22:46:22Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 42 (Possible) | [Entry-Level Software Test Engineer](https://jobright.ai/jobs/info/6a73bcef1ce9647cdbca9fe6) | Boeing | Hazelwood, MO | 08/05/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - EA Engineering](https://jobright.ai/jobs/info/6a73b39932ebbc14ffb50a3e) | Starkey México | Eden Prairie, MN | 08/05/2026 22:05:13 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I/II - Canonsburg, PA](https://jobright.ai/jobs/info/6a73ad938dc3d52d8eda0f3d) | DT Midstream | Canonsburg, PA | 08/05/2026 16:53:00 | Sponsorship: Past Sponsorship |
 | 66 (Good) | [Digital Verification Engineer - New Grad](https://jobright.ai/jobs/info/6a18a5a754a441713ae86f12) | Ciena | Pittsford, NY | 08/05/2026 17:10:07 | Sponsorship: Past Sponsorship |
