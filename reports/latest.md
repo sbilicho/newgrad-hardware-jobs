@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-05 22:46:22Z UTC
+Updated: 2026-08-05 23:37:28Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I/II - Canonsburg, PA](https://jobright.ai/jobs/info/6a73bfd28cd88e7ccbf5a5e9) | DT Midstream | Canonsburg, PA | 08/05/2026 16:53:00 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [Post Silicon Validation Engineer](https://jobright.ai/jobs/info/6a73bffb1ce9647cdbcaa106) | Diverse Lynx | Santa Clara, CA | 08/05/2026 22:58:03 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Instrumentation & Controls Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a73b4ce1ce9647cdbca9cf8) | Sargent & Lundy | Chattanooga, TN | 08/05/2026 15:10:22 | Sponsorship: No |
 | 42 (Possible) | [Entry-Level Software Test Engineer](https://jobright.ai/jobs/info/6a73bcef1ce9647cdbca9fe6) | Boeing | Hazelwood, MO | 08/05/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - EA Engineering](https://jobright.ai/jobs/info/6a73b39932ebbc14ffb50a3e) | Starkey México | Eden Prairie, MN | 08/05/2026 22:05:13 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I/II - Canonsburg, PA](https://jobright.ai/jobs/info/6a73ad938dc3d52d8eda0f3d) | DT Midstream | Canonsburg, PA | 08/05/2026 16:53:00 | Sponsorship: Past Sponsorship |
