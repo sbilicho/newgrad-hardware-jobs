@@ -3,6 +3,7 @@ name: Refresh and publish hardware jobs
 on:
   schedule:
     - cron: "17 * * * *"
+    - cron: "47 * * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -41,24 +42,49 @@ jobs:
         shell: bash
         run: git pull --rebase origin "${GITHUB_REF_NAME}"
 
+      - name: Decide whether a cloud scan is due
+        id: cadence
+        shell: pwsh
+        run: |
+          $scanDue = $true
+          $reason = 'Manual or source-change refresh'
+          if ('${{ github.event_name }}' -eq 'schedule') {
+            $reason = 'No valid prior cloud scan timestamp'
+            $health = Get-Content -LiteralPath './health/status.json' -Raw | ConvertFrom-Json
+            $lastScan = [DateTimeOffset]::MinValue
+            if ([DateTimeOffset]::TryParse([string]$health.LastSuccessfulScanUtc, [ref]$lastScan)) {
+              $ageMinutes = ([DateTimeOffset]::UtcNow - $lastScan.ToUniversalTime()).TotalMinutes
+              if ($ageMinutes -lt 35) {
+                $scanDue = $false
+                $reason = "A healthy scan completed $([Math]::Round($ageMinutes, 1)) minutes ago"
+              }
+              else {
+                $reason = "The last healthy scan is $([Math]::Round($ageMinutes, 1)) minutes old"
+              }
+            }
+          }
+          "scan_due=$($scanDue.ToString().ToLowerInvariant())" >> $env:GITHUB_OUTPUT
+          "Refresh decision: scan_due=$scanDue; $reason" | Tee-Object -FilePath $env:GITHUB_STEP_SUMMARY -Append
+
       - name: Run parser, scoring, and privacy tests
         if: github.event_name != 'schedule'
         shell: pwsh
         run: ./tests/run_tests.ps1
 
       - name: Scan allowed job sources
+        if: steps.cadence.outputs.scan_due == 'true'
         id: scan
         continue-on-error: true
         shell: pwsh
         run: ./monitor.ps1 -Mode Scan
 
       - name: Generate sanitized public site
-        if: always()
+        if: always() && steps.cadence.outputs.scan_due == 'true'
         shell: pwsh
         run: ./generate_public_site.ps1 -OutputDirectory ./public
 
       - name: Persist monitor state
-        if: always()
+        if: always() && steps.cadence.outputs.scan_due == 'true'
         shell: bash
         run: |
           git config user.name "signalpath-job-monitor[bot]"
@@ -71,17 +97,17 @@ jobs:
           fi
 
       - name: Configure GitHub Pages
-        if: always()
+        if: always() && steps.cadence.outputs.scan_due == 'true'
         uses: actions/configure-pages@v5
 
       - name: Upload site artifact
-        if: always()
+        if: always() && steps.cadence.outputs.scan_due == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
 
       - name: Deploy public job board
-        if: always()
+        if: always() && steps.cadence.outputs.scan_due == 'true'
         id: deployment
         uses: actions/deploy-pages@v4
 

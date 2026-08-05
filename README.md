@@ -19,4 +19,4 @@ The score reflects one broad ASIC, digital, semiconductor, and electrical new-gr
 
 ## Privacy and operation
 
-The published site contains only public job details, public links, source coverage, and scan health. It does not collect analytics, accounts, resumes, emails, application data, or personal monitor state. GitHub Actions refreshes and redeploys the board at minute 17 each hour; a manual dispatch is also available.
+The published site contains only public job details, public links, source coverage, and scan health. It does not collect analytics, accounts, resumes, emails, application data, or personal monitor state. GitHub Actions checks at minutes 17 and 47. A checkpoint skips all job-site requests when a healthy scan completed within 35 minutes, so the second trigger is a no-cost fallback for a delayed or dropped primary schedule rather than a second full scan.
