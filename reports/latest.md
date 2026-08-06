@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-05 23:40:55Z UTC
+Updated: 2026-08-06 00:40:33Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Electrical Engineer (Facilities)](https://boards.greenhouse.io/spacex/jobs/8686707002?gh_jid=8686707002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 08/06/2026 00:26:19 |  |
+| 64 (Good) | [Principal Electronics Test Engineer I](https://jobright.ai/jobs/info/6a6caa09ba7efe79c2f65cbe) | CesiumAstro | Austin, TX | 08/06/2026 00:28:51 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Electrical Engineer (New Graduate)](https://jobright.ai/jobs/info/6a73cd4f8cd88e7ccbf5a84d) | Luxshare-Tech | Milpitas, CA | 08/05/2026 23:54:55 | Sponsorship: Explicit |
+| 50 (Good) | [Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential**](https://jobright.ai/jobs/info/6a28bc1a883c0d3be6543c73) | Boeing | Mascoutah, IL | 07/25/2026 13:13:20 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 58 (Good) | [Hardware Verification Engineer (Defense & Aerospace, North Reading, MA)](https://jobright.ai/jobs/info/6a73d5d532ebbc14ffb5125f) | Teradyne | North Reading, MA | 08/06/2026 00:31:17 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I/II - Canonsburg, PA](https://jobright.ai/jobs/info/6a73bfd28cd88e7ccbf5a5e9) | DT Midstream | Canonsburg, PA | 08/05/2026 16:53:00 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [Post Silicon Validation Engineer](https://jobright.ai/jobs/info/6a73bffb1ce9647cdbcaa106) | Diverse Lynx | Santa Clara, CA | 08/05/2026 22:58:03 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Instrumentation & Controls Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a73b4ce1ce9647cdbca9cf8) | Sargent & Lundy | Chattanooga, TN | 08/05/2026 15:10:22 | Sponsorship: No |
