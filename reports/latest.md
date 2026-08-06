@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-06 12:26:32Z UTC
+Updated: 2026-08-06 14:59:20Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 82 (Strong) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a6b549d57120971bf3a633c) | NVIDIA AI | Santa Clara, CA | 07/16/2026 13:41:11 | Sponsorship: Past Sponsorship |
 | 77 (Strong) | [Sr. Digital Design Electrical Engineer I](https://jobright.ai/jobs/info/6a5110faae4052672fe96890) | Axon | Sterling, VA | 08/06/2026 12:25:36 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Entry Level Hardware Engineer - Electrical/Mechanical/RF (Hybrid)](https://jobright.ai/jobs/info/6a746c1b7b3417772addfe68) | BAE Systems, Inc. | Nashua, NH | 07/23/2026 11:12:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 87 (Strong) | [Associate ASIC/FPGA Design or Verification Engineer](https://jobright.ai/jobs/info/6a74791537da8525e8cd8f7b) | Boeing | El Segundo, CA | 08/06/2026 12:07:49 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-06 12:26:32Z UTC
 | 90 (Strong) | [New College Grad - Mixed Signal Design Engineer, HBM](https://jobright.ai/jobs/info/6a23e44c6624e500cad0ccf2) | Micron Technology | Richardson, TX | 08/03/2026 16:13:58 | Sponsorship: Past Sponsorship |
 | 35 (Possible) | [New College Grad - Semiconductor Design Engineer, DRAM Products Group](https://jobright.ai/jobs/info/6a100631619335383fb30216) | Micron Technology | Boise, ID | 08/03/2026 16:34:47 | Sponsorship: Past Sponsorship |
 | 88 (Strong) | [ASIC Physical Design Engineer, Netlisting - New College Grad 2026](https://jobright.ai/jobs/info/6a108e0369bd827926aef273) | NVIDIA | Austin, TX | 08/02/2026 01:10:20 | Sponsorship: Past Sponsorship |
-| 88 (Strong) | [ASIC Physical Design Engineer, Netlisting - New College Grad 2026](https://jobright.ai/jobs/info/6a5472b3c8eb0843027aff80) | NVIDIA | Santa Clara, CA | 08/03/2026 00:23:22 | Sponsorship: Past Sponsorship |
