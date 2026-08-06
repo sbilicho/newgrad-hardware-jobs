@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-06 22:04:10Z UTC
+Updated: 2026-08-06 23:04:05Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a75066b7b3417772ade2f61) | Sargent & Lundy | Wilmington, DE | 08/06/2026 22:10:51 | Sponsorship: Past Sponsorship |
+| 55 (Good) | [EMC Test Engineer (Entry Level)](https://jobright.ai/jobs/info/6a750cc2972ac843c6998c0a) | Dice | Fremont, CA | 08/06/2026 22:37:54 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [CAD Engineer (Entry Level) Job Details \| RailWorks](https://jobright.ai/jobs/info/6a31b7f90ff23769fdb1ff3d) | RailWorks Corporation | New York, NY | 08/06/2026 14:37:20 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a74fa6bbb6ca93ae560d12a) | New York Power Authority | Massena, NY | 08/06/2026 21:19:39 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7503aa7b3417772ade2e6a) | Zachry Group | Charlotte, NC | 08/06/2026 21:59:06 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [CAD Engineer (Entry Level)](https://jobright.ai/jobs/info/6a55fd7ff7517b519ad52894) | RailWorks Corporation | New York, NY | 08/06/2026 21:37:20 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-06 22:04:10Z UTC
 | 55 (Good) | [Hardware Test Engineer - Entry Level](https://jobright.ai/jobs/info/6a6b25aec00ae03109f82521) | Foxconn Industrial Internet | Houston, TX | 07/30/2026 17:21:34 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer (Entry-Level)](https://jobright.ai/jobs/info/6a42c0226faf756060967db7) | Corbin Consulting Engineers | Tempe, AZ | 07/30/2026 17:57:49 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a52a9e5d007ee02d95f8864) | Ampirical | Duluth, GA | 07/29/2026 23:31:24 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a6b83a357120971bf3a7573) | Salas O'Brien | Greenville, SC | 07/31/2026 00:02:27 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry Level Electrical Engineer – Class of 2025/2026](https://jobright.ai/jobs/info/6a7095851003bd7b70d6b45c) | Amphenol Communications Solutions | Santa Clara, CA | 08/03/2026 20:20:05 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a35a228ce501060b5cf528e) | Butcher Power Products | Rancho Cordova, CA | 08/04/2026 18:38:36 | Sponsorship: Past Sponsorship |
