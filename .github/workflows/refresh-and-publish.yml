@@ -2,8 +2,9 @@ name: Refresh and publish hardware jobs
 
 on:
   schedule:
-    - cron: "17 * * * *"
-    - cron: "47 * * * *"
+    # Frequent checkpoints absorb GitHub scheduler delays; the cadence gate below
+    # still limits full source scans to roughly once per hour.
+    - cron: "7,17,27,37,47,57 * * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -54,7 +55,7 @@ jobs:
             $lastScan = [DateTimeOffset]::MinValue
             if ([DateTimeOffset]::TryParse([string]$health.LastSuccessfulScanUtc, [ref]$lastScan)) {
               $ageMinutes = ([DateTimeOffset]::UtcNow - $lastScan.ToUniversalTime()).TotalMinutes
-              if ($ageMinutes -lt 35) {
+              if ($ageMinutes -lt 50) {
                 $scanDue = $false
                 $reason = "A healthy scan completed $([Math]::Round($ageMinutes, 1)) minutes ago"
               }
