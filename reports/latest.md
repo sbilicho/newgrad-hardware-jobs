@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-06 10:19:22Z UTC
+Updated: 2026-08-06 12:26:32Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 77 (Strong) | [Sr. Digital Design Electrical Engineer I](https://jobright.ai/jobs/info/6a5110faae4052672fe96890) | Axon | Sterling, VA | 08/06/2026 12:25:36 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Entry Level Hardware Engineer - Electrical/Mechanical/RF (Hybrid)](https://jobright.ai/jobs/info/6a746c1b7b3417772addfe68) | BAE Systems, Inc. | Nashua, NH | 07/23/2026 11:12:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 87 (Strong) | [Associate ASIC/FPGA Design or Verification Engineer](https://jobright.ai/jobs/info/6a74791537da8525e8cd8f7b) | Boeing | El Segundo, CA | 08/06/2026 12:07:49 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 55 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6a5af40a686b4755d1e17bcd) | Texas Instruments | Santa Clara, CA | 08/06/2026 02:58:17 | Sponsorship: Not Sure |
 | 41 (Possible) | [New College Grad - DRAM Design Engineer](https://jobright.ai/jobs/info/6a509f215165966a1161a260) | Micron Technology | Boise, ID | 08/06/2026 09:07:51 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Entry-level Electrical Design Engineer](https://jobright.ai/jobs/info/69e69e989b6eb37e26f81604) | Salas O'Brien | Rochester, NY | 07/15/2026 17:03:21 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, Agoura Hills, CA) Job Details \| Teradyne](https://jobright.ai/jobs/info/6a744bccfba916306bd98f74) | Teradyne | Agoura Hills, CA | 08/06/2026 08:54:36 | Sponsorship: Past Sponsorship |
