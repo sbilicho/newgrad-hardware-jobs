@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-06 21:04:09Z UTC
+Updated: 2026-08-06 22:04:10Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a74fa6bbb6ca93ae560d12a) | New York Power Authority | Massena, NY | 08/06/2026 21:19:39 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7503aa7b3417772ade2e6a) | Zachry Group | Charlotte, NC | 08/06/2026 21:59:06 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [CAD Engineer (Entry Level)](https://jobright.ai/jobs/info/6a55fd7ff7517b519ad52894) | RailWorks Corporation | New York, NY | 08/06/2026 21:37:20 | Sponsorship: Past Sponsorship |
+| 54 (Good) | [Entry Level Reliability Engineer](https://jobright.ai/jobs/info/6a7501f2b17cba5690358d2a) | MTA, Inc. | Huntsville, AL | 08/06/2026 21:51:46 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a74ec817b3417772ade2668) | Forgent Power Solutions, Inc. | Champlin, MN | 08/06/2026 13:20:17 | Sponsorship: Not Sure |
 | 41 (Possible) | [Electrical Engineer - Entry Level Job Details \| REV Group, Inc.](https://jobright.ai/jobs/info/6a6b0efaacb0a61f9dbbe861) | REV Group, Inc | Charlotte, MI | 08/06/2026 20:09:52 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [Electrical Engineer - Substation, Entry Level](https://jobright.ai/jobs/info/6a74e9de7b3417772ade254c) | EVS, Inc. | Eden Prairie, MN | 08/06/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer - Boston, MA](https://jobright.ai/jobs/info/6a74f4c720b26a6e93f49f12) | PAE | Boston, MA | 08/06/2026 20:55:35 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-08-06 21:04:09Z UTC
 | 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a6b83a357120971bf3a7573) | Salas O'Brien | Greenville, SC | 07/31/2026 00:02:27 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry Level Electrical Engineer – Class of 2025/2026](https://jobright.ai/jobs/info/6a7095851003bd7b70d6b45c) | Amphenol Communications Solutions | Santa Clara, CA | 08/03/2026 20:20:05 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a35a228ce501060b5cf528e) | Butcher Power Products | Rancho Cordova, CA | 08/04/2026 18:38:36 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a71f0a9cb96192a3684ae95) | Paragon Energy Solutions | Fort Worth, TX | 08/04/2026 21:01:13 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer I - Aircraft Integration](https://jobright.ai/jobs/info/6a722f38ee751e0c79347595) | Tyonek Native Corp | Madison, AL | 08/05/2026 01:28:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a72616e71acd469eeda7c3e) | Laveer Engineering | Rock Hill, SC | 08/05/2026 05:02:22 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Raytheon Full-time RF/Microwave Antenna Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a72729f02d93145bf894d74) | RTX | El Segundo, CA | 08/05/2026 06:15:43 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a728e26cb96192a3684e8c9) | Latitude Inc | Manassas, VA | 08/05/2026 08:13:10 | Sponsorship: Past Sponsorship |
