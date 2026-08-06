@@ -1,9 +1,23 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-06 14:59:20Z UTC
+Updated: 2026-08-06 19:41:30Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 85 (Strong) | [Associate ASIC and/or FPGA Design and Verification Engineer](https://jobright.ai/jobs/info/6a74c95cb17cba5690357828) | Boeing | El Segundo, CA | 08/06/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 57 (Good) | [Analog IC Design Engineer](https://jobright.ai/jobs/info/6a63bf7c8d536034496041b6) | SRI | Princeton, NJ | 08/06/2026 16:16:34 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 79 (Strong) | [Graduate- Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a58d6df4da96a42cfd8d61c) | Infineon Technologies | San Jose, CA | 08/06/2026 17:27:08 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I-III](https://jobright.ai/jobs/info/6a74a8c1b17cba5690356bfc) | North Carolina Department of Agriculture and Consumer Services | Wilson, NC | 08/06/2026 15:31:13 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Electrical Engineer (Analog) or Electrical Engineer I and/or II](https://jobright.ai/jobs/info/6a74d2d3bb6ca93ae560c0df) | Custom Manufacturing & Engineering | Pinellas Park, FL | 08/06/2026 18:45:22 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [RF Engineer (Starshield)](https://boards.greenhouse.io/spacex/jobs/8676060002?gh_jid=8676060002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 08/06/2026 15:54:50 | Security clearance language is present |
+| 47 (Possible) | [Process Quality/ Validation Engineer](https://jobright.ai/jobs/info/6a74e311bb6ca93ae560c7f7) | Vetforce Solutions | Chicago, IL | 08/06/2026 19:40:01 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [Post Silicon Validation Engineer](https://jobright.ai/jobs/info/6a74af52b17cba5690356e4d) | Programmers.io | Santa Clara, CA | 08/06/2026 13:58:51 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a74c1f5972ac843c69970af) | E-ONE | Winter Park, FL | 08/06/2026 15:18:23 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a74d98537da8525e8cdaf23) | Sargent & Lundy | Phoenix, AZ | 08/06/2026 18:59:17 | Sponsorship: Past Sponsorship |
+| 54 (Good) | [Entry Level Spacecraft Integration and Test Engineer - Millennium Space Systems](https://jobright.ai/jobs/info/6a74c96837da8525e8cda8e6) | Boeing | El Segundo, CA | 08/06/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 55 (Good) | [EMC Test Engineer (Entry Level)](https://jobright.ai/jobs/info/6a74d935972ac843c699788c) | Yoh, A Day & Zimmermann Company | Fremont, CA | 08/06/2026 18:57:57 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Controls & Electrical Engineer I](https://jobright.ai/jobs/info/6a74d1ac20b26a6e93f48ff3) | Cytiva | Hauppauge, NY | 08/06/2026 11:25:48 | Sponsorship: Past Sponsorship |
+| 76 (Strong) | [ASIC Design Verification Engineer, Google Cloud](https://jobright.ai/jobs/info/6a74d350b17cba5690357aee) | Google | Sunnyvale, CA | 08/06/2026 11:32:48 | Sponsorship: Past Sponsorship |
 | 82 (Strong) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a6b549d57120971bf3a633c) | NVIDIA AI | Santa Clara, CA | 07/16/2026 13:41:11 | Sponsorship: Past Sponsorship |
 | 77 (Strong) | [Sr. Digital Design Electrical Engineer I](https://jobright.ai/jobs/info/6a5110faae4052672fe96890) | Axon | Sterling, VA | 08/06/2026 12:25:36 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Entry Level Hardware Engineer - Electrical/Mechanical/RF (Hybrid)](https://jobright.ai/jobs/info/6a746c1b7b3417772addfe68) | BAE Systems, Inc. | Nashua, NH | 07/23/2026 11:12:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -90,17 +104,3 @@ Updated: 2026-08-06 14:59:20Z UTC
 | 81 (Strong) | [Full Time Raytheon 2026 - Digital ASIC/FPGA Design Electrical Engineer I](https://jobright.ai/jobs/info/6a71afb0e2b7476e7b20f030) | Raytheon | McKinney, TX | 08/04/2026 16:24:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Entry-Level Reliability Engineer (5866)](https://jobright.ai/jobs/info/6a7054b6d4735b7dbbccddb2) | Three Saints Bay, LLC | United States | 08/03/2026 15:43:34 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Component Test Engineer (entry-level)](https://jobright.ai/jobs/info/69a9f4a29ca4e908ec653efa) | Blue Water Autonomy Inc. | Lexington, MA | 08/02/2026 18:07:21 | Sponsorship: Past Sponsorship |
-| 32 (Possible) | [GPU Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a68fd8236d36c1ff29977ba) | NVIDIA | Westford, MA | 07/29/2026 02:05:37 | Sponsorship: Past Sponsorship |
-| 82 (Strong) | [ASIC Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a543f2b8576ec69c01527fc) | NVIDIA | Austin, TX | 08/04/2026 00:19:34 | Sponsorship: Past Sponsorship |
-| 82 (Strong) | [Associate ASIC/FPGA Design or Verification Engineer](https://jobright.ai/jobs/info/6a722b1171acd469eeda657d) | Boeing | El Segundo, CA | 08/05/2026 01:10:25 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 88 (Strong) | [ASIC Design Verification Engineer](https://jobright.ai/jobs/info/6a72871345b6af1c30dbf128) | Qualcomm | Santa Clara, CA | 08/05/2026 07:42:59 | Sponsorship: Past Sponsorship |
-| 33 (Possible) | [New College Grad - Memory Design Engineer, HBM](https://jobright.ai/jobs/info/6a57c19e21f64463ad35bd44) | Micron Technology | Richardson, TX | 08/03/2026 16:02:30 | Sponsorship: Past Sponsorship |
-| 33 (Possible) | [New College Grad - Memory Design Engineer, HBM](https://jobright.ai/jobs/info/6a110cf069bd827926af219d) | Micron Technology | Richardson, TX | 08/03/2026 16:52:20 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential**](https://jobright.ai/jobs/info/6a7208b045b6af1c30dbc1d0) | Boeing | Berkeley, MO | 08/04/2026 22:43:44 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 86 (Strong) | [SoC Design Verification Engineer (2026 New College Graduate)](https://jobright.ai/jobs/info/6a5e7ee3f29acc1a11747d09) | GlobalFoundries | Richardson, TX | 08/04/2026 09:57:59 | Sponsorship: Past Sponsorship |
-| 36 (Possible) | [New College Grad - Design Engineer, DRAM Technology and Products](https://jobright.ai/jobs/info/6a5dba34856af468ab012110) | Micron Technology | Boise, ID | 08/01/2026 16:01:50 | Sponsorship: Past Sponsorship |
-| 80 (Strong) | [Digital Design Engineer - New College Grad](https://jobright.ai/jobs/info/6a5a4ff14da96a42cfd9526f) | Rambus | San Jose, CA | 07/31/2026 23:37:45 | Sponsorship: Past Sponsorship |
-| 33 (Possible) | [New College Grad - Memory Design Engineer, HBM](https://jobright.ai/jobs/info/69a1e083359fe034b1cd27b7) | Micron Technology | Richardson, TX | 08/03/2026 16:02:30 | Sponsorship: Past Sponsorship |
-| 90 (Strong) | [New College Grad - Mixed Signal Design Engineer, HBM](https://jobright.ai/jobs/info/6a23e44c6624e500cad0ccf2) | Micron Technology | Richardson, TX | 08/03/2026 16:13:58 | Sponsorship: Past Sponsorship |
-| 35 (Possible) | [New College Grad - Semiconductor Design Engineer, DRAM Products Group](https://jobright.ai/jobs/info/6a100631619335383fb30216) | Micron Technology | Boise, ID | 08/03/2026 16:34:47 | Sponsorship: Past Sponsorship |
-| 88 (Strong) | [ASIC Physical Design Engineer, Netlisting - New College Grad 2026](https://jobright.ai/jobs/info/6a108e0369bd827926aef273) | NVIDIA | Austin, TX | 08/02/2026 01:10:20 | Sponsorship: Past Sponsorship |
