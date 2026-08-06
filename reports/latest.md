@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-06 00:40:33Z UTC
+Updated: 2026-08-06 01:32:24Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a564fcb10c4d945d8648ce5) | Affiliated Engineers, Inc. | Detroit, MI | 08/05/2026 23:32:40 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer (Facilities)](https://boards.greenhouse.io/spacex/jobs/8686707002?gh_jid=8686707002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 08/06/2026 00:26:19 |  |
 | 64 (Good) | [Principal Electronics Test Engineer I](https://jobright.ai/jobs/info/6a6caa09ba7efe79c2f65cbe) | CesiumAstro | Austin, TX | 08/06/2026 00:28:51 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electrical Engineer (New Graduate)](https://jobright.ai/jobs/info/6a73cd4f8cd88e7ccbf5a84d) | Luxshare-Tech | Milpitas, CA | 08/05/2026 23:54:55 | Sponsorship: Explicit |
