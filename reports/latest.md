@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-06 07:38:21Z UTC
+Updated: 2026-08-06 10:19:22Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [New College Grad - DRAM Design Engineer](https://jobright.ai/jobs/info/6a509f215165966a1161a260) | Micron Technology | Boise, ID | 08/06/2026 09:07:51 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Entry-level Electrical Design Engineer](https://jobright.ai/jobs/info/69e69e989b6eb37e26f81604) | Salas O'Brien | Rochester, NY | 07/15/2026 17:03:21 | Sponsorship: Past Sponsorship |
+| 59 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, Agoura Hills, CA) Job Details \| Teradyne](https://jobright.ai/jobs/info/6a744bccfba916306bd98f74) | Teradyne | Agoura Hills, CA | 08/06/2026 08:54:36 | Sponsorship: Past Sponsorship |
+| 82 (Strong) | [ASIC Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a58ada23ac7627fe9ffa267) | NVIDIA | Santa Clara, CA | 07/07/2026 10:07:51 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7424aa972ac843c6994ad5) | Affiliated Engineers, Inc. | Phoenix, AZ | 08/06/2026 06:07:38 | Sponsorship: Past Sponsorship |
 | 85 (Strong) | [Associate ASIC/FPGA Design or Verification Engineer](https://jobright.ai/jobs/info/6a72ed805049141ad172bdd2) | Boeing | El Segundo, CA | 08/04/2026 16:59:32 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7426227b3417772addf2cb) | ByteDance | San Jose, CA | 08/06/2026 06:13:54 | Sponsorship: Past Sponsorship |
