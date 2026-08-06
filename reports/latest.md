@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-06 05:49:08Z UTC
+Updated: 2026-08-06 07:38:21Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7424aa972ac843c6994ad5) | Affiliated Engineers, Inc. | Phoenix, AZ | 08/06/2026 06:07:38 | Sponsorship: Past Sponsorship |
+| 85 (Strong) | [Associate ASIC/FPGA Design or Verification Engineer](https://jobright.ai/jobs/info/6a72ed805049141ad172bdd2) | Boeing | El Segundo, CA | 08/04/2026 16:59:32 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7426227b3417772addf2cb) | ByteDance | San Jose, CA | 08/06/2026 06:13:54 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a564fcb10c4d945d8648ce5) | Affiliated Engineers, Inc. | Detroit, MI | 08/05/2026 23:32:40 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer (Facilities)](https://boards.greenhouse.io/spacex/jobs/8686707002?gh_jid=8686707002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 08/06/2026 00:26:19 |  |
 | 64 (Good) | [Principal Electronics Test Engineer I](https://jobright.ai/jobs/info/6a6caa09ba7efe79c2f65cbe) | CesiumAstro | Austin, TX | 08/06/2026 00:28:51 | Sponsorship: Past Sponsorship |
