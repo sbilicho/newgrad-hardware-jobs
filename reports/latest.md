@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-06 19:41:30Z UTC
+Updated: 2026-08-06 21:04:09Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer - Entry Level Job Details \| REV Group, Inc.](https://jobright.ai/jobs/info/6a6b0efaacb0a61f9dbbe861) | REV Group, Inc | Charlotte, MI | 08/06/2026 20:09:52 | Sponsorship: Past Sponsorship |
+| 43 (Possible) | [Electrical Engineer - Substation, Entry Level](https://jobright.ai/jobs/info/6a74e9de7b3417772ade254c) | EVS, Inc. | Eden Prairie, MN | 08/06/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer - Boston, MA](https://jobright.ai/jobs/info/6a74f4c720b26a6e93f49f12) | PAE | Boston, MA | 08/06/2026 20:55:35 | Sponsorship: Past Sponsorship |
 | 85 (Strong) | [Associate ASIC and/or FPGA Design and Verification Engineer](https://jobright.ai/jobs/info/6a74c95cb17cba5690357828) | Boeing | El Segundo, CA | 08/06/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 57 (Good) | [Analog IC Design Engineer](https://jobright.ai/jobs/info/6a63bf7c8d536034496041b6) | SRI | Princeton, NJ | 08/06/2026 16:16:34 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Graduate- Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a58d6df4da96a42cfd8d61c) | Infineon Technologies | San Jose, CA | 08/06/2026 17:27:08 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-06 19:41:30Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a72616e71acd469eeda7c3e) | Laveer Engineering | Rock Hill, SC | 08/05/2026 05:02:22 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Raytheon Full-time RF/Microwave Antenna Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a72729f02d93145bf894d74) | RTX | El Segundo, CA | 08/05/2026 06:15:43 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a728e26cb96192a3684e8c9) | Latitude Inc | Manassas, VA | 08/05/2026 08:13:10 | Sponsorship: Past Sponsorship |
-| 81 (Strong) | [Full Time Raytheon 2026 - Digital ASIC/FPGA Design Electrical Engineer I](https://jobright.ai/jobs/info/6a71afb0e2b7476e7b20f030) | Raytheon | McKinney, TX | 08/04/2026 16:24:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Entry-Level Reliability Engineer (5866)](https://jobright.ai/jobs/info/6a7054b6d4735b7dbbccddb2) | Three Saints Bay, LLC | United States | 08/03/2026 15:43:34 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Component Test Engineer (entry-level)](https://jobright.ai/jobs/info/69a9f4a29ca4e908ec653efa) | Blue Water Autonomy Inc. | Lexington, MA | 08/02/2026 18:07:21 | Sponsorship: Past Sponsorship |
