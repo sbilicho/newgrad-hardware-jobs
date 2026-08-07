@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-07 22:34:05Z UTC
+Updated: 2026-08-07 23:33:21Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 72 (Strong) | [Post Silicon Validation Engineer](https://jobright.ai/jobs/info/6a7667e0bb6ca93ae561287b) | MPower Plus | Santa Clara, CA | 08/07/2026 23:18:56 | Sponsorship: Past Sponsorship |
 | 81 (Strong) | [Associate Firmware Engineer](https://job-boards.greenhouse.io/ionq/jobs/6096581004) | IonQ | Pleasanton, California, United States | 08/07/2026 21:08:48 | Full-time status is inferred from the first-party posting |
 | 54 (Good) | [Electronics Engineer I](https://jobright.ai/jobs/info/6a764c98b17cba569035da67) | Freedom Electronics | Kennesaw, GA | 08/07/2026 15:32:36 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a58d3d94da96a42cfd8d461) | Sparton | De Leon Springs, FL | 08/07/2026 19:32:37 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-07 22:34:05Z UTC
 | 41 (Possible) | [Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5203392007?gh_jid=5203392007) | Anduril Industries | Irvine, California, United States | 08/04/2026 17:37:51 | Security clearance language is present |
 | 62 (Good) | [Early Career Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) | Anduril Industries | Costa Mesa, California, United States | 08/02/2026 12:52:40 |  |
 | 53 (Good) | [Power Electronics Engineer - High Voltage (Starlink)](https://boards.greenhouse.io/spacex/jobs/8635943002?gh_jid=8635943002) | SpaceX | Redmond, WA; Redmond, WA, United States | 07/30/2026 16:40:12 |  |
-| 44 (Possible) | [Electrical Engineer, Facilities (Starlink)](https://boards.greenhouse.io/spacex/jobs/8649939002?gh_jid=8649939002) | SpaceX | Redmond, WA; Redmond, WA, United States | 07/30/2026 00:48:57 |  |
