@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-07 15:40:34Z UTC
+Updated: 2026-08-07 16:37:21Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 38 (Possible) | [Electronic Engineer I](https://jobright.ai/jobs/info/6a30a010524fd5657fe11baf) | Advanced Energy | Fort Collins, CO | 08/07/2026 16:19:34 | Sponsorship: Past Sponsorship |
+| 96 (Strong) | [Digital Design Engineer I](https://jobright.ai/jobs/info/6a75e166bb6ca93ae560fb32) | Silicon Labs | Austin, TX | 08/07/2026 15:48:19 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6a743ac3972ac843c6994fcd) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 08/06/2026 07:41:55 | Sponsorship: Past Sponsorship |
 | 64 (Good) | [Principal Electronics Test Engineer I](https://jobright.ai/jobs/info/6a75f54767a1ad0bc53c7f90) | CesiumAstro | Austin, TX | 08/07/2026 15:09:59 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Instrumentation and Controls Engineer I (Operations)](https://jobright.ai/jobs/info/6a3c540e882f121f56a345ad) | Relativity Space | John C. Stennis Space Center, MS | 08/07/2026 06:41:01 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-08-07 15:40:34Z UTC
 | 42 (Possible) | [Entry-level Electrical Design Engineer](https://jobright.ai/jobs/info/6a0847f2939a5f01db957a07) | Haag, a Salas O'Brien Company | Rochester, NY | 08/05/2026 18:39:45 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Substation Electrical Engineer (Entry-Level)](https://jobright.ai/jobs/info/6a4e77d70ea38951a6ff33e0) | M&S Engineering | Spring Branch, TX | 08/05/2026 20:16:24 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Entry Level Electrical Engineer (Hybrid)](https://jobright.ai/jobs/info/6a72dbf9adfe134034cca1fe) | BAE Systems | Fort Wayne, IN | 08/05/2026 13:45:13 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I - Utility-Scale Solar + BESS](https://jobright.ai/jobs/info/6a731f67e55c73319eb158db) | Castillo Engineering | United States | 08/05/2026 18:32:55 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a731e0e8cd88e7ccbf56b94) | Laveer Engineering | Rock Hill, SC | 08/05/2026 18:27:10 | Sponsorship: Past Sponsorship |
