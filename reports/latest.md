@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-07 14:42:51Z UTC
+Updated: 2026-08-07 15:40:34Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6a743ac3972ac843c6994fcd) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 08/06/2026 07:41:55 | Sponsorship: Past Sponsorship |
+| 64 (Good) | [Principal Electronics Test Engineer I](https://jobright.ai/jobs/info/6a75f54767a1ad0bc53c7f90) | CesiumAstro | Austin, TX | 08/07/2026 15:09:59 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Instrumentation and Controls Engineer I (Operations)](https://jobright.ai/jobs/info/6a3c540e882f121f56a345ad) | Relativity Space | John C. Stennis Space Center, MS | 08/07/2026 06:41:01 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer in Training I](https://jobright.ai/jobs/info/6a58f3f7856af468ab000ec8) | EwingCole | Irvine, CA | 08/07/2026 11:43:27 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a75e5c27b3417772ade5815) | Paragon Energy Solutions | Fort Worth, TX | 08/07/2026 14:03:46 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a75e43967a1ad0bc53c7871) | Sargent & Lundy | Wilmington, DE | 08/07/2026 09:20:07 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-07 14:42:51Z UTC
 | 44 (Possible) | [Entry Level Electrical Engineer (Hybrid)](https://jobright.ai/jobs/info/6a72dbf9adfe134034cca1fe) | BAE Systems | Fort Wayne, IN | 08/05/2026 13:45:13 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - Utility-Scale Solar + BESS](https://jobright.ai/jobs/info/6a731f67e55c73319eb158db) | Castillo Engineering | United States | 08/05/2026 18:32:55 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a731e0e8cd88e7ccbf56b94) | Laveer Engineering | Rock Hill, SC | 08/05/2026 18:27:10 | Sponsorship: Past Sponsorship |
-| 43 (Possible) | [Electrical Engineer I (62709)](https://jobright.ai/jobs/info/6a4e639c397d8d353c288ab8) | NEI Electric Power Engineering, Inc. | Lakewood, CO | 08/05/2026 23:54:54 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a737e676a034212ea027e13) | Affiliated Engineers, Inc. | Phoenix, AZ | 08/06/2026 01:18:15 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I - Denver, CO](https://jobright.ai/jobs/info/6a738d6c1ce9647cdbca8dba) | CONMED Corporation | Denver, CO | 08/06/2026 02:22:20 | Sponsorship: Past Sponsorship |
