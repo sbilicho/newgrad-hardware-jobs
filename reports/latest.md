@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-07 20:34:16Z UTC
+Updated: 2026-08-07 21:34:31Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 81 (Strong) | [Associate Firmware Engineer](https://job-boards.greenhouse.io/ionq/jobs/6096581004) | IonQ | Pleasanton, California, United States | 08/07/2026 21:08:48 | Full-time status is inferred from the first-party posting |
+| 54 (Good) | [Electronics Engineer I](https://jobright.ai/jobs/info/6a764c98b17cba569035da67) | Freedom Electronics | Kennesaw, GA | 08/07/2026 15:32:36 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a58d3d94da96a42cfd8d461) | Sparton | De Leon Springs, FL | 08/07/2026 19:32:37 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 69 (Good) | [CMOS Mixed-Signal Circuit Design Engineer](https://jobright.ai/jobs/info/6a526f77e726ec56126a3046) | Analog Bits | Sunnyvale, CA | 08/07/2026 18:44:58 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a760b514817aa43070465f3) | Amrize | Midlothian, TX | 08/07/2026 19:22:09 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [I&C Hardware Engineer Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a5c57d74da96a42cfd9c632) | Westinghouse Electric Company | Windsor, CT | 08/07/2026 10:34:31 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-07 20:34:16Z UTC
 | 62 (Good) | [Early Career Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) | Anduril Industries | Costa Mesa, California, United States | 08/02/2026 12:52:40 |  |
 | 53 (Good) | [Power Electronics Engineer - High Voltage (Starlink)](https://boards.greenhouse.io/spacex/jobs/8635943002?gh_jid=8635943002) | SpaceX | Redmond, WA; Redmond, WA, United States | 07/30/2026 16:40:12 |  |
 | 44 (Possible) | [Electrical Engineer, Facilities (Starlink)](https://boards.greenhouse.io/spacex/jobs/8649939002?gh_jid=8649939002) | SpaceX | Redmond, WA; Redmond, WA, United States | 07/30/2026 00:48:57 |  |
-| 47 (Possible) | [Entry Level Validation Engineer](https://jobright.ai/jobs/info/6a6e74da41b41d325296b813) | Dice | Columbus, OH | 08/01/2026 22:36:10 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Entry Level Validation Engineer](https://jobright.ai/jobs/info/6a6a24b548355b3f12bef3dc) | CAI | Columbus, OH | 07/29/2026 16:05:09 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Entry Level Validation Engineer](https://jobright.ai/jobs/info/6a6ab58cca1f9338465f5dc2) | CAI | Columbus, OH | 07/29/2026 10:10:31 | Sponsorship: Past Sponsorship |
