@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-07 09:19:30Z UTC
+Updated: 2026-08-07 10:26:29Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I Job Details \| Freeport McMoRan](https://jobright.ai/jobs/info/6a759db27b3417772ade4c68) | Freeport-McMoRan | Safford, AZ | 08/07/2026 01:56:18 | Sponsorship: Not Sure |
+| 72 (Strong) | [Hardware Engineer](https://jobright.ai/jobs/info/6a6cc5e65c54bc4752cef205) | WD | San Jose, CA; Colorado Springs, CO; Irvine, CA; Longmont, CO; Fremont, CA; Rochester, MN | 08/07/2026 02:20:18 | Sponsorship: Not Sure |
 | 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a75863e7b3417772ade4922) | ByteDance | San Jose, CA | 08/06/2026 05:19:38 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [ASIC Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a756b33bb6ca93ae560e8e4) | NVIDIA | Santa Clara, CA | 07/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Computer/Electrical Engineer I](https://jobright.ai/jobs/info/6a304bf989f8f147d3734a56) | TSC | Bloomington, IN | 08/06/2026 22:21:11 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-07 09:19:30Z UTC
 | 72 (Strong) | [Post Silicon Validation Engineer](https://jobright.ai/jobs/info/6a7357a2e55c73319eb16a2e) | MPower Plus | Santa Clara County, California | 08/05/2026 22:32:50 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Hardware Verification Engineer (Solon)](https://jobright.ai/jobs/info/6a5676c7e9b77f668bd63811) | Tektronix | Solon, OH | 08/05/2026 18:51:56 | Sponsorship: Past Sponsorship |
 | 61 (Good) | [Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a50dadc6a85fe03ca856138) | NVIDIA | Santa Clara, CA | 08/01/2026 00:23:49 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [New College Grad - Design Engineer, HBM](https://jobright.ai/jobs/info/6a554c3ef2c46727285f1334) | Micron Technology | Richardson, TX | 08/05/2026 16:08:16 | Sponsorship: Past Sponsorship |
-| 67 (Good) | [Firmware Engineer](https://jobright.ai/jobs/info/6a73830f6a034212ea028003) | This is CNY | Syracuse, NY | 08/05/2026 11:38:07 | Sponsorship: No |
