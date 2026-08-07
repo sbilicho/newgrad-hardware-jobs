@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-07 18:28:43Z UTC
+Updated: 2026-08-07 19:34:29Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a760b514817aa43070465f3) | Amrize | Midlothian, TX | 08/07/2026 19:22:09 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [I&C Hardware Engineer Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a5c57d74da96a42cfd9c632) | Westinghouse Electric Company | Windsor, CT | 08/07/2026 10:34:31 | Sponsorship: Past Sponsorship |
 | 86 (Strong) | [Low Power ASIC Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a540bc0e726ec56126a8e3e) | NVIDIA | Santa Clara, CA | 08/07/2026 17:36:10 | Sponsorship: Past Sponsorship |
 | 84 (Strong) | [FPGA Engineer I, Entry Level](https://jobright.ai/jobs/info/6a762295a26ccc369f833e33) | Muon Space | San Jose, CA | 08/07/2026 18:23:17 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-07 18:28:43Z UTC
 | 47 (Possible) | [Entry Level Validation Engineer](https://jobright.ai/jobs/info/6a6a24b548355b3f12bef3dc) | CAI | Columbus, OH | 07/29/2026 16:05:09 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Entry Level Validation Engineer](https://jobright.ai/jobs/info/6a6ab58cca1f9338465f5dc2) | CAI | Columbus, OH | 07/29/2026 10:10:31 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Entry Level Validation Engineer](https://jobright.ai/jobs/info/6a6a2bf38693c23e7fb79265) | CAI | Columbus, OH | 07/29/2026 16:36:03 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I - Denver, CO](https://jobright.ai/jobs/info/6a739fd432ebbc14ffb502ad) | CONMED Corporation | Greenwood Village, CO | 08/05/2026 13:40:52 | Sponsorship: No |
