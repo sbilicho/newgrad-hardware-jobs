@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-07 17:33:57Z UTC
+Updated: 2026-08-07 18:28:43Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 42 (Possible) | [I&C Hardware Engineer Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a5c57d74da96a42cfd9c632) | Westinghouse Electric Company | Windsor, CT | 08/07/2026 10:34:31 | Sponsorship: Past Sponsorship |
+| 86 (Strong) | [Low Power ASIC Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a540bc0e726ec56126a8e3e) | NVIDIA | Santa Clara, CA | 08/07/2026 17:36:10 | Sponsorship: Past Sponsorship |
+| 84 (Strong) | [FPGA Engineer I, Entry Level](https://jobright.ai/jobs/info/6a762295a26ccc369f833e33) | Muon Space | San Jose, CA | 08/07/2026 18:23:17 | Sponsorship: Past Sponsorship |
 | 38 (Possible) | [Electronic Engineer I](https://jobright.ai/jobs/info/6a30a010524fd5657fe11baf) | Advanced Energy | Fort Collins, CO | 08/07/2026 16:19:34 | Sponsorship: Past Sponsorship |
 | 96 (Strong) | [Digital Design Engineer I](https://jobright.ai/jobs/info/6a75e166bb6ca93ae560fb32) | Silicon Labs | Austin, TX | 08/07/2026 15:48:19 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6a743ac3972ac843c6994fcd) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 08/06/2026 07:41:55 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-07 17:33:57Z UTC
 | 47 (Possible) | [Entry Level Validation Engineer](https://jobright.ai/jobs/info/6a6ab58cca1f9338465f5dc2) | CAI | Columbus, OH | 07/29/2026 10:10:31 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Entry Level Validation Engineer](https://jobright.ai/jobs/info/6a6a2bf38693c23e7fb79265) | CAI | Columbus, OH | 07/29/2026 16:36:03 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - Denver, CO](https://jobright.ai/jobs/info/6a739fd432ebbc14ffb502ad) | CONMED Corporation | Greenwood Village, CO | 08/05/2026 13:40:52 | Sponsorship: No |
-| 42 (Possible) | [Entry-level Electrical Design Engineer](https://jobright.ai/jobs/info/6a0847f2939a5f01db957a07) | Haag, a Salas O'Brien Company | Rochester, NY | 08/05/2026 18:39:45 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Substation Electrical Engineer (Entry-Level)](https://jobright.ai/jobs/info/6a4e77d70ea38951a6ff33e0) | M&S Engineering | Spring Branch, TX | 08/05/2026 20:16:24 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Entry Level Electrical Engineer (Hybrid)](https://jobright.ai/jobs/info/6a72dbf9adfe134034cca1fe) | BAE Systems | Fort Wayne, IN | 08/05/2026 13:45:13 | Sponsorship: Past Sponsorship |
