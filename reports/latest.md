@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-07 03:38:11Z UTC
+Updated: 2026-08-07 05:25:50Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 89 (Strong) | [ASIC Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a756b33bb6ca93ae560e8e4) | NVIDIA | Santa Clara, CA | 07/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Computer/Electrical Engineer I](https://jobright.ai/jobs/info/6a304bf989f8f147d3734a56) | TSC | Bloomington, IN | 08/06/2026 22:21:11 | Sponsorship: Past Sponsorship |
 | 80 (Strong) | [ASIC Design Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a58be2a686b4755d1e0c0d2) | NVIDIA | Austin, TX | 07/24/2026 15:08:44 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial (Summer 2027)](https://jobright.ai/jobs/info/6a751560bb6ca93ae560db70) | Sargent & Lundy | Chicago, IL | 08/06/2026 23:14:40 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-07 03:38:11Z UTC
 | 37 (Possible) | [New College Grad - Design Engineer, HBM](https://jobright.ai/jobs/info/6a554c3ef2c46727285f1334) | Micron Technology | Richardson, TX | 08/05/2026 16:08:16 | Sponsorship: Past Sponsorship |
 | 67 (Good) | [Firmware Engineer](https://jobright.ai/jobs/info/6a73830f6a034212ea028003) | This is CNY | Syracuse, NY | 08/05/2026 11:38:07 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a5683d4e9b77f668bd63e9d) | Zero Zone | Ramsey, MN; North Prairie, WI; Dyersville, IA | 08/05/2026 11:48:57 | Sponsorship: Not Sure |
-| 45 (Possible) | [Electrical Engineer I - NPD](https://jobright.ai/jobs/info/6a5b306a686b4755d1e18dcc) | Milwaukee Tool | Brookfield, WI | 08/04/2026 16:23:15 | Sponsorship: Past Sponsorship |
