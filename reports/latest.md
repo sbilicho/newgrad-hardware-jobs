@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-07 13:43:40Z UTC
+Updated: 2026-08-07 14:42:51Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer in Training I](https://jobright.ai/jobs/info/6a58f3f7856af468ab000ec8) | EwingCole | Irvine, CA | 08/07/2026 11:43:27 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a75e5c27b3417772ade5815) | Paragon Energy Solutions | Fort Worth, TX | 08/07/2026 14:03:46 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a75e43967a1ad0bc53c7871) | Sargent & Lundy | Wilmington, DE | 08/07/2026 09:20:07 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Manufacturing Test Engineer](https://jobright.ai/jobs/info/6a75dd26b17cba569035b478) | Kipp & Zonen | Austin, TX | 08/07/2026 06:27:02 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer I Job Details \| Freeport McMoRan](https://jobright.ai/jobs/info/6a759db27b3417772ade4c68) | Freeport-McMoRan | Safford, AZ | 08/07/2026 01:56:18 | Sponsorship: Not Sure |
 | 72 (Strong) | [Hardware Engineer](https://jobright.ai/jobs/info/6a6cc5e65c54bc4752cef205) | WD | San Jose, CA; Colorado Springs, CO; Irvine, CA; Longmont, CO; Fremont, CA; Rochester, MN | 08/07/2026 02:20:18 | Sponsorship: Not Sure |
 | 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a75863e7b3417772ade4922) | ByteDance | San Jose, CA | 08/06/2026 05:19:38 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-08-07 13:43:40Z UTC
 | 43 (Possible) | [Electrical Engineer I (62709)](https://jobright.ai/jobs/info/6a4e639c397d8d353c288ab8) | NEI Electric Power Engineering, Inc. | Lakewood, CO | 08/05/2026 23:54:54 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a737e676a034212ea027e13) | Affiliated Engineers, Inc. | Phoenix, AZ | 08/06/2026 01:18:15 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - Denver, CO](https://jobright.ai/jobs/info/6a738d6c1ce9647cdbca8dba) | CONMED Corporation | Denver, CO | 08/06/2026 02:22:20 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a738f418dc3d52d8eda02ef) | Pond & Company | Peachtree Corners, GA | 08/06/2026 02:47:44 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [Post Silicon Validation Engineer](https://jobright.ai/jobs/info/6a7357a2e55c73319eb16a2e) | MPower Plus | Santa Clara County, California | 08/05/2026 22:32:50 | Sponsorship: Past Sponsorship |
-| 62 (Good) | [Hardware Verification Engineer (Solon)](https://jobright.ai/jobs/info/6a5676c7e9b77f668bd63811) | Tektronix | Solon, OH | 08/05/2026 18:51:56 | Sponsorship: Past Sponsorship |
-| 61 (Good) | [Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a50dadc6a85fe03ca856138) | NVIDIA | Santa Clara, CA | 08/01/2026 00:23:49 | Sponsorship: Past Sponsorship |
