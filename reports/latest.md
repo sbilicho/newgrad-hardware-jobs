@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-06 23:04:05Z UTC
+Updated: 2026-08-07 00:04:07Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial (Summer 2027)](https://jobright.ai/jobs/info/6a751560bb6ca93ae560db70) | Sargent & Lundy | Chicago, IL | 08/06/2026 23:14:40 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a6901c936d36c1ff2997918) | TSC | Bloomington, IN | 08/06/2026 22:21:11 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a75156bb17cba569035950b) | Sargent & Lundy | Chicago, IL | 08/06/2026 23:14:51 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a75066b7b3417772ade2f61) | Sargent & Lundy | Wilmington, DE | 08/06/2026 22:10:51 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [EMC Test Engineer (Entry Level)](https://jobright.ai/jobs/info/6a750cc2972ac843c6998c0a) | Dice | Fremont, CA | 08/06/2026 22:37:54 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [CAD Engineer (Entry Level) Job Details \| RailWorks](https://jobright.ai/jobs/info/6a31b7f90ff23769fdb1ff3d) | RailWorks Corporation | New York, NY | 08/06/2026 14:37:20 | Sponsorship: Not Sure |
@@ -101,6 +104,3 @@ Updated: 2026-08-06 23:04:05Z UTC
 | 45 (Possible) | [Electrical Engineer I - NPD](https://jobright.ai/jobs/info/6a5b306a686b4755d1e18dcc) | Milwaukee Tool | Brookfield, WI | 08/04/2026 16:23:15 | Sponsorship: Past Sponsorship |
 | 33 (Possible) | [New College Grad - Device Engineer, DRAM](https://jobright.ai/jobs/info/6a72128e02d93145bf89258a) | Micron Technology | Boise, ID | 08/04/2026 23:25:50 | Sponsorship: Past Sponsorship |
 | 56 (Good) | [Entry Level Embedded Engineer](https://jobright.ai/jobs/info/6a4e763f0ea38951a6ff3336) | DMC Engineering | Chicago, IL | 07/30/2026 18:51:23 | Sponsorship: Past Sponsorship |
-| 55 (Good) | [Hardware Test Engineer - Entry Level](https://jobright.ai/jobs/info/6a6b25aec00ae03109f82521) | Foxconn Industrial Internet | Houston, TX | 07/30/2026 17:21:34 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer (Entry-Level)](https://jobright.ai/jobs/info/6a42c0226faf756060967db7) | Corbin Consulting Engineers | Tempe, AZ | 07/30/2026 17:57:49 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a52a9e5d007ee02d95f8864) | Ampirical | Duluth, GA | 07/29/2026 23:31:24 | Sponsorship: Past Sponsorship |
