@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-08 21:16:38Z UTC
+Updated: 2026-08-08 22:28:09Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 88 (Strong) | [Senior Engineer I - Physical Design](https://jobright.ai/jobs/info/6994fcc2e0bddb6acac382cb) | Microchip Technology Inc. | Chandler, AZ | 08/08/2026 13:07:27 | Sponsorship: Past Sponsorship |
 | 78 (Strong) | [Design Verification Engineer - Early Career](https://jobright.ai/jobs/info/6a52b2068a74e077472f5ac7) | Marvell Technology | Irvine, CA; Santa Clara, CA | 08/08/2026 11:19:48 | Sponsorship: No |
 | 51 (Good) | [Junior Product Engineer](https://jobright.ai/jobs/info/6a640c788d53603449605740) | Amphenol Industrial Operations | Mesa, AZ | 08/08/2026 12:23:33 | Sponsorship: Not Sure |
 | 82 (Strong) | [Design Verification Engineer - Early Career](https://jobright.ai/jobs/info/6a1a60ee2b206f3955eb44fb) | Marvell Technology | Irvine, CA; Santa Clara, CA | 08/08/2026 11:19:48 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-08 21:16:38Z UTC
 | 42 (Possible) | [Entry-Level Software Test Engineer](https://jobright.ai/jobs/info/6a73bcef1ce9647cdbca9fe6) | Boeing | Hazelwood, MO | 08/05/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - EA Engineering](https://jobright.ai/jobs/info/6a73b39932ebbc14ffb50a3e) | Starkey México | Eden Prairie, MN | 08/05/2026 22:05:13 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I/II - Canonsburg, PA](https://jobright.ai/jobs/info/6a73ad938dc3d52d8eda0f3d) | DT Midstream | Canonsburg, PA | 08/05/2026 16:53:00 | Sponsorship: Past Sponsorship |
-| 66 (Good) | [Digital Verification Engineer - New Grad](https://jobright.ai/jobs/info/6a18a5a754a441713ae86f12) | Ciena | Pittsford, NY | 08/05/2026 17:10:07 | Sponsorship: Past Sponsorship |
