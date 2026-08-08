@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-08 13:36:10Z UTC
+Updated: 2026-08-08 14:55:10Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 48 (Possible) | [Electrical Engineer I (BOS) (R5046)](https://jobright.ai/jobs/info/6a5d49f4686b4755d1e1d4dc) | Shield AI | Boston, MA | 08/08/2026 11:15:45 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Entry Level Electronics Engineer](https://jobright.ai/jobs/info/6a773918bb6ca93ae561458a) | Centrus Energy Corp. | Oak Ridge, TN | 08/08/2026 14:11:36 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Entry Level Electronics Engineer](https://jobright.ai/jobs/info/6a7735614817aa430704a1ff) | Centrus Energy Corp. | Oak Ridge, TN | 08/08/2026 13:55:45 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [CAD Engineer - Entry Level](https://jobright.ai/jobs/info/6a7725fa4817aa430704a09f) | RailWorks Corporation | New York, NY | 08/07/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - Vehicle Controls](https://jobright.ai/jobs/info/6a770edb67a1ad0bc53cbecf) | SAF-HOLLAND Inc. | Kansas City, MO | 08/08/2026 11:11:23 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [RF Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a76f5b3a26ccc369f836c04) | Raytheon | Tucson, AZ | 08/08/2026 09:24:03 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-08 13:36:10Z UTC
 | 33 (Possible) | [Facilities Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5156570007?gh_jid=5156570007) | Anduril Industries | Ashville, Ohio, United States | 08/04/2026 03:06:36 |  |
 | 69 (Good) | [Electrical Engineer, Production Test  (Intelligence Systems)](https://boards.greenhouse.io/andurilindustries/jobs/5114770007?gh_jid=5114770007) | Anduril Industries | Santa Ana, California, United States | 08/05/2026 12:52:01 | Security clearance language is present; Full-time status is inferred from the first-party posting |
 | 47 (Possible) | [Electrical Engineer, PCB Design](https://boards.greenhouse.io/andurilindustries/jobs/5165586007?gh_jid=5165586007) | Anduril Industries | Costa Mesa, California, United States | 08/02/2026 11:50:20 | Security clearance language is present |
-| 50 (Good) | [Electrical Engineer, Payload Integration](https://boards.greenhouse.io/andurilindustries/jobs/5165038007?gh_jid=5165038007) | Anduril Industries | Costa Mesa, California, United States | 08/02/2026 12:46:47 | Security clearance language is present |
-| 44 (Possible) | [Electrical Engineer (Motor Controls)](https://boards.greenhouse.io/andurilindustries/jobs/5186566007?gh_jid=5186566007) | Anduril Industries | Costa Mesa, California, United States | 08/02/2026 10:53:36 | Security clearance language is present |
-| 50 (Good) | [Electrical Engineer, Mission Systems Integration](https://boards.greenhouse.io/andurilindustries/jobs/5165052007?gh_jid=5165052007) | Anduril Industries | Costa Mesa, California, United States | 08/02/2026 12:46:37 | Security clearance language is present |
