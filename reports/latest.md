@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-08 03:50:58Z UTC
+Updated: 2026-08-08 04:55:23Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a752be820b26a6e93f4af2e) | New York Power Authority | Massena, NY | 08/07/2026 21:33:14 | Sponsorship: Past Sponsorship |
+| 68 (Good) | [22808 - Silicon Validation Engineer Job Details \| QualityAI](https://jobright.ai/jobs/info/6a76b5cc67a1ad0bc53cb1e5) | Qualitest | Petah Tikva, IL | 08/08/2026 04:51:24 | Sponsorship: Past Sponsorship |
 | 67 (Good) | [System Design & Failure Analysis Engineer](https://jobright.ai/jobs/info/6a6a85480b42f866b619944f) | WD | Irvine, CA | 08/07/2026 18:36:03 | Sponsorship: No |
 | 40 (Possible) | [RF Electrical Engineer](https://jobright.ai/jobs/info/6a7657ff4817aa4307047f62) | Booz Allen Hamilton | Colorado Springs, CO | 08/07/2026 18:56:10 | Sponsorship: No |
 | 52 (Good) | [CAD Engineer - Entry Level](https://jobright.ai/jobs/info/6a767a46b17cba569035e612) | RailWorks Corporation | New York, NY | 08/08/2026 00:37:26 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-08 03:50:58Z UTC
 | 69 (Good) | [Electrical Engineer, Manufacturing Test (Intel Systems - Arsenal)](https://boards.greenhouse.io/andurilindustries/jobs/5160284007?gh_jid=5160284007) | Anduril Industries | Ashville, Ohio, United States | 07/30/2026 14:57:38 | Security clearance language is present; Full-time status is inferred from the first-party posting |
 | 48 (Possible) | [Electrical Engineer, Maneuver Dominance](https://boards.greenhouse.io/andurilindustries/jobs/5064471007?gh_jid=5064471007) | Anduril Industries | Costa Mesa, California, United States | 08/04/2026 16:22:36 | Security clearance language is present |
 | 37 (Possible) | [Electrical Engineer, Maneuver Dominance](https://boards.greenhouse.io/andurilindustries/jobs/4687724007?gh_jid=4687724007) | Anduril Industries | Costa Mesa, California, United States | 08/04/2026 16:21:49 | Security clearance language is present |
-| 48 (Possible) | [Electrical Engineer Lab Technician](https://boards.greenhouse.io/andurilindustries/jobs/5174050007?gh_jid=5174050007) | Anduril Industries | Costa Mesa, California, United States | 08/02/2026 12:43:04 | Security clearance language is present |
-| 42 (Possible) | [Electrical Engineer, High Speed Missiles Avionics Design](https://boards.greenhouse.io/andurilindustries/jobs/5069946007?gh_jid=5069946007) | Anduril Industries | Costa Mesa, California, United States | 08/02/2026 11:50:24 | Security clearance language is present |
