@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-08 20:01:14Z UTC
+Updated: 2026-08-08 21:16:38Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 78 (Strong) | [Design Verification Engineer - Early Career](https://jobright.ai/jobs/info/6a52b2068a74e077472f5ac7) | Marvell Technology | Irvine, CA; Santa Clara, CA | 08/08/2026 11:19:48 | Sponsorship: No |
+| 51 (Good) | [Junior Product Engineer](https://jobright.ai/jobs/info/6a640c788d53603449605740) | Amphenol Industrial Operations | Mesa, AZ | 08/08/2026 12:23:33 | Sponsorship: Not Sure |
 | 82 (Strong) | [Design Verification Engineer - Early Career](https://jobright.ai/jobs/info/6a1a60ee2b206f3955eb44fb) | Marvell Technology | Irvine, CA; Santa Clara, CA | 08/08/2026 11:19:48 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Controls Engineer I](https://jobright.ai/jobs/info/6a5a84c6686b4755d1e15a3b) | Greenheck Group | Tulsa, OK | 08/08/2026 11:22:29 | Sponsorship: Not Sure |
 | 95 (Strong) | [SoC Design Engineer](https://jobright.ai/jobs/info/6a5d673b856af468ab010df8) | OMNIVISION | Santa Clara, CA | 08/08/2026 11:27:28 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-08-08 20:01:14Z UTC
 | 37 (Possible) | [Electrical Engineer I - EA Engineering](https://jobright.ai/jobs/info/6a73b39932ebbc14ffb50a3e) | Starkey México | Eden Prairie, MN | 08/05/2026 22:05:13 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I/II - Canonsburg, PA](https://jobright.ai/jobs/info/6a73ad938dc3d52d8eda0f3d) | DT Midstream | Canonsburg, PA | 08/05/2026 16:53:00 | Sponsorship: Past Sponsorship |
 | 66 (Good) | [Digital Verification Engineer - New Grad](https://jobright.ai/jobs/info/6a18a5a754a441713ae86f12) | Ciena | Pittsford, NY | 08/05/2026 17:10:07 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Firmware Engineer](https://job-boards.greenhouse.io/figureai/jobs/4654891006) | Figure AI | San Jose, CA; San Jose, California, United States | 08/02/2026 23:13:18 | Full-time status is inferred from the first-party posting |
-| 38 (Possible) | [Electrical Engineer (All Levels)](https://job-boards.greenhouse.io/figureai/jobs/4313470006) | Figure AI | San Jose, CA; San Jose, California, United States | 08/02/2026 23:13:18 | Full-time status is inferred from the first-party posting |
