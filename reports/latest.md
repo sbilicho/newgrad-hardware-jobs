@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-08 01:34:11Z UTC
+Updated: 2026-08-08 03:50:58Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 67 (Good) | [System Design & Failure Analysis Engineer](https://jobright.ai/jobs/info/6a6a85480b42f866b619944f) | WD | Irvine, CA | 08/07/2026 18:36:03 | Sponsorship: No |
+| 40 (Possible) | [RF Electrical Engineer](https://jobright.ai/jobs/info/6a7657ff4817aa4307047f62) | Booz Allen Hamilton | Colorado Springs, CO | 08/07/2026 18:56:10 | Sponsorship: No |
 | 52 (Good) | [CAD Engineer - Entry Level](https://jobright.ai/jobs/info/6a767a46b17cba569035e612) | RailWorks Corporation | New York, NY | 08/08/2026 00:37:26 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Structures Test Engineer](https://jobright.ai/jobs/info/69ea83c758811370cb133e32) | Joby Aviation | Santa Cruz, CA | 08/07/2026 17:20:39 | Sponsorship: Not Sure |
 | 40 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (2027)](https://jobright.ai/jobs/info/6a766586a26ccc369f83541f) | Sargent & Lundy | Minneapolis, MN | 08/07/2026 16:08:54 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-08-08 01:34:11Z UTC
 | 37 (Possible) | [Electrical Engineer, Maneuver Dominance](https://boards.greenhouse.io/andurilindustries/jobs/4687724007?gh_jid=4687724007) | Anduril Industries | Costa Mesa, California, United States | 08/04/2026 16:21:49 | Security clearance language is present |
 | 48 (Possible) | [Electrical Engineer Lab Technician](https://boards.greenhouse.io/andurilindustries/jobs/5174050007?gh_jid=5174050007) | Anduril Industries | Costa Mesa, California, United States | 08/02/2026 12:43:04 | Security clearance language is present |
 | 42 (Possible) | [Electrical Engineer, High Speed Missiles Avionics Design](https://boards.greenhouse.io/andurilindustries/jobs/5069946007?gh_jid=5069946007) | Anduril Industries | Costa Mesa, California, United States | 08/02/2026 11:50:24 | Security clearance language is present |
-| 42 (Possible) | [Electrical Engineer, Avionics Design](https://boards.greenhouse.io/andurilindustries/jobs/5059872007?gh_jid=5059872007) | Anduril Industries | Costa Mesa, California, United States | 08/04/2026 16:47:56 | Security clearance language is present |
-| 44 (Possible) | [Electrical Engineer (Actuators)](https://boards.greenhouse.io/andurilindustries/jobs/5186581007?gh_jid=5186581007) | Anduril Industries | Costa Mesa, California, United States | 08/02/2026 10:53:36 | Security clearance language is present |
