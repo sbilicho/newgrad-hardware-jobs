@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-08 09:10:44Z UTC
+Updated: 2026-08-08 10:43:27Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [RF Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a76f5b3a26ccc369f836c04) | Raytheon | Tucson, AZ | 08/08/2026 09:24:03 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 80 (Strong) | [Graduate - Analog Mixed-Signal Design Engineer](https://jobright.ai/jobs/info/6a217702338c01230511e355) | Infineon Technologies | El Segundo, CA | 08/07/2026 18:22:37 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a752be820b26a6e93f4af2e) | New York Power Authority | Massena, NY | 08/07/2026 21:33:14 | Sponsorship: Past Sponsorship |
 | 68 (Good) | [22808 - Silicon Validation Engineer Job Details \| QualityAI](https://jobright.ai/jobs/info/6a76b5cc67a1ad0bc53cb1e5) | Qualitest | Petah Tikva, IL | 08/08/2026 04:51:24 | Sponsorship: Past Sponsorship |
 | 67 (Good) | [System Design & Failure Analysis Engineer](https://jobright.ai/jobs/info/6a6a85480b42f866b619944f) | WD | Irvine, CA | 08/07/2026 18:36:03 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-08-08 09:10:44Z UTC
 | 50 (Good) | [Electrical Engineer, Mission Systems Integration](https://boards.greenhouse.io/andurilindustries/jobs/5165052007?gh_jid=5165052007) | Anduril Industries | Costa Mesa, California, United States | 08/02/2026 12:46:37 | Security clearance language is present |
 | 54 (Good) | [Electrical Engineer, Maritime](https://boards.greenhouse.io/andurilindustries/jobs/5179521007?gh_jid=5179521007) | Anduril Industries | Costa Mesa, California, United States | 08/02/2026 12:49:21 | Security clearance language is present |
 | 69 (Good) | [Electrical Engineer, Manufacturing Test (Intel Systems - Arsenal)](https://boards.greenhouse.io/andurilindustries/jobs/5160284007?gh_jid=5160284007) | Anduril Industries | Ashville, Ohio, United States | 07/30/2026 14:57:38 | Security clearance language is present; Full-time status is inferred from the first-party posting |
-| 48 (Possible) | [Electrical Engineer, Maneuver Dominance](https://boards.greenhouse.io/andurilindustries/jobs/5064471007?gh_jid=5064471007) | Anduril Industries | Costa Mesa, California, United States | 08/04/2026 16:22:36 | Security clearance language is present |
-| 37 (Possible) | [Electrical Engineer, Maneuver Dominance](https://boards.greenhouse.io/andurilindustries/jobs/4687724007?gh_jid=4687724007) | Anduril Industries | Costa Mesa, California, United States | 08/04/2026 16:21:49 | Security clearance language is present |
