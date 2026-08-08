@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-08 18:55:17Z UTC
+Updated: 2026-08-08 20:01:14Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 82 (Strong) | [Design Verification Engineer - Early Career](https://jobright.ai/jobs/info/6a1a60ee2b206f3955eb44fb) | Marvell Technology | Irvine, CA; Santa Clara, CA | 08/08/2026 11:19:48 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Controls Engineer I](https://jobright.ai/jobs/info/6a5a84c6686b4755d1e15a3b) | Greenheck Group | Tulsa, OK | 08/08/2026 11:22:29 | Sponsorship: Not Sure |
+| 95 (Strong) | [SoC Design Engineer](https://jobright.ai/jobs/info/6a5d673b856af468ab010df8) | OMNIVISION | Santa Clara, CA | 08/08/2026 11:27:28 | Sponsorship: Not Sure |
+| 97 (Strong) | [SoC Design Engineer](https://jobright.ai/jobs/info/6a552a0ff2c46727285f030b) | OMNIVISION | Santa Clara, CA | 08/08/2026 11:27:28 | Sponsorship: Not Sure |
+| 46 (Possible) | [Electrical Design Engineer Job Details \| PACCAR](https://jobright.ai/jobs/info/6a72f8526ffeee418e5b7f52) | Kenworth Truck Co. | Kirkland, WA | 08/08/2026 11:28:15 | Sponsorship: No |
 | 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a777a0b67a1ad0bc53cc834) | Latitude Inc | Manassas, VA | 08/08/2026 18:48:43 | Sponsorship: Past Sponsorship |
 | 90 (Strong) | [ASIC Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a5ad072c8e3a473cb8accda) | NVIDIA | Santa Clara, CA | 08/08/2026 17:24:18 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer I (BOS) (R5046)](https://jobright.ai/jobs/info/6a5d49f4686b4755d1e1d4dc) | Shield AI | Boston, MA | 08/08/2026 11:15:45 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-08-08 18:55:17Z UTC
 | 66 (Good) | [Digital Verification Engineer - New Grad](https://jobright.ai/jobs/info/6a18a5a754a441713ae86f12) | Ciena | Pittsford, NY | 08/05/2026 17:10:07 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Firmware Engineer](https://job-boards.greenhouse.io/figureai/jobs/4654891006) | Figure AI | San Jose, CA; San Jose, California, United States | 08/02/2026 23:13:18 | Full-time status is inferred from the first-party posting |
 | 38 (Possible) | [Electrical Engineer (All Levels)](https://job-boards.greenhouse.io/figureai/jobs/4313470006) | Figure AI | San Jose, CA; San Jose, California, United States | 08/02/2026 23:13:18 | Full-time status is inferred from the first-party posting |
-| 39 (Possible) | [Electrical Engineer, Actuator Systems](https://job-boards.greenhouse.io/figureai/jobs/4688381006) | Figure AI | San Jose, CA; San Jose, California, United States | 08/02/2026 23:13:18 | Full-time status is inferred from the first-party posting |
-| 42 (Possible) | [Digital Electronics Circuit & Unit Hardware Design Engineer (Associate or Mid-Level)](https://jobright.ai/jobs/info/6a6bbe935c54bc4752cead44) | Boeing | El Segundo, CA | 07/30/2026 21:13:55 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Motor Controls Engineer (Electrical/PCB Design)](https://boards.greenhouse.io/andurilindustries/jobs/5186602007?gh_jid=5186602007) | Anduril Industries | Costa Mesa, California, United States | 08/02/2026 10:53:36 | Security clearance language is present |
-| 55 (Good) | [Firmware Engineer, Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5180703007?gh_jid=5180703007) | Anduril Industries | Costa Mesa, California, United States | 08/02/2026 12:59:14 |  |
-| 33 (Possible) | [Facilities Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5156570007?gh_jid=5156570007) | Anduril Industries | Ashville, Ohio, United States | 08/04/2026 03:06:36 |  |
