@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-08 17:29:29Z UTC
+Updated: 2026-08-08 18:55:17Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a777a0b67a1ad0bc53cc834) | Latitude Inc | Manassas, VA | 08/08/2026 18:48:43 | Sponsorship: Past Sponsorship |
+| 90 (Strong) | [ASIC Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a5ad072c8e3a473cb8accda) | NVIDIA | Santa Clara, CA | 08/08/2026 17:24:18 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer I (BOS) (R5046)](https://jobright.ai/jobs/info/6a5d49f4686b4755d1e1d4dc) | Shield AI | Boston, MA | 08/08/2026 11:15:45 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Entry Level Electronics Engineer](https://jobright.ai/jobs/info/6a773918bb6ca93ae561458a) | Centrus Energy Corp. | Oak Ridge, TN | 08/08/2026 14:11:36 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Entry Level Electronics Engineer](https://jobright.ai/jobs/info/6a7735614817aa430704a1ff) | Centrus Energy Corp. | Oak Ridge, TN | 08/08/2026 13:55:45 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-08 17:29:29Z UTC
 | 49 (Possible) | [Motor Controls Engineer (Electrical/PCB Design)](https://boards.greenhouse.io/andurilindustries/jobs/5186602007?gh_jid=5186602007) | Anduril Industries | Costa Mesa, California, United States | 08/02/2026 10:53:36 | Security clearance language is present |
 | 55 (Good) | [Firmware Engineer, Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5180703007?gh_jid=5180703007) | Anduril Industries | Costa Mesa, California, United States | 08/02/2026 12:59:14 |  |
 | 33 (Possible) | [Facilities Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5156570007?gh_jid=5156570007) | Anduril Industries | Ashville, Ohio, United States | 08/04/2026 03:06:36 |  |
-| 69 (Good) | [Electrical Engineer, Production Test  (Intelligence Systems)](https://boards.greenhouse.io/andurilindustries/jobs/5114770007?gh_jid=5114770007) | Anduril Industries | Santa Ana, California, United States | 08/05/2026 12:52:01 | Security clearance language is present; Full-time status is inferred from the first-party posting |
-| 47 (Possible) | [Electrical Engineer, PCB Design](https://boards.greenhouse.io/andurilindustries/jobs/5165586007?gh_jid=5165586007) | Anduril Industries | Costa Mesa, California, United States | 08/02/2026 11:50:20 | Security clearance language is present |
