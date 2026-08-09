@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-09 05:27:21Z UTC
+Updated: 2026-08-09 07:27:07Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 42 (Possible) | [Entry-Level Software Test Engineer](https://jobright.ai/jobs/info/6a73d55232ebbc14ffb51247) | Boeing | Hazelwood, MO | 08/06/2026 15:48:55 | Sponsorship: Past Sponsorship |
+| 51 (Good) | [Junior Product Engineer](https://jobright.ai/jobs/info/6a640861e8d8d22e3292bba6) | Amphenol | Mesa, AZ | 08/08/2026 23:05:21 | Sponsorship: Not Sure |
 | 42 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6a78031c7b3417772adeb2c3) | Intertech Plastics, LLC | Denver, CO | 08/08/2026 21:33:32 | Sponsorship: No |
 | 59 (Good) | [Reliability Integration and Failure Analysis Engineer](https://jobright.ai/jobs/info/6a4e9e560ea38951a6ff3e57) | WD | San Jose, CA | 08/08/2026 19:40:46 | Sponsorship: No |
 | 40 (Possible) | [2026 Associate I&T RF Engineer - Dulles VA](https://jobright.ai/jobs/info/6a762efbbb6ca93ae561161a) | Northrop Grumman | Dulles, VA | 08/08/2026 15:11:15 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-08-09 05:27:21Z UTC
 | 50 (Good) | [Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential**](https://jobright.ai/jobs/info/6a28bc1a883c0d3be6543c73) | Boeing | Mascoutah, IL | 07/25/2026 13:13:20 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 58 (Good) | [Hardware Verification Engineer (Defense & Aerospace, North Reading, MA)](https://jobright.ai/jobs/info/6a73d5d532ebbc14ffb5125f) | Teradyne | North Reading, MA | 08/06/2026 00:31:17 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I/II - Canonsburg, PA](https://jobright.ai/jobs/info/6a73bfd28cd88e7ccbf5a5e9) | DT Midstream | Canonsburg, PA | 08/05/2026 16:53:00 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [Post Silicon Validation Engineer](https://jobright.ai/jobs/info/6a73bffb1ce9647cdbcaa106) | Diverse Lynx | Santa Clara, CA | 08/05/2026 22:58:03 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Instrumentation & Controls Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a73b4ce1ce9647cdbca9cf8) | Sargent & Lundy | Chattanooga, TN | 08/05/2026 15:10:22 | Sponsorship: No |
