@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-09 13:39:36Z UTC
+Updated: 2026-08-09 15:01:47Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 45 (Possible) | [Power Electronics - Thermal Engineer I (R4842)](https://jobright.ai/jobs/info/6a1d94e1e24ef3652583861b) | Shield AI | San Diego, CA | 08/09/2026 11:53:18 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a5897539838a11e5d83947b) | Haag, a Salas O'Brien Company | Merritt Island, FL | 08/09/2026 14:00:09 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6a7877e94817aa430704bbd6) | Qualdoc | Marietta, OH | 08/09/2026 12:51:53 | Sponsorship: Past Sponsorship |
 | 31 (Possible) | [Electronics Engineer New Grad](https://jobright.ai/jobs/info/6a6136dc7196365a6f0097d2) | BubblyNet | Clearwater, FL | 07/22/2026 00:31:45 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a7859a9a26ccc369f8388e9) | Dice | Chicago, IL | 08/09/2026 10:42:49 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-09 13:39:36Z UTC
 | 82 (Strong) | [ASIC Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a58ada23ac7627fe9ffa267) | NVIDIA | Santa Clara, CA | 07/07/2026 10:07:51 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7424aa972ac843c6994ad5) | Affiliated Engineers, Inc. | Phoenix, AZ | 08/06/2026 06:07:38 | Sponsorship: Past Sponsorship |
 | 85 (Strong) | [Associate ASIC/FPGA Design or Verification Engineer](https://jobright.ai/jobs/info/6a72ed805049141ad172bdd2) | Boeing | El Segundo, CA | 08/04/2026 16:59:32 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7426227b3417772addf2cb) | ByteDance | San Jose, CA | 08/06/2026 06:13:54 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a564fcb10c4d945d8648ce5) | Affiliated Engineers, Inc. | Detroit, MI | 08/05/2026 23:32:40 | Sponsorship: Past Sponsorship |
