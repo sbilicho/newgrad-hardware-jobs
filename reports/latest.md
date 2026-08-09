@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-09 09:06:39Z UTC
+Updated: 2026-08-09 10:41:25Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 43 (Possible) | [Electrical Engineer - Substation, Entry Level](https://jobright.ai/jobs/info/6a78582cbb6ca93ae5615d60) | Dice | Eden Prairie, MN | 08/09/2026 10:36:28 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I Job Details \| Amrize](https://jobright.ai/jobs/info/6a783dd2a26ccc369f8386c7) | Amrize | Midlothian, TX | 08/09/2026 08:44:02 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I Job Details \| NEW YORK POWER AUTHORITY](https://jobright.ai/jobs/info/6a783f9e7b3417772adeb675) | New York Power Authority | Massena, NY | 08/09/2026 08:51:42 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Entry-Level Software Test Engineer](https://jobright.ai/jobs/info/6a73d55232ebbc14ffb51247) | Boeing | Hazelwood, MO | 08/06/2026 15:48:55 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-09 09:06:39Z UTC
 | 44 (Possible) | [Electrical Engineer (Facilities)](https://boards.greenhouse.io/spacex/jobs/8686707002?gh_jid=8686707002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 08/06/2026 00:26:19 |  |
 | 64 (Good) | [Principal Electronics Test Engineer I](https://jobright.ai/jobs/info/6a6caa09ba7efe79c2f65cbe) | CesiumAstro | Austin, TX | 08/06/2026 00:28:51 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electrical Engineer (New Graduate)](https://jobright.ai/jobs/info/6a73cd4f8cd88e7ccbf5a84d) | Luxshare-Tech | Milpitas, CA | 08/05/2026 23:54:55 | Sponsorship: Explicit |
-| 50 (Good) | [Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential**](https://jobright.ai/jobs/info/6a28bc1a883c0d3be6543c73) | Boeing | Mascoutah, IL | 07/25/2026 13:13:20 | Security clearance language is present; Sponsorship: Past Sponsorship |
