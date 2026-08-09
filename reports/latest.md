@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-09 07:27:07Z UTC
+Updated: 2026-08-09 09:06:39Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer I Job Details \| Amrize](https://jobright.ai/jobs/info/6a783dd2a26ccc369f8386c7) | Amrize | Midlothian, TX | 08/09/2026 08:44:02 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I Job Details \| NEW YORK POWER AUTHORITY](https://jobright.ai/jobs/info/6a783f9e7b3417772adeb675) | New York Power Authority | Massena, NY | 08/09/2026 08:51:42 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Entry-Level Software Test Engineer](https://jobright.ai/jobs/info/6a73d55232ebbc14ffb51247) | Boeing | Hazelwood, MO | 08/06/2026 15:48:55 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Junior Product Engineer](https://jobright.ai/jobs/info/6a640861e8d8d22e3292bba6) | Amphenol | Mesa, AZ | 08/08/2026 23:05:21 | Sponsorship: Not Sure |
 | 42 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6a78031c7b3417772adeb2c3) | Intertech Plastics, LLC | Denver, CO | 08/08/2026 21:33:32 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-08-09 07:27:07Z UTC
 | 64 (Good) | [Principal Electronics Test Engineer I](https://jobright.ai/jobs/info/6a6caa09ba7efe79c2f65cbe) | CesiumAstro | Austin, TX | 08/06/2026 00:28:51 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electrical Engineer (New Graduate)](https://jobright.ai/jobs/info/6a73cd4f8cd88e7ccbf5a84d) | Luxshare-Tech | Milpitas, CA | 08/05/2026 23:54:55 | Sponsorship: Explicit |
 | 50 (Good) | [Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential**](https://jobright.ai/jobs/info/6a28bc1a883c0d3be6543c73) | Boeing | Mascoutah, IL | 07/25/2026 13:13:20 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 58 (Good) | [Hardware Verification Engineer (Defense & Aerospace, North Reading, MA)](https://jobright.ai/jobs/info/6a73d5d532ebbc14ffb5125f) | Teradyne | North Reading, MA | 08/06/2026 00:31:17 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I/II - Canonsburg, PA](https://jobright.ai/jobs/info/6a73bfd28cd88e7ccbf5a5e9) | DT Midstream | Canonsburg, PA | 08/05/2026 16:53:00 | Sponsorship: Past Sponsorship |
