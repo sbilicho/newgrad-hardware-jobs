@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-09 20:31:04Z UTC
+Updated: 2026-08-09 21:47:38Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer (Safety System Products) Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a78e7cfbb6ca93ae5616878) | Westinghouse Electric Company | Warrendale, PA | 08/09/2026 13:49:19 | Sponsorship: Not Sure |
+| 37 (Possible) | [Electrical Engineer I Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a78e7e367a1ad0bc53ce441) | Westinghouse Electric Company | Cranberry Township, PA; Rock Hill, SC | 08/09/2026 13:49:39 | Sponsorship: Not Sure |
+| 37 (Possible) | [Electrical Engineer 1 Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a5c58274da96a42cfd9c66c) | Westinghouse Electric Company | Rock Hill, SC | 08/09/2026 13:49:44 | Sponsorship: Not Sure |
+| 42 (Possible) | [Platform Hardware Engineer Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a78e7e9b17cba5690362141) | Westinghouse Electric Company | Warrendale, PA | 08/09/2026 13:49:45 | Sponsorship: Not Sure |
+| 52 (Good) | [CAE CAD Engineer Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a50c63742c6dc326e8ebfb7) | Westinghouse Electric Company | Cranberry Township, PA | 08/09/2026 13:50:02 | Sponsorship: Not Sure |
+| 47 (Possible) | [Test Engineer (Elect/I&C) Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a5c581ec8e3a473cb8b222d) | Westinghouse Electric Company | Bridgman, MI | 08/09/2026 13:50:03 | Sponsorship: Not Sure |
+| 37 (Possible) | [Electrical Engineer Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a78e807b17cba569036215c) | Westinghouse Electric Company | Columbia, SC | 08/09/2026 13:50:15 | Sponsorship: Not Sure |
 | 53 (Good) | [Power Electronics Engineer (Starship)](https://boards.greenhouse.io/spacex/jobs/8692894002?gh_jid=8692894002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 08/09/2026 18:42:26 |  |
 | 31 (Possible) | [Junior IC Layout Design Engineer](https://jobright.ai/jobs/info/6a30d4a643732c05812e3df3) | IC Enable | Richardson, TX | 06/18/2026 15:18:04 | Sponsorship: Past Sponsorship |
 | 73 (Strong) | [Jr. ASIC Design Engineer](https://jobright.ai/jobs/info/6a52dd068a74e077472f65b3) | Fermilab | Batavia, NY | 08/09/2026 16:42:13 | Sponsorship: Past Sponsorship |
@@ -97,10 +104,3 @@ Updated: 2026-08-09 20:31:04Z UTC
 | 55 (Good) | [EMC Test Engineer (Entry Level)](https://jobright.ai/jobs/info/6a74d935972ac843c699788c) | Yoh, A Day & Zimmermann Company | Fremont, CA | 08/06/2026 18:57:57 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Controls & Electrical Engineer I](https://jobright.ai/jobs/info/6a74d1ac20b26a6e93f48ff3) | Cytiva | Hauppauge, NY | 08/06/2026 11:25:48 | Sponsorship: Past Sponsorship |
 | 76 (Strong) | [ASIC Design Verification Engineer, Google Cloud](https://jobright.ai/jobs/info/6a74d350b17cba5690357aee) | Google | Sunnyvale, CA | 08/06/2026 11:32:48 | Sponsorship: Past Sponsorship |
-| 82 (Strong) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a6b549d57120971bf3a633c) | NVIDIA AI | Santa Clara, CA | 07/16/2026 13:41:11 | Sponsorship: Past Sponsorship |
-| 77 (Strong) | [Sr. Digital Design Electrical Engineer I](https://jobright.ai/jobs/info/6a5110faae4052672fe96890) | Axon | Sterling, VA | 08/06/2026 12:25:36 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Entry Level Hardware Engineer - Electrical/Mechanical/RF (Hybrid)](https://jobright.ai/jobs/info/6a746c1b7b3417772addfe68) | BAE Systems, Inc. | Nashua, NH | 07/23/2026 11:12:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 87 (Strong) | [Associate ASIC/FPGA Design or Verification Engineer](https://jobright.ai/jobs/info/6a74791537da8525e8cd8f7b) | Boeing | El Segundo, CA | 08/06/2026 12:07:49 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 55 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6a5af40a686b4755d1e17bcd) | Texas Instruments | Santa Clara, CA | 08/06/2026 02:58:17 | Sponsorship: Not Sure |
-| 41 (Possible) | [New College Grad - DRAM Design Engineer](https://jobright.ai/jobs/info/6a509f215165966a1161a260) | Micron Technology | Boise, ID | 08/06/2026 09:07:51 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Entry-level Electrical Design Engineer](https://jobright.ai/jobs/info/69e69e989b6eb37e26f81604) | Salas O'Brien | Rochester, NY | 07/15/2026 17:03:21 | Sponsorship: Past Sponsorship |
