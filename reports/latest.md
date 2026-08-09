@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-09 11:50:38Z UTC
+Updated: 2026-08-09 12:46:51Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 31 (Possible) | [Electronics Engineer New Grad](https://jobright.ai/jobs/info/6a6136dc7196365a6f0097d2) | BubblyNet | Clearwater, FL | 07/22/2026 00:31:45 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a7859a9a26ccc369f8388e9) | Dice | Chicago, IL | 08/09/2026 10:42:49 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [Electrical Engineer - Substation, Entry Level](https://jobright.ai/jobs/info/6a78582cbb6ca93ae5615d60) | Dice | Eden Prairie, MN | 08/09/2026 10:36:28 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I Job Details \| Amrize](https://jobright.ai/jobs/info/6a783dd2a26ccc369f8386c7) | Amrize | Midlothian, TX | 08/09/2026 08:44:02 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-09 11:50:38Z UTC
 | 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7426227b3417772addf2cb) | ByteDance | San Jose, CA | 08/06/2026 06:13:54 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a564fcb10c4d945d8648ce5) | Affiliated Engineers, Inc. | Detroit, MI | 08/05/2026 23:32:40 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer (Facilities)](https://boards.greenhouse.io/spacex/jobs/8686707002?gh_jid=8686707002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 08/06/2026 00:26:19 |  |
-| 64 (Good) | [Principal Electronics Test Engineer I](https://jobright.ai/jobs/info/6a6caa09ba7efe79c2f65cbe) | CesiumAstro | Austin, TX | 08/06/2026 00:28:51 | Sponsorship: Past Sponsorship |
