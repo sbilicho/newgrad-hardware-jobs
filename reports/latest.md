@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-09 16:16:43Z UTC
+Updated: 2026-08-09 17:44:53Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 31 (Possible) | [Junior IC Layout Design Engineer](https://jobright.ai/jobs/info/6a30d4a643732c05812e3df3) | IC Enable | Richardson, TX | 06/18/2026 15:18:04 | Sponsorship: Past Sponsorship |
+| 73 (Strong) | [Jr. ASIC Design Engineer](https://jobright.ai/jobs/info/6a52dd068a74e077472f65b3) | Fermilab | Batavia, NY | 08/09/2026 16:42:13 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Hardware Engineer I](https://jobright.ai/jobs/info/6a4333434461bf091787b19f) | Honeywell Technologies | Clearwater, FL; Minneapolis, MN | 08/09/2026 09:18:43 | Sponsorship: No |
 | 45 (Possible) | [Power Electronics - Thermal Engineer I (R4842)](https://jobright.ai/jobs/info/6a1d94e1e24ef3652583861b) | Shield AI | San Diego, CA | 08/09/2026 11:53:18 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a5897539838a11e5d83947b) | Haag, a Salas O'Brien Company | Merritt Island, FL | 08/09/2026 14:00:09 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6a7877e94817aa430704bbd6) | Qualdoc | Marietta, OH | 08/09/2026 12:51:53 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-09 16:16:43Z UTC
 | 41 (Possible) | [New College Grad - DRAM Design Engineer](https://jobright.ai/jobs/info/6a509f215165966a1161a260) | Micron Technology | Boise, ID | 08/06/2026 09:07:51 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Entry-level Electrical Design Engineer](https://jobright.ai/jobs/info/69e69e989b6eb37e26f81604) | Salas O'Brien | Rochester, NY | 07/15/2026 17:03:21 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, Agoura Hills, CA) Job Details \| Teradyne](https://jobright.ai/jobs/info/6a744bccfba916306bd98f74) | Teradyne | Agoura Hills, CA | 08/06/2026 08:54:36 | Sponsorship: Past Sponsorship |
-| 82 (Strong) | [ASIC Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a58ada23ac7627fe9ffa267) | NVIDIA | Santa Clara, CA | 07/07/2026 10:07:51 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7424aa972ac843c6994ad5) | Affiliated Engineers, Inc. | Phoenix, AZ | 08/06/2026 06:07:38 | Sponsorship: Past Sponsorship |
-| 85 (Strong) | [Associate ASIC/FPGA Design or Verification Engineer](https://jobright.ai/jobs/info/6a72ed805049141ad172bdd2) | Boeing | El Segundo, CA | 08/04/2026 16:59:32 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
