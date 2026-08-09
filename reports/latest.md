@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-09 02:51:50Z UTC
+Updated: 2026-08-09 04:17:49Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 59 (Good) | [Reliability Integration and Failure Analysis Engineer](https://jobright.ai/jobs/info/6a4e9e560ea38951a6ff3e57) | WD | San Jose, CA | 08/08/2026 19:40:46 | Sponsorship: No |
 | 40 (Possible) | [2026 Associate I&T RF Engineer - Dulles VA](https://jobright.ai/jobs/info/6a762efbbb6ca93ae561161a) | Northrop Grumman | Dulles, VA | 08/08/2026 15:11:15 | Sponsorship: No |
 | 88 (Strong) | [Senior Engineer I - Physical Design](https://jobright.ai/jobs/info/6994fcc2e0bddb6acac382cb) | Microchip Technology Inc. | Chandler, AZ | 08/08/2026 13:07:27 | Sponsorship: Past Sponsorship |
 | 78 (Strong) | [Design Verification Engineer - Early Career](https://jobright.ai/jobs/info/6a52b2068a74e077472f5ac7) | Marvell Technology | Irvine, CA; Santa Clara, CA | 08/08/2026 11:19:48 | Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-08-09 02:51:50Z UTC
 | 72 (Strong) | [Post Silicon Validation Engineer](https://jobright.ai/jobs/info/6a73bffb1ce9647cdbcaa106) | Diverse Lynx | Santa Clara, CA | 08/05/2026 22:58:03 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Instrumentation & Controls Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a73b4ce1ce9647cdbca9cf8) | Sargent & Lundy | Chattanooga, TN | 08/05/2026 15:10:22 | Sponsorship: No |
 | 42 (Possible) | [Entry-Level Software Test Engineer](https://jobright.ai/jobs/info/6a73bcef1ce9647cdbca9fe6) | Boeing | Hazelwood, MO | 08/05/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I - EA Engineering](https://jobright.ai/jobs/info/6a73b39932ebbc14ffb50a3e) | Starkey México | Eden Prairie, MN | 08/05/2026 22:05:13 | Sponsorship: Past Sponsorship |
