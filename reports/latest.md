@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-09 10:41:25Z UTC
+Updated: 2026-08-09 11:50:38Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a7859a9a26ccc369f8388e9) | Dice | Chicago, IL | 08/09/2026 10:42:49 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [Electrical Engineer - Substation, Entry Level](https://jobright.ai/jobs/info/6a78582cbb6ca93ae5615d60) | Dice | Eden Prairie, MN | 08/09/2026 10:36:28 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I Job Details \| Amrize](https://jobright.ai/jobs/info/6a783dd2a26ccc369f8386c7) | Amrize | Midlothian, TX | 08/09/2026 08:44:02 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I Job Details \| NEW YORK POWER AUTHORITY](https://jobright.ai/jobs/info/6a783f9e7b3417772adeb675) | New York Power Authority | Massena, NY | 08/09/2026 08:51:42 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-09 10:41:25Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a564fcb10c4d945d8648ce5) | Affiliated Engineers, Inc. | Detroit, MI | 08/05/2026 23:32:40 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer (Facilities)](https://boards.greenhouse.io/spacex/jobs/8686707002?gh_jid=8686707002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 08/06/2026 00:26:19 |  |
 | 64 (Good) | [Principal Electronics Test Engineer I](https://jobright.ai/jobs/info/6a6caa09ba7efe79c2f65cbe) | CesiumAstro | Austin, TX | 08/06/2026 00:28:51 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Electrical Engineer (New Graduate)](https://jobright.ai/jobs/info/6a73cd4f8cd88e7ccbf5a84d) | Luxshare-Tech | Milpitas, CA | 08/05/2026 23:54:55 | Sponsorship: Explicit |
