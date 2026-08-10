@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-10 12:29:45Z UTC
+Updated: 2026-08-10 13:38:49Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 31 (Possible) | [Electronics Engineer New Grad](https://jobright.ai/jobs/info/6a6b26815c54bc4752ce76cb) | BubblyNet | Clearwater, FL | 07/30/2026 10:25:05 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a79ced29ee17f276dbef997) | Latitude Inc | Manassas, VA | 08/10/2026 13:14:58 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a79c2de9ee17f276dbef606) | Latitude Inc | Manassas, VA | 08/10/2026 12:23:58 | Sponsorship: Past Sponsorship |
 | 33 (Possible) | [New College Grad - Product Yield Enhancement Engineer, HBM](https://jobright.ai/jobs/info/6a448f7d0153061b8b3e09e2) | Micron Technology | Boise, ID | 07/23/2026 09:01:34 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Electron Beam Product Engineer](https://jobright.ai/jobs/info/6a3478b17f3fdd180d4cab1e) | KLA | Ann Arbor, MI | 08/10/2026 04:04:06 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-08-10 12:29:45Z UTC
 | 43 (Possible) | [Electrical Engineer - Substation, Entry Level](https://jobright.ai/jobs/info/6a74e9de7b3417772ade254c) | EVS, Inc. | Eden Prairie, MN | 08/06/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer - Boston, MA](https://jobright.ai/jobs/info/6a74f4c720b26a6e93f49f12) | PAE | Boston, MA | 08/06/2026 20:55:35 | Sponsorship: Past Sponsorship |
 | 85 (Strong) | [Associate ASIC and/or FPGA Design and Verification Engineer](https://jobright.ai/jobs/info/6a74c95cb17cba5690357828) | Boeing | El Segundo, CA | 08/06/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 57 (Good) | [Analog IC Design Engineer](https://jobright.ai/jobs/info/6a63bf7c8d536034496041b6) | SRI | Princeton, NJ | 08/06/2026 16:16:34 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 79 (Strong) | [Graduate- Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a58d6df4da96a42cfd8d61c) | Infineon Technologies | San Jose, CA | 08/06/2026 17:27:08 | Sponsorship: Past Sponsorship |
