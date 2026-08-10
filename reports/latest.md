@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-10 10:35:50Z UTC
+Updated: 2026-08-10 11:33:56Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a79aeab67a1ad0bc53cf8f6) | AE Works Ltd. | Pittsburgh, PA | 08/10/2026 10:57:47 | Sponsorship: Past Sponsorship |
 | 80 (Strong) | [Graduate - Analog Mixed-Signal Design Engineer](https://jobright.ai/jobs/info/6a7995e17b3417772aded22a) | Infineon Technologies | El Segundo, CA | 08/10/2026 09:12:01 | Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Graduate- Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a799948a26ccc369f83a2da) | Infineon Technologies | San Jose, CA | 08/10/2026 09:26:32 | Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Graduate - Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a799967a26ccc369f83a2e4) | Infineon Technologies | San Jose, CA | 08/10/2026 09:27:03 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-10 10:35:50Z UTC
 | 37 (Possible) | [Electrical Engineer I-III](https://jobright.ai/jobs/info/6a74a8c1b17cba5690356bfc) | North Carolina Department of Agriculture and Consumer Services | Wilson, NC | 08/06/2026 15:31:13 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electrical Engineer (Analog) or Electrical Engineer I and/or II](https://jobright.ai/jobs/info/6a74d2d3bb6ca93ae560c0df) | Custom Manufacturing & Engineering | Pinellas Park, FL | 08/06/2026 18:45:22 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [RF Engineer (Starshield)](https://boards.greenhouse.io/spacex/jobs/8676060002?gh_jid=8676060002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 08/06/2026 15:54:50 | Security clearance language is present |
-| 47 (Possible) | [Process Quality/ Validation Engineer](https://jobright.ai/jobs/info/6a74e311bb6ca93ae560c7f7) | Vetforce Solutions | Chicago, IL | 08/06/2026 19:40:01 | Sponsorship: Past Sponsorship |

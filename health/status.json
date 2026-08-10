@@ -1,19 +1,19 @@
 {
   "Version": 2,
   "Status": "healthy",
-  "LastAttemptUtc": "2026-08-10T10:34:28.7201771Z",
-  "LastSuccessfulScanUtc": "2026-08-10T10:34:28.7201771Z",
-  "DiscoveredJobs": 459,
-  "NewAlerts": 3,
-  "LatestSequence": 208,
+  "LastAttemptUtc": "2026-08-10T11:33:15.6679884Z",
+  "LastSuccessfulScanUtc": "2026-08-10T11:33:15.6679884Z",
+  "DiscoveredJobs": 464,
+  "NewAlerts": 1,
+  "LatestSequence": 209,
   "Coverage": {
     "AggregatorFeed": "NewGrad Jobs / Jobright U.S. Engineering",
     "FocusedRoleSearches": 22,
     "DirectCompanyBoards": 35,
     "HealthyDirectCompanyBoards": 35,
     "DirectHealthyPercent": 100.0,
-    "CompanyDetailsRequested": 21,
-    "CompanyDetailsSucceeded": 21,
+    "CompanyDetailsRequested": 0,
+    "CompanyDetailsSucceeded": 0,
     "DirectCompanies": [
       "SpaceX",
       "Anduril Industries",
@@ -138,19 +138,7 @@
       "NotModified": false,
       "StatusCode": 200,
       "Jobs": 0,
-      "DurationMs": 330,
-      "Error": null
-    },
-    {
-      "Id": "engineering_feed",
-      "Kind": "minisite",
-      "Company": null,
-      "CareersUrl": null,
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 50,
-      "DurationMs": 1662,
+      "DurationMs": 732,
       "Error": null
     },
     {
@@ -162,31 +150,7 @@
       "NotModified": false,
       "StatusCode": 200,
       "Jobs": 20,
-      "DurationMs": 1905,
-      "Error": null
-    },
-    {
-      "Id": "search_physical_design_entry",
-      "Kind": "search",
-      "Company": null,
-      "CareersUrl": null,
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 20,
-      "DurationMs": 3541,
-      "Error": null
-    },
-    {
-      "Id": "search_asic_rtl",
-      "Kind": "search",
-      "Company": null,
-      "CareersUrl": null,
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 20,
-      "DurationMs": 3475,
+      "DurationMs": 2021,
       "Error": null
     },
     {
@@ -198,11 +162,11 @@
       "NotModified": false,
       "StatusCode": 200,
       "Jobs": 20,
-      "DurationMs": 3571,
+      "DurationMs": 2090,
       "Error": null
     },
     {
-      "Id": "search_post_silicon",
+      "Id": "search_asic_verification",
       "Kind": "search",
       "Company": null,
       "CareersUrl": null,
@@ -210,7 +174,31 @@
       "NotModified": false,
       "StatusCode": 200,
       "Jobs": 20,
-      "DurationMs": 1772,
+      "DurationMs": 2343,
+      "Error": null
+    },
+    {
+      "Id": "search_asic_rtl",
+      "Kind": "search",
+      "Company": null,
+      "CareersUrl": null,
+      "Success": true,
+      "NotModified": false,
+      "StatusCode": 200,
+      "Jobs": 20,
+      "DurationMs": 2815,
+      "Error": null
+    },
+    {
+      "Id": "search_physical_design_new_grad",
+      "Kind": "search",
+      "Company": null,
+      "CareersUrl": null,
+      "Success": true,
+      "NotModified": false,
+      "StatusCode": 200,
+      "Jobs": 20,
+      "DurationMs": 3115,
       "Error": null
     },
     {
@@ -222,11 +210,11 @@
       "NotModified": false,
       "StatusCode": 200,
       "Jobs": 20,
-      "DurationMs": 3890,
+      "DurationMs": 3156,
       "Error": null
     },
     {
-      "Id": "search_silicon_validation",
+      "Id": "search_sta_timing",
       "Kind": "search",
       "Company": null,
       "CareersUrl": null,
@@ -234,11 +222,11 @@
       "NotModified": false,
       "StatusCode": 200,
       "Jobs": 20,
-      "DurationMs": 3494,
+      "DurationMs": 3756,
       "Error": null
     },
     {
-      "Id": "search_yield_reliability",
+      "Id": "search_post_silicon",
       "Kind": "search",
       "Company": null,
       "CareersUrl": null,
@@ -246,7 +234,19 @@
       "NotModified": false,
       "StatusCode": 200,
       "Jobs": 20,
-      "DurationMs": 1591,
+      "DurationMs": 2300,
+      "Error": null
+    },
+    {
+      "Id": "search_analog_mixed_signal",
+      "Kind": "search",
+      "Company": null,
+      "CareersUrl": null,
+      "Success": true,
+      "NotModified": false,
+      "StatusCode": 200,
+      "Jobs": 20,
+      "DurationMs": 1703,
       "Error": null
     },
     {
@@ -258,11 +258,11 @@
       "NotModified": false,
       "StatusCode": 200,
       "Jobs": 20,
-      "DurationMs": 1702,
+      "DurationMs": 2376,
       "Error": null
     },
     {
-      "Id": "search_eda_methodology",
+      "Id": "search_physical_design_entry",
       "Kind": "search",
       "Company": null,
       "CareersUrl": null,
@@ -270,11 +270,11 @@
       "NotModified": false,
       "StatusCode": 200,
       "Jobs": 20,
-      "DurationMs": 1784,
+      "DurationMs": 4946,
       "Error": null
     },
     {
-      "Id": "search_custom_layout",
+      "Id": "search_fpga",
       "Kind": "search",
       "Company": null,
       "CareersUrl": null,
@@ -282,7 +282,7 @@
       "NotModified": false,
       "StatusCode": 200,
       "Jobs": 20,
-      "DurationMs": 2056,
+      "DurationMs": 4336,
       "Error": null
     },
     {
@@ -294,11 +294,11 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 93,
+      "DurationMs": 103,
       "Error": null
     },
     {
-      "Id": "search_electrical",
+      "Id": "search_custom_layout",
       "Kind": "search",
       "Company": null,
       "CareersUrl": null,
@@ -306,7 +306,7 @@
       "NotModified": false,
       "StatusCode": 200,
       "Jobs": 20,
-      "DurationMs": 2350,
+      "DurationMs": 2269,
       "Error": null
     },
     {
@@ -318,19 +318,7 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 61,
-      "Error": null
-    },
-    {
-      "Id": "search_cpu_gpu",
-      "Kind": "search",
-      "Company": null,
-      "CareersUrl": null,
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 20,
-      "DurationMs": 1764,
+      "DurationMs": 66,
       "Error": null
     },
     {
@@ -342,19 +330,7 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 54,
-      "Error": null
-    },
-    {
-      "Id": "search_hardware",
-      "Kind": "search",
-      "Company": null,
-      "CareersUrl": null,
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 20,
-      "DurationMs": 2452,
+      "DurationMs": 71,
       "Error": null
     },
     {
@@ -366,7 +342,7 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 86,
+      "DurationMs": 82,
       "Error": null
     },
     {
@@ -378,7 +354,7 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 65,
+      "DurationMs": 58,
       "Error": null
     },
     {
@@ -390,7 +366,7 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 59,
+      "DurationMs": 56,
       "Error": null
     },
     {
@@ -402,19 +378,7 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 60,
-      "Error": null
-    },
-    {
-      "Id": "company_astera_early_career",
-      "Kind": "greenhouse",
-      "Company": "Astera Labs Early Career",
-      "CareersUrl": "https://job-boards.greenhouse.io/asteraearlycareer2026",
-      "Success": true,
-      "NotModified": true,
-      "StatusCode": 304,
-      "Jobs": 0,
-      "DurationMs": 54,
+      "DurationMs": 63,
       "Error": null
     },
     {
@@ -426,7 +390,19 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 80,
+      "DurationMs": 91,
+      "Error": null
+    },
+    {
+      "Id": "company_astera_early_career",
+      "Kind": "greenhouse",
+      "Company": "Astera Labs Early Career",
+      "CareersUrl": "https://job-boards.greenhouse.io/asteraearlycareer2026",
+      "Success": true,
+      "NotModified": true,
+      "StatusCode": 304,
+      "Jobs": 0,
+      "DurationMs": 60,
       "Error": null
     },
     {
@@ -442,15 +418,15 @@
       "Error": null
     },
     {
-      "Id": "company_ethernovia",
-      "Kind": "greenhouse",
-      "Company": "Ethernovia",
-      "CareersUrl": "https://job-boards.greenhouse.io/ethernovia",
+      "Id": "search_firmware",
+      "Kind": "search",
+      "Company": null,
+      "CareersUrl": null,
       "Success": true,
-      "NotModified": true,
-      "StatusCode": 304,
-      "Jobs": 0,
-      "DurationMs": 62,
+      "NotModified": false,
+      "StatusCode": 200,
+      "Jobs": 20,
+      "DurationMs": 1423,
       "Error": null
     },
     {
@@ -462,7 +438,7 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 57,
+      "DurationMs": 54,
       "Error": null
     },
     {
@@ -474,7 +450,19 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 71,
+      "DurationMs": 100,
+      "Error": null
+    },
+    {
+      "Id": "search_electrical",
+      "Kind": "search",
+      "Company": null,
+      "CareersUrl": null,
+      "Success": true,
+      "NotModified": false,
+      "StatusCode": 200,
+      "Jobs": 20,
+      "DurationMs": 1970,
       "Error": null
     },
     {
@@ -486,7 +474,19 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 63,
+      "DurationMs": 64,
+      "Error": null
+    },
+    {
+      "Id": "search_eda_methodology",
+      "Kind": "search",
+      "Company": null,
+      "CareersUrl": null,
+      "Success": true,
+      "NotModified": false,
+      "StatusCode": 200,
+      "Jobs": 20,
+      "DurationMs": 2750,
       "Error": null
     },
     {
@@ -498,7 +498,7 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 53,
+      "DurationMs": 49,
       "Error": null
     },
     {
@@ -510,7 +510,7 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 58,
+      "DurationMs": 68,
       "Error": null
     },
     {
@@ -522,7 +522,19 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 55,
+      "DurationMs": 56,
+      "Error": null
+    },
+    {
+      "Id": "search_cpu_gpu",
+      "Kind": "search",
+      "Company": null,
+      "CareersUrl": null,
+      "Success": true,
+      "NotModified": false,
+      "StatusCode": 200,
+      "Jobs": 20,
+      "DurationMs": 1662,
       "Error": null
     },
     {
@@ -534,19 +546,7 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 94,
-      "Error": null
-    },
-    {
-      "Id": "company_ionq",
-      "Kind": "greenhouse",
-      "Company": "IonQ",
-      "CareersUrl": "https://job-boards.greenhouse.io/ionq",
-      "Success": true,
-      "NotModified": true,
-      "StatusCode": 304,
-      "Jobs": 0,
-      "DurationMs": 64,
+      "DurationMs": 98,
       "Error": null
     },
     {
@@ -558,7 +558,7 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 52,
+      "DurationMs": 87,
       "Error": null
     },
     {
@@ -570,7 +570,19 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 55,
+      "DurationMs": 95,
+      "Error": null
+    },
+    {
+      "Id": "company_ionq",
+      "Kind": "greenhouse",
+      "Company": "IonQ",
+      "CareersUrl": "https://job-boards.greenhouse.io/ionq",
+      "Success": true,
+      "NotModified": false,
+      "StatusCode": 200,
+      "Jobs": 98,
+      "DurationMs": 137,
       "Error": null
     },
     {
@@ -582,19 +594,7 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 47,
-      "Error": null
-    },
-    {
-      "Id": "company_imc",
-      "Kind": "greenhouse",
-      "Company": "IMC",
-      "CareersUrl": "https://job-boards.greenhouse.io/imc",
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 167,
-      "DurationMs": 87,
+      "DurationMs": 33,
       "Error": null
     },
     {
@@ -605,8 +605,32 @@
       "Success": true,
       "NotModified": false,
       "StatusCode": 200,
-      "Jobs": 232,
-      "DurationMs": 109,
+      "Jobs": 231,
+      "DurationMs": 126,
+      "Error": null
+    },
+    {
+      "Id": "company_imc",
+      "Kind": "greenhouse",
+      "Company": "IMC",
+      "CareersUrl": "https://job-boards.greenhouse.io/imc",
+      "Success": true,
+      "NotModified": true,
+      "StatusCode": 304,
+      "Jobs": 0,
+      "DurationMs": 63,
+      "Error": null
+    },
+    {
+      "Id": "search_yield_reliability",
+      "Kind": "search",
+      "Company": null,
+      "CareersUrl": null,
+      "Success": true,
+      "NotModified": false,
+      "StatusCode": 200,
+      "Jobs": 20,
+      "DurationMs": 3939,
       "Error": null
     },
     {
@@ -618,7 +642,7 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 96,
+      "DurationMs": 94,
       "Error": null
     },
     {
@@ -630,31 +654,7 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 119,
-      "Error": null
-    },
-    {
-      "Id": "company_difflogic",
-      "Kind": "ashby",
-      "Company": "DiffLogic",
-      "CareersUrl": "https://jobs.ashbyhq.com/difflogic",
-      "Success": true,
-      "NotModified": true,
-      "StatusCode": 304,
-      "Jobs": 0,
-      "DurationMs": 148,
-      "Error": null
-    },
-    {
-      "Id": "company_tycho_ai",
-      "Kind": "ashby",
-      "Company": "Tycho AI",
-      "CareersUrl": "https://jobs.ashbyhq.com/tycho-ai",
-      "Success": true,
-      "NotModified": true,
-      "StatusCode": 304,
-      "Jobs": 0,
-      "DurationMs": 91,
+      "DurationMs": 127,
       "Error": null
     },
     {
@@ -666,7 +666,7 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 145,
+      "DurationMs": 100,
       "Error": null
     },
     {
@@ -678,7 +678,7 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 119,
+      "DurationMs": 99,
       "Error": null
     },
     {
@@ -690,7 +690,7 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 97,
+      "DurationMs": 121,
       "Error": null
     },
     {
@@ -702,19 +702,31 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 135,
+      "DurationMs": 104,
       "Error": null
     },
     {
-      "Id": "search_firmware",
-      "Kind": "search",
-      "Company": null,
-      "CareersUrl": null,
+      "Id": "company_difflogic",
+      "Kind": "ashby",
+      "Company": "DiffLogic",
+      "CareersUrl": "https://jobs.ashbyhq.com/difflogic",
       "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 20,
-      "DurationMs": 3440,
+      "NotModified": true,
+      "StatusCode": 304,
+      "Jobs": 0,
+      "DurationMs": 385,
+      "Error": null
+    },
+    {
+      "Id": "company_tycho_ai",
+      "Kind": "ashby",
+      "Company": "Tycho AI",
+      "CareersUrl": "https://jobs.ashbyhq.com/tycho-ai",
+      "Success": true,
+      "NotModified": true,
+      "StatusCode": 304,
+      "Jobs": 0,
+      "DurationMs": 414,
       "Error": null
     },
     {
@@ -726,7 +738,7 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 706,
+      "DurationMs": 206,
       "Error": null
     },
     {
@@ -738,7 +750,31 @@
       "NotModified": true,
       "StatusCode": 304,
       "Jobs": 0,
-      "DurationMs": 921,
+      "DurationMs": 962,
+      "Error": null
+    },
+    {
+      "Id": "search_hardware",
+      "Kind": "search",
+      "Company": null,
+      "CareersUrl": null,
+      "Success": true,
+      "NotModified": false,
+      "StatusCode": 200,
+      "Jobs": 20,
+      "DurationMs": 3405,
+      "Error": null
+    },
+    {
+      "Id": "company_ethernovia",
+      "Kind": "greenhouse",
+      "Company": "Ethernovia",
+      "CareersUrl": "https://job-boards.greenhouse.io/ethernovia",
+      "Success": true,
+      "NotModified": true,
+      "StatusCode": 304,
+      "Jobs": 0,
+      "DurationMs": 16150,
       "Error": null
     },
     {
@@ -750,79 +786,19 @@
       "NotModified": false,
       "StatusCode": 200,
       "Jobs": 2188,
-      "DurationMs": 18067,
+      "DurationMs": 19950,
       "Error": null
     },
     {
-      "Id": "search_soc_design",
-      "Kind": "search",
+      "Id": "engineering_feed",
+      "Kind": "minisite",
       "Company": null,
       "CareersUrl": null,
       "Success": true,
       "NotModified": false,
       "StatusCode": 200,
-      "Jobs": 20,
-      "DurationMs": 27491,
-      "Error": null
-    },
-    {
-      "Id": "search_asic_verification",
-      "Kind": "search",
-      "Company": null,
-      "CareersUrl": null,
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 20,
-      "DurationMs": 27476,
-      "Error": null
-    },
-    {
-      "Id": "search_fpga",
-      "Kind": "search",
-      "Company": null,
-      "CareersUrl": null,
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 20,
-      "DurationMs": 27407,
-      "Error": null
-    },
-    {
-      "Id": "search_physical_design_new_grad",
-      "Kind": "search",
-      "Company": null,
-      "CareersUrl": null,
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 20,
-      "DurationMs": 29794,
-      "Error": null
-    },
-    {
-      "Id": "search_analog_mixed_signal",
-      "Kind": "search",
-      "Company": null,
-      "CareersUrl": null,
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 20,
-      "DurationMs": 27454,
-      "Error": null
-    },
-    {
-      "Id": "search_sta_timing",
-      "Kind": "search",
-      "Company": null,
-      "CareersUrl": null,
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 20,
-      "DurationMs": 31535,
+      "Jobs": 50,
+      "DurationMs": 26482,
       "Error": null
     },
     {
@@ -834,259 +810,31 @@
       "NotModified": false,
       "StatusCode": 200,
       "Jobs": 20,
-      "DurationMs": 54508,
+      "DurationMs": 27597,
       "Error": null
     },
     {
-      "Id": "company_detail_anduril_5165586007",
-      "Kind": "greenhouse_detail",
-      "Company": "Anduril Industries",
-      "CareersUrl": "https://job-boards.greenhouse.io/andurilindustries",
+      "Id": "search_soc_design",
+      "Kind": "search",
+      "Company": null,
+      "CareersUrl": null,
       "Success": true,
       "NotModified": false,
       "StatusCode": 200,
-      "Jobs": 1,
-      "DurationMs": 127,
+      "Jobs": 20,
+      "DurationMs": 30021,
       "Error": null
     },
     {
-      "Id": "company_detail_anduril_5167865007",
-      "Kind": "greenhouse_detail",
-      "Company": "Anduril Industries",
-      "CareersUrl": "https://job-boards.greenhouse.io/andurilindustries",
+      "Id": "search_silicon_validation",
+      "Kind": "search",
+      "Company": null,
+      "CareersUrl": null,
       "Success": true,
       "NotModified": false,
       "StatusCode": 200,
-      "Jobs": 1,
-      "DurationMs": 148,
-      "Error": null
-    },
-    {
-      "Id": "company_detail_anduril_5180703007",
-      "Kind": "greenhouse_detail",
-      "Company": "Anduril Industries",
-      "CareersUrl": "https://job-boards.greenhouse.io/andurilindustries",
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 1,
-      "DurationMs": 146,
-      "Error": null
-    },
-    {
-      "Id": "company_detail_anduril_5186602007",
-      "Kind": "greenhouse_detail",
-      "Company": "Anduril Industries",
-      "CareersUrl": "https://job-boards.greenhouse.io/andurilindustries",
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 1,
-      "DurationMs": 127,
-      "Error": null
-    },
-    {
-      "Id": "company_detail_anduril_5186581007",
-      "Kind": "greenhouse_detail",
-      "Company": "Anduril Industries",
-      "CareersUrl": "https://job-boards.greenhouse.io/andurilindustries",
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 1,
-      "DurationMs": 117,
-      "Error": null
-    },
-    {
-      "Id": "company_detail_anduril_5163328007",
-      "Kind": "greenhouse_detail",
-      "Company": "Anduril Industries",
-      "CareersUrl": "https://job-boards.greenhouse.io/andurilindustries",
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 1,
-      "DurationMs": 99,
-      "Error": null
-    },
-    {
-      "Id": "company_detail_anduril_5071538007",
-      "Kind": "greenhouse_detail",
-      "Company": "Anduril Industries",
-      "CareersUrl": "https://job-boards.greenhouse.io/andurilindustries",
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 1,
-      "DurationMs": 145,
-      "Error": null
-    },
-    {
-      "Id": "company_detail_anduril_5114770007",
-      "Kind": "greenhouse_detail",
-      "Company": "Anduril Industries",
-      "CareersUrl": "https://job-boards.greenhouse.io/andurilindustries",
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 1,
-      "DurationMs": 111,
-      "Error": null
-    },
-    {
-      "Id": "company_detail_anduril_5165052007",
-      "Kind": "greenhouse_detail",
-      "Company": "Anduril Industries",
-      "CareersUrl": "https://job-boards.greenhouse.io/andurilindustries",
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 1,
-      "DurationMs": 137,
-      "Error": null
-    },
-    {
-      "Id": "company_detail_anduril_4687724007",
-      "Kind": "greenhouse_detail",
-      "Company": "Anduril Industries",
-      "CareersUrl": "https://job-boards.greenhouse.io/andurilindustries",
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 1,
-      "DurationMs": 108,
-      "Error": null
-    },
-    {
-      "Id": "company_detail_anduril_5064471007",
-      "Kind": "greenhouse_detail",
-      "Company": "Anduril Industries",
-      "CareersUrl": "https://job-boards.greenhouse.io/andurilindustries",
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 1,
-      "DurationMs": 111,
-      "Error": null
-    },
-    {
-      "Id": "company_detail_anduril_5200384007",
-      "Kind": "greenhouse_detail",
-      "Company": "Anduril Industries",
-      "CareersUrl": "https://job-boards.greenhouse.io/andurilindustries",
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 1,
-      "DurationMs": 110,
-      "Error": null
-    },
-    {
-      "Id": "company_detail_anduril_5165038007",
-      "Kind": "greenhouse_detail",
-      "Company": "Anduril Industries",
-      "CareersUrl": "https://job-boards.greenhouse.io/andurilindustries",
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 1,
-      "DurationMs": 163,
-      "Error": null
-    },
-    {
-      "Id": "company_detail_anduril_5174050007",
-      "Kind": "greenhouse_detail",
-      "Company": "Anduril Industries",
-      "CareersUrl": "https://job-boards.greenhouse.io/andurilindustries",
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 1,
-      "DurationMs": 110,
-      "Error": null
-    },
-    {
-      "Id": "company_detail_anduril_5186566007",
-      "Kind": "greenhouse_detail",
-      "Company": "Anduril Industries",
-      "CareersUrl": "https://job-boards.greenhouse.io/andurilindustries",
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 1,
-      "DurationMs": 156,
-      "Error": null
-    },
-    {
-      "Id": "company_detail_anduril_5203392007",
-      "Kind": "greenhouse_detail",
-      "Company": "Anduril Industries",
-      "CareersUrl": "https://job-boards.greenhouse.io/andurilindustries",
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 1,
-      "DurationMs": 130,
-      "Error": null
-    },
-    {
-      "Id": "company_detail_anduril_5069946007",
-      "Kind": "greenhouse_detail",
-      "Company": "Anduril Industries",
-      "CareersUrl": "https://job-boards.greenhouse.io/andurilindustries",
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 1,
-      "DurationMs": 105,
-      "Error": null
-    },
-    {
-      "Id": "company_detail_anduril_5160284007",
-      "Kind": "greenhouse_detail",
-      "Company": "Anduril Industries",
-      "CareersUrl": "https://job-boards.greenhouse.io/andurilindustries",
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 1,
-      "DurationMs": 116,
-      "Error": null
-    },
-    {
-      "Id": "company_detail_anduril_5059872007",
-      "Kind": "greenhouse_detail",
-      "Company": "Anduril Industries",
-      "CareersUrl": "https://job-boards.greenhouse.io/andurilindustries",
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 1,
-      "DurationMs": 125,
-      "Error": null
-    },
-    {
-      "Id": "company_detail_anduril_5179521007",
-      "Kind": "greenhouse_detail",
-      "Company": "Anduril Industries",
-      "CareersUrl": "https://job-boards.greenhouse.io/andurilindustries",
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 1,
-      "DurationMs": 383,
-      "Error": null
-    },
-    {
-      "Id": "company_detail_anduril_5156570007",
-      "Kind": "greenhouse_detail",
-      "Company": "Anduril Industries",
-      "CareersUrl": "https://job-boards.greenhouse.io/andurilindustries",
-      "Success": true,
-      "NotModified": false,
-      "StatusCode": 200,
-      "Jobs": 1,
-      "DurationMs": 15645,
+      "Jobs": 20,
+      "DurationMs": 28007,
       "Error": null
     }
   ]
