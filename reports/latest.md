@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-10 15:14:29Z UTC
+Updated: 2026-08-10 16:13:16Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 49 (Possible) | [Electrical and Electronics Engineer I (Onsite)](https://jobright.ai/jobs/info/6a79f0359ee17f276dbf042d) | RTX | Rockford, IL | 08/10/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I - Plant Engineering](https://jobright.ai/jobs/info/6a79f16267a1ad0bc53d09fd) | Framatome North America | Richland, WA | 08/10/2026 15:42:26 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a79f4799ee17f276dbf0596) | Latitude Inc | Manassas, VA | 08/10/2026 15:55:37 | Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Firmware Engineer - Early Career](https://jobright.ai/jobs/info/6a79ece967a1ad0bc53d082f) | Seagate Technology | Longmont, CO | 08/10/2026 15:23:21 | Sponsorship: Past Sponsorship |
+| 54 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6a79ecf99ee17f276dbf0320) | Kratos Defense and Security Solutions | Crane, IN | 08/10/2026 15:23:37 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Graduate Hardware Engineer](https://jobright.ai/jobs/info/6a4556f9c2d11a6a46668d9c) | IMC Trading | Chicago, IL | 07/27/2026 01:12:48 | Sponsorship: Past Sponsorship |
 | 81 (Strong) | [Radio Frequency (RF) Digital Design Electrical Engineer I (Hybrid)](https://jobright.ai/jobs/info/6a79e4d4a26ccc369f83b462) | RTX | Aguadilla, PR | 08/10/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Hardware Design Engineer I](https://jobright.ai/jobs/info/6a79d9819ee17f276dbefc06) | Cintas | Florence, SC | 08/10/2026 14:00:33 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-08-10 15:14:29Z UTC
 | 55 (Good) | [EMC Test Engineer (Entry Level)](https://jobright.ai/jobs/info/6a750cc2972ac843c6998c0a) | Dice | Fremont, CA | 08/06/2026 22:37:54 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [CAD Engineer (Entry Level) Job Details \| RailWorks](https://jobright.ai/jobs/info/6a31b7f90ff23769fdb1ff3d) | RailWorks Corporation | New York, NY | 08/06/2026 14:37:20 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a74fa6bbb6ca93ae560d12a) | New York Power Authority | Massena, NY | 08/06/2026 21:19:39 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7503aa7b3417772ade2e6a) | Zachry Group | Charlotte, NC | 08/06/2026 21:59:06 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [CAD Engineer (Entry Level)](https://jobright.ai/jobs/info/6a55fd7ff7517b519ad52894) | RailWorks Corporation | New York, NY | 08/06/2026 21:37:20 | Sponsorship: Past Sponsorship |
-| 54 (Good) | [Entry Level Reliability Engineer](https://jobright.ai/jobs/info/6a7501f2b17cba5690358d2a) | MTA, Inc. | Huntsville, AL | 08/06/2026 21:51:46 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a74ec817b3417772ade2668) | Forgent Power Solutions, Inc. | Champlin, MN | 08/06/2026 13:20:17 | Sponsorship: Not Sure |
-| 41 (Possible) | [Electrical Engineer - Entry Level Job Details \| REV Group, Inc.](https://jobright.ai/jobs/info/6a6b0efaacb0a61f9dbbe861) | REV Group, Inc | Charlotte, MI | 08/06/2026 20:09:52 | Sponsorship: Past Sponsorship |
