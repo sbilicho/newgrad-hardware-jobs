@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-10 09:03:30Z UTC
+Updated: 2026-08-10 10:35:50Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 80 (Strong) | [Graduate - Analog Mixed-Signal Design Engineer](https://jobright.ai/jobs/info/6a7995e17b3417772aded22a) | Infineon Technologies | El Segundo, CA | 08/10/2026 09:12:01 | Sponsorship: Past Sponsorship |
+| 79 (Strong) | [Graduate- Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a799948a26ccc369f83a2da) | Infineon Technologies | San Jose, CA | 08/10/2026 09:26:32 | Sponsorship: Past Sponsorship |
+| 79 (Strong) | [Graduate - Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a799967a26ccc369f83a2e4) | Infineon Technologies | San Jose, CA | 08/10/2026 09:27:03 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6a798387a26ccc369f839fb1) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 08/10/2026 07:53:43 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [Hardware Engineer (High Performance Computing Digital Design Engineering) - Entry Level (Maryland)](https://jobright.ai/jobs/info/6a799220a26ccc369f83a216) | National Security Agency | Fort Meade, MD | 08/10/2026 08:56:00 | Sponsorship: Past Sponsorship |
 | 73 (Strong) | [Jr. ASIC Design Engineer](https://jobright.ai/jobs/info/6a0617937c753c287f6ff17b) | Fermilab | Batavia, IL | 08/09/2026 17:01:43 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-10 09:03:30Z UTC
 | 49 (Possible) | [Electrical Engineer (Analog) or Electrical Engineer I and/or II](https://jobright.ai/jobs/info/6a74d2d3bb6ca93ae560c0df) | Custom Manufacturing & Engineering | Pinellas Park, FL | 08/06/2026 18:45:22 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [RF Engineer (Starshield)](https://boards.greenhouse.io/spacex/jobs/8676060002?gh_jid=8676060002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 08/06/2026 15:54:50 | Security clearance language is present |
 | 47 (Possible) | [Process Quality/ Validation Engineer](https://jobright.ai/jobs/info/6a74e311bb6ca93ae560c7f7) | Vetforce Solutions | Chicago, IL | 08/06/2026 19:40:01 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [Post Silicon Validation Engineer](https://jobright.ai/jobs/info/6a74af52b17cba5690356e4d) | Programmers.io | Santa Clara, CA | 08/06/2026 13:58:51 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a74c1f5972ac843c69970af) | E-ONE | Winter Park, FL | 08/06/2026 15:18:23 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a74d98537da8525e8cdaf23) | Sargent & Lundy | Phoenix, AZ | 08/06/2026 18:59:17 | Sponsorship: Past Sponsorship |
