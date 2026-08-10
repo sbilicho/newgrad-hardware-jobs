@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-10 11:33:56Z UTC
+Updated: 2026-08-10 12:29:45Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a79c2de9ee17f276dbef606) | Latitude Inc | Manassas, VA | 08/10/2026 12:23:58 | Sponsorship: Past Sponsorship |
+| 33 (Possible) | [New College Grad - Product Yield Enhancement Engineer, HBM](https://jobright.ai/jobs/info/6a448f7d0153061b8b3e09e2) | Micron Technology | Boise, ID | 07/23/2026 09:01:34 | Sponsorship: Past Sponsorship |
+| 55 (Good) | [Electron Beam Product Engineer](https://jobright.ai/jobs/info/6a3478b17f3fdd180d4cab1e) | KLA | Ann Arbor, MI | 08/10/2026 04:04:06 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a79aeab67a1ad0bc53cf8f6) | AE Works Ltd. | Pittsburgh, PA | 08/10/2026 10:57:47 | Sponsorship: Past Sponsorship |
 | 80 (Strong) | [Graduate - Analog Mixed-Signal Design Engineer](https://jobright.ai/jobs/info/6a7995e17b3417772aded22a) | Infineon Technologies | El Segundo, CA | 08/10/2026 09:12:01 | Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Graduate- Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a799948a26ccc369f83a2da) | Infineon Technologies | San Jose, CA | 08/10/2026 09:26:32 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-10 11:33:56Z UTC
 | 85 (Strong) | [Associate ASIC and/or FPGA Design and Verification Engineer](https://jobright.ai/jobs/info/6a74c95cb17cba5690357828) | Boeing | El Segundo, CA | 08/06/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 57 (Good) | [Analog IC Design Engineer](https://jobright.ai/jobs/info/6a63bf7c8d536034496041b6) | SRI | Princeton, NJ | 08/06/2026 16:16:34 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Graduate- Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a58d6df4da96a42cfd8d61c) | Infineon Technologies | San Jose, CA | 08/06/2026 17:27:08 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I-III](https://jobright.ai/jobs/info/6a74a8c1b17cba5690356bfc) | North Carolina Department of Agriculture and Consumer Services | Wilson, NC | 08/06/2026 15:31:13 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Electrical Engineer (Analog) or Electrical Engineer I and/or II](https://jobright.ai/jobs/info/6a74d2d3bb6ca93ae560c0df) | Custom Manufacturing & Engineering | Pinellas Park, FL | 08/06/2026 18:45:22 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [RF Engineer (Starshield)](https://boards.greenhouse.io/spacex/jobs/8676060002?gh_jid=8676060002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 08/06/2026 15:54:50 | Security clearance language is present |
