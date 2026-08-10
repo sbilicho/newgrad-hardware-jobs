@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-10 21:55:39Z UTC
+Updated: 2026-08-10 22:49:23Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (2027)](https://jobright.ai/jobs/info/6a7a53d4bb6ca93ae561b466) | Dice | Minneapolis, MN | 08/10/2026 22:42:28 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7a5335bb6ca93ae561b3d3) | Wold Architects and Engineers | Denver, CO | 08/10/2026 22:39:49 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [CAD Engineer - Entry Level](https://jobright.ai/jobs/info/6a7a523fb17cba5690366aa0) | Dice | New York, NY | 08/10/2026 22:35:43 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a7a458167a1ad0bc53d2a3e) | EVS, Inc. | Minnetonka, MN | 08/10/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7a432e67a1ad0bc53d296d) | Mettler-Toledo International, Inc | Columbus, OH | 08/10/2026 21:31:26 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [New College Grad - DRAM Design Engineer](https://jobright.ai/jobs/info/6a7a47f4a26ccc369f83da15) | Micron Technology | Boise, ID | 08/10/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-10 21:55:39Z UTC
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6a743ac3972ac843c6994fcd) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 08/06/2026 07:41:55 | Sponsorship: Past Sponsorship |
 | 64 (Good) | [Principal Electronics Test Engineer I](https://jobright.ai/jobs/info/6a75f54767a1ad0bc53c7f90) | CesiumAstro | Austin, TX | 08/07/2026 15:09:59 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Instrumentation and Controls Engineer I (Operations)](https://jobright.ai/jobs/info/6a3c540e882f121f56a345ad) | Relativity Space | John C. Stennis Space Center, MS | 08/07/2026 06:41:01 | Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer in Training I](https://jobright.ai/jobs/info/6a58f3f7856af468ab000ec8) | EwingCole | Irvine, CA | 08/07/2026 11:43:27 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a75e5c27b3417772ade5815) | Paragon Energy Solutions | Fort Worth, TX | 08/07/2026 14:03:46 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a75e43967a1ad0bc53c7871) | Sargent & Lundy | Wilmington, DE | 08/07/2026 09:20:07 | Sponsorship: Past Sponsorship |
