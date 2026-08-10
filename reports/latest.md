@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-10 19:04:24Z UTC
+Updated: 2026-08-10 20:04:03Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7a21689ee17f276dbf1699) | TRC Companies, Inc. | Salina, NY | 08/10/2026 19:07:20 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7a2aed67a1ad0bc53d1e42) | Affiliated Engineers, Inc. | Gainesville, FL | 08/10/2026 19:47:57 | Sponsorship: Past Sponsorship |
+| 79 (Strong) | [Software R&D Engineer, VLSI Physical Design - New College Grad 2026](https://jobright.ai/jobs/info/6a7a2a1167a1ad0bc53d1e10) | NVIDIA AI | Monte Sereno, CA | 07/27/2026 19:43:44 | Sponsorship: Past Sponsorship |
 | 34 (Possible) | [Software Engineer III (Full Time) - United States ENG/CPO/WTG ETR](https://jobright.ai/jobs/info/6a7a17cb9ee17f276dbf12bf) | Cisco | Milpitas, CA | 08/10/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 83 (Strong) | [Senior Engineer I - Physical Design](https://jobright.ai/jobs/info/6a062829bc4184089f24c0e8) | Microchip Technology Inc. | Chandler, AZ | 08/09/2026 12:46:46 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a79fb68b17cba5690364a87) | Mortenson | Minneapolis, MN | 08/10/2026 16:25:12 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-10 19:04:24Z UTC
 | 37 (Possible) | [Electrical Engineer I Job Details \| Freeport McMoRan](https://jobright.ai/jobs/info/6a759db27b3417772ade4c68) | Freeport-McMoRan | Safford, AZ | 08/07/2026 01:56:18 | Sponsorship: Not Sure |
 | 72 (Strong) | [Hardware Engineer](https://jobright.ai/jobs/info/6a6cc5e65c54bc4752cef205) | WD | San Jose, CA; Colorado Springs, CO; Irvine, CA; Longmont, CO; Fremont, CA; Rochester, MN | 08/07/2026 02:20:18 | Sponsorship: Not Sure |
 | 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a75863e7b3417772ade4922) | ByteDance | San Jose, CA | 08/06/2026 05:19:38 | Sponsorship: Past Sponsorship |
-| 89 (Strong) | [ASIC Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a756b33bb6ca93ae560e8e4) | NVIDIA | Santa Clara, CA | 07/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Computer/Electrical Engineer I](https://jobright.ai/jobs/info/6a304bf989f8f147d3734a56) | TSC | Bloomington, IN | 08/06/2026 22:21:11 | Sponsorship: Past Sponsorship |
-| 80 (Strong) | [ASIC Design Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a58be2a686b4755d1e0c0d2) | NVIDIA | Austin, TX | 07/24/2026 15:08:44 | Sponsorship: Past Sponsorship |
