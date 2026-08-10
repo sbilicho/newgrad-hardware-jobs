@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-10 16:13:16Z UTC
+Updated: 2026-08-10 17:13:09Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a79fb68b17cba5690364a87) | Mortenson | Minneapolis, MN | 08/10/2026 16:25:12 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I [Hybrid]](https://jobright.ai/jobs/info/6a7a0158b17cba5690364daa) | Newcomb & Boyd, LLP | Atlanta, GA | 08/10/2026 16:50:32 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a7a02e99ee17f276dbf0c0b) | Latitude Inc | Manassas, VA | 08/10/2026 16:57:13 | Sponsorship: Past Sponsorship |
+| 62 (Good) | [Hardware Verification Engineer (Solon)](https://jobright.ai/jobs/info/6a5df5c3270e3033b045b3f6) | Ralliant | Solon, OH | 07/14/2026 10:17:17 | Sponsorship: Past Sponsorship |
+| 89 (Strong) | [Hardware Engineer (High Performance Computing Digital Design Engineering) - Entry Level (Maryland)](https://jobright.ai/jobs/info/6a79fcedab1385611f8fca44) | USAJOBS | Fort Meade, MD | 08/10/2026 16:31:41 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electrical and Electronics Engineer I (Onsite)](https://jobright.ai/jobs/info/6a79f0359ee17f276dbf042d) | RTX | Rockford, IL | 08/10/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - Plant Engineering](https://jobright.ai/jobs/info/6a79f16267a1ad0bc53d09fd) | Framatome North America | Richland, WA | 08/10/2026 15:42:26 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a79f4799ee17f276dbf0596) | Latitude Inc | Manassas, VA | 08/10/2026 15:55:37 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-08-10 16:13:16Z UTC
 | 80 (Strong) | [ASIC Design Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a58be2a686b4755d1e0c0d2) | NVIDIA | Austin, TX | 07/24/2026 15:08:44 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial (Summer 2027)](https://jobright.ai/jobs/info/6a751560bb6ca93ae560db70) | Sargent & Lundy | Chicago, IL | 08/06/2026 23:14:40 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a6901c936d36c1ff2997918) | TSC | Bloomington, IN | 08/06/2026 22:21:11 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a75156bb17cba569035950b) | Sargent & Lundy | Chicago, IL | 08/06/2026 23:14:51 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a75066b7b3417772ade2f61) | Sargent & Lundy | Wilmington, DE | 08/06/2026 22:10:51 | Sponsorship: Past Sponsorship |
-| 55 (Good) | [EMC Test Engineer (Entry Level)](https://jobright.ai/jobs/info/6a750cc2972ac843c6998c0a) | Dice | Fremont, CA | 08/06/2026 22:37:54 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [CAD Engineer (Entry Level) Job Details \| RailWorks](https://jobright.ai/jobs/info/6a31b7f90ff23769fdb1ff3d) | RailWorks Corporation | New York, NY | 08/06/2026 14:37:20 | Sponsorship: Not Sure |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a74fa6bbb6ca93ae560d12a) | New York Power Authority | Massena, NY | 08/06/2026 21:19:39 | Sponsorship: Past Sponsorship |
