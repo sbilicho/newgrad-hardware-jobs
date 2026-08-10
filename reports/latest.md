@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-10 00:05:00Z UTC
+Updated: 2026-08-10 02:32:07Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 73 (Strong) | [Jr. ASIC Design Engineer](https://jobright.ai/jobs/info/6a0617937c753c287f6ff17b) | Fermilab | Batavia, IL | 08/09/2026 17:01:43 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Hardware Verification Engineer (Solon)](https://jobright.ai/jobs/info/6a566d50f7517b519ad55ae3) | Ralliant | Solon, OH | 07/14/2026 17:09:36 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer (Safety System Products) Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a78e7cfbb6ca93ae5616878) | Westinghouse Electric Company | Warrendale, PA | 08/09/2026 13:49:19 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer I Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a78e7e367a1ad0bc53ce441) | Westinghouse Electric Company | Cranberry Township, PA; Rock Hill, SC | 08/09/2026 13:49:39 | Sponsorship: Not Sure |
@@ -103,4 +104,3 @@ Updated: 2026-08-10 00:05:00Z UTC
 | 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a74d98537da8525e8cdaf23) | Sargent & Lundy | Phoenix, AZ | 08/06/2026 18:59:17 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Entry Level Spacecraft Integration and Test Engineer - Millennium Space Systems](https://jobright.ai/jobs/info/6a74c96837da8525e8cda8e6) | Boeing | El Segundo, CA | 08/06/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 55 (Good) | [EMC Test Engineer (Entry Level)](https://jobright.ai/jobs/info/6a74d935972ac843c699788c) | Yoh, A Day & Zimmermann Company | Fremont, CA | 08/06/2026 18:57:57 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Controls & Electrical Engineer I](https://jobright.ai/jobs/info/6a74d1ac20b26a6e93f48ff3) | Cytiva | Hauppauge, NY | 08/06/2026 11:25:48 | Sponsorship: Past Sponsorship |
