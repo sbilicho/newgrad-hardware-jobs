@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-10 13:38:49Z UTC
+Updated: 2026-08-10 15:14:29Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 55 (Good) | [Graduate Hardware Engineer](https://jobright.ai/jobs/info/6a4556f9c2d11a6a46668d9c) | IMC Trading | Chicago, IL | 07/27/2026 01:12:48 | Sponsorship: Past Sponsorship |
+| 81 (Strong) | [Radio Frequency (RF) Digital Design Electrical Engineer I (Hybrid)](https://jobright.ai/jobs/info/6a79e4d4a26ccc369f83b462) | RTX | Aguadilla, PR | 08/10/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Hardware Design Engineer I](https://jobright.ai/jobs/info/6a79d9819ee17f276dbefc06) | Cintas | Florence, SC | 08/10/2026 14:00:33 | Sponsorship: Past Sponsorship |
 | 31 (Possible) | [Electronics Engineer New Grad](https://jobright.ai/jobs/info/6a6b26815c54bc4752ce76cb) | BubblyNet | Clearwater, FL | 07/30/2026 10:25:05 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a79ced29ee17f276dbef997) | Latitude Inc | Manassas, VA | 08/10/2026 13:14:58 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a79c2de9ee17f276dbef606) | Latitude Inc | Manassas, VA | 08/10/2026 12:23:58 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-10 13:38:49Z UTC
 | 54 (Good) | [Entry Level Reliability Engineer](https://jobright.ai/jobs/info/6a7501f2b17cba5690358d2a) | MTA, Inc. | Huntsville, AL | 08/06/2026 21:51:46 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a74ec817b3417772ade2668) | Forgent Power Solutions, Inc. | Champlin, MN | 08/06/2026 13:20:17 | Sponsorship: Not Sure |
 | 41 (Possible) | [Electrical Engineer - Entry Level Job Details \| REV Group, Inc.](https://jobright.ai/jobs/info/6a6b0efaacb0a61f9dbbe861) | REV Group, Inc | Charlotte, MI | 08/06/2026 20:09:52 | Sponsorship: Past Sponsorship |
-| 43 (Possible) | [Electrical Engineer - Substation, Entry Level](https://jobright.ai/jobs/info/6a74e9de7b3417772ade254c) | EVS, Inc. | Eden Prairie, MN | 08/06/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer - Boston, MA](https://jobright.ai/jobs/info/6a74f4c720b26a6e93f49f12) | PAE | Boston, MA | 08/06/2026 20:55:35 | Sponsorship: Past Sponsorship |
-| 85 (Strong) | [Associate ASIC and/or FPGA Design and Verification Engineer](https://jobright.ai/jobs/info/6a74c95cb17cba5690357828) | Boeing | El Segundo, CA | 08/06/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
