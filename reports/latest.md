@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-10 21:01:52Z UTC
+Updated: 2026-08-10 21:55:39Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a7a458167a1ad0bc53d2a3e) | EVS, Inc. | Minnetonka, MN | 08/10/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7a432e67a1ad0bc53d296d) | Mettler-Toledo International, Inc | Columbus, OH | 08/10/2026 21:31:26 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [New College Grad - DRAM Design Engineer](https://jobright.ai/jobs/info/6a7a47f4a26ccc369f83da15) | Micron Technology | Boise, ID | 08/10/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 33 (Possible) | [New College Grad - Memory Design Engineer, HBM](https://jobright.ai/jobs/info/6a7a3fcd67a1ad0bc53d282e) | Micron Technology | Richardson, TX | 08/10/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7a21689ee17f276dbf1699) | TRC Companies, Inc. | Salina, NY | 08/10/2026 19:07:20 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7a2aed67a1ad0bc53d1e42) | Affiliated Engineers, Inc. | Gainesville, FL | 08/10/2026 19:47:57 | Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Software R&D Engineer, VLSI Physical Design - New College Grad 2026](https://jobright.ai/jobs/info/6a7a2a1167a1ad0bc53d1e10) | NVIDIA AI | Monte Sereno, CA | 07/27/2026 19:43:44 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-08-10 21:01:52Z UTC
 | 37 (Possible) | [Electrical Engineer in Training I](https://jobright.ai/jobs/info/6a58f3f7856af468ab000ec8) | EwingCole | Irvine, CA | 08/07/2026 11:43:27 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a75e5c27b3417772ade5815) | Paragon Energy Solutions | Fort Worth, TX | 08/07/2026 14:03:46 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a75e43967a1ad0bc53c7871) | Sargent & Lundy | Wilmington, DE | 08/07/2026 09:20:07 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Manufacturing Test Engineer](https://jobright.ai/jobs/info/6a75dd26b17cba569035b478) | Kipp & Zonen | Austin, TX | 08/07/2026 06:27:02 | Sponsorship: Not Sure |
-| 37 (Possible) | [Electrical Engineer I Job Details \| Freeport McMoRan](https://jobright.ai/jobs/info/6a759db27b3417772ade4c68) | Freeport-McMoRan | Safford, AZ | 08/07/2026 01:56:18 | Sponsorship: Not Sure |
-| 72 (Strong) | [Hardware Engineer](https://jobright.ai/jobs/info/6a6cc5e65c54bc4752cef205) | WD | San Jose, CA; Colorado Springs, CO; Irvine, CA; Longmont, CO; Fremont, CA; Rochester, MN | 08/07/2026 02:20:18 | Sponsorship: Not Sure |
-| 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a75863e7b3417772ade4922) | ByteDance | San Jose, CA | 08/06/2026 05:19:38 | Sponsorship: Past Sponsorship |
