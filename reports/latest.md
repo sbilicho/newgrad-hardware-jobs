@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-11 09:45:08Z UTC
+Updated: 2026-08-11 10:38:29Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 90 (Strong) | [Digital IC Design Engineer](https://jobright.ai/jobs/info/6a42756ba5e15b1068379054) | Texas Instruments | Dallas, TX | 08/11/2026 09:58:22 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [MEP Electrical Engineer](https://jobright.ai/jobs/info/6a461c7e0dd56c76cc2f603b) | SEH | Denver, CO | 08/11/2026 02:04:40 | Sponsorship: No |
 | 59 (Good) | [Drive Teardown Failure Analysis Engineer](https://jobright.ai/jobs/info/6a4e9e6315b4965afd5840a6) | WD | San Jose, CA | 08/10/2026 23:57:56 | Sponsorship: No |
 | 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6977d1d752f3c27ec643f5bc) | Salas O'Brien | Merritt Island, FL | 08/10/2026 00:29:56 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7a5584b17cba5690366c79) | Wold Architects and Engineers | Denver, CO | 08/10/2026 22:18:57 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-11 09:45:08Z UTC
 | 81 (Strong) | [Associate Firmware Engineer](https://job-boards.greenhouse.io/ionq/jobs/6096581004) | IonQ | Pleasanton, California, United States | 08/07/2026 21:08:48 | Full-time status is inferred from the first-party posting |
 | 54 (Good) | [Electronics Engineer I](https://jobright.ai/jobs/info/6a764c98b17cba569035da67) | Freedom Electronics | Kennesaw, GA | 08/07/2026 15:32:36 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a58d3d94da96a42cfd8d461) | Sparton | De Leon Springs, FL | 08/07/2026 19:32:37 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 69 (Good) | [CMOS Mixed-Signal Circuit Design Engineer](https://jobright.ai/jobs/info/6a526f77e726ec56126a3046) | Analog Bits | Sunnyvale, CA | 08/07/2026 18:44:58 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a760b514817aa43070465f3) | Amrize | Midlothian, TX | 08/07/2026 19:22:09 | Sponsorship: Past Sponsorship |
