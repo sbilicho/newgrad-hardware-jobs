@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-11 18:13:02Z UTC
+Updated: 2026-08-11 19:29:42Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 87 (Strong) | [Analog Mixed-Signal Design Engineer](https://jobright.ai/jobs/info/6a552a0ff2c46727285f030f) | OMNIVISION | Santa Clara, CA | 08/11/2026 18:47:43 | Sponsorship: Past Sponsorship |
+| 81 (Strong) | [Radio Frequency (RF) Digital Design Electrical Engineer I (Hybrid)](https://jobright.ai/jobs/info/6a7b7130bc05d77f2bddef13) | Collins Aerospace | Aguadilla, PR | 08/11/2026 19:00:00 | Sponsorship: Past Sponsorship |
+| 54 (Good) | [Test Engineer, New College Graduate, (Teradyne, North Reading, MA)](https://jobright.ai/jobs/info/6a70c6cd357dfc6ff2b3afa3) | Teradyne | North Reading, MA | 08/11/2026 11:29:51 | Sponsorship: No |
 | 50 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7b52f3ecf5194164fbd41c) | Longshot Space Technologies Corporation | Alameda, CA | 08/11/2026 16:50:59 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [FAST Labs Electrical Engineer I](https://jobright.ai/jobs/info/6a7b55c5ecf5194164fbd58f) | BAE Systems, Inc. | Merrimack, NH | 08/11/2026 17:03:01 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer – Entry Level *CLEARANCE REQUIRED*](https://jobright.ai/jobs/info/6a7b4733b933773d16be639f) | General Dynamics | Pittsfield, MA | 08/11/2026 16:00:51 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-11 18:13:02Z UTC
 | 52 (Good) | [CAD Engineer - Entry Level](https://jobright.ai/jobs/info/6a7725fa4817aa430704a09f) | RailWorks Corporation | New York, NY | 08/07/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - Vehicle Controls](https://jobright.ai/jobs/info/6a770edb67a1ad0bc53cbecf) | SAF-HOLLAND Inc. | Kansas City, MO | 08/08/2026 11:11:23 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [RF Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a76f5b3a26ccc369f836c04) | Raytheon | Tucson, AZ | 08/08/2026 09:24:03 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 80 (Strong) | [Graduate - Analog Mixed-Signal Design Engineer](https://jobright.ai/jobs/info/6a217702338c01230511e355) | Infineon Technologies | El Segundo, CA | 08/07/2026 18:22:37 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a752be820b26a6e93f4af2e) | New York Power Authority | Massena, NY | 08/07/2026 21:33:14 | Sponsorship: Past Sponsorship |
-| 68 (Good) | [22808 - Silicon Validation Engineer Job Details \| QualityAI](https://jobright.ai/jobs/info/6a76b5cc67a1ad0bc53cb1e5) | Qualitest | Petah Tikva, IL | 08/08/2026 04:51:24 | Sponsorship: Past Sponsorship |
