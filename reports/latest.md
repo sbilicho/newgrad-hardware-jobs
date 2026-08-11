@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-11 21:19:17Z UTC
+Updated: 2026-08-11 22:13:37Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED*](https://jobright.ai/jobs/info/6a7b99af77e6b569c61c1c04) | General Dynamics Mission Systems | Pittsfield, MA | 08/11/2026 21:52:47 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Reliability Engineer I Job Details \| Amrize](https://jobright.ai/jobs/info/6a69bebcc63ba56308f4fc87) | Amrize | Florence, CO | 08/11/2026 12:22:03 | Sponsorship: Not Sure |
 | 46 (Possible) | [Reliability Engineer I](https://jobright.ai/jobs/info/6a5a94ab856af468ab0095f5) | Amrize | Florence, CO | 08/11/2026 12:22:03 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7b7cf63b399d106e4d6d52) | Bath Group, LLC | El Paso, TX | 08/11/2026 19:50:14 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-11 21:19:17Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a777a0b67a1ad0bc53cc834) | Latitude Inc | Manassas, VA | 08/08/2026 18:48:43 | Sponsorship: Past Sponsorship |
 | 90 (Strong) | [ASIC Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a5ad072c8e3a473cb8accda) | NVIDIA | Santa Clara, CA | 08/08/2026 17:24:18 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer I (BOS) (R5046)](https://jobright.ai/jobs/info/6a5d49f4686b4755d1e1d4dc) | Shield AI | Boston, MA | 08/08/2026 11:15:45 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Entry Level Electronics Engineer](https://jobright.ai/jobs/info/6a773918bb6ca93ae561458a) | Centrus Energy Corp. | Oak Ridge, TN | 08/08/2026 14:11:36 | Sponsorship: Past Sponsorship |
