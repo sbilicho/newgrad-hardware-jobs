@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-11 11:33:23Z UTC
+Updated: 2026-08-11 12:28:11Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7b09c7c6610537d33f15ee) | GMEP Engineers, Inc. | Lake Forest, CA | 08/10/2026 16:03:32 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I – Early Career (2026 Starts)](https://jobright.ai/jobs/info/6a572eade9b77f668bd6701d) | Blue Origin | Greater Seattle Area | 08/11/2026 09:42:48 | Sponsorship: Past Sponsorship |
 | 90 (Strong) | [Digital IC Design Engineer](https://jobright.ai/jobs/info/6a42756ba5e15b1068379054) | Texas Instruments | Dallas, TX | 08/11/2026 09:58:22 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [MEP Electrical Engineer](https://jobright.ai/jobs/info/6a461c7e0dd56c76cc2f603b) | SEH | Denver, CO | 08/11/2026 02:04:40 | Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-08-11 11:33:23Z UTC
 | 40 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (2027)](https://jobright.ai/jobs/info/6a766586a26ccc369f83541f) | Sargent & Lundy | Minneapolis, MN | 08/07/2026 16:08:54 | Sponsorship: No |
 | 72 (Strong) | [Post Silicon Validation Engineer](https://jobright.ai/jobs/info/6a7667e0bb6ca93ae561287b) | MPower Plus | Santa Clara, CA | 08/07/2026 23:18:56 | Sponsorship: Past Sponsorship |
 | 81 (Strong) | [Associate Firmware Engineer](https://job-boards.greenhouse.io/ionq/jobs/6096581004) | IonQ | Pleasanton, California, United States | 08/07/2026 21:08:48 | Full-time status is inferred from the first-party posting |
-| 54 (Good) | [Electronics Engineer I](https://jobright.ai/jobs/info/6a764c98b17cba569035da67) | Freedom Electronics | Kennesaw, GA | 08/07/2026 15:32:36 | Sponsorship: Past Sponsorship |
