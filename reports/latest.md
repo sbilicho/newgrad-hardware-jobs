@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-11 07:43:07Z UTC
+Updated: 2026-08-11 08:40:04Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 59 (Good) | [Drive Teardown Failure Analysis Engineer](https://jobright.ai/jobs/info/6a4e9e6315b4965afd5840a6) | WD | San Jose, CA | 08/10/2026 23:57:56 | Sponsorship: No |
 | 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6977d1d752f3c27ec643f5bc) | Salas O'Brien | Merritt Island, FL | 08/10/2026 00:29:56 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7a5584b17cba5690366c79) | Wold Architects and Engineers | Denver, CO | 08/10/2026 22:18:57 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a5fe74b8c7fd835513bbdc5) | AECOM | Denver, CO | 08/10/2026 19:04:24 | U.S. citizenship language is present; Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-08-11 07:43:07Z UTC
 | 46 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a58d3d94da96a42cfd8d461) | Sparton | De Leon Springs, FL | 08/07/2026 19:32:37 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 69 (Good) | [CMOS Mixed-Signal Circuit Design Engineer](https://jobright.ai/jobs/info/6a526f77e726ec56126a3046) | Analog Bits | Sunnyvale, CA | 08/07/2026 18:44:58 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a760b514817aa43070465f3) | Amrize | Midlothian, TX | 08/07/2026 19:22:09 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [I&C Hardware Engineer Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a5c57d74da96a42cfd9c632) | Westinghouse Electric Company | Windsor, CT | 08/07/2026 10:34:31 | Sponsorship: Past Sponsorship |
