@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-11 12:28:11Z UTC
+Updated: 2026-08-11 14:05:07Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 87 (Strong) | [Associate ASIC/FPGA Design or Verification Engineer](https://jobright.ai/jobs/info/6a7b25733b399d106e4d4986) | Boeing | El Segundo, CA | 08/11/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7b2206ecf5194164fbc1c6) | University of Rochester | Rochester, NY | 08/11/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7b2b3decfd297707537389) | Paragon Energy Solutions | Fort Worth, TX | 08/11/2026 14:01:33 | Sponsorship: Past Sponsorship |
+| 51 (Good) | [Hardware Dev Engr II (Reliability Engineer) - AMZ26726.1](https://jobright.ai/jobs/info/69e6915bf8fa2f3ec32a2872) | Amazon | Nashville, TN | 08/11/2026 12:50:43 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7b09c7c6610537d33f15ee) | GMEP Engineers, Inc. | Lake Forest, CA | 08/10/2026 16:03:32 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I – Early Career (2026 Starts)](https://jobright.ai/jobs/info/6a572eade9b77f668bd6701d) | Blue Origin | Greater Seattle Area | 08/11/2026 09:42:48 | Sponsorship: Past Sponsorship |
 | 90 (Strong) | [Digital IC Design Engineer](https://jobright.ai/jobs/info/6a42756ba5e15b1068379054) | Texas Instruments | Dallas, TX | 08/11/2026 09:58:22 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-08-11 12:28:11Z UTC
 | 67 (Good) | [System Design & Failure Analysis Engineer](https://jobright.ai/jobs/info/6a6a85480b42f866b619944f) | WD | Irvine, CA | 08/07/2026 18:36:03 | Sponsorship: No |
 | 40 (Possible) | [RF Electrical Engineer](https://jobright.ai/jobs/info/6a7657ff4817aa4307047f62) | Booz Allen Hamilton | Colorado Springs, CO | 08/07/2026 18:56:10 | Sponsorship: No |
 | 52 (Good) | [CAD Engineer - Entry Level](https://jobright.ai/jobs/info/6a767a46b17cba569035e612) | RailWorks Corporation | New York, NY | 08/08/2026 00:37:26 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Structures Test Engineer](https://jobright.ai/jobs/info/69ea83c758811370cb133e32) | Joby Aviation | Santa Cruz, CA | 08/07/2026 17:20:39 | Sponsorship: Not Sure |
-| 40 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (2027)](https://jobright.ai/jobs/info/6a766586a26ccc369f83541f) | Sargent & Lundy | Minneapolis, MN | 08/07/2026 16:08:54 | Sponsorship: No |
-| 72 (Strong) | [Post Silicon Validation Engineer](https://jobright.ai/jobs/info/6a7667e0bb6ca93ae561287b) | MPower Plus | Santa Clara, CA | 08/07/2026 23:18:56 | Sponsorship: Past Sponsorship |
-| 81 (Strong) | [Associate Firmware Engineer](https://job-boards.greenhouse.io/ionq/jobs/6096581004) | IonQ | Pleasanton, California, United States | 08/07/2026 21:08:48 | Full-time status is inferred from the first-party posting |
