@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-11 15:15:56Z UTC
+Updated: 2026-08-11 16:15:08Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Electrical Engineer – Entry Level *CLEARANCE REQUIRED*](https://jobright.ai/jobs/info/6a7b4733b933773d16be639f) | General Dynamics | Pittsfield, MA | 08/11/2026 16:00:51 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 87 (Strong) | [Associate ASIC/FPGA Design or Verification Engineer](https://jobright.ai/jobs/info/6a7b25733b399d106e4d4986) | Boeing | El Segundo, CA | 08/11/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7b2206ecf5194164fbc1c6) | University of Rochester | Rochester, NY | 08/11/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7b2b3decfd297707537389) | Paragon Energy Solutions | Fort Worth, TX | 08/11/2026 14:01:33 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-11 15:15:56Z UTC
 | 68 (Good) | [22808 - Silicon Validation Engineer Job Details \| QualityAI](https://jobright.ai/jobs/info/6a76b5cc67a1ad0bc53cb1e5) | Qualitest | Petah Tikva, IL | 08/08/2026 04:51:24 | Sponsorship: Past Sponsorship |
 | 67 (Good) | [System Design & Failure Analysis Engineer](https://jobright.ai/jobs/info/6a6a85480b42f866b619944f) | WD | Irvine, CA | 08/07/2026 18:36:03 | Sponsorship: No |
 | 40 (Possible) | [RF Electrical Engineer](https://jobright.ai/jobs/info/6a7657ff4817aa4307047f62) | Booz Allen Hamilton | Colorado Springs, CO | 08/07/2026 18:56:10 | Sponsorship: No |
-| 52 (Good) | [CAD Engineer - Entry Level](https://jobright.ai/jobs/info/6a767a46b17cba569035e612) | RailWorks Corporation | New York, NY | 08/08/2026 00:37:26 | Sponsorship: Past Sponsorship |
