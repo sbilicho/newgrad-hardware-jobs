@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-11 00:49:30Z UTC
+Updated: 2026-08-11 01:49:31Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial](https://jobright.ai/jobs/info/6a7a79f79ee17f276dbf33b0) | Sargent & Lundy | Tampa, FL | 08/11/2026 01:25:11 | Sponsorship: Past Sponsorship |
+| 33 (Possible) | [New College Grad - Product Yield Enhancement Engineer, HBM](https://jobright.ai/jobs/info/6a448f7fef17a815538a4473) | Micron Technology | Boise, ID | 06/30/2026 14:48:45 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7a53389ee17f276dbf299e) | Laveer Engineering | New Stanton, PA | 08/10/2026 15:39:52 | Sponsorship: Not Sure |
 | 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (2027)](https://jobright.ai/jobs/info/6a7a53d4bb6ca93ae561b466) | Dice | Minneapolis, MN | 08/10/2026 22:42:28 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7a5335bb6ca93ae561b3d3) | Wold Architects and Engineers | Denver, CO | 08/10/2026 22:39:49 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-11 00:49:30Z UTC
 | 84 (Strong) | [FPGA Engineer I, Entry Level](https://jobright.ai/jobs/info/6a762295a26ccc369f833e33) | Muon Space | San Jose, CA | 08/07/2026 18:23:17 | Sponsorship: Past Sponsorship |
 | 38 (Possible) | [Electronic Engineer I](https://jobright.ai/jobs/info/6a30a010524fd5657fe11baf) | Advanced Energy | Fort Collins, CO | 08/07/2026 16:19:34 | Sponsorship: Past Sponsorship |
 | 96 (Strong) | [Digital Design Engineer I](https://jobright.ai/jobs/info/6a75e166bb6ca93ae560fb32) | Silicon Labs | Austin, TX | 08/07/2026 15:48:19 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6a743ac3972ac843c6994fcd) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 08/06/2026 07:41:55 | Sponsorship: Past Sponsorship |
-| 64 (Good) | [Principal Electronics Test Engineer I](https://jobright.ai/jobs/info/6a75f54767a1ad0bc53c7f90) | CesiumAstro | Austin, TX | 08/07/2026 15:09:59 | Sponsorship: Past Sponsorship |
