@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-11 01:49:31Z UTC
+Updated: 2026-08-11 04:01:44Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7a5584b17cba5690366c79) | Wold Architects and Engineers | Denver, CO | 08/10/2026 22:18:57 | Sponsorship: Past Sponsorship |
+| 43 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a5fe74b8c7fd835513bbdc5) | AECOM | Denver, CO | 08/10/2026 19:04:24 | U.S. citizenship language is present; Sponsorship: No |
+| 49 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6a7a872ba26ccc369f83eaf2) | General Dynamics Mission Systems | Manassas, VA | 08/10/2026 19:21:31 | Security clearance language is present; Sponsorship: No |
 | 41 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial](https://jobright.ai/jobs/info/6a7a79f79ee17f276dbf33b0) | Sargent & Lundy | Tampa, FL | 08/11/2026 01:25:11 | Sponsorship: Past Sponsorship |
 | 33 (Possible) | [New College Grad - Product Yield Enhancement Engineer, HBM](https://jobright.ai/jobs/info/6a448f7fef17a815538a4473) | Micron Technology | Boise, ID | 06/30/2026 14:48:45 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7a53389ee17f276dbf299e) | Laveer Engineering | New Stanton, PA | 08/10/2026 15:39:52 | Sponsorship: Not Sure |
@@ -101,6 +104,3 @@ Updated: 2026-08-11 01:49:31Z UTC
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a760b514817aa43070465f3) | Amrize | Midlothian, TX | 08/07/2026 19:22:09 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [I&C Hardware Engineer Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a5c57d74da96a42cfd9c632) | Westinghouse Electric Company | Windsor, CT | 08/07/2026 10:34:31 | Sponsorship: Past Sponsorship |
 | 86 (Strong) | [Low Power ASIC Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a540bc0e726ec56126a8e3e) | NVIDIA | Santa Clara, CA | 08/07/2026 17:36:10 | Sponsorship: Past Sponsorship |
-| 84 (Strong) | [FPGA Engineer I, Entry Level](https://jobright.ai/jobs/info/6a762295a26ccc369f833e33) | Muon Space | San Jose, CA | 08/07/2026 18:23:17 | Sponsorship: Past Sponsorship |
-| 38 (Possible) | [Electronic Engineer I](https://jobright.ai/jobs/info/6a30a010524fd5657fe11baf) | Advanced Energy | Fort Collins, CO | 08/07/2026 16:19:34 | Sponsorship: Past Sponsorship |
-| 96 (Strong) | [Digital Design Engineer I](https://jobright.ai/jobs/info/6a75e166bb6ca93ae560fb32) | Silicon Labs | Austin, TX | 08/07/2026 15:48:19 | Sponsorship: Past Sponsorship |
