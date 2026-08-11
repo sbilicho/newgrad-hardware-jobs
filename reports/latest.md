@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-11 19:29:42Z UTC
+Updated: 2026-08-11 20:22:38Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7b7cf63b399d106e4d6d52) | Bath Group, LLC | El Paso, TX | 08/11/2026 19:50:14 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Senior Electrical Engineer (I&C)](https://jobright.ai/jobs/info/6a7b83b1bc05d77f2bddf8be) | Natura Resources | Abilene, TX | 08/11/2026 20:18:57 | Sponsorship: Past Sponsorship |
 | 87 (Strong) | [Analog Mixed-Signal Design Engineer](https://jobright.ai/jobs/info/6a552a0ff2c46727285f030f) | OMNIVISION | Santa Clara, CA | 08/11/2026 18:47:43 | Sponsorship: Past Sponsorship |
 | 81 (Strong) | [Radio Frequency (RF) Digital Design Electrical Engineer I (Hybrid)](https://jobright.ai/jobs/info/6a7b7130bc05d77f2bddef13) | Collins Aerospace | Aguadilla, PR | 08/11/2026 19:00:00 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Test Engineer, New College Graduate, (Teradyne, North Reading, MA)](https://jobright.ai/jobs/info/6a70c6cd357dfc6ff2b3afa3) | Teradyne | North Reading, MA | 08/11/2026 11:29:51 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-08-11 19:29:42Z UTC
 | 46 (Possible) | [Entry Level Electronics Engineer](https://jobright.ai/jobs/info/6a773918bb6ca93ae561458a) | Centrus Energy Corp. | Oak Ridge, TN | 08/08/2026 14:11:36 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Entry Level Electronics Engineer](https://jobright.ai/jobs/info/6a7735614817aa430704a1ff) | Centrus Energy Corp. | Oak Ridge, TN | 08/08/2026 13:55:45 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [CAD Engineer - Entry Level](https://jobright.ai/jobs/info/6a7725fa4817aa430704a09f) | RailWorks Corporation | New York, NY | 08/07/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I - Vehicle Controls](https://jobright.ai/jobs/info/6a770edb67a1ad0bc53cbecf) | SAF-HOLLAND Inc. | Kansas City, MO | 08/08/2026 11:11:23 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [RF Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a76f5b3a26ccc369f836c04) | Raytheon | Tucson, AZ | 08/08/2026 09:24:03 | Security clearance language is present; Sponsorship: Past Sponsorship |
