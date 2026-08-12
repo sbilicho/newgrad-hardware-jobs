@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-12 15:13:12Z UTC
+Updated: 2026-08-12 16:13:17Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Raytheon Full Time 2026 - RF Antenna Electrical Engineer I](https://jobright.ai/jobs/info/6a7c909dd77e8156a8e328ea) | Raytheon | McKinney, TX | 08/12/2026 15:26:21 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Raytheon Full Time 2026 - Digital Electronics Electrical Engineer I](https://jobright.ai/jobs/info/6a7c918ddc3dff2d1c0c7680) | Raytheon | Tewksbury, MA | 08/12/2026 15:30:21 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 47 (Possible) | [RTL Power Optimization Engineer – New College Grad 2026](https://jobright.ai/jobs/info/6a5ff7af6e0c3c7c7d3da415) | NVIDIA | Santa Clara, CA | 08/12/2026 15:05:40 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I – Early Career (2026 Starts)](https://jobright.ai/jobs/info/69bd1f4a45e08b3dc1fa3b66) | Blue Origin | Los Angeles, CA | 08/12/2026 09:51:40 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Entry Level Electrical Engineer (Hybrid)](https://jobright.ai/jobs/info/6a7c87ae7c52154b59f5a5cd) | BAE Systems | Fort Wayne, IN | 08/12/2026 14:48:14 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Principal Electrical Engineer I - RPU Unit Lead](https://jobright.ai/jobs/info/6a5f9a80b0f20036bc631cad) | CesiumAstro | Westminster, CO | 08/12/2026 12:38:17 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-12 15:13:12Z UTC
 | 31 (Possible) | [Electronics Engineer New Grad](https://jobright.ai/jobs/info/6a6136dc7196365a6f0097d2) | BubblyNet | Clearwater, FL | 07/22/2026 00:31:45 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a7859a9a26ccc369f8388e9) | Dice | Chicago, IL | 08/09/2026 10:42:49 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [Electrical Engineer - Substation, Entry Level](https://jobright.ai/jobs/info/6a78582cbb6ca93ae5615d60) | Dice | Eden Prairie, MN | 08/09/2026 10:36:28 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I Job Details \| Amrize](https://jobright.ai/jobs/info/6a783dd2a26ccc369f8386c7) | Amrize | Midlothian, TX | 08/09/2026 08:44:02 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I Job Details \| NEW YORK POWER AUTHORITY](https://jobright.ai/jobs/info/6a783f9e7b3417772adeb675) | New York Power Authority | Massena, NY | 08/09/2026 08:51:42 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Entry-Level Software Test Engineer](https://jobright.ai/jobs/info/6a73d55232ebbc14ffb51247) | Boeing | Hazelwood, MO | 08/06/2026 15:48:55 | Sponsorship: Past Sponsorship |
