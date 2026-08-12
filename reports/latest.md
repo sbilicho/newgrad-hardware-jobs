@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-12 16:13:17Z UTC
+Updated: 2026-08-12 17:17:43Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 50 (Good) | [Test Engineer I - Electronics](https://jobright.ai/jobs/info/6a7ca597dc3dff2d1c0c8169) | Honeywell Aerospace | Rocky Mount, NC | 08/12/2026 16:55:51 | Sponsorship: Past Sponsorship |
+| 43 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7ca825dc3dff2d1c0c82e5) | S-Energy Co., Ltd. | Boerne, TX | 08/12/2026 17:06:45 | Sponsorship: Past Sponsorship |
+| 53 (Good) | [Power Electronics Engineer, Satellites (Starlink)](https://boards.greenhouse.io/spacex/jobs/8698727002?gh_jid=8698727002) | SpaceX | Redmond, WA; Redmond, WA, United States | 08/12/2026 16:19:45 |  |
+| 80 (Strong) | [GPU Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a7ca4d9dc3dff2d1c0c8106) | NVIDIA | Westford, MA | 08/12/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/69f1ba098d8d624381a9e222) | Omni Design Technologies, Inc. | Orchard City, CO | 04/08/2026 03:05:00 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Raytheon Full Time 2026 - RF Antenna Electrical Engineer I](https://jobright.ai/jobs/info/6a7c909dd77e8156a8e328ea) | Raytheon | McKinney, TX | 08/12/2026 15:26:21 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Raytheon Full Time 2026 - Digital Electronics Electrical Engineer I](https://jobright.ai/jobs/info/6a7c918ddc3dff2d1c0c7680) | Raytheon | Tewksbury, MA | 08/12/2026 15:30:21 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 47 (Possible) | [RTL Power Optimization Engineer – New College Grad 2026](https://jobright.ai/jobs/info/6a5ff7af6e0c3c7c7d3da415) | NVIDIA | Santa Clara, CA | 08/12/2026 15:05:40 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-08-12 16:13:17Z UTC
 | 73 (Strong) | [Jr. ASIC Design Engineer](https://jobright.ai/jobs/info/6a52dd068a74e077472f65b3) | Fermilab | Batavia, NY | 08/09/2026 16:42:13 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Hardware Engineer I](https://jobright.ai/jobs/info/6a4333434461bf091787b19f) | Honeywell Technologies | Clearwater, FL; Minneapolis, MN | 08/09/2026 09:18:43 | Sponsorship: No |
 | 45 (Possible) | [Power Electronics - Thermal Engineer I (R4842)](https://jobright.ai/jobs/info/6a1d94e1e24ef3652583861b) | Shield AI | San Diego, CA | 08/09/2026 11:53:18 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a5897539838a11e5d83947b) | Haag, a Salas O'Brien Company | Merritt Island, FL | 08/09/2026 14:00:09 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6a7877e94817aa430704bbd6) | Qualdoc | Marietta, OH | 08/09/2026 12:51:53 | Sponsorship: Past Sponsorship |
-| 31 (Possible) | [Electronics Engineer New Grad](https://jobright.ai/jobs/info/6a6136dc7196365a6f0097d2) | BubblyNet | Clearwater, FL | 07/22/2026 00:31:45 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a7859a9a26ccc369f8388e9) | Dice | Chicago, IL | 08/09/2026 10:42:49 | Sponsorship: Past Sponsorship |
-| 43 (Possible) | [Electrical Engineer - Substation, Entry Level](https://jobright.ai/jobs/info/6a78582cbb6ca93ae5615d60) | Dice | Eden Prairie, MN | 08/09/2026 10:36:28 | Sponsorship: Past Sponsorship |
