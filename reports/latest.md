@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-12 11:28:09Z UTC
+Updated: 2026-08-12 12:29:56Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a7c6668d77e8156a8e31c1b) | Sargent & Lundy | Wilmington, DE | 08/12/2026 12:26:16 | Sponsorship: Past Sponsorship |
+| 65 (Good) | [Graduate FPGA Engineer (2027 Start - Austin)](https://jobright.ai/jobs/info/6a5f6ae06e0c3c7c7d3d6cc4) | Optiver | Austin, TX | 08/12/2026 09:43:29 | Sponsorship: Explicit |
 | 46 (Possible) | [Entry Level Electronics Engineer](https://jobright.ai/jobs/info/6a7c4c527c52154b59f59af5) | Dice | Oak Ridge, TN | 08/12/2026 10:34:58 | Sponsorship: Past Sponsorship |
 | 65 (Good) | [Graduate FPGA Engineer (2027 Start - Chicago)](https://jobright.ai/jobs/info/6a5f6ad96e0c3c7c7d3d6cc1) | Optiver | Chicago, IL | 08/12/2026 09:32:24 | Sponsorship: Explicit |
 | 52 (Good) | [Electrical Engineer I – Embedded Systems, Sensing & IoT](https://jobright.ai/jobs/info/6a6461fd979290281c7061ab) | Milwaukee Tool | Brookfield, WI | 08/12/2026 09:29:22 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-12 11:28:09Z UTC
 | 51 (Good) | [Junior Product Engineer](https://jobright.ai/jobs/info/6a640861e8d8d22e3292bba6) | Amphenol | Mesa, AZ | 08/08/2026 23:05:21 | Sponsorship: Not Sure |
 | 42 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6a78031c7b3417772adeb2c3) | Intertech Plastics, LLC | Denver, CO | 08/08/2026 21:33:32 | Sponsorship: No |
 | 59 (Good) | [Reliability Integration and Failure Analysis Engineer](https://jobright.ai/jobs/info/6a4e9e560ea38951a6ff3e57) | WD | San Jose, CA | 08/08/2026 19:40:46 | Sponsorship: No |
-| 40 (Possible) | [2026 Associate I&T RF Engineer - Dulles VA](https://jobright.ai/jobs/info/6a762efbbb6ca93ae561161a) | Northrop Grumman | Dulles, VA | 08/08/2026 15:11:15 | Sponsorship: No |
-| 88 (Strong) | [Senior Engineer I - Physical Design](https://jobright.ai/jobs/info/6994fcc2e0bddb6acac382cb) | Microchip Technology Inc. | Chandler, AZ | 08/08/2026 13:07:27 | Sponsorship: Past Sponsorship |
