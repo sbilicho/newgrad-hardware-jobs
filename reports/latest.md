@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-12 18:13:15Z UTC
+Updated: 2026-08-12 19:31:28Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 69 (Good) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a513c398d7d3e6cf1cc021b) | NVIDIA | Austin, TX | 08/12/2026 18:09:58 | Sponsorship: Past Sponsorship |
+| 80 (Strong) | [GPU Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a7cbdd3a346cb6c8d5efcf3) | NVIDIA AI | Westford, MA | 08/12/2026 18:39:15 | Sponsorship: Past Sponsorship |
+| 83 (Strong) | [Post-Silicon Systems Validation Engineer I, Annapurna Labs](https://jobright.ai/jobs/info/6a5fee37f68dd368023e991e) | Amazon | Austin, TX | 08/12/2026 18:20:12 | Sponsorship: Past Sponsorship |
+| 83 (Strong) | [Post-Silicon Systems Validation Engineer I, Annapurna Labs](https://jobright.ai/jobs/info/6a5fee3d33ef5c58b4000f6e) | Amazon | Austin, TX | 08/12/2026 18:20:12 | Sponsorship: Past Sponsorship |
 | 53 (Good) | [Entry Level Hardware Engineer](https://jobright.ai/jobs/info/6a7cb1fc7c52154b59f5bcb9) | Cornerstone Defense | Herndon, VA | 08/12/2026 17:48:44 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Test Engineer I - Electronics](https://jobright.ai/jobs/info/6a7ca597dc3dff2d1c0c8169) | Honeywell Aerospace | Rocky Mount, NC | 08/12/2026 16:55:51 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7ca825dc3dff2d1c0c82e5) | S-Energy Co., Ltd. | Boerne, TX | 08/12/2026 17:06:45 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-08-12 18:13:15Z UTC
 | 52 (Good) | [CAE CAD Engineer Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a50c63742c6dc326e8ebfb7) | Westinghouse Electric Company | Cranberry Township, PA | 08/09/2026 13:50:02 | Sponsorship: Not Sure |
 | 47 (Possible) | [Test Engineer (Elect/I&C) Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a5c581ec8e3a473cb8b222d) | Westinghouse Electric Company | Bridgman, MI | 08/09/2026 13:50:03 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a78e807b17cba569036215c) | Westinghouse Electric Company | Columbia, SC | 08/09/2026 13:50:15 | Sponsorship: Not Sure |
-| 53 (Good) | [Power Electronics Engineer (Starship)](https://boards.greenhouse.io/spacex/jobs/8692894002?gh_jid=8692894002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 08/09/2026 18:42:26 |  |
-| 31 (Possible) | [Junior IC Layout Design Engineer](https://jobright.ai/jobs/info/6a30d4a643732c05812e3df3) | IC Enable | Richardson, TX | 06/18/2026 15:18:04 | Sponsorship: Past Sponsorship |
-| 73 (Strong) | [Jr. ASIC Design Engineer](https://jobright.ai/jobs/info/6a52dd068a74e077472f65b3) | Fermilab | Batavia, NY | 08/09/2026 16:42:13 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Hardware Engineer I](https://jobright.ai/jobs/info/6a4333434461bf091787b19f) | Honeywell Technologies | Clearwater, FL; Minneapolis, MN | 08/09/2026 09:18:43 | Sponsorship: No |
