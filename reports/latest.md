@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-12 17:17:43Z UTC
+Updated: 2026-08-12 18:13:15Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 53 (Good) | [Entry Level Hardware Engineer](https://jobright.ai/jobs/info/6a7cb1fc7c52154b59f5bcb9) | Cornerstone Defense | Herndon, VA | 08/12/2026 17:48:44 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Test Engineer I - Electronics](https://jobright.ai/jobs/info/6a7ca597dc3dff2d1c0c8169) | Honeywell Aerospace | Rocky Mount, NC | 08/12/2026 16:55:51 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7ca825dc3dff2d1c0c82e5) | S-Energy Co., Ltd. | Boerne, TX | 08/12/2026 17:06:45 | Sponsorship: Past Sponsorship |
 | 53 (Good) | [Power Electronics Engineer, Satellites (Starlink)](https://boards.greenhouse.io/spacex/jobs/8698727002?gh_jid=8698727002) | SpaceX | Redmond, WA; Redmond, WA, United States | 08/12/2026 16:19:45 |  |
@@ -103,4 +104,3 @@ Updated: 2026-08-12 17:17:43Z UTC
 | 31 (Possible) | [Junior IC Layout Design Engineer](https://jobright.ai/jobs/info/6a30d4a643732c05812e3df3) | IC Enable | Richardson, TX | 06/18/2026 15:18:04 | Sponsorship: Past Sponsorship |
 | 73 (Strong) | [Jr. ASIC Design Engineer](https://jobright.ai/jobs/info/6a52dd068a74e077472f65b3) | Fermilab | Batavia, NY | 08/09/2026 16:42:13 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Hardware Engineer I](https://jobright.ai/jobs/info/6a4333434461bf091787b19f) | Honeywell Technologies | Clearwater, FL; Minneapolis, MN | 08/09/2026 09:18:43 | Sponsorship: No |
-| 45 (Possible) | [Power Electronics - Thermal Engineer I (R4842)](https://jobright.ai/jobs/info/6a1d94e1e24ef3652583861b) | Shield AI | San Diego, CA | 08/09/2026 11:53:18 | Sponsorship: Past Sponsorship |
