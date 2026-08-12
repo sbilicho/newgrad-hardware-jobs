@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-12 10:30:34Z UTC
+Updated: 2026-08-12 11:28:09Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Entry Level Electronics Engineer](https://jobright.ai/jobs/info/6a7c4c527c52154b59f59af5) | Dice | Oak Ridge, TN | 08/12/2026 10:34:58 | Sponsorship: Past Sponsorship |
+| 65 (Good) | [Graduate FPGA Engineer (2027 Start - Chicago)](https://jobright.ai/jobs/info/6a5f6ad96e0c3c7c7d3d6cc1) | Optiver | Chicago, IL | 08/12/2026 09:32:24 | Sponsorship: Explicit |
 | 52 (Good) | [Electrical Engineer I – Embedded Systems, Sensing & IoT](https://jobright.ai/jobs/info/6a6461fd979290281c7061ab) | Milwaukee Tool | Brookfield, WI | 08/12/2026 09:29:22 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer – Entry Level *CLEARANCE REQUIRED*](https://jobright.ai/jobs/info/6a7be173bc05d77f2bde1191) | General Dynamics Mission Systems | Pittsfield, MA | 08/12/2026 02:58:59 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 57 (Good) | [Electronics Engineer I (Avionics Electronics )](https://jobright.ai/jobs/info/6a7bbdab77e6b569c61c2481) | NASA Jet Propulsion Laboratory | Pasadena, CA | 08/12/2026 01:33:14 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-12 10:30:34Z UTC
 | 59 (Good) | [Reliability Integration and Failure Analysis Engineer](https://jobright.ai/jobs/info/6a4e9e560ea38951a6ff3e57) | WD | San Jose, CA | 08/08/2026 19:40:46 | Sponsorship: No |
 | 40 (Possible) | [2026 Associate I&T RF Engineer - Dulles VA](https://jobright.ai/jobs/info/6a762efbbb6ca93ae561161a) | Northrop Grumman | Dulles, VA | 08/08/2026 15:11:15 | Sponsorship: No |
 | 88 (Strong) | [Senior Engineer I - Physical Design](https://jobright.ai/jobs/info/6994fcc2e0bddb6acac382cb) | Microchip Technology Inc. | Chandler, AZ | 08/08/2026 13:07:27 | Sponsorship: Past Sponsorship |
-| 78 (Strong) | [Design Verification Engineer - Early Career](https://jobright.ai/jobs/info/6a52b2068a74e077472f5ac7) | Marvell Technology | Irvine, CA; Santa Clara, CA | 08/08/2026 11:19:48 | Sponsorship: No |
-| 51 (Good) | [Junior Product Engineer](https://jobright.ai/jobs/info/6a640c788d53603449605740) | Amphenol Industrial Operations | Mesa, AZ | 08/08/2026 12:23:33 | Sponsorship: Not Sure |
