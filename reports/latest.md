@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-12 14:04:56Z UTC
+Updated: 2026-08-12 15:13:12Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer I – Early Career (2026 Starts)](https://jobright.ai/jobs/info/69bd1f4a45e08b3dc1fa3b66) | Blue Origin | Los Angeles, CA | 08/12/2026 09:51:40 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Entry Level Electrical Engineer (Hybrid)](https://jobright.ai/jobs/info/6a7c87ae7c52154b59f5a5cd) | BAE Systems | Fort Wayne, IN | 08/12/2026 14:48:14 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Principal Electrical Engineer I - RPU Unit Lead](https://jobright.ai/jobs/info/6a5f9a80b0f20036bc631cad) | CesiumAstro | Westminster, CO | 08/12/2026 12:38:17 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a7c6668d77e8156a8e31c1b) | Sargent & Lundy | Wilmington, DE | 08/12/2026 12:26:16 | Sponsorship: Past Sponsorship |
 | 65 (Good) | [Graduate FPGA Engineer (2027 Start - Austin)](https://jobright.ai/jobs/info/6a5f6ae06e0c3c7c7d3d6cc4) | Optiver | Austin, TX | 08/12/2026 09:43:29 | Sponsorship: Explicit |
@@ -102,5 +104,3 @@ Updated: 2026-08-12 14:04:56Z UTC
 | 41 (Possible) | [Electrical Engineer I Job Details \| Amrize](https://jobright.ai/jobs/info/6a783dd2a26ccc369f8386c7) | Amrize | Midlothian, TX | 08/09/2026 08:44:02 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I Job Details \| NEW YORK POWER AUTHORITY](https://jobright.ai/jobs/info/6a783f9e7b3417772adeb675) | New York Power Authority | Massena, NY | 08/09/2026 08:51:42 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Entry-Level Software Test Engineer](https://jobright.ai/jobs/info/6a73d55232ebbc14ffb51247) | Boeing | Hazelwood, MO | 08/06/2026 15:48:55 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [Junior Product Engineer](https://jobright.ai/jobs/info/6a640861e8d8d22e3292bba6) | Amphenol | Mesa, AZ | 08/08/2026 23:05:21 | Sponsorship: Not Sure |
-| 42 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6a78031c7b3417772adeb2c3) | Intertech Plastics, LLC | Denver, CO | 08/08/2026 21:33:32 | Sponsorship: No |
