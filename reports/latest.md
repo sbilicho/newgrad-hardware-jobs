@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-12 21:15:10Z UTC
+Updated: 2026-08-12 22:07:34Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a7cebd677d5f033c4b91752) | Military Spouse Jobs | Pittsfield, MA | 08/12/2026 21:55:34 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a7cec4a83621355407acc30) | Eaton | Pittsfield, MA | 08/12/2026 21:57:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a7cebf17c52154b59f5d3ef) | Military Spouse Jobs | Pittsfield, MA | 08/12/2026 21:56:01 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a7cec5cd77e8156a8e35203) | Eaton | Pittsfield, MA | 08/12/2026 21:57:48 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 53 (Good) | [Power Electronics Engineer I](https://jobright.ai/jobs/info/6a7ca3767c52154b59f5b533) | NASA Jet Propulsion Laboratory | Pasadena, CA | 08/12/2026 20:38:00 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [ADAS Validation Engineer - Entry Level](https://jobright.ai/jobs/info/6a7cd9cbd77e8156a8e34a23) | SEGULA Technologies | Auburn Hills, MI | 08/12/2026 20:38:35 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Entry Level Electrical Design Engineer (2027)](https://jobright.ai/jobs/info/6a7ccec8d77e8156a8e3459c) | DMC Engineering | Chicago, IL | 08/12/2026 19:51:36 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-08-12 21:15:10Z UTC
 | 89 (Strong) | [Hardware Engineer (High Performance Computing Digital Design Engineering) - Entry Level (Maryland)](https://jobright.ai/jobs/info/6a799220a26ccc369f83a216) | National Security Agency | Fort Meade, MD | 08/10/2026 08:56:00 | Sponsorship: Past Sponsorship |
 | 73 (Strong) | [Jr. ASIC Design Engineer](https://jobright.ai/jobs/info/6a0617937c753c287f6ff17b) | Fermilab | Batavia, IL | 08/09/2026 17:01:43 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Hardware Verification Engineer (Solon)](https://jobright.ai/jobs/info/6a566d50f7517b519ad55ae3) | Ralliant | Solon, OH | 07/14/2026 17:09:36 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer (Safety System Products) Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a78e7cfbb6ca93ae5616878) | Westinghouse Electric Company | Warrendale, PA | 08/09/2026 13:49:19 | Sponsorship: Not Sure |
-| 37 (Possible) | [Electrical Engineer I Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a78e7e367a1ad0bc53ce441) | Westinghouse Electric Company | Cranberry Township, PA; Rock Hill, SC | 08/09/2026 13:49:39 | Sponsorship: Not Sure |
-| 37 (Possible) | [Electrical Engineer 1 Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a5c58274da96a42cfd9c66c) | Westinghouse Electric Company | Rock Hill, SC | 08/09/2026 13:49:44 | Sponsorship: Not Sure |
-| 42 (Possible) | [Platform Hardware Engineer Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a78e7e9b17cba5690362141) | Westinghouse Electric Company | Warrendale, PA | 08/09/2026 13:49:45 | Sponsorship: Not Sure |
