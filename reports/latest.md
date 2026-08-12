@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-12 22:07:34Z UTC
+Updated: 2026-08-12 23:01:38Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 45 (Possible) | [Electrical Engineer (New Grad)](https://jobright.ai/jobs/info/6a7cef567c52154b59f5d4ac) | General Matter | Los Angeles, CA | 08/12/2026 22:10:30 | Sponsorship: Past Sponsorship |
+| 62 (Good) | [Electrical Test Development Engineer, Customer Hardware (Starlink)](https://boards.greenhouse.io/spacex/jobs/8700262002?gh_jid=8700262002) | SpaceX | Bastrop, TX; Bastrop, TX, United States | 08/12/2026 22:08:52 |  |
+| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6a7cf6b677d5f033c4b91aa8) | ByteDance | San Jose, CA | 08/12/2026 22:41:58 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a7cebd677d5f033c4b91752) | Military Spouse Jobs | Pittsfield, MA | 08/12/2026 21:55:34 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a7cec4a83621355407acc30) | Eaton | Pittsfield, MA | 08/12/2026 21:57:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a7cebf17c52154b59f5d3ef) | Military Spouse Jobs | Pittsfield, MA | 08/12/2026 21:56:01 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-12 22:07:34Z UTC
 | 79 (Strong) | [Graduate- Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a799948a26ccc369f83a2da) | Infineon Technologies | San Jose, CA | 08/10/2026 09:26:32 | Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Graduate - Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a799967a26ccc369f83a2e4) | Infineon Technologies | San Jose, CA | 08/10/2026 09:27:03 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6a798387a26ccc369f839fb1) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 08/10/2026 07:53:43 | Sponsorship: Past Sponsorship |
-| 89 (Strong) | [Hardware Engineer (High Performance Computing Digital Design Engineering) - Entry Level (Maryland)](https://jobright.ai/jobs/info/6a799220a26ccc369f83a216) | National Security Agency | Fort Meade, MD | 08/10/2026 08:56:00 | Sponsorship: Past Sponsorship |
-| 73 (Strong) | [Jr. ASIC Design Engineer](https://jobright.ai/jobs/info/6a0617937c753c287f6ff17b) | Fermilab | Batavia, IL | 08/09/2026 17:01:43 | Sponsorship: Past Sponsorship |
-| 62 (Good) | [Hardware Verification Engineer (Solon)](https://jobright.ai/jobs/info/6a566d50f7517b519ad55ae3) | Ralliant | Solon, OH | 07/14/2026 17:09:36 | Sponsorship: Past Sponsorship |
