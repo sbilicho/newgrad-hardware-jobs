@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-12 19:31:28Z UTC
+Updated: 2026-08-12 20:21:19Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 45 (Possible) | [Entry Level Electrical Design Engineer (2027)](https://jobright.ai/jobs/info/6a7ccec8d77e8156a8e3459c) | DMC Engineering | Chicago, IL | 08/12/2026 19:51:36 | Sponsorship: Past Sponsorship |
 | 69 (Good) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a513c398d7d3e6cf1cc021b) | NVIDIA | Austin, TX | 08/12/2026 18:09:58 | Sponsorship: Past Sponsorship |
 | 80 (Strong) | [GPU Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a7cbdd3a346cb6c8d5efcf3) | NVIDIA AI | Westford, MA | 08/12/2026 18:39:15 | Sponsorship: Past Sponsorship |
 | 83 (Strong) | [Post-Silicon Systems Validation Engineer I, Annapurna Labs](https://jobright.ai/jobs/info/6a5fee37f68dd368023e991e) | Amazon | Austin, TX | 08/12/2026 18:20:12 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-12 19:31:28Z UTC
 | 42 (Possible) | [Platform Hardware Engineer Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a78e7e9b17cba5690362141) | Westinghouse Electric Company | Warrendale, PA | 08/09/2026 13:49:45 | Sponsorship: Not Sure |
 | 52 (Good) | [CAE CAD Engineer Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a50c63742c6dc326e8ebfb7) | Westinghouse Electric Company | Cranberry Township, PA | 08/09/2026 13:50:02 | Sponsorship: Not Sure |
 | 47 (Possible) | [Test Engineer (Elect/I&C) Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a5c581ec8e3a473cb8b222d) | Westinghouse Electric Company | Bridgman, MI | 08/09/2026 13:50:03 | Sponsorship: Not Sure |
-| 37 (Possible) | [Electrical Engineer Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a78e807b17cba569036215c) | Westinghouse Electric Company | Columbia, SC | 08/09/2026 13:50:15 | Sponsorship: Not Sure |
