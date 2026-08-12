@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-12 20:21:19Z UTC
+Updated: 2026-08-12 21:15:10Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 53 (Good) | [Power Electronics Engineer I](https://jobright.ai/jobs/info/6a7ca3767c52154b59f5b533) | NASA Jet Propulsion Laboratory | Pasadena, CA | 08/12/2026 20:38:00 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [ADAS Validation Engineer - Entry Level](https://jobright.ai/jobs/info/6a7cd9cbd77e8156a8e34a23) | SEGULA Technologies | Auburn Hills, MI | 08/12/2026 20:38:35 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Entry Level Electrical Design Engineer (2027)](https://jobright.ai/jobs/info/6a7ccec8d77e8156a8e3459c) | DMC Engineering | Chicago, IL | 08/12/2026 19:51:36 | Sponsorship: Past Sponsorship |
 | 69 (Good) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a513c398d7d3e6cf1cc021b) | NVIDIA | Austin, TX | 08/12/2026 18:09:58 | Sponsorship: Past Sponsorship |
 | 80 (Strong) | [GPU Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a7cbdd3a346cb6c8d5efcf3) | NVIDIA AI | Westford, MA | 08/12/2026 18:39:15 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-12 20:21:19Z UTC
 | 37 (Possible) | [Electrical Engineer I Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a78e7e367a1ad0bc53ce441) | Westinghouse Electric Company | Cranberry Township, PA; Rock Hill, SC | 08/09/2026 13:49:39 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer 1 Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a5c58274da96a42cfd9c66c) | Westinghouse Electric Company | Rock Hill, SC | 08/09/2026 13:49:44 | Sponsorship: Not Sure |
 | 42 (Possible) | [Platform Hardware Engineer Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a78e7e9b17cba5690362141) | Westinghouse Electric Company | Warrendale, PA | 08/09/2026 13:49:45 | Sponsorship: Not Sure |
-| 52 (Good) | [CAE CAD Engineer Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a50c63742c6dc326e8ebfb7) | Westinghouse Electric Company | Cranberry Township, PA | 08/09/2026 13:50:02 | Sponsorship: Not Sure |
-| 47 (Possible) | [Test Engineer (Elect/I&C) Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a5c581ec8e3a473cb8b222d) | Westinghouse Electric Company | Bridgman, MI | 08/09/2026 13:50:03 | Sponsorship: Not Sure |
