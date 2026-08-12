@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-12 01:04:09Z UTC
+Updated: 2026-08-12 02:04:03Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 57 (Good) | [Electronics Engineer I (Avionics Electronics )](https://jobright.ai/jobs/info/6a7bbdab77e6b569c61c2481) | NASA Jet Propulsion Laboratory | Pasadena, CA | 08/12/2026 01:33:14 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a34c388f6b55d12c791df36) | D&B Engineers and Architects | Lindenhurst, NY | 08/11/2026 19:22:25 | Sponsorship: Past Sponsorship |
 | 68 (Good) | [Graduate - Validation Engineer](https://jobright.ai/jobs/info/6a7bc5d8bc05d77f2bde0e3b) | Infineon Technologies | San Jose, CA | 08/12/2026 01:01:12 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Hardware Test Engineer](https://jobright.ai/jobs/info/6a7b9ea3ecfd29770753a3e1) | Nirvana Energy Systems | Strongsville, OH; San Francisco Bay Area, United States | 08/11/2026 15:13:55 | Sponsorship: Not Sure |
@@ -103,4 +104,3 @@ Updated: 2026-08-12 01:04:09Z UTC
 | 51 (Good) | [Junior Product Engineer](https://jobright.ai/jobs/info/6a640c788d53603449605740) | Amphenol Industrial Operations | Mesa, AZ | 08/08/2026 12:23:33 | Sponsorship: Not Sure |
 | 82 (Strong) | [Design Verification Engineer - Early Career](https://jobright.ai/jobs/info/6a1a60ee2b206f3955eb44fb) | Marvell Technology | Irvine, CA; Santa Clara, CA | 08/08/2026 11:19:48 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Controls Engineer I](https://jobright.ai/jobs/info/6a5a84c6686b4755d1e15a3b) | Greenheck Group | Tulsa, OK | 08/08/2026 11:22:29 | Sponsorship: Not Sure |
-| 95 (Strong) | [SoC Design Engineer](https://jobright.ai/jobs/info/6a5d673b856af468ab010df8) | OMNIVISION | Santa Clara, CA | 08/08/2026 11:27:28 | Sponsorship: Not Sure |
