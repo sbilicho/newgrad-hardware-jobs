@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-12 23:01:38Z UTC
+Updated: 2026-08-12 23:56:00Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a7d049adc3dff2d1c0ca611) | Affiliated Engineers, Inc. | Charlottesville, VA | 08/12/2026 23:41:14 | Sponsorship: Past Sponsorship |
+| 56 (Good) | [Electrical Engineer, Silicon Reliability Test (Starlink)](https://boards.greenhouse.io/spacex/jobs/8701462002?gh_jid=8701462002) | SpaceX | Bastrop, TX; Bastrop, TX, United States | 08/12/2026 23:18:36 |  |
+| 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a7cfb4283621355407ad12f) | CyberProof | Hillsboro, OR | 08/12/2026 23:01:22 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer (New Grad)](https://jobright.ai/jobs/info/6a7cef567c52154b59f5d4ac) | General Matter | Los Angeles, CA | 08/12/2026 22:10:30 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Electrical Test Development Engineer, Customer Hardware (Starlink)](https://boards.greenhouse.io/spacex/jobs/8700262002?gh_jid=8700262002) | SpaceX | Bastrop, TX; Bastrop, TX, United States | 08/12/2026 22:08:52 |  |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6a7cf6b677d5f033c4b91aa8) | ByteDance | San Jose, CA | 08/12/2026 22:41:58 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-12 23:01:38Z UTC
 | 55 (Good) | [Electron Beam Product Engineer](https://jobright.ai/jobs/info/6a3478b17f3fdd180d4cab1e) | KLA | Ann Arbor, MI | 08/10/2026 04:04:06 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a79aeab67a1ad0bc53cf8f6) | AE Works Ltd. | Pittsburgh, PA | 08/10/2026 10:57:47 | Sponsorship: Past Sponsorship |
 | 80 (Strong) | [Graduate - Analog Mixed-Signal Design Engineer](https://jobright.ai/jobs/info/6a7995e17b3417772aded22a) | Infineon Technologies | El Segundo, CA | 08/10/2026 09:12:01 | Sponsorship: Past Sponsorship |
-| 79 (Strong) | [Graduate- Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a799948a26ccc369f83a2da) | Infineon Technologies | San Jose, CA | 08/10/2026 09:26:32 | Sponsorship: Past Sponsorship |
-| 79 (Strong) | [Graduate - Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a799967a26ccc369f83a2e4) | Infineon Technologies | San Jose, CA | 08/10/2026 09:27:03 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6a798387a26ccc369f839fb1) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 08/10/2026 07:53:43 | Sponsorship: Past Sponsorship |
