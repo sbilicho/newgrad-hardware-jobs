@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-13 09:10:40Z UTC
+Updated: 2026-08-13 10:32:06Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 35 (Possible) | [New College Grad - Semiconductor Design Engineer, DRAM Products Group](https://jobright.ai/jobs/info/6a576edd10c4d945d864e2f5) | Micron Technology | Boise, ID | 08/13/2026 09:07:45 | Sponsorship: Past Sponsorship |
+| 35 (Possible) | [New College Grad - Semiconductor Design Engineer, DRAM Products Group](https://jobright.ai/jobs/info/6a0726a9078fec52738aaeac) | Micron Technology | Boise, ID | 08/13/2026 09:07:45 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a7d049adc3dff2d1c0ca611) | Affiliated Engineers, Inc. | Charlottesville, VA | 08/12/2026 23:41:14 | Sponsorship: Past Sponsorship |
 | 56 (Good) | [Electrical Engineer, Silicon Reliability Test (Starlink)](https://boards.greenhouse.io/spacex/jobs/8701462002?gh_jid=8701462002) | SpaceX | Bastrop, TX; Bastrop, TX, United States | 08/12/2026 23:18:36 |  |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a7cfb4283621355407ad12f) | CyberProof | Hillsboro, OR | 08/12/2026 23:01:22 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-13 09:10:40Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a79c2de9ee17f276dbef606) | Latitude Inc | Manassas, VA | 08/10/2026 12:23:58 | Sponsorship: Past Sponsorship |
 | 33 (Possible) | [New College Grad - Product Yield Enhancement Engineer, HBM](https://jobright.ai/jobs/info/6a448f7d0153061b8b3e09e2) | Micron Technology | Boise, ID | 07/23/2026 09:01:34 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Electron Beam Product Engineer](https://jobright.ai/jobs/info/6a3478b17f3fdd180d4cab1e) | KLA | Ann Arbor, MI | 08/10/2026 04:04:06 | Sponsorship: Not Sure |
-| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a79aeab67a1ad0bc53cf8f6) | AE Works Ltd. | Pittsburgh, PA | 08/10/2026 10:57:47 | Sponsorship: Past Sponsorship |
-| 80 (Strong) | [Graduate - Analog Mixed-Signal Design Engineer](https://jobright.ai/jobs/info/6a7995e17b3417772aded22a) | Infineon Technologies | El Segundo, CA | 08/10/2026 09:12:01 | Sponsorship: Past Sponsorship |
