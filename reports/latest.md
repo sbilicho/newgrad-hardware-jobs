@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-13 15:12:53Z UTC
+Updated: 2026-08-13 16:13:03Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 61 (Good) | [Full Time Raytheon 2026 - Power & Digital Electrical Engineer I](https://jobright.ai/jobs/info/6a7de16eb56bea5779c02323) | Raytheon | Fort Wayne, IN | 08/13/2026 15:23:26 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Entry Level Electrical Engineer (Hybrid)](https://jobright.ai/jobs/info/6a7deb0ae51a1e18a240af01) | BAE Systems, Inc. | Fort Wayne, IN | 08/13/2026 16:04:26 | Sponsorship: Past Sponsorship |
+| 86 (Strong) | [Digital Verification Engineer](https://jobright.ai/jobs/info/6a7de11be2030208f276647a) | NXP Semiconductors | Austin, TX | 08/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 86 (Strong) | [DIGITAL VERIFICATION ENGINEER](https://jobright.ai/jobs/info/6a7dd44819ce4e6e9d92fbc1) | NXP Semiconductors | Austin, TX | 08/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7dcb01b56bea5779c01bea) | S&C Electric Company | Chicago, IL | 08/13/2026 13:47:45 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7dce28e2030208f2765f26) | Paragon Energy Solutions | Fort Worth, TX | 08/13/2026 14:01:12 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-13 15:12:53Z UTC
 | 48 (Possible) | [Firmware Engineer - Early Career](https://jobright.ai/jobs/info/6a79ece967a1ad0bc53d082f) | Seagate Technology | Longmont, CO | 08/10/2026 15:23:21 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6a79ecf99ee17f276dbf0320) | Kratos Defense and Security Solutions | Crane, IN | 08/10/2026 15:23:37 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Graduate Hardware Engineer](https://jobright.ai/jobs/info/6a4556f9c2d11a6a46668d9c) | IMC Trading | Chicago, IL | 07/27/2026 01:12:48 | Sponsorship: Past Sponsorship |
-| 81 (Strong) | [Radio Frequency (RF) Digital Design Electrical Engineer I (Hybrid)](https://jobright.ai/jobs/info/6a79e4d4a26ccc369f83b462) | RTX | Aguadilla, PR | 08/10/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Hardware Design Engineer I](https://jobright.ai/jobs/info/6a79d9819ee17f276dbefc06) | Cintas | Florence, SC | 08/10/2026 14:00:33 | Sponsorship: Past Sponsorship |
-| 31 (Possible) | [Electronics Engineer New Grad](https://jobright.ai/jobs/info/6a6b26815c54bc4752ce76cb) | BubblyNet | Clearwater, FL | 07/30/2026 10:25:05 | Sponsorship: Past Sponsorship |
