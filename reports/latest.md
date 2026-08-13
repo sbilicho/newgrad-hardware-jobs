@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-13 22:59:15Z UTC
+Updated: 2026-08-13 23:55:44Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 50 (Good) | [Product Engineer I](https://jobright.ai/jobs/info/6a7e4c89e51a1e18a240d337) | Benchmark | Rochester, MN | 08/13/2026 16:00:25 | Sponsorship: Not Sure |
+| 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a7e4cc3ad9ff00c26baa930) | UST HealthProof | Hillsboro, OR | 08/13/2026 16:01:23 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7e4d05e51a1e18a240d34d) | BAE Systems, Inc. | San Diego, CA | 08/13/2026 16:02:29 | U.S. citizenship language is present; Sponsorship: No |
 | 41 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6a7e4859b56bea5779c04ece) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 08/13/2026 22:42:33 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a7e4b0819ce4e6e9d9327e2) | Sargent & Lundy | Palm Beach Gardens, FL | 08/13/2026 22:54:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Submarine Power Plant Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a7e485619ce4e6e9d93267d) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 08/13/2026 22:42:30 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-13 22:59:15Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7a5335bb6ca93ae561b3d3) | Wold Architects and Engineers | Denver, CO | 08/10/2026 22:39:49 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [CAD Engineer - Entry Level](https://jobright.ai/jobs/info/6a7a523fb17cba5690366aa0) | Dice | New York, NY | 08/10/2026 22:35:43 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a7a458167a1ad0bc53d2a3e) | EVS, Inc. | Minnetonka, MN | 08/10/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7a432e67a1ad0bc53d296d) | Mettler-Toledo International, Inc | Columbus, OH | 08/10/2026 21:31:26 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [New College Grad - DRAM Design Engineer](https://jobright.ai/jobs/info/6a7a47f4a26ccc369f83da15) | Micron Technology | Boise, ID | 08/10/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 33 (Possible) | [New College Grad - Memory Design Engineer, HBM](https://jobright.ai/jobs/info/6a7a3fcd67a1ad0bc53d282e) | Micron Technology | Richardson, TX | 08/10/2026 00:00:00 | Sponsorship: Past Sponsorship |
