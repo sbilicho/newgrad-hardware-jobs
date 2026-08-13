@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-13 13:19:28Z UTC
+Updated: 2026-08-13 14:19:23Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7dcb01b56bea5779c01bea) | S&C Electric Company | Chicago, IL | 08/13/2026 13:47:45 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7dce28e2030208f2765f26) | Paragon Energy Solutions | Fort Worth, TX | 08/13/2026 14:01:12 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6a7da88419ce4e6e9d92f3aa) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 08/13/2026 08:20:08 | Sponsorship: Past Sponsorship |
 | 35 (Possible) | [New College Grad - Semiconductor Design Engineer, DRAM Products Group](https://jobright.ai/jobs/info/6a576edd10c4d945d864e2f5) | Micron Technology | Boise, ID | 08/13/2026 09:07:45 | Sponsorship: Past Sponsorship |
 | 35 (Possible) | [New College Grad - Semiconductor Design Engineer, DRAM Products Group](https://jobright.ai/jobs/info/6a0726a9078fec52738aaeac) | Micron Technology | Boise, ID | 08/13/2026 09:07:45 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-13 13:19:28Z UTC
 | 46 (Possible) | [Hardware Design Engineer I](https://jobright.ai/jobs/info/6a79d9819ee17f276dbefc06) | Cintas | Florence, SC | 08/10/2026 14:00:33 | Sponsorship: Past Sponsorship |
 | 31 (Possible) | [Electronics Engineer New Grad](https://jobright.ai/jobs/info/6a6b26815c54bc4752ce76cb) | BubblyNet | Clearwater, FL | 07/30/2026 10:25:05 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a79ced29ee17f276dbef997) | Latitude Inc | Manassas, VA | 08/10/2026 13:14:58 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a79c2de9ee17f276dbef606) | Latitude Inc | Manassas, VA | 08/10/2026 12:23:58 | Sponsorship: Past Sponsorship |
-| 33 (Possible) | [New College Grad - Product Yield Enhancement Engineer, HBM](https://jobright.ai/jobs/info/6a448f7d0153061b8b3e09e2) | Micron Technology | Boise, ID | 07/23/2026 09:01:34 | Sponsorship: Past Sponsorship |
