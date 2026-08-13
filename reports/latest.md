@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-13 16:13:03Z UTC
+Updated: 2026-08-13 17:17:10Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 79 (Strong) | [Software R&D Engineer, VLSI Physical Design - New College Grad 2026](https://jobright.ai/jobs/info/6a2205e1338c012305122735) | NVIDIA | Austin, TX | 08/13/2026 17:06:26 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Electrical Engineer I - Test Solutions - Onsite](https://jobright.ai/jobs/info/6a7df049ad9ff00c26ba91e5) | RTX | Marlborough, MA | 08/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Test Engineer (Level 1 - Early Career)](https://jobright.ai/jobs/info/6a3e6a5f122f340d29cf32ae) | Stoke Space | Moses Lake, WA | 08/13/2026 08:07:28 | Sponsorship: No |
 | 61 (Good) | [Full Time Raytheon 2026 - Power & Digital Electrical Engineer I](https://jobright.ai/jobs/info/6a7de16eb56bea5779c02323) | Raytheon | Fort Wayne, IN | 08/13/2026 15:23:26 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Entry Level Electrical Engineer (Hybrid)](https://jobright.ai/jobs/info/6a7deb0ae51a1e18a240af01) | BAE Systems, Inc. | Fort Wayne, IN | 08/13/2026 16:04:26 | Sponsorship: Past Sponsorship |
 | 86 (Strong) | [Digital Verification Engineer](https://jobright.ai/jobs/info/6a7de11be2030208f276647a) | NXP Semiconductors | Austin, TX | 08/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-13 16:13:03Z UTC
 | 49 (Possible) | [Electrical and Electronics Engineer I (Onsite)](https://jobright.ai/jobs/info/6a79f0359ee17f276dbf042d) | RTX | Rockford, IL | 08/10/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - Plant Engineering](https://jobright.ai/jobs/info/6a79f16267a1ad0bc53d09fd) | Framatome North America | Richland, WA | 08/10/2026 15:42:26 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a79f4799ee17f276dbf0596) | Latitude Inc | Manassas, VA | 08/10/2026 15:55:37 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Firmware Engineer - Early Career](https://jobright.ai/jobs/info/6a79ece967a1ad0bc53d082f) | Seagate Technology | Longmont, CO | 08/10/2026 15:23:21 | Sponsorship: Past Sponsorship |
-| 54 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6a79ecf99ee17f276dbf0320) | Kratos Defense and Security Solutions | Crane, IN | 08/10/2026 15:23:37 | Sponsorship: Past Sponsorship |
-| 55 (Good) | [Graduate Hardware Engineer](https://jobright.ai/jobs/info/6a4556f9c2d11a6a46668d9c) | IMC Trading | Chicago, IL | 07/27/2026 01:12:48 | Sponsorship: Past Sponsorship |
