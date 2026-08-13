@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-13 10:32:06Z UTC
+Updated: 2026-08-13 11:26:57Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6a7da88419ce4e6e9d92f3aa) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 08/13/2026 08:20:08 | Sponsorship: Past Sponsorship |
 | 35 (Possible) | [New College Grad - Semiconductor Design Engineer, DRAM Products Group](https://jobright.ai/jobs/info/6a576edd10c4d945d864e2f5) | Micron Technology | Boise, ID | 08/13/2026 09:07:45 | Sponsorship: Past Sponsorship |
 | 35 (Possible) | [New College Grad - Semiconductor Design Engineer, DRAM Products Group](https://jobright.ai/jobs/info/6a0726a9078fec52738aaeac) | Micron Technology | Boise, ID | 08/13/2026 09:07:45 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a7d049adc3dff2d1c0ca611) | Affiliated Engineers, Inc. | Charlottesville, VA | 08/12/2026 23:41:14 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-13 10:32:06Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a79ced29ee17f276dbef997) | Latitude Inc | Manassas, VA | 08/10/2026 13:14:58 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a79c2de9ee17f276dbef606) | Latitude Inc | Manassas, VA | 08/10/2026 12:23:58 | Sponsorship: Past Sponsorship |
 | 33 (Possible) | [New College Grad - Product Yield Enhancement Engineer, HBM](https://jobright.ai/jobs/info/6a448f7d0153061b8b3e09e2) | Micron Technology | Boise, ID | 07/23/2026 09:01:34 | Sponsorship: Past Sponsorship |
-| 55 (Good) | [Electron Beam Product Engineer](https://jobright.ai/jobs/info/6a3478b17f3fdd180d4cab1e) | KLA | Ann Arbor, MI | 08/10/2026 04:04:06 | Sponsorship: Not Sure |
