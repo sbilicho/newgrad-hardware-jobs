@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-13 17:17:10Z UTC
+Updated: 2026-08-13 18:14:06Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a61656711edf44d791609d4) | Freeport-McMoRan | Morenci, AZ | 08/13/2026 16:20:01 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6a45ab943dbab558e29a1ee9) | Axon | Scottsdale, AZ | 08/13/2026 17:37:44 | Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Software R&D Engineer, VLSI Physical Design - New College Grad 2026](https://jobright.ai/jobs/info/6a2205e1338c012305122735) | NVIDIA | Austin, TX | 08/13/2026 17:06:26 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electrical Engineer I - Test Solutions - Onsite](https://jobright.ai/jobs/info/6a7df049ad9ff00c26ba91e5) | RTX | Marlborough, MA | 08/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Test Engineer (Level 1 - Early Career)](https://jobright.ai/jobs/info/6a3e6a5f122f340d29cf32ae) | Stoke Space | Moses Lake, WA | 08/13/2026 08:07:28 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-08-13 17:17:10Z UTC
 | 62 (Good) | [Hardware Verification Engineer (Solon)](https://jobright.ai/jobs/info/6a5df5c3270e3033b045b3f6) | Ralliant | Solon, OH | 07/14/2026 10:17:17 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [Hardware Engineer (High Performance Computing Digital Design Engineering) - Entry Level (Maryland)](https://jobright.ai/jobs/info/6a79fcedab1385611f8fca44) | USAJOBS | Fort Meade, MD | 08/10/2026 16:31:41 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electrical and Electronics Engineer I (Onsite)](https://jobright.ai/jobs/info/6a79f0359ee17f276dbf042d) | RTX | Rockford, IL | 08/10/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I - Plant Engineering](https://jobright.ai/jobs/info/6a79f16267a1ad0bc53d09fd) | Framatome North America | Richland, WA | 08/10/2026 15:42:26 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a79f4799ee17f276dbf0596) | Latitude Inc | Manassas, VA | 08/10/2026 15:55:37 | Sponsorship: Past Sponsorship |
