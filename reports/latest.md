@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-13 19:30:33Z UTC
+Updated: 2026-08-13 21:07:54Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7e2ff719ce4e6e9d931e33) | BAE Systems | San Diego, CA | 08/13/2026 20:58:31 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a61656711edf44d791609d4) | Freeport-McMoRan | Morenci, AZ | 08/13/2026 16:20:01 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6a45ab943dbab558e29a1ee9) | Axon | Scottsdale, AZ | 08/13/2026 17:37:44 | Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Software R&D Engineer, VLSI Physical Design - New College Grad 2026](https://jobright.ai/jobs/info/6a2205e1338c012305122735) | NVIDIA | Austin, TX | 08/13/2026 17:06:26 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-13 19:30:33Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a7a02e99ee17f276dbf0c0b) | Latitude Inc | Manassas, VA | 08/10/2026 16:57:13 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Hardware Verification Engineer (Solon)](https://jobright.ai/jobs/info/6a5df5c3270e3033b045b3f6) | Ralliant | Solon, OH | 07/14/2026 10:17:17 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [Hardware Engineer (High Performance Computing Digital Design Engineering) - Entry Level (Maryland)](https://jobright.ai/jobs/info/6a79fcedab1385611f8fca44) | USAJOBS | Fort Meade, MD | 08/10/2026 16:31:41 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Electrical and Electronics Engineer I (Onsite)](https://jobright.ai/jobs/info/6a79f0359ee17f276dbf042d) | RTX | Rockford, IL | 08/10/2026 00:00:00 | Sponsorship: Past Sponsorship |
