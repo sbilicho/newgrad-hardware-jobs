@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-14 05:56:06Z UTC
+Updated: 2026-08-14 07:02:10Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 45 (Possible) | [Electrical/Electronics Engineer I-IV](https://jobright.ai/jobs/info/6a4530770dd56c76cc2f2939) | Kratos Defense and Security Solutions | Roseville, CA | 08/13/2026 16:15:24 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7eae1ce51a1e18a240ec10) | BAE Systems, Inc. | San Diego, CA | 08/14/2026 05:56:44 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 88 (Strong) | [ASIC Physical Design Engineer, Netlisting - New College Grad 2026](https://jobright.ai/jobs/info/6a7eb3e2179e4f7b7e8d8439) | NVIDIA AI | Santa Clara, TX | 08/14/2026 06:21:22 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [AI Factory Electrical Engineer](https://jobright.ai/jobs/info/6a7ea0f5179e4f7b7e8d7fa5) | Siemens | Princeton, NJ | 08/13/2026 22:00:37 | Sponsorship: No |
 | 41 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial](https://jobright.ai/jobs/info/6a7e8058e2030208f2769d74) | Dice | Chicago, IL | 08/14/2026 02:41:28 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Test Engineer](https://jobright.ai/jobs/info/6a505b644649561ec08b0fde) | Shinkei | El Segundo, CA | 08/13/2026 19:37:28 | Sponsorship: Not Sure |
@@ -101,6 +104,3 @@ Updated: 2026-08-14 05:56:06Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7a5584b17cba5690366c79) | Wold Architects and Engineers | Denver, CO | 08/10/2026 22:18:57 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a5fe74b8c7fd835513bbdc5) | AECOM | Denver, CO | 08/10/2026 19:04:24 | U.S. citizenship language is present; Sponsorship: No |
 | 49 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6a7a872ba26ccc369f83eaf2) | General Dynamics Mission Systems | Manassas, VA | 08/10/2026 19:21:31 | Security clearance language is present; Sponsorship: No |
-| 41 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial](https://jobright.ai/jobs/info/6a7a79f79ee17f276dbf33b0) | Sargent & Lundy | Tampa, FL | 08/11/2026 01:25:11 | Sponsorship: Past Sponsorship |
-| 33 (Possible) | [New College Grad - Product Yield Enhancement Engineer, HBM](https://jobright.ai/jobs/info/6a448f7fef17a815538a4473) | Micron Technology | Boise, ID | 06/30/2026 14:48:45 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7a53389ee17f276dbf299e) | Laveer Engineering | New Stanton, PA | 08/10/2026 15:39:52 | Sponsorship: Not Sure |
