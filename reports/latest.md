@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-14 02:21:25Z UTC
+Updated: 2026-08-14 04:23:19Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial](https://jobright.ai/jobs/info/6a7e8058e2030208f2769d74) | Dice | Chicago, IL | 08/14/2026 02:41:28 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Test Engineer](https://jobright.ai/jobs/info/6a505b644649561ec08b0fde) | Shinkei | El Segundo, CA | 08/13/2026 19:37:28 | Sponsorship: Not Sure |
 | 37 (Possible) | [Submarine Power Plant Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a7e78bc0cd4a07032580493) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/13/2026 23:08:36 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Product Engineer I](https://jobright.ai/jobs/info/6a7e4c89e51a1e18a240d337) | Benchmark | Rochester, MN | 08/13/2026 16:00:25 | Sponsorship: Not Sure |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a7e4cc3ad9ff00c26baa930) | UST HealthProof | Hillsboro, OR | 08/13/2026 16:01:23 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-14 02:21:25Z UTC
 | 33 (Possible) | [New College Grad - Product Yield Enhancement Engineer, HBM](https://jobright.ai/jobs/info/6a448f7fef17a815538a4473) | Micron Technology | Boise, ID | 06/30/2026 14:48:45 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7a53389ee17f276dbf299e) | Laveer Engineering | New Stanton, PA | 08/10/2026 15:39:52 | Sponsorship: Not Sure |
 | 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (2027)](https://jobright.ai/jobs/info/6a7a53d4bb6ca93ae561b466) | Dice | Minneapolis, MN | 08/10/2026 22:42:28 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7a5335bb6ca93ae561b3d3) | Wold Architects and Engineers | Denver, CO | 08/10/2026 22:39:49 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [CAD Engineer - Entry Level](https://jobright.ai/jobs/info/6a7a523fb17cba5690366aa0) | Dice | New York, NY | 08/10/2026 22:35:43 | Sponsorship: Past Sponsorship |
