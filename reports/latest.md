@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-14 16:27:53Z UTC
+Updated: 2026-08-14 17:32:55Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a4e5ed6fc327f422fef26f7) | Amentum | Lexington Park, MD | 08/14/2026 16:32:25 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7f487ee2030208f276cd51) | Georgia Institute of Technology | Atlanta metropolitan area | 08/14/2026 16:55:26 | Sponsorship: Past Sponsorship |
+| 39 (Possible) | [Engineer I – Focal Plane Electronics Systems](https://jobright.ai/jobs/info/6a7f4ab819ce4e6e9d936b8d) | BAE Systems | Boulder, CO | 08/14/2026 17:04:56 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 35 (Possible) | [Sr. Silicon Design Engineer](https://jobright.ai/jobs/info/6a7f34c3e2030208f276c67d) | AMD | Santa Clara, CA | 08/14/2026 15:31:15 | Sponsorship: Past Sponsorship |
 | 38 (Possible) | [Silicon Design Engineer](https://jobright.ai/jobs/info/6a7f33f9b56bea5779c0947a) | AMD | Boxborough, MA | 08/14/2026 15:27:53 | Sponsorship: Past Sponsorship |
 | 53 (Good) | [Product Performance Testing & Validation Engineer (Level 1)](https://jobright.ai/jobs/info/6a7f40e3ad9ff00c26bad44b) | AirSight | Richardson, TX | 08/14/2026 16:22:59 | Sponsorship: Past Sponsorship |
 | 53 (Good) | [New Graduate Engineer, Silicon Engineering](https://jobright.ai/jobs/info/6a7f40eeb56bea5779c09b54) | SpaceX | Palo Alto, CA | 08/14/2026 16:23:10 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-08-14 16:27:53Z UTC
 | 41 (Possible) | [Associate Computer & Electrical Engineer Software](https://jobright.ai/jobs/info/6a7521b17b3417772ade37e0) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/11/2026 15:52:48 | Sponsorship: No |
 | 41 (Possible) | [Associate Computer & Electrical Engineer - Software](https://jobright.ai/jobs/info/6a72845471acd469eeda85c4) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 08/11/2026 15:52:48 | Sponsorship: No |
 | 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED*](https://jobright.ai/jobs/info/6a7b99af77e6b569c61c1c04) | General Dynamics Mission Systems | Pittsfield, MA | 08/11/2026 21:52:47 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Reliability Engineer I Job Details \| Amrize](https://jobright.ai/jobs/info/6a69bebcc63ba56308f4fc87) | Amrize | Florence, CO | 08/11/2026 12:22:03 | Sponsorship: Not Sure |
-| 46 (Possible) | [Reliability Engineer I](https://jobright.ai/jobs/info/6a5a94ab856af468ab0095f5) | Amrize | Florence, CO | 08/11/2026 12:22:03 | Sponsorship: Not Sure |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7b7cf63b399d106e4d6d52) | Bath Group, LLC | El Paso, TX | 08/11/2026 19:50:14 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Senior Electrical Engineer (I&C)](https://jobright.ai/jobs/info/6a7b83b1bc05d77f2bddf8be) | Natura Resources | Abilene, TX | 08/11/2026 20:18:57 | Sponsorship: Past Sponsorship |
