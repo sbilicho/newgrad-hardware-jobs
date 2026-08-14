@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-14 19:35:29Z UTC
+Updated: 2026-08-14 20:49:09Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 50 (Good) | [Test Engineer, Propulsion Components (Starship)](https://jobright.ai/jobs/info/6a7f721e927c79391ad09174) | SpaceX | Hawthorne, CA | 08/14/2026 12:57:35 | Sponsorship: No |
+| 50 (Good) | [Test Engineer, Propulsion Components (Starship)](https://jobright.ai/jobs/info/6a45c6ca3dbab558e29a21ed) | SpaceX | Hawthorne, CA | 08/14/2026 12:57:35 | Sponsorship: No |
+| 50 (Good) | [Test Engineer, Powertrain Components (Starship)](https://jobright.ai/jobs/info/6a51e31f57513b72e0c697d0) | SpaceX | Hawthorne, CA | 08/14/2026 12:57:48 | Sponsorship: No |
 | 31 (Possible) | [Electronics Engineer New Grad](https://jobright.ai/jobs/info/6a7f6960927c79391ad08bcb) | BubblyNet | Clearwater, FL | 08/14/2026 19:15:44 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer in Training (EIT) (Entry Level)](https://jobright.ai/jobs/info/6a7f632b19ce4e6e9d937713) | Garver | Kansas City, MO | 08/14/2026 18:49:15 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical/RF Engineer](https://jobright.ai/jobs/info/6a4cf1a33122a76a8fd53a1b) | Amentum | Dahlgren, VA | 08/14/2026 19:11:08 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-14 19:35:29Z UTC
 | 65 (Good) | [Graduate FPGA Engineer (2027 Start - Austin)](https://jobright.ai/jobs/info/6a5f6ae06e0c3c7c7d3d6cc4) | Optiver | Austin, TX | 08/12/2026 09:43:29 | Sponsorship: Explicit |
 | 46 (Possible) | [Entry Level Electronics Engineer](https://jobright.ai/jobs/info/6a7c4c527c52154b59f59af5) | Dice | Oak Ridge, TN | 08/12/2026 10:34:58 | Sponsorship: Past Sponsorship |
 | 65 (Good) | [Graduate FPGA Engineer (2027 Start - Chicago)](https://jobright.ai/jobs/info/6a5f6ad96e0c3c7c7d3d6cc1) | Optiver | Chicago, IL | 08/12/2026 09:32:24 | Sponsorship: Explicit |
-| 52 (Good) | [Electrical Engineer I – Embedded Systems, Sensing & IoT](https://jobright.ai/jobs/info/6a6461fd979290281c7061ab) | Milwaukee Tool | Brookfield, WI | 08/12/2026 09:29:22 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer – Entry Level *CLEARANCE REQUIRED*](https://jobright.ai/jobs/info/6a7be173bc05d77f2bde1191) | General Dynamics Mission Systems | Pittsfield, MA | 08/12/2026 02:58:59 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 57 (Good) | [Electronics Engineer I (Avionics Electronics )](https://jobright.ai/jobs/info/6a7bbdab77e6b569c61c2481) | NASA Jet Propulsion Laboratory | Pasadena, CA | 08/12/2026 01:33:14 | Sponsorship: Past Sponsorship |
