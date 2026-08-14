@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-14 18:31:17Z UTC
+Updated: 2026-08-14 19:35:29Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 31 (Possible) | [Electronics Engineer New Grad](https://jobright.ai/jobs/info/6a7f6960927c79391ad08bcb) | BubblyNet | Clearwater, FL | 08/14/2026 19:15:44 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer in Training (EIT) (Entry Level)](https://jobright.ai/jobs/info/6a7f632b19ce4e6e9d937713) | Garver | Kansas City, MO | 08/14/2026 18:49:15 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Entry Level Electrical/RF Engineer](https://jobright.ai/jobs/info/6a4cf1a33122a76a8fd53a1b) | Amentum | Dahlgren, VA | 08/14/2026 19:11:08 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6a7f5c4f19ce4e6e9d9372fc) | TriMas Life Sciences | Denver Metropolitan Area, United States | 08/14/2026 11:19:59 | Sponsorship: Not Sure |
+| 54 (Good) | [Satellite Test Engineer, Amazon Leo](https://jobright.ai/jobs/info/6a62912a1e089c0cc884d586) | Amazon | Redmond, WA | 08/14/2026 11:30:30 | Sponsorship: No |
 | 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a7f5b79e2030208f276d5b9) | RTX | Bellevue, IA | 08/14/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a4e5ed6fc327f422fef26f7) | Amentum | Lexington Park, MD | 08/14/2026 16:32:25 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7f487ee2030208f276cd51) | Georgia Institute of Technology | Atlanta metropolitan area | 08/14/2026 16:55:26 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-08-14 18:31:17Z UTC
 | 52 (Good) | [Electrical Engineer I – Embedded Systems, Sensing & IoT](https://jobright.ai/jobs/info/6a6461fd979290281c7061ab) | Milwaukee Tool | Brookfield, WI | 08/12/2026 09:29:22 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer – Entry Level *CLEARANCE REQUIRED*](https://jobright.ai/jobs/info/6a7be173bc05d77f2bde1191) | General Dynamics Mission Systems | Pittsfield, MA | 08/12/2026 02:58:59 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 57 (Good) | [Electronics Engineer I (Avionics Electronics )](https://jobright.ai/jobs/info/6a7bbdab77e6b569c61c2481) | NASA Jet Propulsion Laboratory | Pasadena, CA | 08/12/2026 01:33:14 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a34c388f6b55d12c791df36) | D&B Engineers and Architects | Lindenhurst, NY | 08/11/2026 19:22:25 | Sponsorship: Past Sponsorship |
-| 68 (Good) | [Graduate - Validation Engineer](https://jobright.ai/jobs/info/6a7bc5d8bc05d77f2bde0e3b) | Infineon Technologies | San Jose, CA | 08/12/2026 01:01:12 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Hardware Test Engineer](https://jobright.ai/jobs/info/6a7b9ea3ecfd29770753a3e1) | Nirvana Energy Systems | Strongsville, OH; San Francisco Bay Area, United States | 08/11/2026 15:13:55 | Sponsorship: Not Sure |
-| 41 (Possible) | [Associate Computer & Electrical Engineer Software](https://jobright.ai/jobs/info/6a7521b17b3417772ade37e0) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/11/2026 15:52:48 | Sponsorship: No |
-| 41 (Possible) | [Associate Computer & Electrical Engineer - Software](https://jobright.ai/jobs/info/6a72845471acd469eeda85c4) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 08/11/2026 15:52:48 | Sponsorship: No |
