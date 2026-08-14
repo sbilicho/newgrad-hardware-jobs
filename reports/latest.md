@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-13 23:55:44Z UTC
+Updated: 2026-08-14 02:21:25Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Submarine Power Plant Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a7e78bc0cd4a07032580493) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/13/2026 23:08:36 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Product Engineer I](https://jobright.ai/jobs/info/6a7e4c89e51a1e18a240d337) | Benchmark | Rochester, MN | 08/13/2026 16:00:25 | Sponsorship: Not Sure |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a7e4cc3ad9ff00c26baa930) | UST HealthProof | Hillsboro, OR | 08/13/2026 16:01:23 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7e4d05e51a1e18a240d34d) | BAE Systems, Inc. | San Diego, CA | 08/13/2026 16:02:29 | U.S. citizenship language is present; Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-08-13 23:55:44Z UTC
 | 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (2027)](https://jobright.ai/jobs/info/6a7a53d4bb6ca93ae561b466) | Dice | Minneapolis, MN | 08/10/2026 22:42:28 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7a5335bb6ca93ae561b3d3) | Wold Architects and Engineers | Denver, CO | 08/10/2026 22:39:49 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [CAD Engineer - Entry Level](https://jobright.ai/jobs/info/6a7a523fb17cba5690366aa0) | Dice | New York, NY | 08/10/2026 22:35:43 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a7a458167a1ad0bc53d2a3e) | EVS, Inc. | Minnetonka, MN | 08/10/2026 00:00:00 | Sponsorship: Past Sponsorship |
