@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-14 07:02:10Z UTC
+Updated: 2026-08-14 08:50:57Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 48 (Possible) | [2027 Engineer Development Rotation Program - Electrical Engineer I New College Grad - BS or MS (Gloucester, MA)](https://jobright.ai/jobs/info/6a7ed277179e4f7b7e8d8ae5) | Applied Materials | Gloucester, MA | 08/14/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Electrical Engineer - Distribution Design](https://jobright.ai/jobs/info/6a50b293ddd293054ccab8fb) | GPD Group | Columbus, OH | 08/13/2026 15:47:23 | Sponsorship: Past Sponsorship |
+| 80 (Strong) | [SoC Design Verification Engineer](https://jobright.ai/jobs/info/6a7ea26fb56bea5779c0693a) | Intel | Santa Clara, CA | 08/14/2026 00:28:38 | Sponsorship: Not Sure |
+| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6a7ed4d7e2030208f276abc8) | ByteDance | San Jose, CA | 08/14/2026 08:41:59 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical/Electronics Engineer I-IV](https://jobright.ai/jobs/info/6a4530770dd56c76cc2f2939) | Kratos Defense and Security Solutions | Roseville, CA | 08/13/2026 16:15:24 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7eae1ce51a1e18a240ec10) | BAE Systems, Inc. | San Diego, CA | 08/14/2026 05:56:44 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 88 (Strong) | [ASIC Physical Design Engineer, Netlisting - New College Grad 2026](https://jobright.ai/jobs/info/6a7eb3e2179e4f7b7e8d8439) | NVIDIA AI | Santa Clara, TX | 08/14/2026 06:21:22 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-08-14 07:02:10Z UTC
 | 90 (Strong) | [Digital IC Design Engineer](https://jobright.ai/jobs/info/6a42756ba5e15b1068379054) | Texas Instruments | Dallas, TX | 08/11/2026 09:58:22 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [MEP Electrical Engineer](https://jobright.ai/jobs/info/6a461c7e0dd56c76cc2f603b) | SEH | Denver, CO | 08/11/2026 02:04:40 | Sponsorship: No |
 | 59 (Good) | [Drive Teardown Failure Analysis Engineer](https://jobright.ai/jobs/info/6a4e9e6315b4965afd5840a6) | WD | San Jose, CA | 08/10/2026 23:57:56 | Sponsorship: No |
-| 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6977d1d752f3c27ec643f5bc) | Salas O'Brien | Merritt Island, FL | 08/10/2026 00:29:56 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7a5584b17cba5690366c79) | Wold Architects and Engineers | Denver, CO | 08/10/2026 22:18:57 | Sponsorship: Past Sponsorship |
-| 43 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a5fe74b8c7fd835513bbdc5) | AECOM | Denver, CO | 08/10/2026 19:04:24 | U.S. citizenship language is present; Sponsorship: No |
-| 49 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6a7a872ba26ccc369f83eaf2) | General Dynamics Mission Systems | Manassas, VA | 08/10/2026 19:21:31 | Security clearance language is present; Sponsorship: No |
