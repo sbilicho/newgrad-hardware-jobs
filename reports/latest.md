@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-14 14:33:31Z UTC
+Updated: 2026-08-14 15:27:48Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7f2885e2030208f276c1c0) | Honeywell Technologies | Arvada, CO | 08/14/2026 14:39:01 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Electrical Engineer I - Test Solutions - Onsite](https://jobright.ai/jobs/info/6a7f32c7e2030208f276c5e3) | Raytheon | Andover, MA | 08/14/2026 15:22:47 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer [Wilton]](https://jobright.ai/jobs/info/6a7eaade19ce4e6e9d9340bf) | Altieri | Wilton, CT | 08/14/2026 00:43:44 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7f17d3927c79391ad0639c) | Honeywell Technologies | Arvada, CO | 08/14/2026 13:27:47 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical Engineer  - San Diego CA](https://jobright.ai/jobs/info/6a7f1b6a19ce4e6e9d9358ea) | Military Spouse Jobs | San Diego, CA | 08/14/2026 13:43:06 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical Engineer  - San Diego CA](https://jobright.ai/jobs/info/6a7f1d8ee51a1e18a2410467) | Eaton | San Diego, CA | 08/14/2026 13:52:14 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-14 14:33:31Z UTC
 | 54 (Good) | [Test Engineer, New College Graduate, (Teradyne, North Reading, MA)](https://jobright.ai/jobs/info/6a70c6cd357dfc6ff2b3afa3) | Teradyne | North Reading, MA | 08/11/2026 11:29:51 | Sponsorship: No |
 | 50 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7b52f3ecf5194164fbd41c) | Longshot Space Technologies Corporation | Alameda, CA | 08/11/2026 16:50:59 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [FAST Labs Electrical Engineer I](https://jobright.ai/jobs/info/6a7b55c5ecf5194164fbd58f) | BAE Systems, Inc. | Merrimack, NH | 08/11/2026 17:03:01 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer – Entry Level *CLEARANCE REQUIRED*](https://jobright.ai/jobs/info/6a7b4733b933773d16be639f) | General Dynamics | Pittsfield, MA | 08/11/2026 16:00:51 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 87 (Strong) | [Associate ASIC/FPGA Design or Verification Engineer](https://jobright.ai/jobs/info/6a7b25733b399d106e4d4986) | Boeing | El Segundo, CA | 08/11/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7b2206ecf5194164fbc1c6) | University of Rochester | Rochester, NY | 08/11/2026 00:00:00 | Sponsorship: Past Sponsorship |
