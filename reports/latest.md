@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-14 21:49:09Z UTC
+Updated: 2026-08-14 22:49:30Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Electrical Engineer - Entry Level *CLEARANCE REQUIRED*](https://jobright.ai/jobs/info/6a7f99db927c79391ad0b041) | Dice | Pittsfield, MA | 08/14/2026 22:42:35 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a7f8ee0e2030208f276f613) | Sargent & Lundy | Washington, DC | 08/14/2026 21:55:44 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Test Engineer, Propulsion Components (Starship)](https://jobright.ai/jobs/info/6a7f721e927c79391ad09174) | SpaceX | Hawthorne, CA | 08/14/2026 12:57:35 | Sponsorship: No |
 | 50 (Good) | [Test Engineer, Propulsion Components (Starship)](https://jobright.ai/jobs/info/6a45c6ca3dbab558e29a21ed) | SpaceX | Hawthorne, CA | 08/14/2026 12:57:35 | Sponsorship: No |
 | 50 (Good) | [Test Engineer, Powertrain Components (Starship)](https://jobright.ai/jobs/info/6a51e31f57513b72e0c697d0) | SpaceX | Hawthorne, CA | 08/14/2026 12:57:48 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-08-14 21:49:09Z UTC
 | 41 (Possible) | [Principal Electrical Engineer I - RPU Unit Lead](https://jobright.ai/jobs/info/6a5f9a80b0f20036bc631cad) | CesiumAstro | Westminster, CO | 08/12/2026 12:38:17 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a7c6668d77e8156a8e31c1b) | Sargent & Lundy | Wilmington, DE | 08/12/2026 12:26:16 | Sponsorship: Past Sponsorship |
 | 65 (Good) | [Graduate FPGA Engineer (2027 Start - Austin)](https://jobright.ai/jobs/info/6a5f6ae06e0c3c7c7d3d6cc4) | Optiver | Austin, TX | 08/12/2026 09:43:29 | Sponsorship: Explicit |
-| 46 (Possible) | [Entry Level Electronics Engineer](https://jobright.ai/jobs/info/6a7c4c527c52154b59f59af5) | Dice | Oak Ridge, TN | 08/12/2026 10:34:58 | Sponsorship: Past Sponsorship |
-| 65 (Good) | [Graduate FPGA Engineer (2027 Start - Chicago)](https://jobright.ai/jobs/info/6a5f6ad96e0c3c7c7d3d6cc1) | Optiver | Chicago, IL | 08/12/2026 09:32:24 | Sponsorship: Explicit |
