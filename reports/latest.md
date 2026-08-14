@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-14 11:07:42Z UTC
+Updated: 2026-08-14 13:25:23Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Submarine Power Plant Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a7f008cb56bea5779c0814a) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 08/13/2026 21:45:30 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a5fb2ea33ef5c58b4fff7c8) | Trane Technologies | La Crosse, WI | 08/14/2026 02:37:43 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a7ed743b56bea5779c075aa) | Westinghouse Electric Company | Rock Hill, SC | 08/14/2026 01:52:19 | Sponsorship: Not Sure |
 | 48 (Possible) | [2027 Engineer Development Rotation Program - Electrical Engineer I New College Grad - BS or MS (Gloucester, MA)](https://jobright.ai/jobs/info/6a7ed277179e4f7b7e8d8ae5) | Applied Materials | Gloucester, MA | 08/14/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-14 11:07:42Z UTC
 | 51 (Good) | [Hardware Dev Engr II (Reliability Engineer) - AMZ26726.1](https://jobright.ai/jobs/info/69e6915bf8fa2f3ec32a2872) | Amazon | Nashville, TN | 08/11/2026 12:50:43 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7b09c7c6610537d33f15ee) | GMEP Engineers, Inc. | Lake Forest, CA | 08/10/2026 16:03:32 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I – Early Career (2026 Starts)](https://jobright.ai/jobs/info/6a572eade9b77f668bd6701d) | Blue Origin | Greater Seattle Area | 08/11/2026 09:42:48 | Sponsorship: Past Sponsorship |
-| 90 (Strong) | [Digital IC Design Engineer](https://jobright.ai/jobs/info/6a42756ba5e15b1068379054) | Texas Instruments | Dallas, TX | 08/11/2026 09:58:22 | Sponsorship: Past Sponsorship |
