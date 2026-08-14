@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-14 15:27:48Z UTC
+Updated: 2026-08-14 16:27:53Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 38 (Possible) | [Silicon Design Engineer](https://jobright.ai/jobs/info/6a7f33f9b56bea5779c0947a) | AMD | Boxborough, MA | 08/14/2026 15:27:53 | Sponsorship: Past Sponsorship |
+| 53 (Good) | [Product Performance Testing & Validation Engineer (Level 1)](https://jobright.ai/jobs/info/6a7f40e3ad9ff00c26bad44b) | AirSight | Richardson, TX | 08/14/2026 16:22:59 | Sponsorship: Past Sponsorship |
+| 53 (Good) | [New Graduate Engineer, Silicon Engineering](https://jobright.ai/jobs/info/6a7f40eeb56bea5779c09b54) | SpaceX | Palo Alto, CA | 08/14/2026 16:23:10 | Sponsorship: Past Sponsorship |
+| 53 (Good) | [New Graduate Engineer, Silicon Engineering](https://jobright.ai/jobs/info/6a7f40a5b56bea5779c09b1d) | SpaceX | Redmond, WA | 08/14/2026 16:21:57 | Sponsorship: Past Sponsorship |
+| 53 (Good) | [New Graduate Engineer, Silicon Engineering](https://jobright.ai/jobs/info/6a7f40bfb56bea5779c09b3a) | SpaceX | Irvine, CA | 08/14/2026 16:22:23 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7f2885e2030208f276c1c0) | Honeywell Technologies | Arvada, CO | 08/14/2026 14:39:01 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electrical Engineer I - Test Solutions - Onsite](https://jobright.ai/jobs/info/6a7f32c7e2030208f276c5e3) | Raytheon | Andover, MA | 08/14/2026 15:22:47 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer [Wilton]](https://jobright.ai/jobs/info/6a7eaade19ce4e6e9d9340bf) | Altieri | Wilton, CT | 08/14/2026 00:43:44 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-08-14 15:27:48Z UTC
 | 46 (Possible) | [Reliability Engineer I](https://jobright.ai/jobs/info/6a5a94ab856af468ab0095f5) | Amrize | Florence, CO | 08/11/2026 12:22:03 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7b7cf63b399d106e4d6d52) | Bath Group, LLC | El Paso, TX | 08/11/2026 19:50:14 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Senior Electrical Engineer (I&C)](https://jobright.ai/jobs/info/6a7b83b1bc05d77f2bddf8be) | Natura Resources | Abilene, TX | 08/11/2026 20:18:57 | Sponsorship: Past Sponsorship |
-| 87 (Strong) | [Analog Mixed-Signal Design Engineer](https://jobright.ai/jobs/info/6a552a0ff2c46727285f030f) | OMNIVISION | Santa Clara, CA | 08/11/2026 18:47:43 | Sponsorship: Past Sponsorship |
-| 81 (Strong) | [Radio Frequency (RF) Digital Design Electrical Engineer I (Hybrid)](https://jobright.ai/jobs/info/6a7b7130bc05d77f2bddef13) | Collins Aerospace | Aguadilla, PR | 08/11/2026 19:00:00 | Sponsorship: Past Sponsorship |
-| 54 (Good) | [Test Engineer, New College Graduate, (Teradyne, North Reading, MA)](https://jobright.ai/jobs/info/6a70c6cd357dfc6ff2b3afa3) | Teradyne | North Reading, MA | 08/11/2026 11:29:51 | Sponsorship: No |
-| 50 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7b52f3ecf5194164fbd41c) | Longshot Space Technologies Corporation | Alameda, CA | 08/11/2026 16:50:59 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [FAST Labs Electrical Engineer I](https://jobright.ai/jobs/info/6a7b55c5ecf5194164fbd58f) | BAE Systems, Inc. | Merrimack, NH | 08/11/2026 17:03:01 | Sponsorship: Past Sponsorship |
