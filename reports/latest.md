@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-14 08:50:57Z UTC
+Updated: 2026-08-14 10:00:35Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a7ed743b56bea5779c075aa) | Westinghouse Electric Company | Rock Hill, SC | 08/14/2026 01:52:19 | Sponsorship: Not Sure |
 | 48 (Possible) | [2027 Engineer Development Rotation Program - Electrical Engineer I New College Grad - BS or MS (Gloucester, MA)](https://jobright.ai/jobs/info/6a7ed277179e4f7b7e8d8ae5) | Applied Materials | Gloucester, MA | 08/14/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer - Distribution Design](https://jobright.ai/jobs/info/6a50b293ddd293054ccab8fb) | GPD Group | Columbus, OH | 08/13/2026 15:47:23 | Sponsorship: Past Sponsorship |
 | 80 (Strong) | [SoC Design Verification Engineer](https://jobright.ai/jobs/info/6a7ea26fb56bea5779c0693a) | Intel | Santa Clara, CA | 08/14/2026 00:28:38 | Sponsorship: Not Sure |
@@ -103,4 +104,3 @@ Updated: 2026-08-14 08:50:57Z UTC
 | 41 (Possible) | [Electrical Engineer I – Early Career (2026 Starts)](https://jobright.ai/jobs/info/6a572eade9b77f668bd6701d) | Blue Origin | Greater Seattle Area | 08/11/2026 09:42:48 | Sponsorship: Past Sponsorship |
 | 90 (Strong) | [Digital IC Design Engineer](https://jobright.ai/jobs/info/6a42756ba5e15b1068379054) | Texas Instruments | Dallas, TX | 08/11/2026 09:58:22 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [MEP Electrical Engineer](https://jobright.ai/jobs/info/6a461c7e0dd56c76cc2f603b) | SEH | Denver, CO | 08/11/2026 02:04:40 | Sponsorship: No |
-| 59 (Good) | [Drive Teardown Failure Analysis Engineer](https://jobright.ai/jobs/info/6a4e9e6315b4965afd5840a6) | WD | San Jose, CA | 08/10/2026 23:57:56 | Sponsorship: No |
