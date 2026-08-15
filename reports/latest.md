@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-15 05:45:13Z UTC
+Updated: 2026-08-15 07:02:56Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Controls Engineer](https://jobright.ai/jobs/info/6a800ab9b56bea5779c10de2) | Opportunity Group, Inc. | Grand Rapids, MI | 08/14/2026 13:20:12 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 45 (Possible) | [2027 Associate Electronics Engineer/Electronics Engineer](https://jobright.ai/jobs/info/6a7df555b56bea5779c02a4e) | Northrop Grumman | San Diego, CA; Palmdale, CA; El Segundo, CA; Redondo Beach, CA | 08/14/2026 21:12:35 | Security clearance language is present; Sponsorship: No |
 | 69 (Good) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/69d55e28cdb525785fbd025e) | NVIDIA | Santa Clara, CA | 08/14/2026 18:49:36 | Sponsorship: Past Sponsorship |
 | 80 (Strong) | [GPU Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a7fd0f5b56bea5779c0f71e) | AdaMarie | Westford, MA | 08/15/2026 02:37:41 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-15 05:45:13Z UTC
 | 43 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7ca825dc3dff2d1c0c82e5) | S-Energy Co., Ltd. | Boerne, TX | 08/12/2026 17:06:45 | Sponsorship: Past Sponsorship |
 | 53 (Good) | [Power Electronics Engineer, Satellites (Starlink)](https://boards.greenhouse.io/spacex/jobs/8698727002?gh_jid=8698727002) | SpaceX | Redmond, WA; Redmond, WA, United States | 08/12/2026 16:19:45 |  |
 | 80 (Strong) | [GPU Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a7ca4d9dc3dff2d1c0c8106) | NVIDIA | Westford, MA | 08/12/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/69f1ba098d8d624381a9e222) | Omni Design Technologies, Inc. | Orchard City, CO | 04/08/2026 03:05:00 | Sponsorship: Past Sponsorship |
