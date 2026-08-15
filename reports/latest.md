@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-15 10:58:29Z UTC
+Updated: 2026-08-15 11:53:42Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a80469be2030208f2773e43) | CyberProof | Hillsboro, OR | 08/15/2026 10:59:39 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a802f9d19ce4e6e9d93d6c6) | Collins Aerospace | Bellevue, IA | 08/15/2026 09:21:33 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Sr. Silicon Design Engineer](https://jobright.ai/jobs/info/6a80239919ce4e6e9d93d3a4) | AMD | Santa Clara, CA | 08/15/2026 08:30:17 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Controls Engineer](https://jobright.ai/jobs/info/6a800ab9b56bea5779c10de2) | Opportunity Group, Inc. | Grand Rapids, MI | 08/14/2026 13:20:12 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-15 10:58:29Z UTC
 | 83 (Strong) | [Post-Silicon Systems Validation Engineer I, Annapurna Labs](https://jobright.ai/jobs/info/6a5fee3d33ef5c58b4000f6e) | Amazon | Austin, TX | 08/12/2026 18:20:12 | Sponsorship: Past Sponsorship |
 | 53 (Good) | [Entry Level Hardware Engineer](https://jobright.ai/jobs/info/6a7cb1fc7c52154b59f5bcb9) | Cornerstone Defense | Herndon, VA | 08/12/2026 17:48:44 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Test Engineer I - Electronics](https://jobright.ai/jobs/info/6a7ca597dc3dff2d1c0c8169) | Honeywell Aerospace | Rocky Mount, NC | 08/12/2026 16:55:51 | Sponsorship: Past Sponsorship |
-| 43 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7ca825dc3dff2d1c0c82e5) | S-Energy Co., Ltd. | Boerne, TX | 08/12/2026 17:06:45 | Sponsorship: Past Sponsorship |
