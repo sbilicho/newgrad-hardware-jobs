@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-15 21:20:23Z UTC
+Updated: 2026-08-15 22:35:04Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 53 (Good) | [Entry Level Hardware Engineer](https://jobright.ai/jobs/info/6a80e90c19ce4e6e9d94041a) | Dice | Herndon, VA | 08/15/2026 22:32:44 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - Cranberry, PA](https://jobright.ai/jobs/info/6a80cfceb56bea5779c147ef) | Eaton | Cranberry Township, PA | 08/15/2026 20:45:02 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a80d33ce2030208f277611a) | CyberProof | Hillsboro, OR | 08/15/2026 20:59:40 | Sponsorship: Past Sponsorship |
 | 66 (Good) | [Process Integration and Yield Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6a8088b8927c79391ad1103d) | GlobalFoundries | Malta, NY | 08/15/2026 20:37:36 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-15 21:20:23Z UTC
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6a7da88419ce4e6e9d92f3aa) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 08/13/2026 08:20:08 | Sponsorship: Past Sponsorship |
 | 35 (Possible) | [New College Grad - Semiconductor Design Engineer, DRAM Products Group](https://jobright.ai/jobs/info/6a576edd10c4d945d864e2f5) | Micron Technology | Boise, ID | 08/13/2026 09:07:45 | Sponsorship: Past Sponsorship |
 | 35 (Possible) | [New College Grad - Semiconductor Design Engineer, DRAM Products Group](https://jobright.ai/jobs/info/6a0726a9078fec52738aaeac) | Micron Technology | Boise, ID | 08/13/2026 09:07:45 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a7d049adc3dff2d1c0ca611) | Affiliated Engineers, Inc. | Charlottesville, VA | 08/12/2026 23:41:14 | Sponsorship: Past Sponsorship |
