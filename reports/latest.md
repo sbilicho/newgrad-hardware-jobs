@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-15 01:08:40Z UTC
+Updated: 2026-08-15 02:28:23Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 51 (Good) | [Associate Test Engineer](https://jobright.ai/jobs/info/6a7f6d3d927c79391ad08e09) | KONE | Texas, United States | 08/14/2026 18:03:24 | Sponsorship: Not Sure |
 | 58 (Good) | [Vehicle Test Engineer - New Grad (2027)](https://jobright.ai/jobs/info/6a7fa0e9ad9ff00c26baf82d) | Applied Intuition | Sunnyvale, CA | 08/15/2026 00:26:17 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a7f9de6e2030208f27700f9) | CyberProof | Hillsboro, OR | 08/14/2026 22:59:50 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a7f9bd2e51a1e18a241481a) | Dice | Wilmington, DE | 08/14/2026 22:50:58 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-15 01:08:40Z UTC
 | 46 (Possible) | [Raytheon Full Time 2026 - Digital Electronics Electrical Engineer I](https://jobright.ai/jobs/info/6a7c918ddc3dff2d1c0c7680) | Raytheon | Tewksbury, MA | 08/12/2026 15:30:21 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 47 (Possible) | [RTL Power Optimization Engineer – New College Grad 2026](https://jobright.ai/jobs/info/6a5ff7af6e0c3c7c7d3da415) | NVIDIA | Santa Clara, CA | 08/12/2026 15:05:40 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I – Early Career (2026 Starts)](https://jobright.ai/jobs/info/69bd1f4a45e08b3dc1fa3b66) | Blue Origin | Los Angeles, CA | 08/12/2026 09:51:40 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Entry Level Electrical Engineer (Hybrid)](https://jobright.ai/jobs/info/6a7c87ae7c52154b59f5a5cd) | BAE Systems | Fort Wayne, IN | 08/12/2026 14:48:14 | Sponsorship: Past Sponsorship |
