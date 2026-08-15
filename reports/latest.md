@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-15 20:21:40Z UTC
+Updated: 2026-08-15 21:20:23Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I - Cranberry, PA](https://jobright.ai/jobs/info/6a80cfceb56bea5779c147ef) | Eaton | Cranberry Township, PA | 08/15/2026 20:45:02 | Sponsorship: Past Sponsorship |
+| 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a80d33ce2030208f277611a) | CyberProof | Hillsboro, OR | 08/15/2026 20:59:40 | Sponsorship: Past Sponsorship |
+| 66 (Good) | [Process Integration and Yield Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6a8088b8927c79391ad1103d) | GlobalFoundries | Malta, NY | 08/15/2026 20:37:36 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Associate Electrical Engineer (Mission Critical/Data Center)](https://jobright.ai/jobs/info/6a738a988dc3d52d8eda00bc) | WSP in the U.S. | Troy, NY | 08/15/2026 11:41:09 | Sponsorship: Not Sure |
 | 37 (Possible) | [Associate Electrical Engineer (Mission Critical/Data Center)](https://jobright.ai/jobs/info/6a59b8e1686b4755d1e11b12) | WSP in the U.S. | New York, NY | 08/15/2026 11:41:09 | Sponsorship: Not Sure |
 | 30 (Possible) | [Sr. Silicon Design Engineer](https://jobright.ai/jobs/info/6a80be1b19ce4e6e9d93fac1) | AMD | Santa Clara, CA | 08/15/2026 19:29:31 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-15 20:21:40Z UTC
 | 35 (Possible) | [New College Grad - Semiconductor Design Engineer, DRAM Products Group](https://jobright.ai/jobs/info/6a576edd10c4d945d864e2f5) | Micron Technology | Boise, ID | 08/13/2026 09:07:45 | Sponsorship: Past Sponsorship |
 | 35 (Possible) | [New College Grad - Semiconductor Design Engineer, DRAM Products Group](https://jobright.ai/jobs/info/6a0726a9078fec52738aaeac) | Micron Technology | Boise, ID | 08/13/2026 09:07:45 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a7d049adc3dff2d1c0ca611) | Affiliated Engineers, Inc. | Charlottesville, VA | 08/12/2026 23:41:14 | Sponsorship: Past Sponsorship |
-| 56 (Good) | [Electrical Engineer, Silicon Reliability Test (Starlink)](https://boards.greenhouse.io/spacex/jobs/8701462002?gh_jid=8701462002) | SpaceX | Bastrop, TX; Bastrop, TX, United States | 08/12/2026 23:18:36 |  |
-| 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a7cfb4283621355407ad12f) | CyberProof | Hillsboro, OR | 08/12/2026 23:01:22 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Electrical Engineer (New Grad)](https://jobright.ai/jobs/info/6a7cef567c52154b59f5d4ac) | General Matter | Los Angeles, CA | 08/12/2026 22:10:30 | Sponsorship: Past Sponsorship |
