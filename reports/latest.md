@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-15 03:21:33Z UTC
+Updated: 2026-08-15 04:44:42Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 69 (Good) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/69d55e28cdb525785fbd025e) | NVIDIA | Santa Clara, CA | 08/14/2026 18:49:36 | Sponsorship: Past Sponsorship |
 | 80 (Strong) | [GPU Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a7fd0f5b56bea5779c0f71e) | AdaMarie | Westford, MA | 08/15/2026 02:37:41 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Software & System Test Engineer (102181)](https://jobright.ai/jobs/info/6a67b1c92bf1fb2b7192684a) | American Honda Motor Company, Inc. | Raymond, OH | 08/14/2026 19:11:20 | Sponsorship: Not Sure |
 | 51 (Good) | [Associate Test Engineer](https://jobright.ai/jobs/info/6a7f6d3d927c79391ad08e09) | KONE | Texas, United States | 08/14/2026 18:03:24 | Sponsorship: Not Sure |
@@ -103,4 +104,3 @@ Updated: 2026-08-15 03:21:33Z UTC
 | 80 (Strong) | [GPU Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a7ca4d9dc3dff2d1c0c8106) | NVIDIA | Westford, MA | 08/12/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/69f1ba098d8d624381a9e222) | Omni Design Technologies, Inc. | Orchard City, CO | 04/08/2026 03:05:00 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Raytheon Full Time 2026 - RF Antenna Electrical Engineer I](https://jobright.ai/jobs/info/6a7c909dd77e8156a8e328ea) | Raytheon | McKinney, TX | 08/12/2026 15:26:21 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Raytheon Full Time 2026 - Digital Electronics Electrical Engineer I](https://jobright.ai/jobs/info/6a7c918ddc3dff2d1c0c7680) | Raytheon | Tewksbury, MA | 08/12/2026 15:30:21 | Security clearance language is present; Sponsorship: Past Sponsorship |
