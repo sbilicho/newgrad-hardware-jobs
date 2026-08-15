@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-15 08:03:09Z UTC
+Updated: 2026-08-15 09:11:34Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 30 (Possible) | [Sr. Silicon Design Engineer](https://jobright.ai/jobs/info/6a80239919ce4e6e9d93d3a4) | AMD | Santa Clara, CA | 08/15/2026 08:30:17 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Controls Engineer](https://jobright.ai/jobs/info/6a800ab9b56bea5779c10de2) | Opportunity Group, Inc. | Grand Rapids, MI | 08/14/2026 13:20:12 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 45 (Possible) | [2027 Associate Electronics Engineer/Electronics Engineer](https://jobright.ai/jobs/info/6a7df555b56bea5779c02a4e) | Northrop Grumman | San Diego, CA; Palmdale, CA; El Segundo, CA; Redondo Beach, CA | 08/14/2026 21:12:35 | Security clearance language is present; Sponsorship: No |
 | 69 (Good) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/69d55e28cdb525785fbd025e) | NVIDIA | Santa Clara, CA | 08/14/2026 18:49:36 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-15 08:03:09Z UTC
 | 50 (Good) | [Test Engineer I - Electronics](https://jobright.ai/jobs/info/6a7ca597dc3dff2d1c0c8169) | Honeywell Aerospace | Rocky Mount, NC | 08/12/2026 16:55:51 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7ca825dc3dff2d1c0c82e5) | S-Energy Co., Ltd. | Boerne, TX | 08/12/2026 17:06:45 | Sponsorship: Past Sponsorship |
 | 53 (Good) | [Power Electronics Engineer, Satellites (Starlink)](https://boards.greenhouse.io/spacex/jobs/8698727002?gh_jid=8698727002) | SpaceX | Redmond, WA; Redmond, WA, United States | 08/12/2026 16:19:45 |  |
-| 80 (Strong) | [GPU Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a7ca4d9dc3dff2d1c0c8106) | NVIDIA | Westford, MA | 08/12/2026 00:00:00 | Sponsorship: Past Sponsorship |
