@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-15 17:33:31Z UTC
+Updated: 2026-08-15 18:36:09Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 30 (Possible) | [Sr. Silicon Design Engineer](https://jobright.ai/jobs/info/6a80af8819ce4e6e9d93f68a) | AMD | Santa Clara, CA | 08/15/2026 18:27:20 | Sponsorship: Past Sponsorship |
+| 78 (Strong) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6999bfa0ce78e77b4fdeabfc) | NVIDIA | Austin, TX; Santa Clara, CA | 08/15/2026 10:24:23 | Sponsorship: Not Sure |
 | 58 (Good) | [Hardware Verification Engineer (Defense & Aerospace, North Reading, MA)](https://jobright.ai/jobs/info/6a73db6f8dc3d52d8eda1ac9) | Teradyne | North Reading, MA | 08/15/2026 14:35:01 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a809b23e2030208f27753ea) | CyberProof | Hillsboro, OR | 08/15/2026 17:00:19 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Sr. Silicon Design Engineer](https://jobright.ai/jobs/info/6a808cdb927c79391ad110ed) | Advanced Microdevices Pvt. Ltd. (India) | Austin, TX | 08/15/2026 00:35:45 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-15 17:33:31Z UTC
 | 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a7cebd677d5f033c4b91752) | Military Spouse Jobs | Pittsfield, MA | 08/12/2026 21:55:34 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a7cec4a83621355407acc30) | Eaton | Pittsfield, MA | 08/12/2026 21:57:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a7cebf17c52154b59f5d3ef) | Military Spouse Jobs | Pittsfield, MA | 08/12/2026 21:56:01 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a7cec5cd77e8156a8e35203) | Eaton | Pittsfield, MA | 08/12/2026 21:57:48 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 53 (Good) | [Power Electronics Engineer I](https://jobright.ai/jobs/info/6a7ca3767c52154b59f5b533) | NASA Jet Propulsion Laboratory | Pasadena, CA | 08/12/2026 20:38:00 | Sponsorship: Past Sponsorship |
