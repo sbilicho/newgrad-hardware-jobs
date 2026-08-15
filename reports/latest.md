@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-15 19:31:15Z UTC
+Updated: 2026-08-15 20:21:40Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Associate Electrical Engineer (Mission Critical/Data Center)](https://jobright.ai/jobs/info/6a738a988dc3d52d8eda00bc) | WSP in the U.S. | Troy, NY | 08/15/2026 11:41:09 | Sponsorship: Not Sure |
+| 37 (Possible) | [Associate Electrical Engineer (Mission Critical/Data Center)](https://jobright.ai/jobs/info/6a59b8e1686b4755d1e11b12) | WSP in the U.S. | New York, NY | 08/15/2026 11:41:09 | Sponsorship: Not Sure |
 | 30 (Possible) | [Sr. Silicon Design Engineer](https://jobright.ai/jobs/info/6a80be1b19ce4e6e9d93fac1) | AMD | Santa Clara, CA | 08/15/2026 19:29:31 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Signal and Power Integrity Engineer - New College Grad 2026](https://jobright.ai/jobs/info/69c085c579e36d3a847cd12a) | NVIDIA | Austin, TX; Santa Clara, CA | 08/15/2026 11:01:36 | Sponsorship: Not Sure |
 | 84 (Strong) | [ASIC Clocks Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/698eb55578b4502f12a5948b) | NVIDIA | Santa Clara, CA | 08/15/2026 11:08:01 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-08-15 19:31:15Z UTC
 | 56 (Good) | [Electrical Engineer, Silicon Reliability Test (Starlink)](https://boards.greenhouse.io/spacex/jobs/8701462002?gh_jid=8701462002) | SpaceX | Bastrop, TX; Bastrop, TX, United States | 08/12/2026 23:18:36 |  |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a7cfb4283621355407ad12f) | CyberProof | Hillsboro, OR | 08/12/2026 23:01:22 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer (New Grad)](https://jobright.ai/jobs/info/6a7cef567c52154b59f5d4ac) | General Matter | Los Angeles, CA | 08/12/2026 22:10:30 | Sponsorship: Past Sponsorship |
-| 62 (Good) | [Electrical Test Development Engineer, Customer Hardware (Starlink)](https://boards.greenhouse.io/spacex/jobs/8700262002?gh_jid=8700262002) | SpaceX | Bastrop, TX; Bastrop, TX, United States | 08/12/2026 22:08:52 |  |
-| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6a7cf6b677d5f033c4b91aa8) | ByteDance | San Jose, CA | 08/12/2026 22:41:58 | Sponsorship: Past Sponsorship |
