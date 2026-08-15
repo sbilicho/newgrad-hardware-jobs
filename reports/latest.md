@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-15 18:36:09Z UTC
+Updated: 2026-08-15 19:31:15Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 30 (Possible) | [Sr. Silicon Design Engineer](https://jobright.ai/jobs/info/6a80be1b19ce4e6e9d93fac1) | AMD | Santa Clara, CA | 08/15/2026 19:29:31 | Sponsorship: Past Sponsorship |
+| 55 (Good) | [Signal and Power Integrity Engineer - New College Grad 2026](https://jobright.ai/jobs/info/69c085c579e36d3a847cd12a) | NVIDIA | Austin, TX; Santa Clara, CA | 08/15/2026 11:01:36 | Sponsorship: Not Sure |
+| 84 (Strong) | [ASIC Clocks Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/698eb55578b4502f12a5948b) | NVIDIA | Santa Clara, CA | 08/15/2026 11:08:01 | Sponsorship: Not Sure |
 | 30 (Possible) | [Sr. Silicon Design Engineer](https://jobright.ai/jobs/info/6a80af8819ce4e6e9d93f68a) | AMD | Santa Clara, CA | 08/15/2026 18:27:20 | Sponsorship: Past Sponsorship |
 | 78 (Strong) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6999bfa0ce78e77b4fdeabfc) | NVIDIA | Austin, TX; Santa Clara, CA | 08/15/2026 10:24:23 | Sponsorship: Not Sure |
 | 58 (Good) | [Hardware Verification Engineer (Defense & Aerospace, North Reading, MA)](https://jobright.ai/jobs/info/6a73db6f8dc3d52d8eda1ac9) | Teradyne | North Reading, MA | 08/15/2026 14:35:01 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-15 18:36:09Z UTC
 | 45 (Possible) | [Electrical Engineer (New Grad)](https://jobright.ai/jobs/info/6a7cef567c52154b59f5d4ac) | General Matter | Los Angeles, CA | 08/12/2026 22:10:30 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Electrical Test Development Engineer, Customer Hardware (Starlink)](https://boards.greenhouse.io/spacex/jobs/8700262002?gh_jid=8700262002) | SpaceX | Bastrop, TX; Bastrop, TX, United States | 08/12/2026 22:08:52 |  |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6a7cf6b677d5f033c4b91aa8) | ByteDance | San Jose, CA | 08/12/2026 22:41:58 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a7cebd677d5f033c4b91752) | Military Spouse Jobs | Pittsfield, MA | 08/12/2026 21:55:34 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a7cec4a83621355407acc30) | Eaton | Pittsfield, MA | 08/12/2026 21:57:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a7cebf17c52154b59f5d3ef) | Military Spouse Jobs | Pittsfield, MA | 08/12/2026 21:56:01 | Security clearance language is present; Sponsorship: Past Sponsorship |
