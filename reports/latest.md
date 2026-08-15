@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-15 13:20:26Z UTC
+Updated: 2026-08-15 14:21:33Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 58 (Good) | [Embedded Systems Engineer, Recent Graduate](https://jobright.ai/jobs/info/6a63b6185c7e2d715ebad812) | Blissway Inc. | Denver, CO | 08/15/2026 10:39:52 | Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a63c4000c8e2b4f36dcfb39) | Rocket Lab | Pasadena, CA | 08/15/2026 13:32:17 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Substation Electrical Engineer I](https://jobright.ai/jobs/info/6a6acdc82674685f04ac030d) | Bowman Consulting | Raleigh, NC | 08/15/2026 12:50:21 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a8062c4e2030208f27745ab) | CyberProof | Hillsboro, OR | 08/15/2026 12:59:48 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a80469be2030208f2773e43) | CyberProof | Hillsboro, OR | 08/15/2026 10:59:39 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-15 13:20:26Z UTC
 | 45 (Possible) | [Entry Level Electrical Design Engineer (2027)](https://jobright.ai/jobs/info/6a7ccec8d77e8156a8e3459c) | DMC Engineering | Chicago, IL | 08/12/2026 19:51:36 | Sponsorship: Past Sponsorship |
 | 69 (Good) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a513c398d7d3e6cf1cc021b) | NVIDIA | Austin, TX | 08/12/2026 18:09:58 | Sponsorship: Past Sponsorship |
 | 80 (Strong) | [GPU Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a7cbdd3a346cb6c8d5efcf3) | NVIDIA AI | Westford, MA | 08/12/2026 18:39:15 | Sponsorship: Past Sponsorship |
-| 83 (Strong) | [Post-Silicon Systems Validation Engineer I, Annapurna Labs](https://jobright.ai/jobs/info/6a5fee37f68dd368023e991e) | Amazon | Austin, TX | 08/12/2026 18:20:12 | Sponsorship: Past Sponsorship |
-| 83 (Strong) | [Post-Silicon Systems Validation Engineer I, Annapurna Labs](https://jobright.ai/jobs/info/6a5fee3d33ef5c58b4000f6e) | Amazon | Austin, TX | 08/12/2026 18:20:12 | Sponsorship: Past Sponsorship |
