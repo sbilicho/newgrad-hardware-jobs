@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-15 22:35:04Z UTC
+Updated: 2026-08-15 23:29:22Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a80ef66e2030208f277682f) | CyberProof | Hillsboro, OR | 08/15/2026 22:59:50 | Sponsorship: Past Sponsorship |
+| 77 (Strong) | [SoC ASIC Verification Engineer – New College Grad 2026](https://jobright.ai/jobs/info/69d5600b706f771673ba280f) | NVIDIA | Santa Clara, CA | 08/15/2026 11:37:07 | Sponsorship: Not Sure |
 | 53 (Good) | [Entry Level Hardware Engineer](https://jobright.ai/jobs/info/6a80e90c19ce4e6e9d94041a) | Dice | Herndon, VA | 08/15/2026 22:32:44 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - Cranberry, PA](https://jobright.ai/jobs/info/6a80cfceb56bea5779c147ef) | Eaton | Cranberry Township, PA | 08/15/2026 20:45:02 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a80d33ce2030208f277611a) | CyberProof | Hillsboro, OR | 08/15/2026 20:59:40 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-15 22:35:04Z UTC
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7dcb01b56bea5779c01bea) | S&C Electric Company | Chicago, IL | 08/13/2026 13:47:45 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7dce28e2030208f2765f26) | Paragon Energy Solutions | Fort Worth, TX | 08/13/2026 14:01:12 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6a7da88419ce4e6e9d92f3aa) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 08/13/2026 08:20:08 | Sponsorship: Past Sponsorship |
-| 35 (Possible) | [New College Grad - Semiconductor Design Engineer, DRAM Products Group](https://jobright.ai/jobs/info/6a576edd10c4d945d864e2f5) | Micron Technology | Boise, ID | 08/13/2026 09:07:45 | Sponsorship: Past Sponsorship |
-| 35 (Possible) | [New College Grad - Semiconductor Design Engineer, DRAM Products Group](https://jobright.ai/jobs/info/6a0726a9078fec52738aaeac) | Micron Technology | Boise, ID | 08/13/2026 09:07:45 | Sponsorship: Past Sponsorship |
