@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-15 16:38:00Z UTC
+Updated: 2026-08-15 17:33:31Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 58 (Good) | [Hardware Verification Engineer (Defense & Aerospace, North Reading, MA)](https://jobright.ai/jobs/info/6a73db6f8dc3d52d8eda1ac9) | Teradyne | North Reading, MA | 08/15/2026 14:35:01 | Sponsorship: Past Sponsorship |
+| 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a809b23e2030208f27753ea) | CyberProof | Hillsboro, OR | 08/15/2026 17:00:19 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Sr. Silicon Design Engineer](https://jobright.ai/jobs/info/6a808cdb927c79391ad110ed) | Advanced Microdevices Pvt. Ltd. (India) | Austin, TX | 08/15/2026 00:35:45 | Sponsorship: Past Sponsorship |
 | 64 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6a550e79ae07d60a8d00e896) | OMNIVISION | Santa Clara, CA | 08/15/2026 08:19:31 | Sponsorship: Not Sure |
 | 58 (Good) | [Embedded Systems Engineer, Recent Graduate](https://jobright.ai/jobs/info/6a63b6185c7e2d715ebad812) | Blissway Inc. | Denver, CO | 08/15/2026 10:39:52 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-15 16:38:00Z UTC
 | 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a7cebf17c52154b59f5d3ef) | Military Spouse Jobs | Pittsfield, MA | 08/12/2026 21:56:01 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a7cec5cd77e8156a8e35203) | Eaton | Pittsfield, MA | 08/12/2026 21:57:48 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 53 (Good) | [Power Electronics Engineer I](https://jobright.ai/jobs/info/6a7ca3767c52154b59f5b533) | NASA Jet Propulsion Laboratory | Pasadena, CA | 08/12/2026 20:38:00 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [ADAS Validation Engineer - Entry Level](https://jobright.ai/jobs/info/6a7cd9cbd77e8156a8e34a23) | SEGULA Technologies | Auburn Hills, MI | 08/12/2026 20:38:35 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Entry Level Electrical Design Engineer (2027)](https://jobright.ai/jobs/info/6a7ccec8d77e8156a8e3459c) | DMC Engineering | Chicago, IL | 08/12/2026 19:51:36 | Sponsorship: Past Sponsorship |
