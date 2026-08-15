@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-15 15:19:20Z UTC
+Updated: 2026-08-15 16:38:00Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 42 (Possible) | [Sr. Silicon Design Engineer](https://jobright.ai/jobs/info/6a808cdb927c79391ad110ed) | Advanced Microdevices Pvt. Ltd. (India) | Austin, TX | 08/15/2026 00:35:45 | Sponsorship: Past Sponsorship |
+| 64 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6a550e79ae07d60a8d00e896) | OMNIVISION | Santa Clara, CA | 08/15/2026 08:19:31 | Sponsorship: Not Sure |
 | 58 (Good) | [Embedded Systems Engineer, Recent Graduate](https://jobright.ai/jobs/info/6a63b6185c7e2d715ebad812) | Blissway Inc. | Denver, CO | 08/15/2026 10:39:52 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a63c4000c8e2b4f36dcfb39) | Rocket Lab | Pasadena, CA | 08/15/2026 13:32:17 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Substation Electrical Engineer I](https://jobright.ai/jobs/info/6a6acdc82674685f04ac030d) | Bowman Consulting | Raleigh, NC | 08/15/2026 12:50:21 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-15 15:19:20Z UTC
 | 53 (Good) | [Power Electronics Engineer I](https://jobright.ai/jobs/info/6a7ca3767c52154b59f5b533) | NASA Jet Propulsion Laboratory | Pasadena, CA | 08/12/2026 20:38:00 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [ADAS Validation Engineer - Entry Level](https://jobright.ai/jobs/info/6a7cd9cbd77e8156a8e34a23) | SEGULA Technologies | Auburn Hills, MI | 08/12/2026 20:38:35 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Entry Level Electrical Design Engineer (2027)](https://jobright.ai/jobs/info/6a7ccec8d77e8156a8e3459c) | DMC Engineering | Chicago, IL | 08/12/2026 19:51:36 | Sponsorship: Past Sponsorship |
-| 69 (Good) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a513c398d7d3e6cf1cc021b) | NVIDIA | Austin, TX | 08/12/2026 18:09:58 | Sponsorship: Past Sponsorship |
-| 80 (Strong) | [GPU Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a7cbdd3a346cb6c8d5efcf3) | NVIDIA AI | Westford, MA | 08/12/2026 18:39:15 | Sponsorship: Past Sponsorship |
