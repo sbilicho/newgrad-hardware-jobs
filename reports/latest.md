@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-16 10:24:39Z UTC
+Updated: 2026-08-16 11:19:11Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry-Level Electrical Controls Engineer](https://jobright.ai/jobs/info/6a39a9a81232144fb156cbd4) | Kleinfelder | Perrysburg, OH | 08/16/2026 02:09:37 | Sponsorship: Not Sure |
 | 32 (Possible) | [Entry Level Instrumentation and Controls Engineer](https://jobright.ai/jobs/info/6a6d02c557120971bf3ae74f) | Eichleay, Inc. | Billings, MT | 08/16/2026 01:19:35 | Sponsorship: No |
 | 37 (Possible) | [Entry Level Electrical Engineer [Wilton]](https://jobright.ai/jobs/info/6a817899e51a1e18a241ee70) | Altieri | Wilton, CT | 08/15/2026 17:23:13 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a29b11bc07d4b6ae1c42445) | CRB | Atlanta, GA | 08/15/2026 14:57:22 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-16 10:24:39Z UTC
 | 44 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7e2ff719ce4e6e9d931e33) | BAE Systems | San Diego, CA | 08/13/2026 20:58:31 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a61656711edf44d791609d4) | Freeport-McMoRan | Morenci, AZ | 08/13/2026 16:20:01 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6a45ab943dbab558e29a1ee9) | Axon | Scottsdale, AZ | 08/13/2026 17:37:44 | Sponsorship: Past Sponsorship |
-| 79 (Strong) | [Software R&D Engineer, VLSI Physical Design - New College Grad 2026](https://jobright.ai/jobs/info/6a2205e1338c012305122735) | NVIDIA | Austin, TX | 08/13/2026 17:06:26 | Sponsorship: Past Sponsorship |
