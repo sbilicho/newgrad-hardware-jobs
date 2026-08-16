@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-16 09:03:53Z UTC
+Updated: 2026-08-16 10:24:39Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 32 (Possible) | [Entry Level Instrumentation and Controls Engineer](https://jobright.ai/jobs/info/6a6d02c557120971bf3ae74f) | Eichleay, Inc. | Billings, MT | 08/16/2026 01:19:35 | Sponsorship: No |
 | 37 (Possible) | [Entry Level Electrical Engineer [Wilton]](https://jobright.ai/jobs/info/6a817899e51a1e18a241ee70) | Altieri | Wilton, CT | 08/15/2026 17:23:13 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a29b11bc07d4b6ae1c42445) | CRB | Atlanta, GA | 08/15/2026 14:57:22 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a815fc0e2030208f2779dcf) | CyberProof | Hillsboro, OR | 08/16/2026 06:59:12 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-16 09:03:53Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a61656711edf44d791609d4) | Freeport-McMoRan | Morenci, AZ | 08/13/2026 16:20:01 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6a45ab943dbab558e29a1ee9) | Axon | Scottsdale, AZ | 08/13/2026 17:37:44 | Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Software R&D Engineer, VLSI Physical Design - New College Grad 2026](https://jobright.ai/jobs/info/6a2205e1338c012305122735) | NVIDIA | Austin, TX | 08/13/2026 17:06:26 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Electrical Engineer I - Test Solutions - Onsite](https://jobright.ai/jobs/info/6a7df049ad9ff00c26ba91e5) | RTX | Marlborough, MA | 08/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
