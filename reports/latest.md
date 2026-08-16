@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-16 01:22:36Z UTC
+Updated: 2026-08-16 02:41:50Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 88 (Strong) | [ASIC Clocks Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/69ea6be87820c036924ed913) | NVIDIA | Santa Clara, CA | 08/15/2026 18:08:10 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a810b73e2030208f2776e54) | CyberProof | Hillsboro, OR | 08/16/2026 00:59:31 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a80ef66e2030208f277682f) | CyberProof | Hillsboro, OR | 08/15/2026 22:59:50 | Sponsorship: Past Sponsorship |
 | 77 (Strong) | [SoC ASIC Verification Engineer – New College Grad 2026](https://jobright.ai/jobs/info/69d5600b706f771673ba280f) | NVIDIA | Santa Clara, CA | 08/15/2026 11:37:07 | Sponsorship: Not Sure |
@@ -103,4 +104,3 @@ Updated: 2026-08-16 01:22:36Z UTC
 | 86 (Strong) | [Digital Verification Engineer](https://jobright.ai/jobs/info/6a7de11be2030208f276647a) | NXP Semiconductors | Austin, TX | 08/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 86 (Strong) | [DIGITAL VERIFICATION ENGINEER](https://jobright.ai/jobs/info/6a7dd44819ce4e6e9d92fbc1) | NXP Semiconductors | Austin, TX | 08/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7dcb01b56bea5779c01bea) | S&C Electric Company | Chicago, IL | 08/13/2026 13:47:45 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7dce28e2030208f2765f26) | Paragon Energy Solutions | Fort Worth, TX | 08/13/2026 14:01:12 | Sponsorship: Past Sponsorship |
