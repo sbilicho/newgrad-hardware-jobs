@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-16 14:59:20Z UTC
+Updated: 2026-08-16 15:55:18Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 32 (Possible) | [Research Scientist, AI Accelerator Design and VLSI - New College Grad 2026](https://jobright.ai/jobs/info/6977e9be52f3c27ec64415b9) | NVIDIA | Santa Clara, CA | 08/16/2026 07:43:31 | Sponsorship: Not Sure |
 | 50 (Good) | [Test Engineer (I or II)](https://jobright.ai/jobs/info/6a49f35ef9cbb100d1ab459e) | True Anomaly | Denver, CO; Centennial, CO | 08/16/2026 06:29:41 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a81c2a0e2030208f277bb61) | Paragon Energy Solutions | Fort Worth, TX | 08/16/2026 14:01:04 | Sponsorship: Past Sponsorship |
 | 92 (Strong) | [ASIC Physical Design Engineer, Netlisting - New College Grad 2026](https://jobright.ai/jobs/info/6a81582ce2030208f2779c44) | NVIDIA AI | Santa Clara, CA | 08/16/2026 06:26:52 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-16 14:59:20Z UTC
 | 37 (Possible) | [Early Career Substation Electrical Engineer](https://jobright.ai/jobs/info/6a7e28bbe2030208f2767f4a) | WSP in the U.S. | Hallowell, ME | 08/13/2026 14:37:35 | Sponsorship: No |
 | 37 (Possible) | [Early Career Substation Electrical Engineer](https://jobright.ai/jobs/info/6a1957b6fee8f34024353b3e) | WSP in the U.S. | St. Louis, MO | 08/13/2026 14:37:35 | Sponsorship: No |
 | 37 (Possible) | [Early Career Substation Electrical Engineer](https://jobright.ai/jobs/info/6a51fd21bf63b66c7997f116) | WSP in the U.S. | St. Louis, MO; Minneapolis, MN | 08/13/2026 14:37:35 | Sponsorship: No |
-| 37 (Possible) | [Early Career Substation Electrical Engineer](https://jobright.ai/jobs/info/6a5af44f686b4755d1e17bf5) | WSP in the U.S. | San Diego, CA | 08/13/2026 14:37:35 | Sponsorship: No |
