@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-16 21:55:19Z UTC
+Updated: 2026-08-16 22:51:07Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a823d16b56bea5779c1da9c) | Dice | Palm Beach Gardens, FL | 08/16/2026 22:43:34 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer in Training (EIT) (Entry Level)](https://jobright.ai/jobs/info/6a7f62e7e51a1e18a24121d7) | Garver | Dallas, TX | 08/14/2026 18:51:53 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a82313219ce4e6e9d947996) | General Dynamics Mission Systems | Scottsdale, AZ | 08/16/2026 21:52:50 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a82196de2030208f277d3b3) | General Dynamics | Scottsdale, AZ | 08/16/2026 14:53:00 | Sponsorship: Past Sponsorship |
 | 87 (Strong) | [Cell Modeling and Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a1fc647dce5db1256d1747d) | NVIDIA | Santa Clara, CA | 08/16/2026 17:36:28 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-16 21:55:19Z UTC
 | 50 (Good) | [Product Engineer I](https://jobright.ai/jobs/info/6a7e4c89e51a1e18a240d337) | Benchmark | Rochester, MN | 08/13/2026 16:00:25 | Sponsorship: Not Sure |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a7e4cc3ad9ff00c26baa930) | UST HealthProof | Hillsboro, OR | 08/13/2026 16:01:23 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7e4d05e51a1e18a240d34d) | BAE Systems, Inc. | San Diego, CA | 08/13/2026 16:02:29 | U.S. citizenship language is present; Sponsorship: No |
-| 41 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6a7e4859b56bea5779c04ece) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 08/13/2026 22:42:33 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a7e4b0819ce4e6e9d9327e2) | Sargent & Lundy | Palm Beach Gardens, FL | 08/13/2026 22:54:00 | Sponsorship: Past Sponsorship |
