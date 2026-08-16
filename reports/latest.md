@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-16 03:35:38Z UTC
+Updated: 2026-08-16 05:00:49Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a5102feae4052672fe960a6) | Affiliated Engineers, Inc. | Gainesville, FL | 08/15/2026 04:43:16 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a812795e2030208f27786ea) | CyberProof | Hillsboro, OR | 08/16/2026 02:59:33 | Sponsorship: Past Sponsorship |
 | 88 (Strong) | [ASIC Clocks Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/69ea6be87820c036924ed913) | NVIDIA | Santa Clara, CA | 08/15/2026 18:08:10 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a810b73e2030208f2776e54) | CyberProof | Hillsboro, OR | 08/16/2026 00:59:31 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-16 03:35:38Z UTC
 | 61 (Good) | [Full Time Raytheon 2026 - Power & Digital Electrical Engineer I](https://jobright.ai/jobs/info/6a7de16eb56bea5779c02323) | Raytheon | Fort Wayne, IN | 08/13/2026 15:23:26 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Entry Level Electrical Engineer (Hybrid)](https://jobright.ai/jobs/info/6a7deb0ae51a1e18a240af01) | BAE Systems, Inc. | Fort Wayne, IN | 08/13/2026 16:04:26 | Sponsorship: Past Sponsorship |
 | 86 (Strong) | [Digital Verification Engineer](https://jobright.ai/jobs/info/6a7de11be2030208f276647a) | NXP Semiconductors | Austin, TX | 08/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 86 (Strong) | [DIGITAL VERIFICATION ENGINEER](https://jobright.ai/jobs/info/6a7dd44819ce4e6e9d92fbc1) | NXP Semiconductors | Austin, TX | 08/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
