@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-16 17:53:49Z UTC
+Updated: 2026-08-16 19:00:52Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 87 (Strong) | [Cell Modeling and Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a1fc647dce5db1256d1747d) | NVIDIA | Santa Clara, CA | 08/16/2026 17:36:28 | Sponsorship: Past Sponsorship |
 | 82 (Strong) | [ASIC Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a298a64495d985b99423fba) | NVIDIA | Austin, TX | 08/15/2026 17:59:04 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Hardware and Environments Test Engineer (I-II)](https://jobright.ai/jobs/info/6a3ca84ad261407de97fe393) | True Anomaly | Long Beach, CA | 08/16/2026 08:34:17 | U.S. citizenship language is present; Sponsorship: No |
 | 40 (Possible) | [Electrical or Embedded Controls Engineer (Early Career, Exceptional Talent)](https://jobright.ai/jobs/info/6a81da38ad9ff00c26bb78de) | Boom Supersonic | Centennial, CO | 08/16/2026 08:41:44 | Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-08-16 17:53:49Z UTC
 | 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a7e4b0819ce4e6e9d9327e2) | Sargent & Lundy | Palm Beach Gardens, FL | 08/13/2026 22:54:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Submarine Power Plant Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a7e485619ce4e6e9d93267d) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 08/13/2026 22:42:30 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial (January 2027)](https://jobright.ai/jobs/info/6a7e4b09b56bea5779c05065) | Sargent & Lundy | Chicago, IL | 08/13/2026 22:54:01 | Sponsorship: Past Sponsorship |
-| 70 (Strong) | [Applied Machine Learning Engineer, Circuit Design - New College Grad 2026](https://jobright.ai/jobs/info/6a29afd8495d985b9942537d) | NVIDIA | United States | 08/13/2026 18:40:56 | Sponsorship: Past Sponsorship |
