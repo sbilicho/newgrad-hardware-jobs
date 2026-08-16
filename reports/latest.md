@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-16 06:14:39Z UTC
+Updated: 2026-08-16 07:05:17Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a815fc0e2030208f2779dcf) | CyberProof | Hillsboro, OR | 08/16/2026 06:59:12 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a814457ad9ff00c26bb5c49) | Collins Aerospace | Bellevue, IA | 08/15/2026 18:05:05 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a5102feae4052672fe960a6) | Affiliated Engineers, Inc. | Gainesville, FL | 08/15/2026 04:43:16 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a812795e2030208f27786ea) | CyberProof | Hillsboro, OR | 08/16/2026 02:59:33 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-16 06:14:39Z UTC
 | 49 (Possible) | [Electrical Engineer I - Test Solutions - Onsite](https://jobright.ai/jobs/info/6a7df049ad9ff00c26ba91e5) | RTX | Marlborough, MA | 08/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Test Engineer (Level 1 - Early Career)](https://jobright.ai/jobs/info/6a3e6a5f122f340d29cf32ae) | Stoke Space | Moses Lake, WA | 08/13/2026 08:07:28 | Sponsorship: No |
 | 61 (Good) | [Full Time Raytheon 2026 - Power & Digital Electrical Engineer I](https://jobright.ai/jobs/info/6a7de16eb56bea5779c02323) | Raytheon | Fort Wayne, IN | 08/13/2026 15:23:26 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Entry Level Electrical Engineer (Hybrid)](https://jobright.ai/jobs/info/6a7deb0ae51a1e18a240af01) | BAE Systems, Inc. | Fort Wayne, IN | 08/13/2026 16:04:26 | Sponsorship: Past Sponsorship |
