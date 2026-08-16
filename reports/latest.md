@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-16 15:55:18Z UTC
+Updated: 2026-08-16 16:57:34Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 82 (Strong) | [ASIC Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a298a64495d985b99423fba) | NVIDIA | Austin, TX | 08/15/2026 17:59:04 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Hardware and Environments Test Engineer (I-II)](https://jobright.ai/jobs/info/6a3ca84ad261407de97fe393) | True Anomaly | Long Beach, CA | 08/16/2026 08:34:17 | U.S. citizenship language is present; Sponsorship: No |
+| 40 (Possible) | [Electrical or Embedded Controls Engineer (Early Career, Exceptional Talent)](https://jobright.ai/jobs/info/6a81da38ad9ff00c26bb78de) | Boom Supersonic | Centennial, CO | 08/16/2026 08:41:44 | Sponsorship: No |
 | 32 (Possible) | [Research Scientist, AI Accelerator Design and VLSI - New College Grad 2026](https://jobright.ai/jobs/info/6977e9be52f3c27ec64415b9) | NVIDIA | Santa Clara, CA | 08/16/2026 07:43:31 | Sponsorship: Not Sure |
 | 50 (Good) | [Test Engineer (I or II)](https://jobright.ai/jobs/info/6a49f35ef9cbb100d1ab459e) | True Anomaly | Denver, CO; Centennial, CO | 08/16/2026 06:29:41 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a81c2a0e2030208f277bb61) | Paragon Energy Solutions | Fort Worth, TX | 08/16/2026 14:01:04 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-16 15:55:18Z UTC
 | 37 (Possible) | [Submarine Power Plant Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a7e485619ce4e6e9d93267d) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 08/13/2026 22:42:30 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial (January 2027)](https://jobright.ai/jobs/info/6a7e4b09b56bea5779c05065) | Sargent & Lundy | Chicago, IL | 08/13/2026 22:54:01 | Sponsorship: Past Sponsorship |
 | 70 (Strong) | [Applied Machine Learning Engineer, Circuit Design - New College Grad 2026](https://jobright.ai/jobs/info/6a29afd8495d985b9942537d) | NVIDIA | United States | 08/13/2026 18:40:56 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Early Career Substation Electrical Engineer](https://jobright.ai/jobs/info/6a7e28bbe2030208f2767f4a) | WSP in the U.S. | Hallowell, ME | 08/13/2026 14:37:35 | Sponsorship: No |
-| 37 (Possible) | [Early Career Substation Electrical Engineer](https://jobright.ai/jobs/info/6a1957b6fee8f34024353b3e) | WSP in the U.S. | St. Louis, MO | 08/13/2026 14:37:35 | Sponsorship: No |
-| 37 (Possible) | [Early Career Substation Electrical Engineer](https://jobright.ai/jobs/info/6a51fd21bf63b66c7997f116) | WSP in the U.S. | St. Louis, MO; Minneapolis, MN | 08/13/2026 14:37:35 | Sponsorship: No |
