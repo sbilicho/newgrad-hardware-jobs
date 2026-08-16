@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-15 23:29:22Z UTC
+Updated: 2026-08-16 01:22:36Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a810b73e2030208f2776e54) | CyberProof | Hillsboro, OR | 08/16/2026 00:59:31 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a80ef66e2030208f277682f) | CyberProof | Hillsboro, OR | 08/15/2026 22:59:50 | Sponsorship: Past Sponsorship |
 | 77 (Strong) | [SoC ASIC Verification Engineer – New College Grad 2026](https://jobright.ai/jobs/info/69d5600b706f771673ba280f) | NVIDIA | Santa Clara, CA | 08/15/2026 11:37:07 | Sponsorship: Not Sure |
 | 53 (Good) | [Entry Level Hardware Engineer](https://jobright.ai/jobs/info/6a80e90c19ce4e6e9d94041a) | Dice | Herndon, VA | 08/15/2026 22:32:44 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-15 23:29:22Z UTC
 | 86 (Strong) | [DIGITAL VERIFICATION ENGINEER](https://jobright.ai/jobs/info/6a7dd44819ce4e6e9d92fbc1) | NXP Semiconductors | Austin, TX | 08/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7dcb01b56bea5779c01bea) | S&C Electric Company | Chicago, IL | 08/13/2026 13:47:45 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7dce28e2030208f2765f26) | Paragon Energy Solutions | Fort Worth, TX | 08/13/2026 14:01:12 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6a7da88419ce4e6e9d92f3aa) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 08/13/2026 08:20:08 | Sponsorship: Past Sponsorship |
