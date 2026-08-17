@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-17 01:53:14Z UTC
+Updated: 2026-08-17 02:59:53Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 66 (Good) | [Process Integration and Yield Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6a8088ba927c79391ad1103e) | GlobalFoundries | Malta, NY | 08/15/2026 20:37:36 | Sponsorship: Past Sponsorship |
 | 83 (Strong) | [Cell Modeling and Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a539fe7e726ec56126a7687) | NVIDIA | Santa Clara, CA | 08/16/2026 17:36:28 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6a8042b6e2030208f2773d3b) | ByteDance | San Jose, CA | 08/15/2026 10:43:02 | Sponsorship: Past Sponsorship |
 | 61 (Good) | [Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a2c9b73d3ec94183f4bdbfc) | NVIDIA | Santa Clara, CA | 07/25/2026 18:04:01 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-17 01:53:14Z UTC
 | 88 (Strong) | [ASIC Physical Design Engineer, Netlisting - New College Grad 2026](https://jobright.ai/jobs/info/6a7eb3e2179e4f7b7e8d8439) | NVIDIA AI | Santa Clara, TX | 08/14/2026 06:21:22 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [AI Factory Electrical Engineer](https://jobright.ai/jobs/info/6a7ea0f5179e4f7b7e8d7fa5) | Siemens | Princeton, NJ | 08/13/2026 22:00:37 | Sponsorship: No |
 | 41 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial](https://jobright.ai/jobs/info/6a7e8058e2030208f2769d74) | Dice | Chicago, IL | 08/14/2026 02:41:28 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Test Engineer](https://jobright.ai/jobs/info/6a505b644649561ec08b0fde) | Shinkei | El Segundo, CA | 08/13/2026 19:37:28 | Sponsorship: Not Sure |
