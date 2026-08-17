@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-17 19:34:06Z UTC
+Updated: 2026-08-17 20:34:13Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a836c4b3eeac101cfa9fa79) | Loram Maintenance of Way, Inc. | Medina, MN | 08/17/2026 20:17:15 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer (0-3 Years)](https://jobright.ai/jobs/info/6a835ddc1081a745e970ebff) | Coffman Engineers | Los Angeles, CA | 08/17/2026 12:15:40 | Sponsorship: No |
 | 73 (Strong) | [Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a8355f42dbaf907b076804c) | NVIDIA AI | Westford, MA | 08/17/2026 18:41:56 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Semiconductor Engineer I](https://jobright.ai/jobs/info/6a83606f9b859b227766e6e0) | Honeywell Aerospace | Phoenix, AZ | 08/17/2026 19:26:39 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Product Engineer I](https://jobright.ai/jobs/info/6a69268505bae84301b5abb1) | Benchmark | Rochester, MN | 08/17/2026 11:18:33 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-08-17 19:34:06Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a4e5ed6fc327f422fef26f7) | Amentum | Lexington Park, MD | 08/14/2026 16:32:25 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7f487ee2030208f276cd51) | Georgia Institute of Technology | Atlanta metropolitan area | 08/14/2026 16:55:26 | Sponsorship: Past Sponsorship |
 | 39 (Possible) | [Engineer I – Focal Plane Electronics Systems](https://jobright.ai/jobs/info/6a7f4ab819ce4e6e9d936b8d) | BAE Systems | Boulder, CO | 08/14/2026 17:04:56 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 35 (Possible) | [Sr. Silicon Design Engineer](https://jobright.ai/jobs/info/6a7f34c3e2030208f276c67d) | AMD | Santa Clara, CA | 08/14/2026 15:31:15 | Sponsorship: Past Sponsorship |
-| 38 (Possible) | [Silicon Design Engineer](https://jobright.ai/jobs/info/6a7f33f9b56bea5779c0947a) | AMD | Boxborough, MA | 08/14/2026 15:27:53 | Sponsorship: Past Sponsorship |
