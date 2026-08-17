@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-17 13:11:24Z UTC
+Updated: 2026-08-17 14:37:02Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 45 (Possible) | [Powertrain Performance Test Engineer](https://jobright.ai/jobs/info/6a50b7eb5165966a1161b42e) | Hyundai America Technical Center, Inc. (HATCI) | Chino, CA | 08/17/2026 06:16:55 | Sponsorship: No |
+| 45 (Possible) | [Powertrain Performance Test Engineer Job Details \| Hyundai Motor Company](https://jobright.ai/jobs/info/6a4625834f64ba41dcb50ba6) | Hyundai America Technical Center, Inc. (HATCI) | Chino, CA | 08/17/2026 06:16:55 | Sponsorship: No |
 | 46 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6a8301e71081a745e970c465) | G&W Electric Co. | Bolingbrook, IL | 08/17/2026 12:43:19 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry-Level Electrical Engineer - NERC Complaince](https://jobright.ai/jobs/info/6a509fa32e2ceb72963b3e7a) | CAMS | Houston, TX | 07/23/2026 20:57:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6a82d4b9379c304e892f3a10) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 08/17/2026 09:30:33 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-17 13:11:24Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7f17d3927c79391ad0639c) | Honeywell Technologies | Arvada, CO | 08/14/2026 13:27:47 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical Engineer  - San Diego CA](https://jobright.ai/jobs/info/6a7f1b6a19ce4e6e9d9358ea) | Military Spouse Jobs | San Diego, CA | 08/14/2026 13:43:06 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical Engineer  - San Diego CA](https://jobright.ai/jobs/info/6a7f1d8ee51a1e18a2410467) | Eaton | San Diego, CA | 08/14/2026 13:52:14 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 86 (Strong) | [Product Engineer - Tessent Design for Test (DFT)](https://jobright.ai/jobs/info/6a487fd43dbab558e29acdd5) | Siemens EDA (Siemens Digital Industries Software) | Wilsonville, OR | 08/14/2026 14:21:58 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Submarine Power Plant Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a7f008cb56bea5779c0814a) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 08/13/2026 21:45:30 | Sponsorship: Past Sponsorship |
