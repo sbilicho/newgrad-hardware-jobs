@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-17 21:25:34Z UTC
+Updated: 2026-08-17 22:19:11Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 66 (Good) | [Electrical Test Engineer, Wafer Test (2027 New College Graduate)](https://jobright.ai/jobs/info/6a83811b2dbaf907b07694c8) | GlobalFoundries | Essex Junction, VT | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer (EMI)-Junior](https://jobright.ai/jobs/info/6a83767f1081a745e970f809) | AMEWAS | Patuxent River, MD | 08/17/2026 14:00:47 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a83709a2dbaf907b0768af5) | Loram Maintenance of Way, Inc. | Medina, MN | 08/17/2026 20:35:38 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a83719d9b859b227766ed9e) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a836c4b3eeac101cfa9fa79) | Loram Maintenance of Way, Inc. | Medina, MN | 08/17/2026 20:17:15 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-17 21:25:34Z UTC
 | 40 (Possible) | [Entry Level Electrical/RF Engineer](https://jobright.ai/jobs/info/6a4cf1a33122a76a8fd53a1b) | Amentum | Dahlgren, VA | 08/14/2026 19:11:08 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6a7f5c4f19ce4e6e9d9372fc) | TriMas Life Sciences | Denver Metropolitan Area, United States | 08/14/2026 11:19:59 | Sponsorship: Not Sure |
 | 54 (Good) | [Satellite Test Engineer, Amazon Leo](https://jobright.ai/jobs/info/6a62912a1e089c0cc884d586) | Amazon | Redmond, WA | 08/14/2026 11:30:30 | Sponsorship: No |
-| 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a7f5b79e2030208f276d5b9) | RTX | Bellevue, IA | 08/14/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a4e5ed6fc327f422fef26f7) | Amentum | Lexington Park, MD | 08/14/2026 16:32:25 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
