@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-16 23:44:43Z UTC
+Updated: 2026-08-17 01:53:14Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 83 (Strong) | [Cell Modeling and Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a539fe7e726ec56126a7687) | NVIDIA | Santa Clara, CA | 08/16/2026 17:36:28 | Sponsorship: Past Sponsorship |
+| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6a8042b6e2030208f2773d3b) | ByteDance | San Jose, CA | 08/15/2026 10:43:02 | Sponsorship: Past Sponsorship |
+| 61 (Good) | [Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a2c9b73d3ec94183f4bdbfc) | NVIDIA | Santa Clara, CA | 07/25/2026 18:04:01 | Sponsorship: Past Sponsorship |
+| 90 (Strong) | [Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a511743bf63b66c79978baf) | NVIDIA | United States | 08/16/2026 14:50:00 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a823d16b56bea5779c1da9c) | Dice | Palm Beach Gardens, FL | 08/16/2026 22:43:34 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer in Training (EIT) (Entry Level)](https://jobright.ai/jobs/info/6a7f62e7e51a1e18a24121d7) | Garver | Dallas, TX | 08/14/2026 18:51:53 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a82313219ce4e6e9d947996) | General Dynamics Mission Systems | Scottsdale, AZ | 08/16/2026 21:52:50 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-08-16 23:44:43Z UTC
 | 37 (Possible) | [AI Factory Electrical Engineer](https://jobright.ai/jobs/info/6a7ea0f5179e4f7b7e8d7fa5) | Siemens | Princeton, NJ | 08/13/2026 22:00:37 | Sponsorship: No |
 | 41 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial](https://jobright.ai/jobs/info/6a7e8058e2030208f2769d74) | Dice | Chicago, IL | 08/14/2026 02:41:28 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Test Engineer](https://jobright.ai/jobs/info/6a505b644649561ec08b0fde) | Shinkei | El Segundo, CA | 08/13/2026 19:37:28 | Sponsorship: Not Sure |
-| 37 (Possible) | [Submarine Power Plant Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a7e78bc0cd4a07032580493) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/13/2026 23:08:36 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Product Engineer I](https://jobright.ai/jobs/info/6a7e4c89e51a1e18a240d337) | Benchmark | Rochester, MN | 08/13/2026 16:00:25 | Sponsorship: Not Sure |
-| 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a7e4cc3ad9ff00c26baa930) | UST HealthProof | Hillsboro, OR | 08/13/2026 16:01:23 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7e4d05e51a1e18a240d34d) | BAE Systems, Inc. | San Diego, CA | 08/13/2026 16:02:29 | U.S. citizenship language is present; Sponsorship: No |
