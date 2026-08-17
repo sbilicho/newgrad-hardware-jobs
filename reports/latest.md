@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-17 02:59:53Z UTC
+Updated: 2026-08-17 03:58:57Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 54 (Good) | [NPI Test Engineer](https://jobright.ai/jobs/info/6a8275b11081a745e970a5dc) | Arete | Healdsburg, CA | 08/16/2026 19:45:05 | U.S. citizenship language is present; Sponsorship: No |
+| 54 (Good) | [Field Test Engineer - JobID-0029](https://jobright.ai/jobs/info/6a55d108ef22935f2e3f7b1b) | Innovative Defense Technologies (IDT) | San Diego, CA; Arlington, VA | 08/16/2026 19:59:19 | Sponsorship: No |
 | 66 (Good) | [Process Integration and Yield Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6a8088ba927c79391ad1103e) | GlobalFoundries | Malta, NY | 08/15/2026 20:37:36 | Sponsorship: Past Sponsorship |
 | 83 (Strong) | [Cell Modeling and Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a539fe7e726ec56126a7687) | NVIDIA | Santa Clara, CA | 08/16/2026 17:36:28 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6a8042b6e2030208f2773d3b) | ByteDance | San Jose, CA | 08/15/2026 10:43:02 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-17 02:59:53Z UTC
 | 45 (Possible) | [Electrical/Electronics Engineer I-IV](https://jobright.ai/jobs/info/6a4530770dd56c76cc2f2939) | Kratos Defense and Security Solutions | Roseville, CA | 08/13/2026 16:15:24 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a7eae1ce51a1e18a240ec10) | BAE Systems, Inc. | San Diego, CA | 08/14/2026 05:56:44 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 88 (Strong) | [ASIC Physical Design Engineer, Netlisting - New College Grad 2026](https://jobright.ai/jobs/info/6a7eb3e2179e4f7b7e8d8439) | NVIDIA AI | Santa Clara, TX | 08/14/2026 06:21:22 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [AI Factory Electrical Engineer](https://jobright.ai/jobs/info/6a7ea0f5179e4f7b7e8d7fa5) | Siemens | Princeton, NJ | 08/13/2026 22:00:37 | Sponsorship: No |
-| 41 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial](https://jobright.ai/jobs/info/6a7e8058e2030208f2769d74) | Dice | Chicago, IL | 08/14/2026 02:41:28 | Sponsorship: Past Sponsorship |
