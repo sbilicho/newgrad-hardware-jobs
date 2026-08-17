@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-17 10:02:06Z UTC
+Updated: 2026-08-17 11:13:32Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Entry-Level Electrical Engineer - NERC Complaince](https://jobright.ai/jobs/info/6a509fa32e2ceb72963b3e7a) | CAMS | Houston, TX | 07/23/2026 20:57:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6a82d4b9379c304e892f3a10) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 08/17/2026 09:30:33 | Sponsorship: Past Sponsorship |
+| 77 (Strong) | [SoC ASIC Verification Engineer – New College Grad 2026](https://jobright.ai/jobs/info/69c2f3c394007a2195df0f11) | NVIDIA | Santa Clara, CA | 08/15/2026 17:42:41 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential**](https://jobright.ai/jobs/info/6a28bc1c883c0d3be6543c75) | Boeing | St. Charles, IL | 08/16/2026 12:52:06 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a8295779b859b227766a7f8) | CyberProof | Hillsboro, OR | 08/16/2026 22:00:39 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [New Grads Computer Engineer](https://jobright.ai/jobs/info/6a3a0aca1232144fb156df63) | Xcelerium | Irvine, CA | 06/29/2026 15:16:21 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-17 10:02:06Z UTC
 | 86 (Strong) | [Product Engineer - Tessent Design for Test (DFT)](https://jobright.ai/jobs/info/6a487fd43dbab558e29acdd5) | Siemens EDA (Siemens Digital Industries Software) | Wilsonville, OR | 08/14/2026 14:21:58 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Submarine Power Plant Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a7f008cb56bea5779c0814a) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 08/13/2026 21:45:30 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a5fb2ea33ef5c58b4fff7c8) | Trane Technologies | La Crosse, WI | 08/14/2026 02:37:43 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a7ed743b56bea5779c075aa) | Westinghouse Electric Company | Rock Hill, SC | 08/14/2026 01:52:19 | Sponsorship: Not Sure |
-| 48 (Possible) | [2027 Engineer Development Rotation Program - Electrical Engineer I New College Grad - BS or MS (Gloucester, MA)](https://jobright.ai/jobs/info/6a7ed277179e4f7b7e8d8ae5) | Applied Materials | Gloucester, MA | 08/14/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Electrical Engineer - Distribution Design](https://jobright.ai/jobs/info/6a50b293ddd293054ccab8fb) | GPD Group | Columbus, OH | 08/13/2026 15:47:23 | Sponsorship: Past Sponsorship |
