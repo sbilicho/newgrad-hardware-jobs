@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-17 04:55:50Z UTC
+Updated: 2026-08-17 06:22:52Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 50 (Good) | [Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential**](https://jobright.ai/jobs/info/6a28bc1c883c0d3be6543c75) | Boeing | St. Charles, IL | 08/16/2026 12:52:06 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a8295779b859b227766a7f8) | CyberProof | Hillsboro, OR | 08/16/2026 22:00:39 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [New Grads Computer Engineer](https://jobright.ai/jobs/info/6a3a0aca1232144fb156df63) | Xcelerium | Irvine, CA | 06/29/2026 15:16:21 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Software Engineer, Hardware Tools and Methodology - New College Grad 2026](https://jobright.ai/jobs/info/6a20a661c00e701fe836ae22) | NVIDIA | Santa Clara, CA | 08/08/2026 17:44:56 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Controls Engineer](https://jobright.ai/jobs/info/6a2c241ac260bb1b8ae14c06) | Kleinfelder | Perrysburg, OH | 08/16/2026 10:08:38 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-17 04:55:50Z UTC
 | 37 (Possible) | [Electrical Engineer I Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a7ed743b56bea5779c075aa) | Westinghouse Electric Company | Rock Hill, SC | 08/14/2026 01:52:19 | Sponsorship: Not Sure |
 | 48 (Possible) | [2027 Engineer Development Rotation Program - Electrical Engineer I New College Grad - BS or MS (Gloucester, MA)](https://jobright.ai/jobs/info/6a7ed277179e4f7b7e8d8ae5) | Applied Materials | Gloucester, MA | 08/14/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer - Distribution Design](https://jobright.ai/jobs/info/6a50b293ddd293054ccab8fb) | GPD Group | Columbus, OH | 08/13/2026 15:47:23 | Sponsorship: Past Sponsorship |
-| 80 (Strong) | [SoC Design Verification Engineer](https://jobright.ai/jobs/info/6a7ea26fb56bea5779c0693a) | Intel | Santa Clara, CA | 08/14/2026 00:28:38 | Sponsorship: Not Sure |
-| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6a7ed4d7e2030208f276abc8) | ByteDance | San Jose, CA | 08/14/2026 08:41:59 | Sponsorship: Past Sponsorship |
