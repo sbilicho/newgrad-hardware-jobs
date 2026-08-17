@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-17 22:19:11Z UTC
+Updated: 2026-08-17 23:19:09Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 56 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8388e62dbaf907b0769784) | CesiumAstro | Austin, TX | 08/17/2026 22:19:18 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Metrology Junior Electronics Engineer](https://jobright.ai/jobs/info/6a837e293eeac101cfaa0523) | Sabre Systems, LLC | Patuxent River, MD | 08/17/2026 14:33:29 | Sponsorship: No |
 | 66 (Good) | [Electrical Test Engineer, Wafer Test (2027 New College Graduate)](https://jobright.ai/jobs/info/6a83811b2dbaf907b07694c8) | GlobalFoundries | Essex Junction, VT | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer (EMI)-Junior](https://jobright.ai/jobs/info/6a83767f1081a745e970f809) | AMEWAS | Patuxent River, MD | 08/17/2026 14:00:47 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a83709a2dbaf907b0768af5) | Loram Maintenance of Way, Inc. | Medina, MN | 08/17/2026 20:35:38 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-17 22:19:11Z UTC
 | 31 (Possible) | [Electronics Engineer New Grad](https://jobright.ai/jobs/info/6a7f6960927c79391ad08bcb) | BubblyNet | Clearwater, FL | 08/14/2026 19:15:44 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer in Training (EIT) (Entry Level)](https://jobright.ai/jobs/info/6a7f632b19ce4e6e9d937713) | Garver | Kansas City, MO | 08/14/2026 18:49:15 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical/RF Engineer](https://jobright.ai/jobs/info/6a4cf1a33122a76a8fd53a1b) | Amentum | Dahlgren, VA | 08/14/2026 19:11:08 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6a7f5c4f19ce4e6e9d9372fc) | TriMas Life Sciences | Denver Metropolitan Area, United States | 08/14/2026 11:19:59 | Sponsorship: Not Sure |
-| 54 (Good) | [Satellite Test Engineer, Amazon Leo](https://jobright.ai/jobs/info/6a62912a1e089c0cc884d586) | Amazon | Redmond, WA | 08/14/2026 11:30:30 | Sponsorship: No |
