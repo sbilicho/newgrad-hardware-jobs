@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-17 17:40:05Z UTC
+Updated: 2026-08-17 18:33:59Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a834c7b1081a745e970e40f) | General Dynamics Ordnance and Tactical Systems | Crawfordville, FL | 08/17/2026 18:01:31 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a8346b62dbaf907b0767a35) | RTX | McKinney, TX | 08/17/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 50 (Good) | [Systems Verification Engineer I](https://jobright.ai/jobs/info/6a4b4e3ac2d11a6a46677974) | Cytek Biosciences | Fremont, CA | 08/17/2026 09:17:54 | Sponsorship: Not Sure |
 | 49 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a832e0c9b859b227766cf50) | RTX | Tewksbury, MA | 08/17/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-17 17:40:05Z UTC
 | 53 (Good) | [Product Performance Testing & Validation Engineer (Level 1)](https://jobright.ai/jobs/info/6a7f40e3ad9ff00c26bad44b) | AirSight | Richardson, TX | 08/14/2026 16:22:59 | Sponsorship: Past Sponsorship |
 | 53 (Good) | [New Graduate Engineer, Silicon Engineering](https://jobright.ai/jobs/info/6a7f40eeb56bea5779c09b54) | SpaceX | Palo Alto, CA | 08/14/2026 16:23:10 | Sponsorship: Past Sponsorship |
 | 53 (Good) | [New Graduate Engineer, Silicon Engineering](https://jobright.ai/jobs/info/6a7f40a5b56bea5779c09b1d) | SpaceX | Redmond, WA | 08/14/2026 16:21:57 | Sponsorship: Past Sponsorship |
-| 53 (Good) | [New Graduate Engineer, Silicon Engineering](https://jobright.ai/jobs/info/6a7f40bfb56bea5779c09b3a) | SpaceX | Irvine, CA | 08/14/2026 16:22:23 | Sponsorship: Past Sponsorship |
