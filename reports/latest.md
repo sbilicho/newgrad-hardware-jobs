@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-17 16:42:49Z UTC
+Updated: 2026-08-17 17:40:05Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a8346b62dbaf907b0767a35) | RTX | McKinney, TX | 08/17/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 50 (Good) | [Systems Verification Engineer I](https://jobright.ai/jobs/info/6a4b4e3ac2d11a6a46677974) | Cytek Biosciences | Fremont, CA | 08/17/2026 09:17:54 | Sponsorship: Not Sure |
 | 49 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a832e0c9b859b227766cf50) | RTX | Tewksbury, MA | 08/17/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Entry Level Reliability Engineer](https://jobright.ai/jobs/info/6a8339603eeac101cfa9e547) | Olin | Niagara Falls, NY | 08/17/2026 16:40:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a832614b5a0ac0e84a23cbf) | Loram UK Ltd | Medina, MN | 08/17/2026 15:17:40 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-17 16:42:49Z UTC
 | 53 (Good) | [New Graduate Engineer, Silicon Engineering](https://jobright.ai/jobs/info/6a7f40eeb56bea5779c09b54) | SpaceX | Palo Alto, CA | 08/14/2026 16:23:10 | Sponsorship: Past Sponsorship |
 | 53 (Good) | [New Graduate Engineer, Silicon Engineering](https://jobright.ai/jobs/info/6a7f40a5b56bea5779c09b1d) | SpaceX | Redmond, WA | 08/14/2026 16:21:57 | Sponsorship: Past Sponsorship |
 | 53 (Good) | [New Graduate Engineer, Silicon Engineering](https://jobright.ai/jobs/info/6a7f40bfb56bea5779c09b3a) | SpaceX | Irvine, CA | 08/14/2026 16:22:23 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7f2885e2030208f276c1c0) | Honeywell Technologies | Arvada, CO | 08/14/2026 14:39:01 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Electrical Engineer I - Test Solutions - Onsite](https://jobright.ai/jobs/info/6a7f32c7e2030208f276c5e3) | Raytheon | Andover, MA | 08/14/2026 15:22:47 | Sponsorship: Past Sponsorship |
