@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-17 15:36:55Z UTC
+Updated: 2026-08-17 16:42:49Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 49 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a832e0c9b859b227766cf50) | RTX | Tewksbury, MA | 08/17/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Entry Level Reliability Engineer](https://jobright.ai/jobs/info/6a8339603eeac101cfa9e547) | Olin | Niagara Falls, NY | 08/17/2026 16:40:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a832614b5a0ac0e84a23cbf) | Loram UK Ltd | Medina, MN | 08/17/2026 15:17:40 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer (Entry Level)](https://jobright.ai/jobs/info/6a832a1fb5a0ac0e84a23e85) | Insight Global | Columbus, OH | 08/17/2026 15:34:55 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Powertrain Performance Test Engineer](https://jobright.ai/jobs/info/6a50b7eb5165966a1161b42e) | Hyundai America Technical Center, Inc. (HATCI) | Chino, CA | 08/17/2026 06:16:55 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-08-17 15:36:55Z UTC
 | 53 (Good) | [New Graduate Engineer, Silicon Engineering](https://jobright.ai/jobs/info/6a7f40bfb56bea5779c09b3a) | SpaceX | Irvine, CA | 08/14/2026 16:22:23 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7f2885e2030208f276c1c0) | Honeywell Technologies | Arvada, CO | 08/14/2026 14:39:01 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electrical Engineer I - Test Solutions - Onsite](https://jobright.ai/jobs/info/6a7f32c7e2030208f276c5e3) | Raytheon | Andover, MA | 08/14/2026 15:22:47 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer [Wilton]](https://jobright.ai/jobs/info/6a7eaade19ce4e6e9d9340bf) | Altieri | Wilton, CT | 08/14/2026 00:43:44 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7f17d3927c79391ad0639c) | Honeywell Technologies | Arvada, CO | 08/14/2026 13:27:47 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
