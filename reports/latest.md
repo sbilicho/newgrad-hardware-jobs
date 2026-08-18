@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-18 14:49:44Z UTC
+Updated: 2026-08-18 16:02:25Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a84774cd34f700f87fb8c60) | Sargent & Lundy | Minneapolis, MN | 08/18/2026 15:16:28 | Sponsorship: Past Sponsorship |
+| 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/6a847a22e459fa3baa85e9d6) | Omni Design Technologies, Inc. | Milpitas, CA | 08/18/2026 15:28:34 | Sponsorship: Past Sponsorship |
+| 90 (Strong) | [New College Grad - Mixed Signal Design Engineer, HBM](https://jobright.ai/jobs/info/6a847d4058ded76ad8fe781a) | Micron Technology | Richardson, TX | 08/18/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a84653058ded76ad8fe6d28) | BAE Systems | Wayne, NJ | 08/18/2026 13:59:12 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 51 (Good) | [Senior Electrical Engineer I/II](https://jobright.ai/jobs/info/6a525c45d007ee02d95f73de) | Rocket Lab | Pasadena, CA | 08/18/2026 13:31:37 | Sponsorship: Past Sponsorship |
 | 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/6a846b7be459fa3baa85e1d6) | Omni Design Technologies, Inc. | Milpitas, CA | 08/18/2026 14:26:03 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-18 14:49:44Z UTC
 | 84 (Strong) | [ASIC Clocks Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/698eb55578b4502f12a5948b) | NVIDIA | Santa Clara, CA | 08/15/2026 11:08:01 | Sponsorship: Not Sure |
 | 30 (Possible) | [Sr. Silicon Design Engineer](https://jobright.ai/jobs/info/6a80af8819ce4e6e9d93f68a) | AMD | Santa Clara, CA | 08/15/2026 18:27:20 | Sponsorship: Past Sponsorship |
 | 78 (Strong) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6999bfa0ce78e77b4fdeabfc) | NVIDIA | Austin, TX; Santa Clara, CA | 08/15/2026 10:24:23 | Sponsorship: Not Sure |
-| 58 (Good) | [Hardware Verification Engineer (Defense & Aerospace, North Reading, MA)](https://jobright.ai/jobs/info/6a73db6f8dc3d52d8eda1ac9) | Teradyne | North Reading, MA | 08/15/2026 14:35:01 | Sponsorship: Past Sponsorship |
-| 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a809b23e2030208f27753ea) | CyberProof | Hillsboro, OR | 08/15/2026 17:00:19 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Sr. Silicon Design Engineer](https://jobright.ai/jobs/info/6a808cdb927c79391ad110ed) | Advanced Microdevices Pvt. Ltd. (India) | Austin, TX | 08/15/2026 00:35:45 | Sponsorship: Past Sponsorship |
