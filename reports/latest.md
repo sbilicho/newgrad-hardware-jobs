@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-18 17:15:12Z UTC
+Updated: 2026-08-18 18:37:02Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a849942e459fa3baa85f630) | General Dynamics Electric Boat | Groton, CT | 08/18/2026 17:41:22 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6a848408e459fa3baa85ed9b) | Schneider Electric | Birmingham, AL | 08/18/2026 16:10:48 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a848b572f4f0014cae21458) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 56 (Good) | [Electrical Engineer, Radiation Effects](https://boards.greenhouse.io/spacex/jobs/8726512002?gh_jid=8726512002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 08/18/2026 16:41:27 |  |
@@ -103,4 +104,3 @@ Updated: 2026-08-18 17:15:12Z UTC
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a80d33ce2030208f277611a) | CyberProof | Hillsboro, OR | 08/15/2026 20:59:40 | Sponsorship: Past Sponsorship |
 | 66 (Good) | [Process Integration and Yield Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6a8088b8927c79391ad1103d) | GlobalFoundries | Malta, NY | 08/15/2026 20:37:36 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Associate Electrical Engineer (Mission Critical/Data Center)](https://jobright.ai/jobs/info/6a738a988dc3d52d8eda00bc) | WSP in the U.S. | Troy, NY | 08/15/2026 11:41:09 | Sponsorship: Not Sure |
-| 37 (Possible) | [Associate Electrical Engineer (Mission Critical/Data Center)](https://jobright.ai/jobs/info/6a59b8e1686b4755d1e11b12) | WSP in the U.S. | New York, NY | 08/15/2026 11:41:09 | Sponsorship: Not Sure |
