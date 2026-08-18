@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-18 20:34:35Z UTC
+Updated: 2026-08-18 21:34:26Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [New College Graduate Systems Design Engineer](https://jobright.ai/jobs/info/6a84ca8be12474455273cbce) | Renesas Electronics | Austin, TX | 08/18/2026 21:11:39 | Sponsorship: Past Sponsorship |
 | 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/6a84ba24e459fa3baa860450) | Omni Design Technologies, Inc. | Milpitas, CA | 08/18/2026 20:01:40 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [New College Graduate Systems Design Engineer](https://jobright.ai/jobs/info/6a84bf8358ded76ad8fe93fe) | Renesas Electronics | Austin, TX | 08/18/2026 20:24:35 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer, Sensors (Starship Avionics)](https://boards.greenhouse.io/spacex/jobs/8727526002?gh_jid=8727526002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 08/18/2026 18:53:13 |  |
@@ -103,4 +104,3 @@ Updated: 2026-08-18 20:34:35Z UTC
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a812795e2030208f27786ea) | CyberProof | Hillsboro, OR | 08/16/2026 02:59:33 | Sponsorship: Past Sponsorship |
 | 88 (Strong) | [ASIC Clocks Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/69ea6be87820c036924ed913) | NVIDIA | Santa Clara, CA | 08/15/2026 18:08:10 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a810b73e2030208f2776e54) | CyberProof | Hillsboro, OR | 08/16/2026 00:59:31 | Sponsorship: Past Sponsorship |
-| 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a80ef66e2030208f277682f) | CyberProof | Hillsboro, OR | 08/15/2026 22:59:50 | Sponsorship: Past Sponsorship |
