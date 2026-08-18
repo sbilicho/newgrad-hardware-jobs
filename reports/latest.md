@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-18 10:44:39Z UTC
+Updated: 2026-08-18 11:45:31Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a67cb243b5e6b116a550a83) | Honeywell Aerospace | Phoenix, AZ | 08/18/2026 10:41:26 | Sponsorship: Past Sponsorship |
+| 81 (Strong) | [Engineer, Silicon Validation](https://jobright.ai/jobs/info/6a84398f0b610f7a3d0e460e) | Ayar Labs | San Jose, CA | 08/18/2026 10:53:03 | Sponsorship: Past Sponsorship |
+| 81 (Strong) | [Engineer, Silicon Validation](https://jobright.ai/jobs/info/6a843656e1247445527393ac) | Ayar Labs | San Jose, CA | 08/18/2026 03:39:18 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8424cce459fa3baa85d1e1) | Raytheon | McKinney, TX | 08/18/2026 02:24:28 | Sponsorship: No |
 | 67 (Good) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a8427a38d793736c6133ee6) | Raytheon | McKinney, TX | 08/18/2026 02:36:35 | Security clearance language is present; Sponsorship: No |
 | 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a841c28d34f700f87fb7462) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-18 10:44:39Z UTC
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a80469be2030208f2773e43) | CyberProof | Hillsboro, OR | 08/15/2026 10:59:39 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a802f9d19ce4e6e9d93d6c6) | Collins Aerospace | Bellevue, IA | 08/15/2026 09:21:33 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Sr. Silicon Design Engineer](https://jobright.ai/jobs/info/6a80239919ce4e6e9d93d3a4) | AMD | Santa Clara, CA | 08/15/2026 08:30:17 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Controls Engineer](https://jobright.ai/jobs/info/6a800ab9b56bea5779c10de2) | Opportunity Group, Inc. | Grand Rapids, MI | 08/14/2026 13:20:12 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 45 (Possible) | [2027 Associate Electronics Engineer/Electronics Engineer](https://jobright.ai/jobs/info/6a7df555b56bea5779c02a4e) | Northrop Grumman | San Diego, CA; Palmdale, CA; El Segundo, CA; Redondo Beach, CA | 08/14/2026 21:12:35 | Security clearance language is present; Sponsorship: No |
-| 69 (Good) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/69d55e28cdb525785fbd025e) | NVIDIA | Santa Clara, CA | 08/14/2026 18:49:36 | Sponsorship: Past Sponsorship |
