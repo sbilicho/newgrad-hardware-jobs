@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-18 05:17:06Z UTC
+Updated: 2026-08-18 06:41:12Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 35 (Possible) | [ASIC Digital / DSP Design Engineer (Junior level)](https://jobright.ai/jobs/info/6a83f81bf1685316891d3e30) | Keysight Technologies | Colorado Springs, CO | 08/18/2026 06:13:47 | Sponsorship: Past Sponsorship |
+| 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/6a83fdeae021cc586fb692c4) | Omni Design Technologies, Inc. | Milpitas, CA | 08/18/2026 06:38:34 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a1b7c066b135014dbc8ef1b) | Mach Industries | Huntington Beach, CA | 08/17/2026 21:36:25 | Sponsorship: No |
+| 44 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a5645c153b3962b910af098) | Mach Industries | Huntington Beach, CA | 08/17/2026 21:36:25 | Sponsorship: No |
+| 78 (Strong) | [ASIC Digital Design Engineer](https://jobright.ai/jobs/info/6a83ef7e29c715662f4b4fda) | Keysight Technologies | Colorado Springs, CO | 08/17/2026 22:37:02 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer 1 - Entry Level](https://jobright.ai/jobs/info/6a392c78214ae004c7a1d435) | LUZCO Technologies LLC | St. Louis, MO | 06/05/2026 14:37:02 | Sponsorship: Past Sponsorship |
 | 73 (Strong) | [Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a82f21f3eeac101cfa9c94e) | NVIDIA | Santa Clara, CA | 08/18/2026 00:08:22 | Sponsorship: Past Sponsorship |
 | 56 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8388e62dbaf907b0769784) | CesiumAstro | Austin, TX | 08/17/2026 22:19:18 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-08-18 05:17:06Z UTC
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a7f9de6e2030208f27700f9) | CyberProof | Hillsboro, OR | 08/14/2026 22:59:50 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a7f9bd2e51a1e18a241481a) | Dice | Wilmington, DE | 08/14/2026 22:50:58 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer - Entry Level *CLEARANCE REQUIRED*](https://jobright.ai/jobs/info/6a7f99db927c79391ad0b041) | Dice | Pittsfield, MA | 08/14/2026 22:42:35 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a7f8ee0e2030208f276f613) | Sargent & Lundy | Washington, DC | 08/14/2026 21:55:44 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Test Engineer, Propulsion Components (Starship)](https://jobright.ai/jobs/info/6a7f721e927c79391ad09174) | SpaceX | Hawthorne, CA | 08/14/2026 12:57:35 | Sponsorship: No |
-| 50 (Good) | [Test Engineer, Propulsion Components (Starship)](https://jobright.ai/jobs/info/6a45c6ca3dbab558e29a21ed) | SpaceX | Hawthorne, CA | 08/14/2026 12:57:35 | Sponsorship: No |
-| 50 (Good) | [Test Engineer, Powertrain Components (Starship)](https://jobright.ai/jobs/info/6a51e31f57513b72e0c697d0) | SpaceX | Hawthorne, CA | 08/14/2026 12:57:48 | Sponsorship: No |
-| 31 (Possible) | [Electronics Engineer New Grad](https://jobright.ai/jobs/info/6a7f6960927c79391ad08bcb) | BubblyNet | Clearwater, FL | 08/14/2026 19:15:44 | Sponsorship: Past Sponsorship |
