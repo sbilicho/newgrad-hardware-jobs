@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-18 03:07:08Z UTC
+Updated: 2026-08-18 03:58:14Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer 1 - Entry Level](https://jobright.ai/jobs/info/6a392c78214ae004c7a1d435) | LUZCO Technologies LLC | St. Louis, MO | 06/05/2026 14:37:02 | Sponsorship: Past Sponsorship |
 | 73 (Strong) | [Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a82f21f3eeac101cfa9c94e) | NVIDIA | Santa Clara, CA | 08/18/2026 00:08:22 | Sponsorship: Past Sponsorship |
 | 56 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8388e62dbaf907b0769784) | CesiumAstro | Austin, TX | 08/17/2026 22:19:18 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Metrology Junior Electronics Engineer](https://jobright.ai/jobs/info/6a837e293eeac101cfaa0523) | Sabre Systems, LLC | Patuxent River, MD | 08/17/2026 14:33:29 | Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-08-18 03:07:08Z UTC
 | 50 (Good) | [Test Engineer, Propulsion Components (Starship)](https://jobright.ai/jobs/info/6a45c6ca3dbab558e29a21ed) | SpaceX | Hawthorne, CA | 08/14/2026 12:57:35 | Sponsorship: No |
 | 50 (Good) | [Test Engineer, Powertrain Components (Starship)](https://jobright.ai/jobs/info/6a51e31f57513b72e0c697d0) | SpaceX | Hawthorne, CA | 08/14/2026 12:57:48 | Sponsorship: No |
 | 31 (Possible) | [Electronics Engineer New Grad](https://jobright.ai/jobs/info/6a7f6960927c79391ad08bcb) | BubblyNet | Clearwater, FL | 08/14/2026 19:15:44 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer in Training (EIT) (Entry Level)](https://jobright.ai/jobs/info/6a7f632b19ce4e6e9d937713) | Garver | Kansas City, MO | 08/14/2026 18:49:15 | Sponsorship: Past Sponsorship |
