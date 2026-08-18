@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-18 13:15:29Z UTC
+Updated: 2026-08-18 14:49:44Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a84653058ded76ad8fe6d28) | BAE Systems | Wayne, NJ | 08/18/2026 13:59:12 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 51 (Good) | [Senior Electrical Engineer I/II](https://jobright.ai/jobs/info/6a525c45d007ee02d95f73de) | Rocket Lab | Pasadena, CA | 08/18/2026 13:31:37 | Sponsorship: Past Sponsorship |
+| 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/6a846b7be459fa3baa85e1d6) | Omni Design Technologies, Inc. | Milpitas, CA | 08/18/2026 14:26:03 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a63c43f8d536034496042ce) | Rocket Lab | Pasadena, CA | 08/18/2026 11:49:23 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a684029abe8ae03a47227a6) | Rocket Lab | Long Beach, CA | 08/18/2026 11:49:23 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a844e83d34f700f87fb7cd6) | Sargent & Lundy | Chattanooga, TN | 08/18/2026 12:51:43 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-18 13:15:29Z UTC
 | 58 (Good) | [Hardware Verification Engineer (Defense & Aerospace, North Reading, MA)](https://jobright.ai/jobs/info/6a73db6f8dc3d52d8eda1ac9) | Teradyne | North Reading, MA | 08/15/2026 14:35:01 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a809b23e2030208f27753ea) | CyberProof | Hillsboro, OR | 08/15/2026 17:00:19 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Sr. Silicon Design Engineer](https://jobright.ai/jobs/info/6a808cdb927c79391ad110ed) | Advanced Microdevices Pvt. Ltd. (India) | Austin, TX | 08/15/2026 00:35:45 | Sponsorship: Past Sponsorship |
-| 64 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6a550e79ae07d60a8d00e896) | OMNIVISION | Santa Clara, CA | 08/15/2026 08:19:31 | Sponsorship: Not Sure |
-| 58 (Good) | [Embedded Systems Engineer, Recent Graduate](https://jobright.ai/jobs/info/6a63b6185c7e2d715ebad812) | Blissway Inc. | Denver, CO | 08/15/2026 10:39:52 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a63c4000c8e2b4f36dcfb39) | Rocket Lab | Pasadena, CA | 08/15/2026 13:32:17 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
