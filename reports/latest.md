@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-18 19:41:07Z UTC
+Updated: 2026-08-18 20:34:35Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/6a84ba24e459fa3baa860450) | Omni Design Technologies, Inc. | Milpitas, CA | 08/18/2026 20:01:40 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [New College Graduate Systems Design Engineer](https://jobright.ai/jobs/info/6a84bf8358ded76ad8fe93fe) | Renesas Electronics | Austin, TX | 08/18/2026 20:24:35 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer, Sensors (Starship Avionics)](https://boards.greenhouse.io/spacex/jobs/8727526002?gh_jid=8727526002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 08/18/2026 18:53:13 |  |
 | 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a84b3e658ded76ad8fe8de3) | BAE Systems, Inc. | Wayne, NJ | 08/18/2026 17:34:34 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 49 (Possible) | [ARTC - Entry Level Test Engineer](https://jobright.ai/jobs/info/6a84b11758ded76ad8fe8cfb) | TRAX International Corporation | Delta Junction, AK | 08/18/2026 19:23:03 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-18 19:41:07Z UTC
 | 88 (Strong) | [ASIC Clocks Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/69ea6be87820c036924ed913) | NVIDIA | Santa Clara, CA | 08/15/2026 18:08:10 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a810b73e2030208f2776e54) | CyberProof | Hillsboro, OR | 08/16/2026 00:59:31 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a80ef66e2030208f277682f) | CyberProof | Hillsboro, OR | 08/15/2026 22:59:50 | Sponsorship: Past Sponsorship |
-| 77 (Strong) | [SoC ASIC Verification Engineer – New College Grad 2026](https://jobright.ai/jobs/info/69d5600b706f771673ba280f) | NVIDIA | Santa Clara, CA | 08/15/2026 11:37:07 | Sponsorship: Not Sure |
-| 53 (Good) | [Entry Level Hardware Engineer](https://jobright.ai/jobs/info/6a80e90c19ce4e6e9d94041a) | Dice | Herndon, VA | 08/15/2026 22:32:44 | Sponsorship: Past Sponsorship |
