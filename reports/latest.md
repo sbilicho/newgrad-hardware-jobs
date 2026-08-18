@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-18 08:05:15Z UTC
+Updated: 2026-08-18 09:32:01Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a841c28d34f700f87fb7462) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a8426458d793736c6133ece) | Raytheon | McKinney, TX | 08/18/2026 09:30:45 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/6a84223f85e0d023aaea29f9) | Omni Design Technologies, Inc. | Milpitas, CA | 08/18/2026 09:13:35 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Metrology Junior Electronics Engineer](https://jobright.ai/jobs/info/6a83f66cc72fae4bcc8d6630) | Sabre Systems, LLC | Patuxent River, MD | 08/17/2026 23:06:36 | Sponsorship: No |
 | 78 (Strong) | [ASIC Digital Design Engineer](https://jobright.ai/jobs/info/6a83f818f1685316891d3e2f) | Keysight Technologies | Colorado Springs, CO | 08/17/2026 23:13:44 | Sponsorship: No |
 | 35 (Possible) | [ASIC Digital / DSP Design Engineer (Junior level)](https://jobright.ai/jobs/info/6a83f81bf1685316891d3e30) | Keysight Technologies | Colorado Springs, CO | 08/18/2026 06:13:47 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-18 08:05:15Z UTC
 | 69 (Good) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/69d55e28cdb525785fbd025e) | NVIDIA | Santa Clara, CA | 08/14/2026 18:49:36 | Sponsorship: Past Sponsorship |
 | 80 (Strong) | [GPU Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a7fd0f5b56bea5779c0f71e) | AdaMarie | Westford, MA | 08/15/2026 02:37:41 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Software & System Test Engineer (102181)](https://jobright.ai/jobs/info/6a67b1c92bf1fb2b7192684a) | American Honda Motor Company, Inc. | Raymond, OH | 08/14/2026 19:11:20 | Sponsorship: Not Sure |
-| 51 (Good) | [Associate Test Engineer](https://jobright.ai/jobs/info/6a7f6d3d927c79391ad08e09) | KONE | Texas, United States | 08/14/2026 18:03:24 | Sponsorship: Not Sure |
-| 58 (Good) | [Vehicle Test Engineer - New Grad (2027)](https://jobright.ai/jobs/info/6a7fa0e9ad9ff00c26baf82d) | Applied Intuition | Sunnyvale, CA | 08/15/2026 00:26:17 | Sponsorship: Past Sponsorship |
-| 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a7f9de6e2030208f27700f9) | CyberProof | Hillsboro, OR | 08/14/2026 22:59:50 | Sponsorship: Past Sponsorship |
