@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-18 18:37:02Z UTC
+Updated: 2026-08-18 19:41:07Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 48 (Possible) | [Electrical Engineer, Sensors (Starship Avionics)](https://boards.greenhouse.io/spacex/jobs/8727526002?gh_jid=8727526002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 08/18/2026 18:53:13 |  |
+| 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a84b3e658ded76ad8fe8de3) | BAE Systems, Inc. | Wayne, NJ | 08/18/2026 17:34:34 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 49 (Possible) | [ARTC - Entry Level Test Engineer](https://jobright.ai/jobs/info/6a84b11758ded76ad8fe8cfb) | TRAX International Corporation | Delta Junction, AK | 08/18/2026 19:23:03 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/69f1b0eb825a315d7ca3985a) | Omni Design Technologies, Inc. | Milpitas, CA | 04/08/2026 03:26:52 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a849942e459fa3baa85f630) | General Dynamics Electric Boat | Groton, CT | 08/18/2026 17:41:22 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6a848408e459fa3baa85ed9b) | Schneider Electric | Birmingham, AL | 08/18/2026 16:10:48 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a848b572f4f0014cae21458) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-08-18 18:37:02Z UTC
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a80ef66e2030208f277682f) | CyberProof | Hillsboro, OR | 08/15/2026 22:59:50 | Sponsorship: Past Sponsorship |
 | 77 (Strong) | [SoC ASIC Verification Engineer – New College Grad 2026](https://jobright.ai/jobs/info/69d5600b706f771673ba280f) | NVIDIA | Santa Clara, CA | 08/15/2026 11:37:07 | Sponsorship: Not Sure |
 | 53 (Good) | [Entry Level Hardware Engineer](https://jobright.ai/jobs/info/6a80e90c19ce4e6e9d94041a) | Dice | Herndon, VA | 08/15/2026 22:32:44 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I - Cranberry, PA](https://jobright.ai/jobs/info/6a80cfceb56bea5779c147ef) | Eaton | Cranberry Township, PA | 08/15/2026 20:45:02 | Sponsorship: Past Sponsorship |
-| 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a80d33ce2030208f277611a) | CyberProof | Hillsboro, OR | 08/15/2026 20:59:40 | Sponsorship: Past Sponsorship |
-| 66 (Good) | [Process Integration and Yield Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6a8088b8927c79391ad1103d) | GlobalFoundries | Malta, NY | 08/15/2026 20:37:36 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Associate Electrical Engineer (Mission Critical/Data Center)](https://jobright.ai/jobs/info/6a738a988dc3d52d8eda00bc) | WSP in the U.S. | Troy, NY | 08/15/2026 11:41:09 | Sponsorship: Not Sure |
