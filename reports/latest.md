@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-18 16:02:25Z UTC
+Updated: 2026-08-18 17:15:12Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6a848408e459fa3baa85ed9b) | Schneider Electric | Birmingham, AL | 08/18/2026 16:10:48 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a848b572f4f0014cae21458) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 56 (Good) | [Electrical Engineer, Radiation Effects](https://boards.greenhouse.io/spacex/jobs/8726512002?gh_jid=8726512002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 08/18/2026 16:41:27 |  |
+| 33 (Possible) | [Software Engineer - Entry Level - Scottsdale, AZ](https://jobright.ai/jobs/info/6a848e032f4f0014cae215c8) | Military Spouse Jobs | Scottsdale, AZ | 08/18/2026 16:53:23 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Software Engineer - Entry Level - Scottsdale, AZ](https://jobright.ai/jobs/info/6a84901b58ded76ad8fe807f) | Eaton | Scottsdale, AZ | 08/18/2026 17:02:19 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a84774cd34f700f87fb8c60) | Sargent & Lundy | Minneapolis, MN | 08/18/2026 15:16:28 | Sponsorship: Past Sponsorship |
 | 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/6a847a22e459fa3baa85e9d6) | Omni Design Technologies, Inc. | Milpitas, CA | 08/18/2026 15:28:34 | Sponsorship: Past Sponsorship |
 | 90 (Strong) | [New College Grad - Mixed Signal Design Engineer, HBM](https://jobright.ai/jobs/info/6a847d4058ded76ad8fe781a) | Micron Technology | Richardson, TX | 08/18/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-08-18 16:02:25Z UTC
 | 66 (Good) | [Process Integration and Yield Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6a8088b8927c79391ad1103d) | GlobalFoundries | Malta, NY | 08/15/2026 20:37:36 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Associate Electrical Engineer (Mission Critical/Data Center)](https://jobright.ai/jobs/info/6a738a988dc3d52d8eda00bc) | WSP in the U.S. | Troy, NY | 08/15/2026 11:41:09 | Sponsorship: Not Sure |
 | 37 (Possible) | [Associate Electrical Engineer (Mission Critical/Data Center)](https://jobright.ai/jobs/info/6a59b8e1686b4755d1e11b12) | WSP in the U.S. | New York, NY | 08/15/2026 11:41:09 | Sponsorship: Not Sure |
-| 30 (Possible) | [Sr. Silicon Design Engineer](https://jobright.ai/jobs/info/6a80be1b19ce4e6e9d93fac1) | AMD | Santa Clara, CA | 08/15/2026 19:29:31 | Sponsorship: Past Sponsorship |
-| 55 (Good) | [Signal and Power Integrity Engineer - New College Grad 2026](https://jobright.ai/jobs/info/69c085c579e36d3a847cd12a) | NVIDIA | Austin, TX; Santa Clara, CA | 08/15/2026 11:01:36 | Sponsorship: Not Sure |
-| 84 (Strong) | [ASIC Clocks Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/698eb55578b4502f12a5948b) | NVIDIA | Santa Clara, CA | 08/15/2026 11:08:01 | Sponsorship: Not Sure |
-| 30 (Possible) | [Sr. Silicon Design Engineer](https://jobright.ai/jobs/info/6a80af8819ce4e6e9d93f68a) | AMD | Santa Clara, CA | 08/15/2026 18:27:20 | Sponsorship: Past Sponsorship |
-| 78 (Strong) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6999bfa0ce78e77b4fdeabfc) | NVIDIA | Austin, TX; Santa Clara, CA | 08/15/2026 10:24:23 | Sponsorship: Not Sure |
