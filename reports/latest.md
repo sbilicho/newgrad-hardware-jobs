@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-18 06:41:12Z UTC
+Updated: 2026-08-18 08:05:15Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 45 (Possible) | [Metrology Junior Electronics Engineer](https://jobright.ai/jobs/info/6a83f66cc72fae4bcc8d6630) | Sabre Systems, LLC | Patuxent River, MD | 08/17/2026 23:06:36 | Sponsorship: No |
+| 78 (Strong) | [ASIC Digital Design Engineer](https://jobright.ai/jobs/info/6a83f818f1685316891d3e2f) | Keysight Technologies | Colorado Springs, CO | 08/17/2026 23:13:44 | Sponsorship: No |
 | 35 (Possible) | [ASIC Digital / DSP Design Engineer (Junior level)](https://jobright.ai/jobs/info/6a83f81bf1685316891d3e30) | Keysight Technologies | Colorado Springs, CO | 08/18/2026 06:13:47 | Sponsorship: Past Sponsorship |
 | 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/6a83fdeae021cc586fb692c4) | Omni Design Technologies, Inc. | Milpitas, CA | 08/18/2026 06:38:34 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a1b7c066b135014dbc8ef1b) | Mach Industries | Huntington Beach, CA | 08/17/2026 21:36:25 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-08-18 06:41:12Z UTC
 | 51 (Good) | [Associate Test Engineer](https://jobright.ai/jobs/info/6a7f6d3d927c79391ad08e09) | KONE | Texas, United States | 08/14/2026 18:03:24 | Sponsorship: Not Sure |
 | 58 (Good) | [Vehicle Test Engineer - New Grad (2027)](https://jobright.ai/jobs/info/6a7fa0e9ad9ff00c26baf82d) | Applied Intuition | Sunnyvale, CA | 08/15/2026 00:26:17 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a7f9de6e2030208f27700f9) | CyberProof | Hillsboro, OR | 08/14/2026 22:59:50 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a7f9bd2e51a1e18a241481a) | Dice | Wilmington, DE | 08/14/2026 22:50:58 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer - Entry Level *CLEARANCE REQUIRED*](https://jobright.ai/jobs/info/6a7f99db927c79391ad0b041) | Dice | Pittsfield, MA | 08/14/2026 22:42:35 | Security clearance language is present; Sponsorship: Past Sponsorship |
