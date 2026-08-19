@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-19 03:34:46Z UTC
+Updated: 2026-08-19 05:03:21Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [System Safety & Reliability Engineer](https://jobright.ai/jobs/info/6a7c9365a346cb6c8d5ee77e) | Rolls-Royce | Indianapolis, IN | 08/18/2026 20:05:32 | Sponsorship: No |
 | 50 (Good) | [Integration and Test Engineer](https://jobright.ai/jobs/info/6a850c0cc1a3fd7120f74483) | nLIGHT, Inc. | Longmont, CO | 08/18/2026 18:51:08 | Security clearance language is present; Sponsorship: No |
 | 42 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a846d4a2f4f0014cae205ea) | Tyonek Native Corp | Warner Robins, GA | 08/18/2026 23:23:33 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a84b8ed7b33d72276257c27) | Sierra Nevada Corporation | Dayton, OH | 08/19/2026 00:41:18 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-19 03:34:46Z UTC
 | 92 (Strong) | [ASIC Physical Design Engineer, Netlisting - New College Grad 2026](https://jobright.ai/jobs/info/6a81582ce2030208f2779c44) | NVIDIA AI | Santa Clara, CA | 08/16/2026 06:26:52 | Sponsorship: Past Sponsorship |
 | 78 (Strong) | [Formal Verification Engineer](https://jobright.ai/jobs/info/6a0cdedb0411d7417a1bd36e) | MatX | Mountain View, CA | 08/16/2026 04:20:32 | Sponsorship: No |
 | 37 (Possible) | [Entry-Level Electrical Controls Engineer](https://jobright.ai/jobs/info/6a39a9a81232144fb156cbd4) | Kleinfelder | Perrysburg, OH | 08/16/2026 02:09:37 | Sponsorship: Not Sure |
-| 32 (Possible) | [Entry Level Instrumentation and Controls Engineer](https://jobright.ai/jobs/info/6a6d02c557120971bf3ae74f) | Eichleay, Inc. | Billings, MT | 08/16/2026 01:19:35 | Sponsorship: No |
