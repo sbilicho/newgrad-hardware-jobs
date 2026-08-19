@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-19 22:38:14Z UTC
+Updated: 2026-08-19 23:34:13Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 48 (Possible) | [Electrical Engineer (New Grad Summer 2027)](https://jobright.ai/jobs/info/6a8637c274e02153f145b484) | Freeform | Hawthorne, CA | 08/19/2026 23:09:54 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a8631174afae74a083440a7) | Dice | Scottsdale, AZ | 08/19/2026 22:41:27 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [System Test Engineer](https://jobright.ai/jobs/info/6a8622eccc81eb647e9f1b17) | TAE Technologies, Inc | Irvine, CA | 08/19/2026 14:41:00 | Sponsorship: Not Sure |
+| 50 (Good) | [Systems Test Engineer - Automation, Early Career](https://jobright.ai/jobs/info/6a8625642f4f0014cae289be) | Viasat | Carlsbad, CA | 08/19/2026 14:51:32 | Sponsorship: No |
+| 46 (Possible) | [Quantum Hardware Engineer, Amazon's Center for Quantum Computing, Device Team](https://jobright.ai/jobs/info/6a862996d34f700f87fc0c3d) | Amazon | Pasadena, CA | 08/19/2026 15:09:26 | Sponsorship: Not Sure |
 | 49 (Possible) | [Test Engineer - Entry Level](https://jobright.ai/jobs/info/6a8625a274e02153f145ad7b) | General Dynamics Mission Systems | Dedham, MA | 08/19/2026 21:52:34 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 80 (Strong) | [FAST Lab – Entry Level FPGA Engineer](https://jobright.ai/jobs/info/6a6933635d01972698ee70b9) | BAE Systems, Inc. | Merrimack, NH | 08/19/2026 16:37:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 42 (Possible) | [System Test Engineer](https://jobright.ai/jobs/info/6a861e38d34f700f87fc08d2) | TAE Technologies, Inc | Irvine, CA | 08/19/2026 14:20:56 | Sponsorship: Not Sure |
@@ -99,8 +104,3 @@ Updated: 2026-08-19 22:38:14Z UTC
 | 77 (Strong) | [SoC ASIC Verification Engineer – New College Grad 2026](https://jobright.ai/jobs/info/69c2f3c394007a2195df0f11) | NVIDIA | Santa Clara, CA | 08/15/2026 17:42:41 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential**](https://jobright.ai/jobs/info/6a28bc1c883c0d3be6543c75) | Boeing | St. Charles, IL | 08/16/2026 12:52:06 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a8295779b859b227766a7f8) | CyberProof | Hillsboro, OR | 08/16/2026 22:00:39 | Sponsorship: Past Sponsorship |
-| 30 (Possible) | [New Grads Computer Engineer](https://jobright.ai/jobs/info/6a3a0aca1232144fb156df63) | Xcelerium | Irvine, CA | 06/29/2026 15:16:21 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Software Engineer, Hardware Tools and Methodology - New College Grad 2026](https://jobright.ai/jobs/info/6a20a661c00e701fe836ae22) | NVIDIA | Santa Clara, CA | 08/08/2026 17:44:56 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Electrical Controls Engineer](https://jobright.ai/jobs/info/6a2c241ac260bb1b8ae14c06) | Kleinfelder | Perrysburg, OH | 08/16/2026 10:08:38 | Sponsorship: Past Sponsorship |
-| 54 (Good) | [NPI Test Engineer](https://jobright.ai/jobs/info/6a8275b11081a745e970a5dc) | Arete | Healdsburg, CA | 08/16/2026 19:45:05 | U.S. citizenship language is present; Sponsorship: No |
-| 54 (Good) | [Field Test Engineer - JobID-0029](https://jobright.ai/jobs/info/6a55d108ef22935f2e3f7b1b) | Innovative Defense Technologies (IDT) | San Diego, CA; Arlington, VA | 08/16/2026 19:59:19 | Sponsorship: No |
