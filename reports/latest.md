@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-19 05:03:21Z UTC
+Updated: 2026-08-19 06:18:48Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Automation Controls Engineer I - Local Candidates Only](https://jobright.ai/jobs/info/6a853046c1a3fd7120f7493e) | RMH Systems | Loveland, CO | 08/18/2026 21:25:42 | Sponsorship: Not Sure |
 | 46 (Possible) | [System Safety & Reliability Engineer](https://jobright.ai/jobs/info/6a7c9365a346cb6c8d5ee77e) | Rolls-Royce | Indianapolis, IN | 08/18/2026 20:05:32 | Sponsorship: No |
 | 50 (Good) | [Integration and Test Engineer](https://jobright.ai/jobs/info/6a850c0cc1a3fd7120f74483) | nLIGHT, Inc. | Longmont, CO | 08/18/2026 18:51:08 | Security clearance language is present; Sponsorship: No |
 | 42 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a846d4a2f4f0014cae205ea) | Tyonek Native Corp | Warner Robins, GA | 08/18/2026 23:23:33 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-19 05:03:21Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a81c2a0e2030208f277bb61) | Paragon Energy Solutions | Fort Worth, TX | 08/16/2026 14:01:04 | Sponsorship: Past Sponsorship |
 | 92 (Strong) | [ASIC Physical Design Engineer, Netlisting - New College Grad 2026](https://jobright.ai/jobs/info/6a81582ce2030208f2779c44) | NVIDIA AI | Santa Clara, CA | 08/16/2026 06:26:52 | Sponsorship: Past Sponsorship |
 | 78 (Strong) | [Formal Verification Engineer](https://jobright.ai/jobs/info/6a0cdedb0411d7417a1bd36e) | MatX | Mountain View, CA | 08/16/2026 04:20:32 | Sponsorship: No |
-| 37 (Possible) | [Entry-Level Electrical Controls Engineer](https://jobright.ai/jobs/info/6a39a9a81232144fb156cbd4) | Kleinfelder | Perrysburg, OH | 08/16/2026 02:09:37 | Sponsorship: Not Sure |
