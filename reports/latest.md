@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-19 12:15:26Z UTC
+Updated: 2026-08-19 13:16:14Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a85a47b2f4f0014cae254d8) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Test Solutions Northeast Electrical Engineer I](https://jobright.ai/jobs/info/6a859672d34f700f87fbd5da) | Raytheon | Tewksbury, MA | 08/19/2026 11:41:38 | Sponsorship: Past Sponsorship |
 | 68 (Good) | [Graduate - Validation Engineer](https://jobright.ai/jobs/info/6a858be92f4f0014cae25122) | Infineon Technologies | San Jose, CA | 08/19/2026 10:56:41 | Sponsorship: Past Sponsorship |
 | 80 (Strong) | [Graduate - Analog Mixed-Signal Design Engineer](https://jobright.ai/jobs/info/6a85881ed34f700f87fbd2f4) | Infineon Technologies | El Segundo, CA | 08/19/2026 10:40:30 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-19 12:15:26Z UTC
 | 87 (Strong) | [Cell Modeling and Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a1fc647dce5db1256d1747d) | NVIDIA | Santa Clara, CA | 08/16/2026 17:36:28 | Sponsorship: Past Sponsorship |
 | 82 (Strong) | [ASIC Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a298a64495d985b99423fba) | NVIDIA | Austin, TX | 08/15/2026 17:59:04 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Hardware and Environments Test Engineer (I-II)](https://jobright.ai/jobs/info/6a3ca84ad261407de97fe393) | True Anomaly | Long Beach, CA | 08/16/2026 08:34:17 | U.S. citizenship language is present; Sponsorship: No |
-| 40 (Possible) | [Electrical or Embedded Controls Engineer (Early Career, Exceptional Talent)](https://jobright.ai/jobs/info/6a81da38ad9ff00c26bb78de) | Boom Supersonic | Centennial, CO | 08/16/2026 08:41:44 | Sponsorship: No |
