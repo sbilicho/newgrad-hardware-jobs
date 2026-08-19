@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-19 11:11:56Z UTC
+Updated: 2026-08-19 12:15:26Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 49 (Possible) | [Test Solutions Northeast Electrical Engineer I](https://jobright.ai/jobs/info/6a859672d34f700f87fbd5da) | Raytheon | Tewksbury, MA | 08/19/2026 11:41:38 | Sponsorship: Past Sponsorship |
+| 68 (Good) | [Graduate - Validation Engineer](https://jobright.ai/jobs/info/6a858be92f4f0014cae25122) | Infineon Technologies | San Jose, CA | 08/19/2026 10:56:41 | Sponsorship: Past Sponsorship |
+| 80 (Strong) | [Graduate - Analog Mixed-Signal Design Engineer](https://jobright.ai/jobs/info/6a85881ed34f700f87fbd2f4) | Infineon Technologies | El Segundo, CA | 08/19/2026 10:40:30 | Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Graduate- Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a8585d7d34f700f87fbd273) | Infineon Technologies | San Jose, CA | 08/19/2026 10:30:47 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6a8586c013c05d441a5c6894) | Smiths Group plc | Port Arthur, TX | 08/18/2026 22:31:51 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Automation Controls Engineer I - Local Candidates Only](https://jobright.ai/jobs/info/6a853046c1a3fd7120f7493e) | RMH Systems | Loveland, CO | 08/18/2026 21:25:42 | Sponsorship: Not Sure |
@@ -101,6 +104,3 @@ Updated: 2026-08-19 11:11:56Z UTC
 | 82 (Strong) | [ASIC Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a298a64495d985b99423fba) | NVIDIA | Austin, TX | 08/15/2026 17:59:04 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Hardware and Environments Test Engineer (I-II)](https://jobright.ai/jobs/info/6a3ca84ad261407de97fe393) | True Anomaly | Long Beach, CA | 08/16/2026 08:34:17 | U.S. citizenship language is present; Sponsorship: No |
 | 40 (Possible) | [Electrical or Embedded Controls Engineer (Early Career, Exceptional Talent)](https://jobright.ai/jobs/info/6a81da38ad9ff00c26bb78de) | Boom Supersonic | Centennial, CO | 08/16/2026 08:41:44 | Sponsorship: No |
-| 32 (Possible) | [Research Scientist, AI Accelerator Design and VLSI - New College Grad 2026](https://jobright.ai/jobs/info/6977e9be52f3c27ec64415b9) | NVIDIA | Santa Clara, CA | 08/16/2026 07:43:31 | Sponsorship: Not Sure |
-| 50 (Good) | [Test Engineer (I or II)](https://jobright.ai/jobs/info/6a49f35ef9cbb100d1ab459e) | True Anomaly | Denver, CO; Centennial, CO | 08/16/2026 06:29:41 | Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a81c2a0e2030208f277bb61) | Paragon Energy Solutions | Fort Worth, TX | 08/16/2026 14:01:04 | Sponsorship: Past Sponsorship |
