@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-19 00:34:16Z UTC
+Updated: 2026-08-19 01:34:07Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 42 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a846d4a2f4f0014cae205ea) | Tyonek Native Corp | Warner Robins, GA | 08/18/2026 23:23:33 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a84b8ed7b33d72276257c27) | Sierra Nevada Corporation | Dayton, OH | 08/19/2026 00:41:18 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [New College Graduate Systems Design Engineer](https://jobright.ai/jobs/info/6a84ca76d34f700f87fbb14e) | Renesas Electronics | Austin, TX | 08/18/2026 21:11:18 | Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Graduate - Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a77fcfb4817aa430704b2f2) | Infineon Technologies | San Jose, CA | 08/18/2026 18:25:49 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6a825895927c79391ad1c41f) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 08/18/2026 22:52:13 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a84e464d34f700f87fbb448) | Axon | Sterling, VA | 08/18/2026 23:01:56 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-19 00:34:16Z UTC
 | 37 (Possible) | [Entry-Level Electrical Controls Engineer](https://jobright.ai/jobs/info/6a39a9a81232144fb156cbd4) | Kleinfelder | Perrysburg, OH | 08/16/2026 02:09:37 | Sponsorship: Not Sure |
 | 32 (Possible) | [Entry Level Instrumentation and Controls Engineer](https://jobright.ai/jobs/info/6a6d02c557120971bf3ae74f) | Eichleay, Inc. | Billings, MT | 08/16/2026 01:19:35 | Sponsorship: No |
 | 37 (Possible) | [Entry Level Electrical Engineer [Wilton]](https://jobright.ai/jobs/info/6a817899e51a1e18a241ee70) | Altieri | Wilton, CT | 08/15/2026 17:23:13 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a29b11bc07d4b6ae1c42445) | CRB | Atlanta, GA | 08/15/2026 14:57:22 | Sponsorship: Past Sponsorship |
-| 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a815fc0e2030208f2779dcf) | CyberProof | Hillsboro, OR | 08/16/2026 06:59:12 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a814457ad9ff00c26bb5c49) | Collins Aerospace | Bellevue, IA | 08/15/2026 18:05:05 | Sponsorship: Past Sponsorship |
