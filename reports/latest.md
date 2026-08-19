@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-19 21:38:07Z UTC
+Updated: 2026-08-19 22:38:14Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 49 (Possible) | [Test Engineer - Entry Level](https://jobright.ai/jobs/info/6a8625a274e02153f145ad7b) | General Dynamics Mission Systems | Dedham, MA | 08/19/2026 21:52:34 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 80 (Strong) | [FAST Lab – Entry Level FPGA Engineer](https://jobright.ai/jobs/info/6a6933635d01972698ee70b9) | BAE Systems, Inc. | Merrimack, NH | 08/19/2026 16:37:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 42 (Possible) | [System Test Engineer](https://jobright.ai/jobs/info/6a861e38d34f700f87fc08d2) | TAE Technologies, Inc | Irvine, CA | 08/19/2026 14:20:56 | Sponsorship: Not Sure |
 | 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a509e0ed5d2a327b664c1ce) | Applied Engineering, Inc. | Beulah, ND | 08/19/2026 12:04:30 | Sponsorship: No |
 | 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6a85fa9a74e02153f1459b49) | Haag, a Salas O'Brien Company | San Jose, CA | 08/19/2026 19:01:53 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Test Engineer - Entry Level](https://jobright.ai/jobs/info/6a85e3aa74e02153f145917b) | General Dynamics | Dedham, MA | 08/19/2026 12:51:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-19 21:38:07Z UTC
 | 37 (Possible) | [Entry-Level Electrical Controls Engineer](https://jobright.ai/jobs/info/6a2c241ac260bb1b8ae14c06) | Kleinfelder | Perrysburg, OH | 08/16/2026 10:08:38 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [NPI Test Engineer](https://jobright.ai/jobs/info/6a8275b11081a745e970a5dc) | Arete | Healdsburg, CA | 08/16/2026 19:45:05 | U.S. citizenship language is present; Sponsorship: No |
 | 54 (Good) | [Field Test Engineer - JobID-0029](https://jobright.ai/jobs/info/6a55d108ef22935f2e3f7b1b) | Innovative Defense Technologies (IDT) | San Diego, CA; Arlington, VA | 08/16/2026 19:59:19 | Sponsorship: No |
-| 66 (Good) | [Process Integration and Yield Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6a8088ba927c79391ad1103e) | GlobalFoundries | Malta, NY | 08/15/2026 20:37:36 | Sponsorship: Past Sponsorship |
-| 83 (Strong) | [Cell Modeling and Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a539fe7e726ec56126a7687) | NVIDIA | Santa Clara, CA | 08/16/2026 17:36:28 | Sponsorship: Past Sponsorship |
-| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6a8042b6e2030208f2773d3b) | ByteDance | San Jose, CA | 08/15/2026 10:43:02 | Sponsorship: Past Sponsorship |
