@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-19 10:03:23Z UTC
+Updated: 2026-08-19 11:11:56Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 79 (Strong) | [Graduate- Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a8585d7d34f700f87fbd273) | Infineon Technologies | San Jose, CA | 08/19/2026 10:30:47 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6a8586c013c05d441a5c6894) | Smiths Group plc | Port Arthur, TX | 08/18/2026 22:31:51 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Automation Controls Engineer I - Local Candidates Only](https://jobright.ai/jobs/info/6a853046c1a3fd7120f7493e) | RMH Systems | Loveland, CO | 08/18/2026 21:25:42 | Sponsorship: Not Sure |
 | 46 (Possible) | [System Safety & Reliability Engineer](https://jobright.ai/jobs/info/6a7c9365a346cb6c8d5ee77e) | Rolls-Royce | Indianapolis, IN | 08/18/2026 20:05:32 | Sponsorship: No |
 | 50 (Good) | [Integration and Test Engineer](https://jobright.ai/jobs/info/6a850c0cc1a3fd7120f74483) | nLIGHT, Inc. | Longmont, CO | 08/18/2026 18:51:08 | Security clearance language is present; Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-08-19 10:03:23Z UTC
 | 32 (Possible) | [Research Scientist, AI Accelerator Design and VLSI - New College Grad 2026](https://jobright.ai/jobs/info/6977e9be52f3c27ec64415b9) | NVIDIA | Santa Clara, CA | 08/16/2026 07:43:31 | Sponsorship: Not Sure |
 | 50 (Good) | [Test Engineer (I or II)](https://jobright.ai/jobs/info/6a49f35ef9cbb100d1ab459e) | True Anomaly | Denver, CO; Centennial, CO | 08/16/2026 06:29:41 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a81c2a0e2030208f277bb61) | Paragon Energy Solutions | Fort Worth, TX | 08/16/2026 14:01:04 | Sponsorship: Past Sponsorship |
-| 92 (Strong) | [ASIC Physical Design Engineer, Netlisting - New College Grad 2026](https://jobright.ai/jobs/info/6a81582ce2030208f2779c44) | NVIDIA AI | Santa Clara, CA | 08/16/2026 06:26:52 | Sponsorship: Past Sponsorship |
-| 78 (Strong) | [Formal Verification Engineer](https://jobright.ai/jobs/info/6a0cdedb0411d7417a1bd36e) | MatX | Mountain View, CA | 08/16/2026 04:20:32 | Sponsorship: No |
