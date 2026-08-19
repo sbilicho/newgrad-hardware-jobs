@@ -1,6 +1,6 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-19 08:53:34Z UTC
+Updated: 2026-08-19 10:03:23Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
