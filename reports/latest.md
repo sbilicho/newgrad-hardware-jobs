@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-19 14:50:47Z UTC
+Updated: 2026-08-19 16:02:32Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a736a4a8dc3d52d8ed9f411) | Eaton | South Milwaukee, WI | 08/19/2026 07:33:34 | Sponsorship: No |
 | 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a85c095d34f700f87fbdf42) | RTX | Bellevue, IA | 08/19/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a85bc372f4f0014cae259d1) | Managed Staffing, Inc. | Alcoa, TN | 08/19/2026 14:22:47 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a85b74074e02153f1457d5c) | Paragon Energy Solutions | Fort Worth, TX | 08/19/2026 07:01:36 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-19 14:50:47Z UTC
 | 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a823d16b56bea5779c1da9c) | Dice | Palm Beach Gardens, FL | 08/16/2026 22:43:34 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer in Training (EIT) (Entry Level)](https://jobright.ai/jobs/info/6a7f62e7e51a1e18a24121d7) | Garver | Dallas, TX | 08/14/2026 18:51:53 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a82313219ce4e6e9d947996) | General Dynamics Mission Systems | Scottsdale, AZ | 08/16/2026 21:52:50 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a82196de2030208f277d3b3) | General Dynamics | Scottsdale, AZ | 08/16/2026 14:53:00 | Sponsorship: Past Sponsorship |
