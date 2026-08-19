@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-18 23:36:02Z UTC
+Updated: 2026-08-19 00:34:16Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 79 (Strong) | [Graduate - Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a77fcfb4817aa430704b2f2) | Infineon Technologies | San Jose, CA | 08/18/2026 18:25:49 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6a825895927c79391ad1c41f) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 08/18/2026 22:52:13 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a84e464d34f700f87fbb448) | Axon | Sterling, VA | 08/18/2026 23:01:56 | Sponsorship: Past Sponsorship |
 | 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/6a84d672e459fa3baa86104a) | Omni Design Technologies, Inc. | Milpitas, CA | 08/18/2026 22:02:26 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-18 23:36:02Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a29b11bc07d4b6ae1c42445) | CRB | Atlanta, GA | 08/15/2026 14:57:22 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a815fc0e2030208f2779dcf) | CyberProof | Hillsboro, OR | 08/16/2026 06:59:12 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a814457ad9ff00c26bb5c49) | Collins Aerospace | Bellevue, IA | 08/15/2026 18:05:05 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a5102feae4052672fe960a6) | Affiliated Engineers, Inc. | Gainesville, FL | 08/15/2026 04:43:16 | Sponsorship: Past Sponsorship |
