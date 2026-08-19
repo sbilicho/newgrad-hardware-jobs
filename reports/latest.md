@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-19 18:13:09Z UTC
+Updated: 2026-08-19 19:34:18Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6a85fa9a74e02153f1459b49) | Haag, a Salas O'Brien Company | San Jose, CA | 08/19/2026 19:01:53 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Test Engineer - Entry Level](https://jobright.ai/jobs/info/6a85e3aa74e02153f145917b) | General Dynamics | Dedham, MA | 08/19/2026 12:51:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Metrology Junior Electronics Engineer](https://jobright.ai/jobs/info/6a85ca0bd34f700f87fbe2e4) | Synectic Solutions, Inc. | Patuxent River, MD | 08/19/2026 08:21:47 | Sponsorship: No |
 | 44 (Possible) | [1454 - RF Electrical Engineer](https://jobright.ai/jobs/info/6a737328e55c73319eb175cb) | Sigma Defense Systems LLC | Huntsville, AL | 08/19/2026 09:12:13 | Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-08-19 18:13:09Z UTC
 | 83 (Strong) | [Cell Modeling and Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a539fe7e726ec56126a7687) | NVIDIA | Santa Clara, CA | 08/16/2026 17:36:28 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6a8042b6e2030208f2773d3b) | ByteDance | San Jose, CA | 08/15/2026 10:43:02 | Sponsorship: Past Sponsorship |
 | 61 (Good) | [Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a2c9b73d3ec94183f4bdbfc) | NVIDIA | Santa Clara, CA | 07/25/2026 18:04:01 | Sponsorship: Past Sponsorship |
-| 90 (Strong) | [Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a511743bf63b66c79978baf) | NVIDIA | United States | 08/16/2026 14:50:00 | Sponsorship: Past Sponsorship |
