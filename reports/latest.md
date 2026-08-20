@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-20 09:42:54Z UTC
+Updated: 2026-08-20 10:52:34Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6a86d4854afae74a0834585a) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 08/20/2026 08:18:35 | Sponsorship: Past Sponsorship |
+| 71 (Strong) | [New College Grad - EDA/CAD Engineer](https://jobright.ai/jobs/info/6a68da6c36d36c1ff29967ab) | Micron Technology | Boise, ID | 08/20/2026 09:19:01 | Sponsorship: Past Sponsorship |
+| 68 (Good) | [Product/Test Engineer, Entry Level](https://jobright.ai/jobs/info/6a5b2a7e686b4755d1e18d56) | NXP Semiconductors | Austin, TX | 08/20/2026 09:58:20 | Sponsorship: Past Sponsorship |
 | 98 (Strong) | [NVIDIA 2027 Internships: Hardware ASIC Design](https://jobright.ai/jobs/info/6a86a15ccc81eb647e9f3173) | NVIDIA AI | Santa Clara, CA | 08/20/2026 06:40:28 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [NVIDIA 2027 Internships: Hardware Engineering](https://jobright.ai/jobs/info/6a86b43bd34f700f87fc21e9) | NVIDIA AI | Santa Clara, CA | 08/20/2026 08:00:59 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a869cfa4afae74a0834515d) | SGF Global | Schaumburg, IL | 08/19/2026 13:56:02 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-20 09:42:54Z UTC
 | 49 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a832e0c9b859b227766cf50) | RTX | Tewksbury, MA | 08/17/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Entry Level Reliability Engineer](https://jobright.ai/jobs/info/6a8339603eeac101cfa9e547) | Olin | Niagara Falls, NY | 08/17/2026 16:40:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a832614b5a0ac0e84a23cbf) | Loram UK Ltd | Medina, MN | 08/17/2026 15:17:40 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer (Entry Level)](https://jobright.ai/jobs/info/6a832a1fb5a0ac0e84a23e85) | Insight Global | Columbus, OH | 08/17/2026 15:34:55 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Powertrain Performance Test Engineer](https://jobright.ai/jobs/info/6a50b7eb5165966a1161b42e) | Hyundai America Technical Center, Inc. (HATCI) | Chino, CA | 08/17/2026 06:16:55 | Sponsorship: No |
-| 45 (Possible) | [Powertrain Performance Test Engineer Job Details \| Hyundai Motor Company](https://jobright.ai/jobs/info/6a4625834f64ba41dcb50ba6) | Hyundai America Technical Center, Inc. (HATCI) | Chino, CA | 08/17/2026 06:16:55 | Sponsorship: No |
