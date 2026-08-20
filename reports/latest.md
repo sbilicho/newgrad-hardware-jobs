@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-20 05:45:03Z UTC
+Updated: 2026-08-20 06:38:51Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 45 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a869cfa4afae74a0834515d) | SGF Global | Schaumburg, IL | 08/19/2026 13:56:02 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electronics Engineer (Recent Grad)](https://jobright.ai/jobs/info/6a86831ad34f700f87fc1c84) | USAJOBS | Idaho Falls, ID | 08/20/2026 04:31:22 | Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Graduate - Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a858b2f2f4f0014cae25116) | Infineon Technologies | San Jose, CA | 08/19/2026 10:53:35 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Substation Electrical Engineer (Entry-Level)](https://jobright.ai/jobs/info/6a863043e459fa3baa866905) | Dice | Spring, TX | 08/19/2026 22:37:55 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-20 05:45:03Z UTC
 | 45 (Possible) | [Powertrain Performance Test Engineer Job Details \| Hyundai Motor Company](https://jobright.ai/jobs/info/6a4625834f64ba41dcb50ba6) | Hyundai America Technical Center, Inc. (HATCI) | Chino, CA | 08/17/2026 06:16:55 | Sponsorship: No |
 | 46 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6a8301e71081a745e970c465) | G&W Electric Co. | Bolingbrook, IL | 08/17/2026 12:43:19 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry-Level Electrical Engineer - NERC Complaince](https://jobright.ai/jobs/info/6a509fa32e2ceb72963b3e7a) | CAMS | Houston, TX | 07/23/2026 20:57:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6a82d4b9379c304e892f3a10) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 08/17/2026 09:30:33 | Sponsorship: Past Sponsorship |
