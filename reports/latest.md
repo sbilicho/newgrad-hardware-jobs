@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-20 22:49:10Z UTC
+Updated: 2026-08-20 23:49:09Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 77 (Strong) | [Sr. Digital Design Electrical Engineer I](https://jobright.ai/jobs/info/69868ca88ca8121a3a68da43) | Axon | Sterling, VA | 08/20/2026 16:29:12 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I-V, Power Production](https://jobright.ai/jobs/info/6a8780304afae74a08348e6a) | Grant County Public Utility District | Beverly, WA | 08/20/2026 22:31:12 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electrical Design Engineer (Entry-level/Associate) - Millennium Space Systems](https://jobright.ai/jobs/info/6a877802680f314a29d390ab) | Boeing | El Segundo, CA | 08/20/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a72515f02d93145bf894127) | Westinghouse Electric Company | Rock Hill, SC | 08/20/2026 10:49:15 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-20 22:49:10Z UTC
 | 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/6a83fdeae021cc586fb692c4) | Omni Design Technologies, Inc. | Milpitas, CA | 08/18/2026 06:38:34 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a1b7c066b135014dbc8ef1b) | Mach Industries | Huntington Beach, CA | 08/17/2026 21:36:25 | Sponsorship: No |
 | 44 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a5645c153b3962b910af098) | Mach Industries | Huntington Beach, CA | 08/17/2026 21:36:25 | Sponsorship: No |
-| 78 (Strong) | [ASIC Digital Design Engineer](https://jobright.ai/jobs/info/6a83ef7e29c715662f4b4fda) | Keysight Technologies | Colorado Springs, CO | 08/17/2026 22:37:02 | Sponsorship: No |
