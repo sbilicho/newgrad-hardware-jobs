@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-20 12:58:42Z UTC
+Updated: 2026-08-20 13:57:08Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 61 (Good) | [Thermal Quality and Reliability Engineer](https://jobright.ai/jobs/info/6a509e69ddd293054ccaa7f5) | Intel | Phoenix, AZ | 08/20/2026 04:31:43 | Sponsorship: Not Sure |
+| 59 (Good) | [Package Failure Analysis Engineer](https://jobright.ai/jobs/info/6a4e6042fc327f422fef2778) | Intel | Phoenix, AZ | 08/20/2026 04:35:09 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: No |
 | 46 (Possible) | [Hardware Engineer](https://jobright.ai/jobs/info/6a4d9e790209ea6fd6852d0c) | Supermicro | San Jose, CA | 08/20/2026 03:26:28 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6a86d4854afae74a0834585a) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 08/20/2026 08:18:35 | Sponsorship: Past Sponsorship |
 | 71 (Strong) | [New College Grad - EDA/CAD Engineer](https://jobright.ai/jobs/info/6a68da6c36d36c1ff29967ab) | Micron Technology | Boise, ID | 08/20/2026 09:19:01 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-20 12:58:42Z UTC
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a834c7b1081a745e970e40f) | General Dynamics Ordnance and Tactical Systems | Crawfordville, FL | 08/17/2026 18:01:31 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a8346b62dbaf907b0767a35) | RTX | McKinney, TX | 08/17/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 50 (Good) | [Systems Verification Engineer I](https://jobright.ai/jobs/info/6a4b4e3ac2d11a6a46677974) | Cytek Biosciences | Fremont, CA | 08/17/2026 09:17:54 | Sponsorship: Not Sure |
-| 49 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a832e0c9b859b227766cf50) | RTX | Tewksbury, MA | 08/17/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Entry Level Reliability Engineer](https://jobright.ai/jobs/info/6a8339603eeac101cfa9e547) | Olin | Niagara Falls, NY | 08/17/2026 16:40:00 | Sponsorship: Past Sponsorship |
