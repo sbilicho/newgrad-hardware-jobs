@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-20 18:57:35Z UTC
+Updated: 2026-08-20 19:49:35Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a319378e7b7d514a3bd435e) | Ampirical | Duluth, GA | 08/20/2026 17:03:24 | Sponsorship: Past Sponsorship |
+| 62 (Good) | [Power Electronics Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8733548002) | Graphcore | Milpitas, California, United States | 08/20/2026 19:26:23 | Full-time status is inferred from the first-party posting |
+| 95 (Strong) | [Silicon Physical Design Engineer](https://jobright.ai/jobs/info/6a50e638ae4052672fe952b2) | Google | Sunnyvale, CA | 08/20/2026 18:31:51 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Hardware Engineer - E2](https://jobright.ai/jobs/info/6a831d80b5a0ac0e84a2387a) | Lockheed Martin | Boulder, CO | 08/20/2026 11:54:16 | Security clearance language is present; Sponsorship: No |
 | 77 (Strong) | [ASIC / FPGA Design Verification Engineer - (Associate or Experienced)](https://jobright.ai/jobs/info/6a8733f3d34f700f87fc421e) | Boeing | El Segundo, CA | 08/20/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a60f2faab14335fc0f16313) | Haag, a Salas O'Brien Company | Greenville, SC | 08/20/2026 16:53:26 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Test Engineer Associate](https://jobright.ai/jobs/info/6a872e4dcde3717f9e9b09e6) | Lockheed Martin | White Sands Missile Range, NM | 08/20/2026 09:41:49 | Sponsorship: No |
@@ -100,7 +104,3 @@ Updated: 2026-08-20 18:57:35Z UTC
 | 73 (Strong) | [Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a82f21f3eeac101cfa9c94e) | NVIDIA | Santa Clara, CA | 08/18/2026 00:08:22 | Sponsorship: Past Sponsorship |
 | 56 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8388e62dbaf907b0769784) | CesiumAstro | Austin, TX | 08/17/2026 22:19:18 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Metrology Junior Electronics Engineer](https://jobright.ai/jobs/info/6a837e293eeac101cfaa0523) | Sabre Systems, LLC | Patuxent River, MD | 08/17/2026 14:33:29 | Sponsorship: No |
-| 66 (Good) | [Electrical Test Engineer, Wafer Test (2027 New College Graduate)](https://jobright.ai/jobs/info/6a83811b2dbaf907b07694c8) | GlobalFoundries | Essex Junction, VT | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer (EMI)-Junior](https://jobright.ai/jobs/info/6a83767f1081a745e970f809) | AMEWAS | Patuxent River, MD | 08/17/2026 14:00:47 | Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a83709a2dbaf907b0768af5) | Loram Maintenance of Way, Inc. | Medina, MN | 08/17/2026 20:35:38 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a83719d9b859b227766ed9e) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
