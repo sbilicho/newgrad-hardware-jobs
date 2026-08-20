@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-20 19:49:35Z UTC
+Updated: 2026-08-20 20:49:01Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a72515f02d93145bf894127) | Westinghouse Electric Company | Rock Hill, SC | 08/20/2026 10:49:15 | Sponsorship: Past Sponsorship |
+| 77 (Strong) | [Sr. Digital Design Electrical Engineer I](https://jobright.ai/jobs/info/69865e7a8ca8121a3a689a35) | Axon | Sterling, VA | 08/20/2026 15:54:19 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a319378e7b7d514a3bd435e) | Ampirical | Duluth, GA | 08/20/2026 17:03:24 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Power Electronics Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8733548002) | Graphcore | Milpitas, California, United States | 08/20/2026 19:26:23 | Full-time status is inferred from the first-party posting |
 | 95 (Strong) | [Silicon Physical Design Engineer](https://jobright.ai/jobs/info/6a50e638ae4052672fe952b2) | Google | Sunnyvale, CA | 08/20/2026 18:31:51 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-20 19:49:35Z UTC
 | 78 (Strong) | [ASIC Digital Design Engineer](https://jobright.ai/jobs/info/6a83ef7e29c715662f4b4fda) | Keysight Technologies | Colorado Springs, CO | 08/17/2026 22:37:02 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer 1 - Entry Level](https://jobright.ai/jobs/info/6a392c78214ae004c7a1d435) | LUZCO Technologies LLC | St. Louis, MO | 06/05/2026 14:37:02 | Sponsorship: Past Sponsorship |
 | 73 (Strong) | [Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a82f21f3eeac101cfa9c94e) | NVIDIA | Santa Clara, CA | 08/18/2026 00:08:22 | Sponsorship: Past Sponsorship |
-| 56 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8388e62dbaf907b0769784) | CesiumAstro | Austin, TX | 08/17/2026 22:19:18 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Metrology Junior Electronics Engineer](https://jobright.ai/jobs/info/6a837e293eeac101cfaa0523) | Sabre Systems, LLC | Patuxent River, MD | 08/17/2026 14:33:29 | Sponsorship: No |
