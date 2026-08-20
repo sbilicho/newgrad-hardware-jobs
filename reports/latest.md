@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-20 16:49:17Z UTC
+Updated: 2026-08-20 18:00:33Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 77 (Strong) | [ASIC / FPGA Design Verification Engineer - (Associate or Experienced)](https://jobright.ai/jobs/info/6a8733f3d34f700f87fc421e) | Boeing | El Segundo, CA | 08/20/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a60f2faab14335fc0f16313) | Haag, a Salas O'Brien Company | Greenville, SC | 08/20/2026 16:53:26 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Test Engineer Associate](https://jobright.ai/jobs/info/6a872e4dcde3717f9e9b09e6) | Lockheed Martin | White Sands Missile Range, NM | 08/20/2026 09:41:49 | Sponsorship: No |
+| 45 (Possible) | [Hardware Engineer - E2](https://jobright.ai/jobs/info/6a872e81e8b6601d129021b2) | Lockheed Martin | Boulder, CO | 08/20/2026 09:42:41 | Security clearance language is present; Sponsorship: No |
+| 37 (Possible) | [Instrumentation & Controls Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a6a1fe048355b3f12bef209) | Sargent & Lundy | Chicago, IL | 08/20/2026 10:01:55 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a32026935e80310003aa695) | Loram Maintenance of Way, Inc. | Medina, MN | 08/20/2026 10:36:00 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a6cdc10acb0a61f9dbc78ff) | Zachry Group | Perry, OH | 08/20/2026 13:05:52 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Reliability Engineer I - Sr Job Details \| Arkansas Electric Cooperative](https://jobright.ai/jobs/info/6a872e7b4afae74a0834711d) | Arkansas Electric Cooperative Corporation | Little Rock, AR | 08/20/2026 16:42:35 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-08-20 16:49:17Z UTC
 | 44 (Possible) | [Electrical Engineer (EMI)-Junior](https://jobright.ai/jobs/info/6a83767f1081a745e970f809) | AMEWAS | Patuxent River, MD | 08/17/2026 14:00:47 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a83709a2dbaf907b0768af5) | Loram Maintenance of Way, Inc. | Medina, MN | 08/17/2026 20:35:38 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a83719d9b859b227766ed9e) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a836c4b3eeac101cfa9fa79) | Loram Maintenance of Way, Inc. | Medina, MN | 08/17/2026 20:17:15 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer (0-3 Years)](https://jobright.ai/jobs/info/6a835ddc1081a745e970ebff) | Coffman Engineers | Los Angeles, CA | 08/17/2026 12:15:40 | Sponsorship: No |
-| 73 (Strong) | [Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a8355f42dbaf907b076804c) | NVIDIA AI | Westford, MA | 08/17/2026 18:41:56 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Semiconductor Engineer I](https://jobright.ai/jobs/info/6a83606f9b859b227766e6e0) | Honeywell Aerospace | Phoenix, AZ | 08/17/2026 19:26:39 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Product Engineer I](https://jobright.ai/jobs/info/6a69268505bae84301b5abb1) | Benchmark | Rochester, MN | 08/17/2026 11:18:33 | Sponsorship: No |
