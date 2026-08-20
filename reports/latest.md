@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-20 15:21:11Z UTC
+Updated: 2026-08-20 16:49:17Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a32026935e80310003aa695) | Loram Maintenance of Way, Inc. | Medina, MN | 08/20/2026 10:36:00 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a6cdc10acb0a61f9dbc78ff) | Zachry Group | Perry, OH | 08/20/2026 13:05:52 | Sponsorship: Past Sponsorship |
+| 51 (Good) | [Reliability Engineer I - Sr Job Details \| Arkansas Electric Cooperative](https://jobright.ai/jobs/info/6a872e7b4afae74a0834711d) | Arkansas Electric Cooperative Corporation | Little Rock, AR | 08/20/2026 16:42:35 | Sponsorship: Past Sponsorship |
 | 61 (Good) | [Thermal Quality and Reliability Engineer](https://jobright.ai/jobs/info/6a509e69ddd293054ccaa7f5) | Intel | Phoenix, AZ | 08/20/2026 04:31:43 | Sponsorship: Not Sure |
 | 59 (Good) | [Package Failure Analysis Engineer](https://jobright.ai/jobs/info/6a4e6042fc327f422fef2778) | Intel | Phoenix, AZ | 08/20/2026 04:35:09 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: No |
 | 46 (Possible) | [Hardware Engineer](https://jobright.ai/jobs/info/6a4d9e790209ea6fd6852d0c) | Supermicro | San Jose, CA | 08/20/2026 03:26:28 | Sponsorship: Not Sure |
@@ -101,6 +104,3 @@ Updated: 2026-08-20 15:21:11Z UTC
 | 73 (Strong) | [Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a8355f42dbaf907b076804c) | NVIDIA AI | Westford, MA | 08/17/2026 18:41:56 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Semiconductor Engineer I](https://jobright.ai/jobs/info/6a83606f9b859b227766e6e0) | Honeywell Aerospace | Phoenix, AZ | 08/17/2026 19:26:39 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Product Engineer I](https://jobright.ai/jobs/info/6a69268505bae84301b5abb1) | Benchmark | Rochester, MN | 08/17/2026 11:18:33 | Sponsorship: No |
-| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a834c7b1081a745e970e40f) | General Dynamics Ordnance and Tactical Systems | Crawfordville, FL | 08/17/2026 18:01:31 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a8346b62dbaf907b0767a35) | RTX | McKinney, TX | 08/17/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 50 (Good) | [Systems Verification Engineer I](https://jobright.ai/jobs/info/6a4b4e3ac2d11a6a46677974) | Cytek Biosciences | Fremont, CA | 08/17/2026 09:17:54 | Sponsorship: Not Sure |
