@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-19 23:34:13Z UTC
+Updated: 2026-08-20 01:44:52Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Substation Electrical Engineer (Entry-Level)](https://jobright.ai/jobs/info/6a863043e459fa3baa866905) | Dice | Spring, TX | 08/19/2026 22:37:55 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer (New Grad Summer 2027)](https://jobright.ai/jobs/info/6a8637c274e02153f145b484) | Freeform | Hawthorne, CA | 08/19/2026 23:09:54 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a8631174afae74a083440a7) | Dice | Scottsdale, AZ | 08/19/2026 22:41:27 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [System Test Engineer](https://jobright.ai/jobs/info/6a8622eccc81eb647e9f1b17) | TAE Technologies, Inc | Irvine, CA | 08/19/2026 14:41:00 | Sponsorship: Not Sure |
@@ -103,4 +104,3 @@ Updated: 2026-08-19 23:34:13Z UTC
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6a82d4b9379c304e892f3a10) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 08/17/2026 09:30:33 | Sponsorship: Past Sponsorship |
 | 77 (Strong) | [SoC ASIC Verification Engineer – New College Grad 2026](https://jobright.ai/jobs/info/69c2f3c394007a2195df0f11) | NVIDIA | Santa Clara, CA | 08/15/2026 17:42:41 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential**](https://jobright.ai/jobs/info/6a28bc1c883c0d3be6543c75) | Boeing | St. Charles, IL | 08/16/2026 12:52:06 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 30 (Possible) | [Lab Technician](https://jobright.ai/jobs/info/6a8295779b859b227766a7f8) | CyberProof | Hillsboro, OR | 08/16/2026 22:00:39 | Sponsorship: Past Sponsorship |
