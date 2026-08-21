@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-21 05:31:25Z UTC
+Updated: 2026-08-21 07:05:00Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 67 (Good) | [Hardware & Embedded Systems Validation Engineer](https://jobright.ai/jobs/info/6a87f29ee8b6601d12905609) | Waggle | Fremont, CA | 08/21/2026 06:39:26 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry-Level Electrical Engineer - NERC Complaince](https://jobright.ai/jobs/info/6a87daee25fc4e7ae3daef06) | CAMS | Houston, TX | 08/21/2026 04:58:22 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Electrical Test Engineer](https://jobright.ai/jobs/info/6a8791b1cde3717f9e9b2ab1) | Intuitive Machines | Palo Alto, CA | 08/20/2026 20:15:00 | Sponsorship: No |
 | 50 (Good) | [System Integration and Test Engineer](https://jobright.ai/jobs/info/6a879668e8b6601d12904358) | Qualcomm | San Diego, CA | 08/20/2026 17:06:00 | Sponsorship: Not Sure |
@@ -103,4 +104,3 @@ Updated: 2026-08-21 05:31:25Z UTC
 | 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/6a84223f85e0d023aaea29f9) | Omni Design Technologies, Inc. | Milpitas, CA | 08/18/2026 09:13:35 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Metrology Junior Electronics Engineer](https://jobright.ai/jobs/info/6a83f66cc72fae4bcc8d6630) | Sabre Systems, LLC | Patuxent River, MD | 08/17/2026 23:06:36 | Sponsorship: No |
 | 78 (Strong) | [ASIC Digital Design Engineer](https://jobright.ai/jobs/info/6a83f818f1685316891d3e2f) | Keysight Technologies | Colorado Springs, CO | 08/17/2026 23:13:44 | Sponsorship: No |
-| 35 (Possible) | [ASIC Digital / DSP Design Engineer (Junior level)](https://jobright.ai/jobs/info/6a83f81bf1685316891d3e30) | Keysight Technologies | Colorado Springs, CO | 08/18/2026 06:13:47 | Sponsorship: Past Sponsorship |
