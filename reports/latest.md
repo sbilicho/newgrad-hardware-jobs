@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-21 22:51:53Z UTC
+Updated: 2026-08-21 23:49:15Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 49 (Possible) | [Electronics Engineer I](https://jobright.ai/jobs/info/6a88e18ad34f700f87fcaeab) | Pratt Miller | New Hudson, MI | 08/21/2026 23:38:50 | Sponsorship: Past Sponsorship |
 | 35 (Possible) | [Junior Engineer, FPGA](https://jobright.ai/jobs/info/6a26ef0c7d827633afff77a2) | NIKSUN | Princeton, NJ | 08/21/2026 14:50:29 | Sponsorship: Not Sure |
 | 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a88d49a4afae74a0834ddbd) | Dice | Chattanooga, TN | 08/21/2026 22:43:38 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a88d49625fc4e7ae3db29fe) | Dice | Minneapolis, MN | 08/21/2026 22:43:34 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-21 22:51:53Z UTC
 | 54 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a84e464d34f700f87fbb448) | Axon | Sterling, VA | 08/18/2026 23:01:56 | Sponsorship: Past Sponsorship |
 | 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/6a84d672e459fa3baa86104a) | Omni Design Technologies, Inc. | Milpitas, CA | 08/18/2026 22:02:26 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [New College Graduate Systems Design Engineer](https://jobright.ai/jobs/info/6a84ca8be12474455273cbce) | Renesas Electronics | Austin, TX | 08/18/2026 21:11:39 | Sponsorship: Past Sponsorship |
-| 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/6a84ba24e459fa3baa860450) | Omni Design Technologies, Inc. | Milpitas, CA | 08/18/2026 20:01:40 | Sponsorship: Past Sponsorship |
