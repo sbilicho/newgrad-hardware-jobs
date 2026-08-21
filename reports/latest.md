@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-21 12:17:46Z UTC
+Updated: 2026-08-21 13:21:05Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 71 (Strong) | [Associate Mixed Signal Design Engineer](https://jobright.ai/jobs/info/6a884756680f314a29d3b2d0) | Analog Devices | Wilmington, MA | 08/21/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Test Engineer I](https://jobright.ai/jobs/info/6a6ba8c257120971bf3a822c) | Goldbelt Frontier LLC | Frederick, MD | 08/21/2026 03:25:31 | Sponsorship: No |
 | 70 (Strong) | [CPU Micro-Architect RTL Engineer](https://jobright.ai/jobs/info/6a57b95121f64463ad35b8c4) | Qualcomm | Austin, TX | 08/21/2026 10:43:26 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [New College Grad - Design Engineer, HBM DFT](https://jobright.ai/jobs/info/6a36713b649fdf16292fbbe6) | Micron Technology | Richardson, TX | 08/21/2026 09:03:22 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Validation Engineer I](https://jobright.ai/jobs/info/6a573fc4367e61670f5aeaae) | NantHealth | El Segundo, CA | 08/21/2026 01:00:14 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-08-21 12:17:46Z UTC
 | 81 (Strong) | [Engineer, Silicon Validation](https://jobright.ai/jobs/info/6a84398f0b610f7a3d0e460e) | Ayar Labs | San Jose, CA | 08/18/2026 10:53:03 | Sponsorship: Past Sponsorship |
 | 81 (Strong) | [Engineer, Silicon Validation](https://jobright.ai/jobs/info/6a843656e1247445527393ac) | Ayar Labs | San Jose, CA | 08/18/2026 03:39:18 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8424cce459fa3baa85d1e1) | Raytheon | McKinney, TX | 08/18/2026 02:24:28 | Sponsorship: No |
-| 67 (Good) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a8427a38d793736c6133ee6) | Raytheon | McKinney, TX | 08/18/2026 02:36:35 | Security clearance language is present; Sponsorship: No |
-| 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a841c28d34f700f87fb7462) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
