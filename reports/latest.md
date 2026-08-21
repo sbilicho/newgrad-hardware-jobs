@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-21 19:50:02Z UTC
+Updated: 2026-08-21 20:51:24Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level ATM Electrical Engineer](https://jobright.ai/jobs/info/6a4e9f4c397d8d353c289b68) | Salas O'Brien | Green Bay, WI | 08/21/2026 16:30:19 | Sponsorship: Past Sponsorship |
+| 51 (Good) | [Senior Electrical Engineer I/II](https://jobright.ai/jobs/info/6a88b437680f314a29d3d5e0) | Rocket Lab | Pasadena, CA | 08/21/2026 20:25:27 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [ELECTRICAL ENGINEER I](https://jobright.ai/jobs/info/6a88b916e8b6601d12908531) | Triangle Package Machinery Co. | Chicago, IL | 08/21/2026 20:46:14 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [New College Grad - Engineer - HBM Design for Test (DFT)](https://jobright.ai/jobs/info/6a88b6b64afae74a0834d273) | Micron Technology | Richardson, TX | 08/21/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 68 (Good) | [Graduate - Validation Engineer](https://jobright.ai/jobs/info/6a88b9cbd34f700f87fca32a) | Infineon Technologies | San Jose, CA | 08/21/2026 20:49:15 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level ATM Electrical Engineer](https://jobright.ai/jobs/info/6a4e7c6c0ea38951a6ff354c) | Haag, a Salas O'Brien Company | Green Bay, WI | 08/21/2026 16:08:06 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Construction Electrical Engineer I & II - Solar](https://jobright.ai/jobs/info/6a888e3ecde3717f9e9b5daa) | Mortenson | Minneapolis, MN | 08/21/2026 17:43:26 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a88951a680f314a29d3cbdb) | TRC Companies, Inc. | Houston, TX | 08/21/2026 18:12:42 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-08-21 19:50:02Z UTC
 | 40 (Possible) | [New College Graduate Systems Design Engineer](https://jobright.ai/jobs/info/6a84bf8358ded76ad8fe93fe) | Renesas Electronics | Austin, TX | 08/18/2026 20:24:35 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer, Sensors (Starship Avionics)](https://boards.greenhouse.io/spacex/jobs/8727526002?gh_jid=8727526002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 08/18/2026 18:53:13 |  |
 | 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a84b3e658ded76ad8fe8de3) | BAE Systems, Inc. | Wayne, NJ | 08/18/2026 17:34:34 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 49 (Possible) | [ARTC - Entry Level Test Engineer](https://jobright.ai/jobs/info/6a84b11758ded76ad8fe8cfb) | TRAX International Corporation | Delta Junction, AK | 08/18/2026 19:23:03 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/69f1b0eb825a315d7ca3985a) | Omni Design Technologies, Inc. | Milpitas, CA | 04/08/2026 03:26:52 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a849942e459fa3baa85f630) | General Dynamics Electric Boat | Groton, CT | 08/18/2026 17:41:22 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6a848408e459fa3baa85ed9b) | Schneider Electric | Birmingham, AL | 08/18/2026 16:10:48 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a848b572f4f0014cae21458) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
