@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-21 21:49:53Z UTC
+Updated: 2026-08-21 22:51:53Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 35 (Possible) | [Junior Engineer, FPGA](https://jobright.ai/jobs/info/6a26ef0c7d827633afff77a2) | NIKSUN | Princeton, NJ | 08/21/2026 14:50:29 | Sponsorship: Not Sure |
+| 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a88d49a4afae74a0834ddbd) | Dice | Chattanooga, TN | 08/21/2026 22:43:38 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a88d49625fc4e7ae3db29fe) | Dice | Minneapolis, MN | 08/21/2026 22:43:34 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level ATM Electrical Engineer](https://jobright.ai/jobs/info/6a4e9f4c397d8d353c289b68) | Salas O'Brien | Green Bay, WI | 08/21/2026 16:30:19 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Senior Electrical Engineer I/II](https://jobright.ai/jobs/info/6a88b437680f314a29d3d5e0) | Rocket Lab | Pasadena, CA | 08/21/2026 20:25:27 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [ELECTRICAL ENGINEER I](https://jobright.ai/jobs/info/6a88b916e8b6601d12908531) | Triangle Package Machinery Co. | Chicago, IL | 08/21/2026 20:46:14 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-21 21:49:53Z UTC
 | 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/6a84d672e459fa3baa86104a) | Omni Design Technologies, Inc. | Milpitas, CA | 08/18/2026 22:02:26 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [New College Graduate Systems Design Engineer](https://jobright.ai/jobs/info/6a84ca8be12474455273cbce) | Renesas Electronics | Austin, TX | 08/18/2026 21:11:39 | Sponsorship: Past Sponsorship |
 | 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/6a84ba24e459fa3baa860450) | Omni Design Technologies, Inc. | Milpitas, CA | 08/18/2026 20:01:40 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [New College Graduate Systems Design Engineer](https://jobright.ai/jobs/info/6a84bf8358ded76ad8fe93fe) | Renesas Electronics | Austin, TX | 08/18/2026 20:24:35 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer, Sensors (Starship Avionics)](https://boards.greenhouse.io/spacex/jobs/8727526002?gh_jid=8727526002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 08/18/2026 18:53:13 |  |
-| 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a84b3e658ded76ad8fe8de3) | BAE Systems, Inc. | Wayne, NJ | 08/18/2026 17:34:34 | Security clearance language is present; Sponsorship: Past Sponsorship |
