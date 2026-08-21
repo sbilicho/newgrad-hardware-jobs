@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-21 17:27:49Z UTC
+Updated: 2026-08-21 18:52:52Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level ATM Electrical Engineer](https://jobright.ai/jobs/info/6a4e7c6c0ea38951a6ff354c) | Haag, a Salas O'Brien Company | Green Bay, WI | 08/21/2026 16:08:06 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Construction Electrical Engineer I & II - Solar](https://jobright.ai/jobs/info/6a888e3ecde3717f9e9b5daa) | Mortenson | Minneapolis, MN | 08/21/2026 17:43:26 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a88951a680f314a29d3cbdb) | TRC Companies, Inc. | Houston, TX | 08/21/2026 18:12:42 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Structural Test Engineer (Associate, Experienced, or Senior)](https://jobright.ai/jobs/info/6a87458325fc4e7ae3dac43f) | Boeing | Tukwila, WA | 08/21/2026 08:48:21 | Security clearance language is present; Sponsorship: No |
 | 49 (Possible) | [Facilities Electrical Engineer I](https://jobright.ai/jobs/info/6a887b67e8b6601d12906eac) | Panasonic Energy Corporation of North America | De Soto, KS | 08/21/2026 16:23:03 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8883bee8b6601d12907287) | BAE Systems, Inc. | Wayne, NJ | 08/21/2026 16:58:38 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 54 (Good) | [Systems Integration & Test Engineer I – Test Engineer and Scripting - Space Vehicles](https://jobright.ai/jobs/info/6a886d6bd34f700f87fc883f) | BAE Systems | Boulder, CO | 08/21/2026 08:23:23 | Sponsorship: Not Sure |
@@ -100,7 +104,3 @@ Updated: 2026-08-21 17:27:49Z UTC
 | 37 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a849942e459fa3baa85f630) | General Dynamics Electric Boat | Groton, CT | 08/18/2026 17:41:22 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6a848408e459fa3baa85ed9b) | Schneider Electric | Birmingham, AL | 08/18/2026 16:10:48 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a848b572f4f0014cae21458) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 56 (Good) | [Electrical Engineer, Radiation Effects](https://boards.greenhouse.io/spacex/jobs/8726512002?gh_jid=8726512002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 08/18/2026 16:41:27 |  |
-| 33 (Possible) | [Software Engineer - Entry Level - Scottsdale, AZ](https://jobright.ai/jobs/info/6a848e032f4f0014cae215c8) | Military Spouse Jobs | Scottsdale, AZ | 08/18/2026 16:53:23 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Software Engineer - Entry Level - Scottsdale, AZ](https://jobright.ai/jobs/info/6a84901b58ded76ad8fe807f) | Eaton | Scottsdale, AZ | 08/18/2026 17:02:19 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a84774cd34f700f87fb8c60) | Sargent & Lundy | Minneapolis, MN | 08/18/2026 15:16:28 | Sponsorship: Past Sponsorship |
