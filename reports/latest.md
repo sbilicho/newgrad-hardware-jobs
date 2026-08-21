@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-21 16:03:53Z UTC
+Updated: 2026-08-21 17:27:49Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 49 (Possible) | [Facilities Electrical Engineer I](https://jobright.ai/jobs/info/6a887b67e8b6601d12906eac) | Panasonic Energy Corporation of North America | De Soto, KS | 08/21/2026 16:23:03 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8883bee8b6601d12907287) | BAE Systems, Inc. | Wayne, NJ | 08/21/2026 16:58:38 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 54 (Good) | [Systems Integration & Test Engineer I – Test Engineer and Scripting - Space Vehicles](https://jobright.ai/jobs/info/6a886d6bd34f700f87fc883f) | BAE Systems | Boulder, CO | 08/21/2026 08:23:23 | Sponsorship: Not Sure |
+| 63 (Good) | [Electrical Test and Reliability Engineer, Satellites (Starlink)](https://jobright.ai/jobs/info/6a6c186dc00ae03109f8778d) | SpaceX | Redmond, WA | 08/21/2026 08:41:24 | Sponsorship: No |
+| 37 (Possible) | [Assistant Electrical Engineer - Water (Chicago)](https://jobright.ai/jobs/info/6a5f303e42a5e6366266150b) | Burns & McDonnell | Chicago, IL | 08/21/2026 08:42:16 | Sponsorship: No |
+| 44 (Possible) | [Structural Test Engineer (Associate, Experienced, or Senior)](https://jobright.ai/jobs/info/6a874245680f314a29d37cf7) | Boeing | Tukwila, WA | 08/21/2026 08:48:21 | Security clearance language is present; Sponsorship: No |
+| 49 (Possible) | [Electrical Design Engineer (Entry-level/Associate) - Millennium Space Systems](https://jobright.ai/jobs/info/6a8776e2cde3717f9e9b2433) | Boeing | El Segundo, CA | 08/21/2026 08:50:33 | Sponsorship: No |
 | 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a886a06d34f700f87fc8720) | BAE Systems | Wayne, NJ | 08/21/2026 15:08:54 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 65 (Good) | [2026 Fulltime - Raytheon FPGA Electrical Engineer I](https://jobright.ai/jobs/info/6a886f72cde3717f9e9b531b) | Raytheon | Huntsville, AL | 08/21/2026 15:32:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - Hybrid](https://jobright.ai/jobs/info/6a885827d34f700f87fc80a6) | Newcomb & Boyd, LLP | Chapel Hill, NC | 08/21/2026 13:52:39 | Sponsorship: Past Sponsorship |
@@ -97,10 +104,3 @@ Updated: 2026-08-21 16:03:53Z UTC
 | 33 (Possible) | [Software Engineer - Entry Level - Scottsdale, AZ](https://jobright.ai/jobs/info/6a848e032f4f0014cae215c8) | Military Spouse Jobs | Scottsdale, AZ | 08/18/2026 16:53:23 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Software Engineer - Entry Level - Scottsdale, AZ](https://jobright.ai/jobs/info/6a84901b58ded76ad8fe807f) | Eaton | Scottsdale, AZ | 08/18/2026 17:02:19 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a84774cd34f700f87fb8c60) | Sargent & Lundy | Minneapolis, MN | 08/18/2026 15:16:28 | Sponsorship: Past Sponsorship |
-| 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/6a847a22e459fa3baa85e9d6) | Omni Design Technologies, Inc. | Milpitas, CA | 08/18/2026 15:28:34 | Sponsorship: Past Sponsorship |
-| 90 (Strong) | [New College Grad - Mixed Signal Design Engineer, HBM](https://jobright.ai/jobs/info/6a847d4058ded76ad8fe781a) | Micron Technology | Richardson, TX | 08/18/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a84653058ded76ad8fe6d28) | BAE Systems | Wayne, NJ | 08/18/2026 13:59:12 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 51 (Good) | [Senior Electrical Engineer I/II](https://jobright.ai/jobs/info/6a525c45d007ee02d95f73de) | Rocket Lab | Pasadena, CA | 08/18/2026 13:31:37 | Sponsorship: Past Sponsorship |
-| 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/6a846b7be459fa3baa85e1d6) | Omni Design Technologies, Inc. | Milpitas, CA | 08/18/2026 14:26:03 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a63c43f8d536034496042ce) | Rocket Lab | Pasadena, CA | 08/18/2026 11:49:23 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a684029abe8ae03a47227a6) | Rocket Lab | Long Beach, CA | 08/18/2026 11:49:23 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
