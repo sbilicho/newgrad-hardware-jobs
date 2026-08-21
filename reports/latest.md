@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-21 08:47:58Z UTC
+Updated: 2026-08-21 10:01:02Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [New College Grad - Design Engineer, HBM DFT](https://jobright.ai/jobs/info/6a36713b649fdf16292fbbe6) | Micron Technology | Richardson, TX | 08/21/2026 09:03:22 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [Validation Engineer I](https://jobright.ai/jobs/info/6a573fc4367e61670f5aeaae) | NantHealth | El Segundo, CA | 08/21/2026 01:00:14 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer New Grad \| Cincinnati, OH](https://jobright.ai/jobs/info/6a87d5aa680f314a29d3a6d5) | IMEG | Cincinnati, OH | 08/21/2026 08:06:27 | Sponsorship: Past Sponsorship |
 | 67 (Good) | [Hardware & Embedded Systems Validation Engineer](https://jobright.ai/jobs/info/6a87f29ee8b6601d12905609) | Waggle | Fremont, CA | 08/21/2026 06:39:26 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry-Level Electrical Engineer - NERC Complaince](https://jobright.ai/jobs/info/6a87daee25fc4e7ae3daef06) | CAMS | Houston, TX | 08/21/2026 04:58:22 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-21 08:47:58Z UTC
 | 67 (Good) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a8427a38d793736c6133ee6) | Raytheon | McKinney, TX | 08/18/2026 02:36:35 | Security clearance language is present; Sponsorship: No |
 | 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a841c28d34f700f87fb7462) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a8426458d793736c6133ece) | Raytheon | McKinney, TX | 08/18/2026 09:30:45 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/6a84223f85e0d023aaea29f9) | Omni Design Technologies, Inc. | Milpitas, CA | 08/18/2026 09:13:35 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Metrology Junior Electronics Engineer](https://jobright.ai/jobs/info/6a83f66cc72fae4bcc8d6630) | Sabre Systems, LLC | Patuxent River, MD | 08/17/2026 23:06:36 | Sponsorship: No |
