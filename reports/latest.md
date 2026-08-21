@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-21 13:21:05Z UTC
+Updated: 2026-08-21 14:53:13Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I - Hybrid](https://jobright.ai/jobs/info/6a885827d34f700f87fc80a6) | Newcomb & Boyd, LLP | Chapel Hill, NC | 08/21/2026 13:52:39 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a885a414afae74a0834b315) | Paragon Energy Solutions | Fort Worth, TX | 08/21/2026 14:01:37 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Facilities Electrical Engineer I](https://jobright.ai/jobs/info/6a8863584afae74a0834b5e4) | Panasonic Appliances Refrigeration Systems de México S. A. de C. V. | De Soto, KS | 08/21/2026 14:40:24 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Electrical Engineer Entry-Level (Starting Summer 2027)](https://jobright.ai/jobs/info/6a885b91d34f700f87fc820c) | IFAB Engineering Partners Ltd. | Salt Lake City, UT | 08/21/2026 14:07:13 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer, Launch Infrastructure (Starship)](https://boards.greenhouse.io/spacex/jobs/8737393002?gh_jid=8737393002) | SpaceX | Cape Canaveral, FL; Cape Canaveral, FL, United States | 08/21/2026 14:27:55 |  |
 | 71 (Strong) | [Associate Mixed Signal Design Engineer](https://jobright.ai/jobs/info/6a884756680f314a29d3b2d0) | Analog Devices | Wilmington, MA | 08/21/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Test Engineer I](https://jobright.ai/jobs/info/6a6ba8c257120971bf3a822c) | Goldbelt Frontier LLC | Frederick, MD | 08/21/2026 03:25:31 | Sponsorship: No |
 | 70 (Strong) | [CPU Micro-Architect RTL Engineer](https://jobright.ai/jobs/info/6a57b95121f64463ad35b8c4) | Qualcomm | Austin, TX | 08/21/2026 10:43:26 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-08-21 13:21:05Z UTC
 | 48 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a684029abe8ae03a47227a6) | Rocket Lab | Long Beach, CA | 08/18/2026 11:49:23 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a844e83d34f700f87fb7cd6) | Sargent & Lundy | Chattanooga, TN | 08/18/2026 12:51:43 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Process Integration and Yield Engineer](https://jobright.ai/jobs/info/6a6770a12bda4d2842853e50) | Intel | Phoenix, AZ | 08/18/2026 11:45:37 | Sponsorship: Past Sponsorship |
-| 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/6a8445f7e459fa3baa85d71d) | Omni Design Technologies, Inc. | Milpitas, CA | 08/18/2026 11:45:59 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a67cb243b5e6b116a550a83) | Honeywell Aerospace | Phoenix, AZ | 08/18/2026 10:41:26 | Sponsorship: Past Sponsorship |
-| 81 (Strong) | [Engineer, Silicon Validation](https://jobright.ai/jobs/info/6a84398f0b610f7a3d0e460e) | Ayar Labs | San Jose, CA | 08/18/2026 10:53:03 | Sponsorship: Past Sponsorship |
-| 81 (Strong) | [Engineer, Silicon Validation](https://jobright.ai/jobs/info/6a843656e1247445527393ac) | Ayar Labs | San Jose, CA | 08/18/2026 03:39:18 | Sponsorship: Past Sponsorship |
-| 55 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8424cce459fa3baa85d1e1) | Raytheon | McKinney, TX | 08/18/2026 02:24:28 | Sponsorship: No |
