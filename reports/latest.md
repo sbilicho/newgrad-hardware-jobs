@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-21 14:53:13Z UTC
+Updated: 2026-08-21 16:03:53Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a886a06d34f700f87fc8720) | BAE Systems | Wayne, NJ | 08/21/2026 15:08:54 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 65 (Good) | [2026 Fulltime - Raytheon FPGA Electrical Engineer I](https://jobright.ai/jobs/info/6a886f72cde3717f9e9b531b) | Raytheon | Huntsville, AL | 08/21/2026 15:32:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - Hybrid](https://jobright.ai/jobs/info/6a885827d34f700f87fc80a6) | Newcomb & Boyd, LLP | Chapel Hill, NC | 08/21/2026 13:52:39 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a885a414afae74a0834b315) | Paragon Energy Solutions | Fort Worth, TX | 08/21/2026 14:01:37 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Facilities Electrical Engineer I](https://jobright.ai/jobs/info/6a8863584afae74a0834b5e4) | Panasonic Appliances Refrigeration Systems de México S. A. de C. V. | De Soto, KS | 08/21/2026 14:40:24 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-21 14:53:13Z UTC
 | 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/6a846b7be459fa3baa85e1d6) | Omni Design Technologies, Inc. | Milpitas, CA | 08/18/2026 14:26:03 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a63c43f8d536034496042ce) | Rocket Lab | Pasadena, CA | 08/18/2026 11:49:23 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a684029abe8ae03a47227a6) | Rocket Lab | Long Beach, CA | 08/18/2026 11:49:23 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a844e83d34f700f87fb7cd6) | Sargent & Lundy | Chattanooga, TN | 08/18/2026 12:51:43 | Sponsorship: Past Sponsorship |
-| 59 (Good) | [Process Integration and Yield Engineer](https://jobright.ai/jobs/info/6a6770a12bda4d2842853e50) | Intel | Phoenix, AZ | 08/18/2026 11:45:37 | Sponsorship: Past Sponsorship |
