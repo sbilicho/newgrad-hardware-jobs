@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-21 11:12:59Z UTC
+Updated: 2026-08-21 12:17:46Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 70 (Strong) | [CPU Micro-Architect RTL Engineer](https://jobright.ai/jobs/info/6a57b95121f64463ad35b8c4) | Qualcomm | Austin, TX | 08/21/2026 10:43:26 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [New College Grad - Design Engineer, HBM DFT](https://jobright.ai/jobs/info/6a36713b649fdf16292fbbe6) | Micron Technology | Richardson, TX | 08/21/2026 09:03:22 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Validation Engineer I](https://jobright.ai/jobs/info/6a573fc4367e61670f5aeaae) | NantHealth | El Segundo, CA | 08/21/2026 01:00:14 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer New Grad \| Cincinnati, OH](https://jobright.ai/jobs/info/6a87d5aa680f314a29d3a6d5) | IMEG | Cincinnati, OH | 08/21/2026 08:06:27 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-21 11:12:59Z UTC
 | 55 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8424cce459fa3baa85d1e1) | Raytheon | McKinney, TX | 08/18/2026 02:24:28 | Sponsorship: No |
 | 67 (Good) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a8427a38d793736c6133ee6) | Raytheon | McKinney, TX | 08/18/2026 02:36:35 | Security clearance language is present; Sponsorship: No |
 | 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a841c28d34f700f87fb7462) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a8426458d793736c6133ece) | Raytheon | McKinney, TX | 08/18/2026 09:30:45 | Security clearance language is present; Sponsorship: Past Sponsorship |
