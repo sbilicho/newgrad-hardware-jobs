@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-22 20:37:22Z UTC
+Updated: 2026-08-22 21:33:53Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 32 (Possible) | [Technology Architecture and Competitiveness Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6a8a024f680f314a29d3fa63) | GlobalFoundries | Santa Clara, CA | 08/22/2026 20:37:34 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer – Entry Level (Hybrid)](https://jobright.ai/jobs/info/6a6da65766158d7ef887e728) | Barr Engineering Co. | Minneapolis, MN; Duluth, MN | 08/22/2026 11:13:07 | Sponsorship: No |
 | 46 (Possible) | [Associate Electrical Design Engineer](https://jobright.ai/jobs/info/6a2a31b90c4972328e7e7bb4) | Kenworth Truck Co. | Kirkland, WA | 08/22/2026 11:19:35 | Sponsorship: No |
 | 46 (Possible) | [Associate Electrical Design Engineer Job Details \| PACCAR](https://jobright.ai/jobs/info/6a72f914f2974919f967ab92) | Kenworth Truck Co. | Kirkland, WA | 08/22/2026 11:19:35 | Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-08-22 20:37:22Z UTC
 | 48 (Possible) | [Electrical Engineer (New Grad Summer 2027)](https://jobright.ai/jobs/info/6a8637c274e02153f145b484) | Freeform | Hawthorne, CA | 08/19/2026 23:09:54 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a8631174afae74a083440a7) | Dice | Scottsdale, AZ | 08/19/2026 22:41:27 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [System Test Engineer](https://jobright.ai/jobs/info/6a8622eccc81eb647e9f1b17) | TAE Technologies, Inc | Irvine, CA | 08/19/2026 14:41:00 | Sponsorship: Not Sure |
-| 50 (Good) | [Systems Test Engineer - Automation, Early Career](https://jobright.ai/jobs/info/6a8625642f4f0014cae289be) | Viasat | Carlsbad, CA | 08/19/2026 14:51:32 | Sponsorship: No |
