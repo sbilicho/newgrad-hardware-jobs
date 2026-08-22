@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-22 19:10:48Z UTC
+Updated: 2026-08-22 20:37:22Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer – Entry Level (Hybrid)](https://jobright.ai/jobs/info/6a6da65766158d7ef887e728) | Barr Engineering Co. | Minneapolis, MN; Duluth, MN | 08/22/2026 11:13:07 | Sponsorship: No |
+| 46 (Possible) | [Associate Electrical Design Engineer](https://jobright.ai/jobs/info/6a2a31b90c4972328e7e7bb4) | Kenworth Truck Co. | Kirkland, WA | 08/22/2026 11:19:35 | Sponsorship: No |
+| 46 (Possible) | [Associate Electrical Design Engineer Job Details \| PACCAR](https://jobright.ai/jobs/info/6a72f914f2974919f967ab92) | Kenworth Truck Co. | Kirkland, WA | 08/22/2026 11:19:35 | Sponsorship: No |
+| 46 (Possible) | [Associate Electrical Design Engineer](https://jobright.ai/jobs/info/6a55f9edefb06a45240d27f6) | Kenworth Truck Co. | Kirkland, WA | 08/22/2026 11:19:35 | Sponsorship: No |
+| 46 (Possible) | [Associate Electrical Design Engineer Job Details \| PACCAR](https://jobright.ai/jobs/info/6a32969829c90c607e4d723e) | Kenworth Truck Co. | Kirkland, WA | 08/22/2026 11:19:35 | Sponsorship: No |
 | 54 (Good) | [Sr Electrical Engineer I](https://jobright.ai/jobs/info/6a530f789fbdab22fe13e177) | Axon | Scottsdale, AZ | 08/22/2026 18:11:37 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Timing Engineer](https://jobright.ai/jobs/info/6a7325371ce9647cdbca678d) | City of New York | Queens, NY, United States | 08/22/2026 09:58:52 | Sponsorship: No |
 | 52 (Good) | [2027 Entry Level Gas Turbine Product Engineer (GTPE)](https://jobright.ai/jobs/info/6a6c077032f9300c3a3e20d7) | Solar Turbines | San Diego, CA | 08/22/2026 16:26:34 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-08-22 19:10:48Z UTC
 | 40 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a8631174afae74a083440a7) | Dice | Scottsdale, AZ | 08/19/2026 22:41:27 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [System Test Engineer](https://jobright.ai/jobs/info/6a8622eccc81eb647e9f1b17) | TAE Technologies, Inc | Irvine, CA | 08/19/2026 14:41:00 | Sponsorship: Not Sure |
 | 50 (Good) | [Systems Test Engineer - Automation, Early Career](https://jobright.ai/jobs/info/6a8625642f4f0014cae289be) | Viasat | Carlsbad, CA | 08/19/2026 14:51:32 | Sponsorship: No |
-| 46 (Possible) | [Quantum Hardware Engineer, Amazon's Center for Quantum Computing, Device Team](https://jobright.ai/jobs/info/6a862996d34f700f87fc0c3d) | Amazon | Pasadena, CA | 08/19/2026 15:09:26 | Sponsorship: Not Sure |
-| 49 (Possible) | [Test Engineer - Entry Level](https://jobright.ai/jobs/info/6a8625a274e02153f145ad7b) | General Dynamics Mission Systems | Dedham, MA | 08/19/2026 21:52:34 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 80 (Strong) | [FAST Lab – Entry Level FPGA Engineer](https://jobright.ai/jobs/info/6a6933635d01972698ee70b9) | BAE Systems, Inc. | Merrimack, NH | 08/19/2026 16:37:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 42 (Possible) | [System Test Engineer](https://jobright.ai/jobs/info/6a861e38d34f700f87fc08d2) | TAE Technologies, Inc | Irvine, CA | 08/19/2026 14:20:56 | Sponsorship: Not Sure |
-| 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a509e0ed5d2a327b664c1ce) | Applied Engineering, Inc. | Beulah, ND | 08/19/2026 12:04:30 | Sponsorship: No |
