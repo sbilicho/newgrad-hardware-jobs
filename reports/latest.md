@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-22 03:23:55Z UTC
+Updated: 2026-08-22 04:48:55Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Engineer I - Electrical Engineer (Legacy Program)](https://jobright.ai/jobs/info/6a8923b125fc4e7ae3db3056) | Arizona Public Service - APS | Tonopah, AZ | 08/22/2026 04:21:05 | Sponsorship: Past Sponsorship |
 | 68 (Good) | [Graduate - Validation Engineer](https://jobright.ai/jobs/info/6a88bc164afae74a0834d555) | Infineon Technologies | San Jose, CA | 08/21/2026 20:59:02 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Engineer Entry-Level (Starting Summer 2027)](https://jobright.ai/jobs/info/6a88e77be8b6601d12909250) | Dennis Group | Salt Lake City, UT | 08/21/2026 08:43:55 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Associate Product Engineer (Product Development)](https://jobright.ai/jobs/info/6a889ce8d34f700f87fc987b) | Analog Devices | Wilmington, MA; Durham, NC | 08/21/2026 16:09:34 | Sponsorship: Not Sure |
@@ -103,4 +104,3 @@ Updated: 2026-08-22 03:23:55Z UTC
 | 37 (Possible) | [Automation Controls Engineer I - Local Candidates Only](https://jobright.ai/jobs/info/6a853046c1a3fd7120f7493e) | RMH Systems | Loveland, CO | 08/18/2026 21:25:42 | Sponsorship: Not Sure |
 | 46 (Possible) | [System Safety & Reliability Engineer](https://jobright.ai/jobs/info/6a7c9365a346cb6c8d5ee77e) | Rolls-Royce | Indianapolis, IN | 08/18/2026 20:05:32 | Sponsorship: No |
 | 50 (Good) | [Integration and Test Engineer](https://jobright.ai/jobs/info/6a850c0cc1a3fd7120f74483) | nLIGHT, Inc. | Longmont, CO | 08/18/2026 18:51:08 | Security clearance language is present; Sponsorship: No |
-| 42 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a846d4a2f4f0014cae205ea) | Tyonek Native Corp | Warner Robins, GA | 08/18/2026 23:23:33 | Security clearance language is present; Sponsorship: Past Sponsorship |
