@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-22 17:49:56Z UTC
+Updated: 2026-08-22 19:10:48Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 54 (Good) | [Sr Electrical Engineer I](https://jobright.ai/jobs/info/6a530f789fbdab22fe13e177) | Axon | Scottsdale, AZ | 08/22/2026 18:11:37 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [Timing Engineer](https://jobright.ai/jobs/info/6a7325371ce9647cdbca678d) | City of New York | Queens, NY, United States | 08/22/2026 09:58:52 | Sponsorship: No |
 | 52 (Good) | [2027 Entry Level Gas Turbine Product Engineer (GTPE)](https://jobright.ai/jobs/info/6a6c077032f9300c3a3e20d7) | Solar Turbines | San Diego, CA | 08/22/2026 16:26:34 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [RF Test Engineer (Starlink/Akoustis)](https://jobright.ai/jobs/info/6a51afddae4052672fe9900c) | SpaceX | Canandaigua, NY | 08/22/2026 09:34:47 | Sponsorship: No |
 | 47 (Possible) | [Validation - Engineer I/II - Project Farma](https://jobright.ai/jobs/info/6a5480c8d007ee02d95fefce) | PerkinElmer | IN, United States of America; KS, United States of America; MN, United States; MO, United States; OH, United States; Illinois, United States | 08/22/2026 08:32:29 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-08-22 17:49:56Z UTC
 | 80 (Strong) | [FAST Lab – Entry Level FPGA Engineer](https://jobright.ai/jobs/info/6a6933635d01972698ee70b9) | BAE Systems, Inc. | Merrimack, NH | 08/19/2026 16:37:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 42 (Possible) | [System Test Engineer](https://jobright.ai/jobs/info/6a861e38d34f700f87fc08d2) | TAE Technologies, Inc | Irvine, CA | 08/19/2026 14:20:56 | Sponsorship: Not Sure |
 | 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a509e0ed5d2a327b664c1ce) | Applied Engineering, Inc. | Beulah, ND | 08/19/2026 12:04:30 | Sponsorship: No |
-| 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6a85fa9a74e02153f1459b49) | Haag, a Salas O'Brien Company | San Jose, CA | 08/19/2026 19:01:53 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Test Engineer - Entry Level](https://jobright.ai/jobs/info/6a85e3aa74e02153f145917b) | General Dynamics | Dedham, MA | 08/19/2026 12:51:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
