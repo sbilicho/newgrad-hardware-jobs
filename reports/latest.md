@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-22 15:55:18Z UTC
+Updated: 2026-08-22 16:57:36Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 47 (Possible) | [Validation - Engineer I/II - Project Farma](https://jobright.ai/jobs/info/6a5480c8d007ee02d95fefce) | PerkinElmer | IN, United States of America; KS, United States of America; MN, United States; MO, United States; OH, United States; Illinois, United States | 08/22/2026 08:32:29 | Sponsorship: No |
+| 47 (Possible) | [Validation - Engineer II - Project Farma](https://jobright.ai/jobs/info/6a35de187f3fdd180d4ceed0) | PerkinElmer | United States | 08/22/2026 08:32:29 | Sponsorship: No |
+| 47 (Possible) | [Validation Engineer - Project Farma](https://jobright.ai/jobs/info/6a578b5521f64463ad359af3) | PerkinElmer | United States | 08/22/2026 08:39:37 | Sponsorship: No |
+| 47 (Possible) | [Validation Engineer - Project Farma](https://jobright.ai/jobs/info/6a15f090dc845f4be5bda84a) | PerkinElmer | United States | 08/22/2026 08:39:37 | Sponsorship: No |
+| 53 (Good) | [Electrical Engineer I-III, Systems](https://jobright.ai/jobs/info/6a561ac1f7517b519ad53c77) | True Anomaly | Centennial, CO; Long Beach, CA | 08/22/2026 08:51:40 | Sponsorship: No |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a5042164649561ec08b0d66) | Freeport-McMoRan | Morenci, AZ; Safford, AZ | 08/22/2026 09:13:18 | Sponsorship: Not Sure |
 | 41 (Possible) | [Engineer- Electrical Engineer Functional Safety](https://jobright.ai/jobs/info/6a63948a979290281c702d45) | UL Solutions | Northbrook, IL | 08/22/2026 08:01:26 | Sponsorship: Not Sure |
 | 47 (Possible) | [Avionics Integration & Test Engineer (Starshield)](https://jobright.ai/jobs/info/6a524276d007ee02d95f6cdd) | SpaceX | Hawthorne, CA | 08/22/2026 06:51:25 | Sponsorship: No |
 | 90 (Strong) | [Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a164b22a429fd279da9750f) | NVIDIA | California State | 08/21/2026 18:25:27 | Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-08-22 15:55:18Z UTC
 | 49 (Possible) | [Test Engineer - Entry Level](https://jobright.ai/jobs/info/6a85e3aa74e02153f145917b) | General Dynamics | Dedham, MA | 08/19/2026 12:51:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Metrology Junior Electronics Engineer](https://jobright.ai/jobs/info/6a85ca0bd34f700f87fbe2e4) | Synectic Solutions, Inc. | Patuxent River, MD | 08/19/2026 08:21:47 | Sponsorship: No |
 | 44 (Possible) | [1454 - RF Electrical Engineer](https://jobright.ai/jobs/info/6a737328e55c73319eb175cb) | Sigma Defense Systems LLC | Huntsville, AL | 08/19/2026 09:12:13 | Sponsorship: No |
-| 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a736a4a8dc3d52d8ed9f411) | Eaton | South Milwaukee, WI | 08/19/2026 07:33:34 | Sponsorship: No |
-| 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a85c095d34f700f87fbdf42) | RTX | Bellevue, IA | 08/19/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a85bc372f4f0014cae259d1) | Managed Staffing, Inc. | Alcoa, TN | 08/19/2026 14:22:47 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a85b74074e02153f1457d5c) | Paragon Energy Solutions | Fort Worth, TX | 08/19/2026 07:01:36 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a85a47b2f4f0014cae254d8) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Test Solutions Northeast Electrical Engineer I](https://jobright.ai/jobs/info/6a859672d34f700f87fbd5da) | Raytheon | Tewksbury, MA | 08/19/2026 11:41:38 | Sponsorship: Past Sponsorship |
