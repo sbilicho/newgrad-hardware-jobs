@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-22 22:29:51Z UTC
+Updated: 2026-08-22 23:28:17Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 51 (Good) | [Junior Test Engineer](https://jobright.ai/jobs/info/6a8a22824afae74a0834f85b) | SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED | San Jose, CA | 08/22/2026 15:28:18 | Sponsorship: Not Sure |
+| 49 (Possible) | [Test Engineer - Entry Level](https://jobright.ai/jobs/info/6a8a257ed34f700f87fcc7e6) | Dice | Dedham, MA | 08/22/2026 22:41:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 32 (Possible) | [Technology Architecture and Competitiveness Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6a8a024f680f314a29d3fa63) | GlobalFoundries | Santa Clara, CA | 08/22/2026 20:37:34 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer – Entry Level (Hybrid)](https://jobright.ai/jobs/info/6a6da65766158d7ef887e728) | Barr Engineering Co. | Minneapolis, MN; Duluth, MN | 08/22/2026 11:13:07 | Sponsorship: No |
 | 46 (Possible) | [Associate Electrical Design Engineer](https://jobright.ai/jobs/info/6a2a31b90c4972328e7e7bb4) | Kenworth Truck Co. | Kirkland, WA | 08/22/2026 11:19:35 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-08-22 22:29:51Z UTC
 | 79 (Strong) | [Graduate - Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a858b2f2f4f0014cae25116) | Infineon Technologies | San Jose, CA | 08/19/2026 10:53:35 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Substation Electrical Engineer (Entry-Level)](https://jobright.ai/jobs/info/6a863043e459fa3baa866905) | Dice | Spring, TX | 08/19/2026 22:37:55 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer (New Grad Summer 2027)](https://jobright.ai/jobs/info/6a8637c274e02153f145b484) | Freeform | Hawthorne, CA | 08/19/2026 23:09:54 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a8631174afae74a083440a7) | Dice | Scottsdale, AZ | 08/19/2026 22:41:27 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [System Test Engineer](https://jobright.ai/jobs/info/6a8622eccc81eb647e9f1b17) | TAE Technologies, Inc | Irvine, CA | 08/19/2026 14:41:00 | Sponsorship: Not Sure |
