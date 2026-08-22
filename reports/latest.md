@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-22 05:56:04Z UTC
+Updated: 2026-08-22 06:51:52Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 42 (Possible) | [Senior Electrical Design Engineer I (MEP)](https://jobright.ai/jobs/info/6a7661a07b3417772ade831a) | Interface Engineering, Inc. | Oakland, CA | 08/22/2026 06:51:08 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8946c54afae74a0834e757) | Bowman Consulting | Towson, MD | 08/22/2026 06:50:45 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineering Associate I / Electrical Engineer I / Senior Electrical Engineer I](https://jobright.ai/jobs/info/6a8933eed34f700f87fcb4be) | North Carolina Department of Agriculture and Consumer Services | Lubbock, TX | 08/22/2026 05:30:22 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Engineer I - Electrical Engineer (Legacy Program)](https://jobright.ai/jobs/info/6a8923b125fc4e7ae3db3056) | Arizona Public Service - APS | Tonopah, AZ | 08/22/2026 04:21:05 | Sponsorship: Past Sponsorship |
 | 68 (Good) | [Graduate - Validation Engineer](https://jobright.ai/jobs/info/6a88bc164afae74a0834d555) | Infineon Technologies | San Jose, CA | 08/21/2026 20:59:02 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-22 05:56:04Z UTC
 | 80 (Strong) | [Graduate - Analog Mixed-Signal Design Engineer](https://jobright.ai/jobs/info/6a85881ed34f700f87fbd2f4) | Infineon Technologies | El Segundo, CA | 08/19/2026 10:40:30 | Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Graduate- Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a8585d7d34f700f87fbd273) | Infineon Technologies | San Jose, CA | 08/19/2026 10:30:47 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6a8586c013c05d441a5c6894) | Smiths Group plc | Port Arthur, TX | 08/18/2026 22:31:51 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Automation Controls Engineer I - Local Candidates Only](https://jobright.ai/jobs/info/6a853046c1a3fd7120f7493e) | RMH Systems | Loveland, CO | 08/18/2026 21:25:42 | Sponsorship: Not Sure |
-| 46 (Possible) | [System Safety & Reliability Engineer](https://jobright.ai/jobs/info/6a7c9365a346cb6c8d5ee77e) | Rolls-Royce | Indianapolis, IN | 08/18/2026 20:05:32 | Sponsorship: No |
