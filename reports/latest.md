@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-22 11:03:13Z UTC
+Updated: 2026-08-22 11:55:10Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 90 (Strong) | [Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a164b22a429fd279da9750f) | NVIDIA | California State | 08/21/2026 18:25:27 | Sponsorship: Past Sponsorship |
+| 36 (Possible) | [New College Grad - Design Engineer, DRAM Technology and Products](https://jobright.ai/jobs/info/6a87458f4afae74a083479a3) | Micron Technology | Boise, ID | 08/22/2026 09:12:17 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Senior Electrical Design Engineer I (MEP)](https://jobright.ai/jobs/info/6a7661a07b3417772ade831a) | Interface Engineering, Inc. | Oakland, CA | 08/22/2026 06:51:08 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8946c54afae74a0834e757) | Bowman Consulting | Towson, MD | 08/22/2026 06:50:45 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineering Associate I / Electrical Engineer I / Senior Electrical Engineer I](https://jobright.ai/jobs/info/6a8933eed34f700f87fcb4be) | North Carolina Department of Agriculture and Consumer Services | Lubbock, TX | 08/22/2026 05:30:22 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-22 11:03:13Z UTC
 | 49 (Possible) | [Test Solutions Northeast Electrical Engineer I](https://jobright.ai/jobs/info/6a859672d34f700f87fbd5da) | Raytheon | Tewksbury, MA | 08/19/2026 11:41:38 | Sponsorship: Past Sponsorship |
 | 68 (Good) | [Graduate - Validation Engineer](https://jobright.ai/jobs/info/6a858be92f4f0014cae25122) | Infineon Technologies | San Jose, CA | 08/19/2026 10:56:41 | Sponsorship: Past Sponsorship |
 | 80 (Strong) | [Graduate - Analog Mixed-Signal Design Engineer](https://jobright.ai/jobs/info/6a85881ed34f700f87fbd2f4) | Infineon Technologies | El Segundo, CA | 08/19/2026 10:40:30 | Sponsorship: Past Sponsorship |
-| 79 (Strong) | [Graduate- Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a8585d7d34f700f87fbd273) | Infineon Technologies | San Jose, CA | 08/19/2026 10:30:47 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6a8586c013c05d441a5c6894) | Smiths Group plc | Port Arthur, TX | 08/18/2026 22:31:51 | Sponsorship: Past Sponsorship |
