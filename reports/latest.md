@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-22 14:55:59Z UTC
+Updated: 2026-08-22 15:55:18Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Engineer- Electrical Engineer Functional Safety](https://jobright.ai/jobs/info/6a63948a979290281c702d45) | UL Solutions | Northbrook, IL | 08/22/2026 08:01:26 | Sponsorship: Not Sure |
 | 47 (Possible) | [Avionics Integration & Test Engineer (Starshield)](https://jobright.ai/jobs/info/6a524276d007ee02d95f6cdd) | SpaceX | Hawthorne, CA | 08/22/2026 06:51:25 | Sponsorship: No |
 | 90 (Strong) | [Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a164b22a429fd279da9750f) | NVIDIA | California State | 08/21/2026 18:25:27 | Sponsorship: Past Sponsorship |
 | 36 (Possible) | [New College Grad - Design Engineer, DRAM Technology and Products](https://jobright.ai/jobs/info/6a87458f4afae74a083479a3) | Micron Technology | Boise, ID | 08/22/2026 09:12:17 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-22 14:55:59Z UTC
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a85b74074e02153f1457d5c) | Paragon Energy Solutions | Fort Worth, TX | 08/19/2026 07:01:36 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a85a47b2f4f0014cae254d8) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Test Solutions Northeast Electrical Engineer I](https://jobright.ai/jobs/info/6a859672d34f700f87fbd5da) | Raytheon | Tewksbury, MA | 08/19/2026 11:41:38 | Sponsorship: Past Sponsorship |
-| 68 (Good) | [Graduate - Validation Engineer](https://jobright.ai/jobs/info/6a858be92f4f0014cae25122) | Infineon Technologies | San Jose, CA | 08/19/2026 10:56:41 | Sponsorship: Past Sponsorship |
