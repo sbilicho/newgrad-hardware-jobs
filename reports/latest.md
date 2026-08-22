@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-21 23:49:15Z UTC
+Updated: 2026-08-22 00:48:44Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 68 (Good) | [Graduate - Validation Engineer](https://jobright.ai/jobs/info/6a88bc164afae74a0834d555) | Infineon Technologies | San Jose, CA | 08/21/2026 20:59:02 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Electrical Engineer Entry-Level (Starting Summer 2027)](https://jobright.ai/jobs/info/6a88e77be8b6601d12909250) | Dennis Group | Salt Lake City, UT | 08/21/2026 08:43:55 | Sponsorship: Past Sponsorship |
+| 59 (Good) | [Associate Product Engineer (Product Development)](https://jobright.ai/jobs/info/6a889ce8d34f700f87fc987b) | Analog Devices | Wilmington, MA; Durham, NC | 08/21/2026 16:09:34 | Sponsorship: Not Sure |
+| 96 (Strong) | [Physical Design Engineer](https://jobright.ai/jobs/info/6a88d527680f314a29d3e2ef) | Altera | San Jose, CA | 08/21/2026 16:18:39 | Sponsorship: No |
+| 37 (Possible) | [Electrical Engineer - Design](https://jobright.ai/jobs/info/6a88c2634afae74a0834d7c6) | Shermco Industries | Cedar Park, TX | 08/21/2026 16:27:02 | Sponsorship: No |
+| 37 (Possible) | [Electrical Engineer - Design](https://jobright.ai/jobs/info/6a88c263cde3717f9e9b70a9) | Shermco Industries | Cedar Park, TX | 08/21/2026 16:27:02 | Sponsorship: No |
+| 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a88a8b1680f314a29d3d23c) | Oshkosh Corporation | Oshkosh, WI | 08/21/2026 16:31:31 | Sponsorship: Not Sure |
 | 49 (Possible) | [Electronics Engineer I](https://jobright.ai/jobs/info/6a88e18ad34f700f87fcaeab) | Pratt Miller | New Hudson, MI | 08/21/2026 23:38:50 | Sponsorship: Past Sponsorship |
 | 35 (Possible) | [Junior Engineer, FPGA](https://jobright.ai/jobs/info/6a26ef0c7d827633afff77a2) | NIKSUN | Princeton, NJ | 08/21/2026 14:50:29 | Sponsorship: Not Sure |
 | 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a88d49a4afae74a0834ddbd) | Dice | Chattanooga, TN | 08/21/2026 22:43:38 | Sponsorship: Past Sponsorship |
@@ -97,10 +104,3 @@ Updated: 2026-08-21 23:49:15Z UTC
 | 46 (Possible) | [System Safety & Reliability Engineer](https://jobright.ai/jobs/info/6a7c9365a346cb6c8d5ee77e) | Rolls-Royce | Indianapolis, IN | 08/18/2026 20:05:32 | Sponsorship: No |
 | 50 (Good) | [Integration and Test Engineer](https://jobright.ai/jobs/info/6a850c0cc1a3fd7120f74483) | nLIGHT, Inc. | Longmont, CO | 08/18/2026 18:51:08 | Security clearance language is present; Sponsorship: No |
 | 42 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a846d4a2f4f0014cae205ea) | Tyonek Native Corp | Warner Robins, GA | 08/18/2026 23:23:33 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a84b8ed7b33d72276257c27) | Sierra Nevada Corporation | Dayton, OH | 08/19/2026 00:41:18 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [New College Graduate Systems Design Engineer](https://jobright.ai/jobs/info/6a84ca76d34f700f87fbb14e) | Renesas Electronics | Austin, TX | 08/18/2026 21:11:18 | Sponsorship: Past Sponsorship |
-| 79 (Strong) | [Graduate - Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a77fcfb4817aa430704b2f2) | Infineon Technologies | San Jose, CA | 08/18/2026 18:25:49 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6a825895927c79391ad1c41f) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 08/18/2026 22:52:13 | Sponsorship: Past Sponsorship |
-| 54 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a84e464d34f700f87fbb448) | Axon | Sterling, VA | 08/18/2026 23:01:56 | Sponsorship: Past Sponsorship |
-| 71 (Strong) | [Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire](https://jobright.ai/jobs/info/6a84d672e459fa3baa86104a) | Omni Design Technologies, Inc. | Milpitas, CA | 08/18/2026 22:02:26 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [New College Graduate Systems Design Engineer](https://jobright.ai/jobs/info/6a84ca8be12474455273cbce) | Renesas Electronics | Austin, TX | 08/18/2026 21:11:39 | Sponsorship: Past Sponsorship |
