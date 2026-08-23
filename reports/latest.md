@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-23 16:59:02Z UTC
+Updated: 2026-08-23 17:49:52Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 88 (Strong) | [ASIC Physical Design Engineer, Netlisting - New College Grad 2026](https://jobright.ai/jobs/info/69fd01f3432a3c4da8e00dbd) | NVIDIA | Santa Clara, CA | 08/23/2026 17:43:20 | Sponsorship: Past Sponsorship |
+| 54 (Good) | [PCB Reliability Engineer (Starshield)](https://jobright.ai/jobs/info/6a542c3d8576ec69c01523f3) | SpaceX | Hawthorne, CA | 08/23/2026 09:27:53 | Sponsorship: No |
+| 45 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a7bb7d4bc05d77f2bde098e) | Applied Materials | Santa Clara, CA | 08/23/2026 09:43:01 | Sponsorship: Not Sure |
 | 54 (Good) | [Senior Associate, Component Reliability Engineer](https://jobright.ai/jobs/info/6a507cc5fb1cdf60f4ccd5b6) | L3Harris Technologies | San Diego, CA | 08/23/2026 15:05:28 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Principal Electrical Engineer I - Phased Array Unit Lead](https://jobright.ai/jobs/info/6a5134a578e364789ca59b4b) | CesiumAstro | Westminster, CO | 08/23/2026 14:21:31 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer, Maneuver Dominance](https://jobright.ai/jobs/info/6a0700754a0a6a7e7d81f5e8) | Anduril Industries | Costa Mesa, CA | 08/23/2026 06:48:05 | Sponsorship: No |
@@ -101,6 +104,3 @@ Updated: 2026-08-23 16:59:02Z UTC
 | 37 (Possible) | [Instrumentation & Controls Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a6a1fe048355b3f12bef209) | Sargent & Lundy | Chicago, IL | 08/20/2026 10:01:55 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a32026935e80310003aa695) | Loram Maintenance of Way, Inc. | Medina, MN | 08/20/2026 10:36:00 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a6cdc10acb0a61f9dbc78ff) | Zachry Group | Perry, OH | 08/20/2026 13:05:52 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [Reliability Engineer I - Sr Job Details \| Arkansas Electric Cooperative](https://jobright.ai/jobs/info/6a872e7b4afae74a0834711d) | Arkansas Electric Cooperative Corporation | Little Rock, AR | 08/20/2026 16:42:35 | Sponsorship: Past Sponsorship |
-| 61 (Good) | [Thermal Quality and Reliability Engineer](https://jobright.ai/jobs/info/6a509e69ddd293054ccaa7f5) | Intel | Phoenix, AZ | 08/20/2026 04:31:43 | Sponsorship: Not Sure |
-| 59 (Good) | [Package Failure Analysis Engineer](https://jobright.ai/jobs/info/6a4e6042fc327f422fef2778) | Intel | Phoenix, AZ | 08/20/2026 04:35:09 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: No |
