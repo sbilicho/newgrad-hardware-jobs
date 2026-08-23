@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-23 05:06:55Z UTC
+Updated: 2026-08-23 06:17:05Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 42 (Possible) | [Electrical Engineer, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5219512007?gh_jid=5219512007) | Anduril Industries | Costa Mesa, California, United States; Santa Ana, California, United States | 08/23/2026 05:57:36 | Security clearance language is present |
 | 40 (Possible) | [2026 Associate RF Engineer/RF Engineer - Dulles VA](https://jobright.ai/jobs/info/6a8850d8680f314a29d3b50f) | Northrop Grumman | Dulles, VA | 08/22/2026 21:11:16 | Sponsorship: No |
 | 37 (Possible) | [Utility Electrical Engineer](https://jobright.ai/jobs/info/6a71eb03ee751e0c79345a18) | Knobelsdorff | United States | 08/22/2026 19:48:04 | Sponsorship: No |
 | 57 (Good) | [Test Engineer I - Oahu Job Details \| hawaiianel](https://jobright.ai/jobs/info/6a4627270dd56c76cc2f6c66) | Hawaiian Electric | Honolulu, HI | 08/22/2026 17:55:24 | Sponsorship: Not Sure |
@@ -103,4 +104,3 @@ Updated: 2026-08-23 05:06:55Z UTC
 | 68 (Good) | [Product/Test Engineer, Entry Level](https://jobright.ai/jobs/info/6a5b2a7e686b4755d1e18d56) | NXP Semiconductors | Austin, TX | 08/20/2026 09:58:20 | Sponsorship: Past Sponsorship |
 | 98 (Strong) | [NVIDIA 2027 Internships: Hardware ASIC Design](https://jobright.ai/jobs/info/6a86a15ccc81eb647e9f3173) | NVIDIA AI | Santa Clara, CA | 08/20/2026 06:40:28 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [NVIDIA 2027 Internships: Hardware Engineering](https://jobright.ai/jobs/info/6a86b43bd34f700f87fc21e9) | NVIDIA AI | Santa Clara, CA | 08/20/2026 08:00:59 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a869cfa4afae74a0834515d) | SGF Global | Schaumburg, IL | 08/19/2026 13:56:02 | Sponsorship: Past Sponsorship |
