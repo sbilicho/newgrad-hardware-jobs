@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-23 02:50:54Z UTC
+Updated: 2026-08-23 03:50:21Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Utility Electrical Engineer](https://jobright.ai/jobs/info/6a71eb03ee751e0c79345a18) | Knobelsdorff | United States | 08/22/2026 19:48:04 | Sponsorship: No |
 | 57 (Good) | [Test Engineer I - Oahu Job Details \| hawaiianel](https://jobright.ai/jobs/info/6a4627270dd56c76cc2f6c66) | Hawaiian Electric | Honolulu, HI | 08/22/2026 17:55:24 | Sponsorship: Not Sure |
 | 44 (Possible) | [Lead Electrical Engineer I Job Details \| EnerSys Delaware Inc.](https://jobright.ai/jobs/info/6a8a451ae8b6601d1290ae1d) | EnerSys | Commack, NY | 08/23/2026 00:55:54 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Junior Test Engineer](https://jobright.ai/jobs/info/6a8a22824afae74a0834f85b) | SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED | San Jose, CA | 08/22/2026 15:28:18 | Sponsorship: Not Sure |
@@ -103,4 +104,3 @@ Updated: 2026-08-23 02:50:54Z UTC
 | 37 (Possible) | [NVIDIA 2027 Internships: Hardware Engineering](https://jobright.ai/jobs/info/6a86b43bd34f700f87fc21e9) | NVIDIA AI | Santa Clara, CA | 08/20/2026 08:00:59 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a869cfa4afae74a0834515d) | SGF Global | Schaumburg, IL | 08/19/2026 13:56:02 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electronics Engineer (Recent Grad)](https://jobright.ai/jobs/info/6a86831ad34f700f87fc1c84) | USAJOBS | Idaho Falls, ID | 08/20/2026 04:31:22 | Sponsorship: Past Sponsorship |
-| 79 (Strong) | [Graduate - Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6a858b2f2f4f0014cae25116) | Infineon Technologies | San Jose, CA | 08/19/2026 10:53:35 | Sponsorship: Past Sponsorship |
