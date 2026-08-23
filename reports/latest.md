@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-23 09:39:26Z UTC
+Updated: 2026-08-23 10:37:02Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 47 (Possible) | [Electrical Test Engineer](https://jobright.ai/jobs/info/6a5a5d79856af468ab0082d5) | Eaton | Raleigh, NC | 08/23/2026 02:12:55 | Sponsorship: No |
 | 42 (Possible) | [Electrical Engineer, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5219512007?gh_jid=5219512007) | Anduril Industries | Costa Mesa, California, United States; Santa Ana, California, United States | 08/23/2026 05:57:36 | Security clearance language is present |
 | 40 (Possible) | [2026 Associate RF Engineer/RF Engineer - Dulles VA](https://jobright.ai/jobs/info/6a8850d8680f314a29d3b50f) | Northrop Grumman | Dulles, VA | 08/22/2026 21:11:16 | Sponsorship: No |
 | 37 (Possible) | [Utility Electrical Engineer](https://jobright.ai/jobs/info/6a71eb03ee751e0c79345a18) | Knobelsdorff | United States | 08/22/2026 19:48:04 | Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-08-23 09:39:26Z UTC
 | 71 (Strong) | [New College Grad - EDA/CAD Engineer](https://jobright.ai/jobs/info/6a68da6c36d36c1ff29967ab) | Micron Technology | Boise, ID | 08/20/2026 09:19:01 | Sponsorship: Past Sponsorship |
 | 68 (Good) | [Product/Test Engineer, Entry Level](https://jobright.ai/jobs/info/6a5b2a7e686b4755d1e18d56) | NXP Semiconductors | Austin, TX | 08/20/2026 09:58:20 | Sponsorship: Past Sponsorship |
 | 98 (Strong) | [NVIDIA 2027 Internships: Hardware ASIC Design](https://jobright.ai/jobs/info/6a86a15ccc81eb647e9f3173) | NVIDIA AI | Santa Clara, CA | 08/20/2026 06:40:28 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [NVIDIA 2027 Internships: Hardware Engineering](https://jobright.ai/jobs/info/6a86b43bd34f700f87fc21e9) | NVIDIA AI | Santa Clara, CA | 08/20/2026 08:00:59 | Sponsorship: Past Sponsorship |
