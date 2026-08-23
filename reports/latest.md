@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-23 14:57:24Z UTC
+Updated: 2026-08-23 15:55:23Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 54 (Good) | [Senior Associate, Component Reliability Engineer](https://jobright.ai/jobs/info/6a507cc5fb1cdf60f4ccd5b6) | L3Harris Technologies | San Diego, CA | 08/23/2026 15:05:28 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Principal Electrical Engineer I - Phased Array Unit Lead](https://jobright.ai/jobs/info/6a5134a578e364789ca59b4b) | CesiumAstro | Westminster, CO | 08/23/2026 14:21:31 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer, Maneuver Dominance](https://jobright.ai/jobs/info/6a0700754a0a6a7e7d81f5e8) | Anduril Industries | Costa Mesa, CA | 08/23/2026 06:48:05 | Sponsorship: No |
 | 32 (Possible) | [Entry-Level Systems Engineer (Digital Comm & Networks Sys Engrg)](https://jobright.ai/jobs/info/6a6d0ca25c54bc4752cf0e53) | Boeing | El Segundo, CA | 08/23/2026 13:18:46 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-23 14:57:24Z UTC
 | 51 (Good) | [Reliability Engineer I - Sr Job Details \| Arkansas Electric Cooperative](https://jobright.ai/jobs/info/6a872e7b4afae74a0834711d) | Arkansas Electric Cooperative Corporation | Little Rock, AR | 08/20/2026 16:42:35 | Sponsorship: Past Sponsorship |
 | 61 (Good) | [Thermal Quality and Reliability Engineer](https://jobright.ai/jobs/info/6a509e69ddd293054ccaa7f5) | Intel | Phoenix, AZ | 08/20/2026 04:31:43 | Sponsorship: Not Sure |
 | 59 (Good) | [Package Failure Analysis Engineer](https://jobright.ai/jobs/info/6a4e6042fc327f422fef2778) | Intel | Phoenix, AZ | 08/20/2026 04:35:09 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: No |
-| 46 (Possible) | [Hardware Engineer](https://jobright.ai/jobs/info/6a4d9e790209ea6fd6852d0c) | Supermicro | San Jose, CA | 08/20/2026 03:26:28 | Sponsorship: Not Sure |
