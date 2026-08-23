@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-23 13:57:50Z UTC
+Updated: 2026-08-23 14:57:24Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Principal Electrical Engineer I - Phased Array Unit Lead](https://jobright.ai/jobs/info/6a5134a578e364789ca59b4b) | CesiumAstro | Westminster, CO | 08/23/2026 14:21:31 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer, Maneuver Dominance](https://jobright.ai/jobs/info/6a0700754a0a6a7e7d81f5e8) | Anduril Industries | Costa Mesa, CA | 08/23/2026 06:48:05 | Sponsorship: No |
 | 32 (Possible) | [Entry-Level Systems Engineer (Digital Comm & Networks Sys Engrg)](https://jobright.ai/jobs/info/6a6d0ca25c54bc4752cf0e53) | Boeing | El Segundo, CA | 08/23/2026 13:18:46 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 58 (Good) | [Component Test Engineer](https://jobright.ai/jobs/info/6a51e64f8d7d3e6cf1cc484e) | Blue Water Autonomy Inc. | Lexington, MA | 08/23/2026 04:33:29 | Sponsorship: No |
 | 47 (Possible) | [Electrical Test Engineer](https://jobright.ai/jobs/info/6a5a5d79856af468ab0082d5) | Eaton | Raleigh, NC | 08/23/2026 02:12:55 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-08-23 13:57:50Z UTC
 | 61 (Good) | [Thermal Quality and Reliability Engineer](https://jobright.ai/jobs/info/6a509e69ddd293054ccaa7f5) | Intel | Phoenix, AZ | 08/20/2026 04:31:43 | Sponsorship: Not Sure |
 | 59 (Good) | [Package Failure Analysis Engineer](https://jobright.ai/jobs/info/6a4e6042fc327f422fef2778) | Intel | Phoenix, AZ | 08/20/2026 04:35:09 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: No |
 | 46 (Possible) | [Hardware Engineer](https://jobright.ai/jobs/info/6a4d9e790209ea6fd6852d0c) | Supermicro | San Jose, CA | 08/20/2026 03:26:28 | Sponsorship: Not Sure |
-| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6a86d4854afae74a0834585a) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 08/20/2026 08:18:35 | Sponsorship: Past Sponsorship |
-| 71 (Strong) | [New College Grad - EDA/CAD Engineer](https://jobright.ai/jobs/info/6a68da6c36d36c1ff29967ab) | Micron Technology | Boise, ID | 08/20/2026 09:19:01 | Sponsorship: Past Sponsorship |
