@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-24 14:59:24Z UTC
+Updated: 2026-08-24 15:53:04Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Electrical Engineer I - Test Equipment Maintenance](https://jobright.ai/jobs/info/6a8c61841d96e6541c8c065d) | RTX | Andover, MA | 08/24/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Principal Electrical Engineer I - FlatSat Lead](https://jobright.ai/jobs/info/6a57b002f7517b519ad5c34c) | CesiumAstro | Westminster, CO | 08/24/2026 14:17:25 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electronics Engineer I - SATCOM](https://jobright.ai/jobs/info/69fcc29f432a3c4da8dfedf5) | CesiumAstro | Westminster, CO | 08/24/2026 14:19:40 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Facilities Electrical Engineer I](https://jobright.ai/jobs/info/6a8c59add34f700f87fcfeba) | Panasonic Appliances Refrigeration Systems de México S. A. de C. V. | De Soto, KS | 08/24/2026 14:48:13 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-24 14:59:24Z UTC
 | 50 (Good) | [System Integration and Test Engineer](https://jobright.ai/jobs/info/6a879668e8b6601d12904358) | Qualcomm | San Diego, CA | 08/20/2026 17:06:00 | Sponsorship: Not Sure |
 | 77 (Strong) | [Sr. Digital Design Electrical Engineer I](https://jobright.ai/jobs/info/69868ca88ca8121a3a68da43) | Axon | Sterling, VA | 08/20/2026 16:29:12 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I-V, Power Production](https://jobright.ai/jobs/info/6a8780304afae74a08348e6a) | Grant County Public Utility District | Beverly, WA | 08/20/2026 22:31:12 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Electrical Design Engineer (Entry-level/Associate) - Millennium Space Systems](https://jobright.ai/jobs/info/6a877802680f314a29d390ab) | Boeing | El Segundo, CA | 08/20/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
