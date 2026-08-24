@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-24 17:15:30Z UTC
+Updated: 2026-08-24 18:38:41Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a8c893925fc4e7ae3db8f42) | Dewberry | Fairfax, VA | 08/24/2026 13:46:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a8c892cd34f700f87fd1236) | Latitude Inc | Manassas, VA | 08/24/2026 18:10:52 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a8c7aff1d96e6541c8c1282) | Bechtel Plant Machinery, Inc. (BPMI) | Monroeville, PA | 08/24/2026 10:10:23 | Sponsorship: Not Sure |
+| 62 (Good) | [Embedded Software Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6a8c8e54cde3717f9e9bdd9b) | CS GROUP - USA | East Hartford, CT | 08/24/2026 18:32:52 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a8c700bd34f700f87fd06b9) | Rocket Lab | Pasadena, CA | 08/24/2026 16:23:39 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Lighting/Electrical Engineer](https://jobright.ai/jobs/info/6a8c793725fc4e7ae3db88e9) | Jacobs | Chicago, IL | 08/24/2026 17:02:47 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a8c743fcde3717f9e9bd27b) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/24/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-08-24 17:15:30Z UTC
 | 44 (Possible) | [Electrical Engineer, Launch Infrastructure (Starship)](https://boards.greenhouse.io/spacex/jobs/8737393002?gh_jid=8737393002) | SpaceX | Cape Canaveral, FL; Cape Canaveral, FL, United States | 08/21/2026 14:27:55 |  |
 | 71 (Strong) | [Associate Mixed Signal Design Engineer](https://jobright.ai/jobs/info/6a884756680f314a29d3b2d0) | Analog Devices | Wilmington, MA | 08/21/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Test Engineer I](https://jobright.ai/jobs/info/6a6ba8c257120971bf3a822c) | Goldbelt Frontier LLC | Frederick, MD | 08/21/2026 03:25:31 | Sponsorship: No |
-| 70 (Strong) | [CPU Micro-Architect RTL Engineer](https://jobright.ai/jobs/info/6a57b95121f64463ad35b8c4) | Qualcomm | Austin, TX | 08/21/2026 10:43:26 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [New College Grad - Design Engineer, HBM DFT](https://jobright.ai/jobs/info/6a36713b649fdf16292fbbe6) | Micron Technology | Richardson, TX | 08/21/2026 09:03:22 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [Validation Engineer I](https://jobright.ai/jobs/info/6a573fc4367e61670f5aeaae) | NantHealth | El Segundo, CA | 08/21/2026 01:00:14 | Sponsorship: Not Sure |
-| 37 (Possible) | [Electrical Engineer New Grad \| Cincinnati, OH](https://jobright.ai/jobs/info/6a87d5aa680f314a29d3a6d5) | IMEG | Cincinnati, OH | 08/21/2026 08:06:27 | Sponsorship: Past Sponsorship |
