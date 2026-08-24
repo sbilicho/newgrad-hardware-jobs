@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-23 23:51:55Z UTC
+Updated: 2026-08-24 01:28:21Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 42 (Possible) | [Senior Electrical Design Engineer I (MEP)](https://jobright.ai/jobs/info/6a7a1e9d67a1ad0bc53d1ae7) | Interface Engineering, Inc. | Los Angeles, CA | 08/24/2026 00:52:08 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Marine Test Engineer](https://jobright.ai/jobs/info/6a3bec8d4d047136e092ec09) | Brunswick Corporation | Tulsa, OK | 08/23/2026 10:38:15 | Sponsorship: No |
 | 88 (Strong) | [ASIC Physical Design Engineer, Netlisting - New College Grad 2026](https://jobright.ai/jobs/info/69fd01f3432a3c4da8e00dbd) | NVIDIA | Santa Clara, CA | 08/23/2026 17:43:20 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [PCB Reliability Engineer (Starshield)](https://jobright.ai/jobs/info/6a542c3d8576ec69c01523f3) | SpaceX | Hawthorne, CA | 08/23/2026 09:27:53 | Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-08-23 23:51:55Z UTC
 | 45 (Possible) | [Test Engineer Associate](https://jobright.ai/jobs/info/6a872e4dcde3717f9e9b09e6) | Lockheed Martin | White Sands Missile Range, NM | 08/20/2026 09:41:49 | Sponsorship: No |
 | 45 (Possible) | [Hardware Engineer - E2](https://jobright.ai/jobs/info/6a872e81e8b6601d129021b2) | Lockheed Martin | Boulder, CO | 08/20/2026 09:42:41 | Security clearance language is present; Sponsorship: No |
 | 37 (Possible) | [Instrumentation & Controls Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a6a1fe048355b3f12bef209) | Sargent & Lundy | Chicago, IL | 08/20/2026 10:01:55 | Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a32026935e80310003aa695) | Loram Maintenance of Way, Inc. | Medina, MN | 08/20/2026 10:36:00 | Sponsorship: Past Sponsorship |
