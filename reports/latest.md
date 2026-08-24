@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-24 15:53:04Z UTC
+Updated: 2026-08-24 17:15:30Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 48 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a8c700bd34f700f87fd06b9) | Rocket Lab | Pasadena, CA | 08/24/2026 16:23:39 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Lighting/Electrical Engineer](https://jobright.ai/jobs/info/6a8c793725fc4e7ae3db88e9) | Jacobs | Chicago, IL | 08/24/2026 17:02:47 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a8c743fcde3717f9e9bd27b) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/24/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer (Entry Level) - Malta, NY](https://jobright.ai/jobs/info/6a8c7785cde3717f9e9bd485) | Hallam-ICS | Malta, NY | 08/24/2026 16:55:33 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Lighting/Electrical Engineer](https://jobright.ai/jobs/info/6a8c7aeed34f700f87fd0d20) | Jacobs | Madison, WI | 08/24/2026 17:10:06 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Signal Integrity Engineer (Entry level)](https://jobright.ai/jobs/info/6a332854ce501060b5cec833) | Molex | Lisle, IL | 08/23/2026 15:41:31 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer I - Test Equipment Maintenance](https://jobright.ai/jobs/info/6a8c61841d96e6541c8c065d) | RTX | Andover, MA | 08/24/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Principal Electrical Engineer I - FlatSat Lead](https://jobright.ai/jobs/info/6a57b002f7517b519ad5c34c) | CesiumAstro | Westminster, CO | 08/24/2026 14:17:25 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electronics Engineer I - SATCOM](https://jobright.ai/jobs/info/69fcc29f432a3c4da8dfedf5) | CesiumAstro | Westminster, CO | 08/24/2026 14:19:40 | Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-08-24 15:53:04Z UTC
 | 44 (Possible) | [New College Grad - Design Engineer, HBM DFT](https://jobright.ai/jobs/info/6a36713b649fdf16292fbbe6) | Micron Technology | Richardson, TX | 08/21/2026 09:03:22 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Validation Engineer I](https://jobright.ai/jobs/info/6a573fc4367e61670f5aeaae) | NantHealth | El Segundo, CA | 08/21/2026 01:00:14 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer New Grad \| Cincinnati, OH](https://jobright.ai/jobs/info/6a87d5aa680f314a29d3a6d5) | IMEG | Cincinnati, OH | 08/21/2026 08:06:27 | Sponsorship: Past Sponsorship |
-| 67 (Good) | [Hardware & Embedded Systems Validation Engineer](https://jobright.ai/jobs/info/6a87f29ee8b6601d12905609) | Waggle | Fremont, CA | 08/21/2026 06:39:26 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry-Level Electrical Engineer - NERC Complaince](https://jobright.ai/jobs/info/6a87daee25fc4e7ae3daef06) | CAMS | Houston, TX | 08/21/2026 04:58:22 | Sponsorship: Past Sponsorship |
-| 54 (Good) | [Electrical Test Engineer](https://jobright.ai/jobs/info/6a8791b1cde3717f9e9b2ab1) | Intuitive Machines | Palo Alto, CA | 08/20/2026 20:15:00 | Sponsorship: No |
-| 50 (Good) | [System Integration and Test Engineer](https://jobright.ai/jobs/info/6a879668e8b6601d12904358) | Qualcomm | San Diego, CA | 08/20/2026 17:06:00 | Sponsorship: Not Sure |
-| 77 (Strong) | [Sr. Digital Design Electrical Engineer I](https://jobright.ai/jobs/info/69868ca88ca8121a3a68da43) | Axon | Sterling, VA | 08/20/2026 16:29:12 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I-V, Power Production](https://jobright.ai/jobs/info/6a8780304afae74a08348e6a) | Grant County Public Utility District | Beverly, WA | 08/20/2026 22:31:12 | Sponsorship: Past Sponsorship |
