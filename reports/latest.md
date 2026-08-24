@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-24 14:06:40Z UTC
+Updated: 2026-08-24 14:59:24Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Principal Electrical Engineer I - FlatSat Lead](https://jobright.ai/jobs/info/6a57b002f7517b519ad5c34c) | CesiumAstro | Westminster, CO | 08/24/2026 14:17:25 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Electronics Engineer I - SATCOM](https://jobright.ai/jobs/info/69fcc29f432a3c4da8dfedf5) | CesiumAstro | Westminster, CO | 08/24/2026 14:19:40 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Facilities Electrical Engineer I](https://jobright.ai/jobs/info/6a8c59add34f700f87fcfeba) | Panasonic Appliances Refrigeration Systems de México S. A. de C. V. | De Soto, KS | 08/24/2026 14:48:13 | Sponsorship: Past Sponsorship |
+| 76 (Strong) | [ASIC Design Verification Engineer, Google Cloud](https://jobright.ai/jobs/info/6a1992ed547e292ae1392d87) | Google | Sunnyvale, CA | 08/24/2026 11:47:52 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6a8c4241581f2d7bfdfe29c3) | John Crane | Port Arthur, TX | 08/23/2026 23:23:26 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I - Relocate to Warroad, MN](https://jobright.ai/jobs/info/6a8c3da925fc4e7ae3db7330) | Marvin | Warroad, MN | 08/24/2026 12:48:41 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Process Integration and Yield Engineer](https://jobright.ai/jobs/info/6a8c31492f736c304f2a4699) | Intel | Hillsboro, OR | 08/24/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-08-24 14:06:40Z UTC
 | 77 (Strong) | [Sr. Digital Design Electrical Engineer I](https://jobright.ai/jobs/info/69868ca88ca8121a3a68da43) | Axon | Sterling, VA | 08/20/2026 16:29:12 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I-V, Power Production](https://jobright.ai/jobs/info/6a8780304afae74a08348e6a) | Grant County Public Utility District | Beverly, WA | 08/20/2026 22:31:12 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electrical Design Engineer (Entry-level/Associate) - Millennium Space Systems](https://jobright.ai/jobs/info/6a877802680f314a29d390ab) | Boeing | El Segundo, CA | 08/20/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a72515f02d93145bf894127) | Westinghouse Electric Company | Rock Hill, SC | 08/20/2026 10:49:15 | Sponsorship: Past Sponsorship |
-| 77 (Strong) | [Sr. Digital Design Electrical Engineer I](https://jobright.ai/jobs/info/69865e7a8ca8121a3a689a35) | Axon | Sterling, VA | 08/20/2026 15:54:19 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a319378e7b7d514a3bd435e) | Ampirical | Duluth, GA | 08/20/2026 17:03:24 | Sponsorship: Past Sponsorship |
-| 62 (Good) | [Power Electronics Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8733548002) | Graphcore | Milpitas, California, United States | 08/20/2026 19:26:23 | Full-time status is inferred from the first-party posting |
