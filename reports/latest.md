@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-24 11:30:50Z UTC
+Updated: 2026-08-24 12:49:50Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer I - Relocate to Warroad, MN](https://jobright.ai/jobs/info/6a8c3da925fc4e7ae3db7330) | Marvin | Warroad, MN | 08/24/2026 12:48:41 | Sponsorship: Past Sponsorship |
+| 59 (Good) | [Process Integration and Yield Engineer](https://jobright.ai/jobs/info/6a8c31492f736c304f2a4699) | Intel | Hillsboro, OR | 08/24/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a06fca6152f493123c4b087) | Stratolaunch | Mojave, CA | 08/24/2026 04:57:22 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a301264eace377055eb4441) | Scientific Research Corporation | Jacksonville, FL | 08/24/2026 09:04:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry Level Electrical Engineer – Class of 2025/2026](https://jobright.ai/jobs/info/6a880a63680f314a29d3ab68) | Amphenol | Santa Clara, CA | 07/20/2026 08:15:30 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a8ba8b725fc4e7ae3db5ed9) | Haag, a Salas O'Brien Company | New York, NY | 08/24/2026 06:53:56 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-24 11:30:50Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a319378e7b7d514a3bd435e) | Ampirical | Duluth, GA | 08/20/2026 17:03:24 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Power Electronics Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8733548002) | Graphcore | Milpitas, California, United States | 08/20/2026 19:26:23 | Full-time status is inferred from the first-party posting |
 | 95 (Strong) | [Silicon Physical Design Engineer](https://jobright.ai/jobs/info/6a50e638ae4052672fe952b2) | Google | Sunnyvale, CA | 08/20/2026 18:31:51 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Hardware Engineer - E2](https://jobright.ai/jobs/info/6a831d80b5a0ac0e84a2387a) | Lockheed Martin | Boulder, CO | 08/20/2026 11:54:16 | Security clearance language is present; Sponsorship: No |
-| 77 (Strong) | [ASIC / FPGA Design Verification Engineer - (Associate or Experienced)](https://jobright.ai/jobs/info/6a8733f3d34f700f87fc421e) | Boeing | El Segundo, CA | 08/20/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a60f2faab14335fc0f16313) | Haag, a Salas O'Brien Company | Greenville, SC | 08/20/2026 16:53:26 | Sponsorship: Past Sponsorship |
