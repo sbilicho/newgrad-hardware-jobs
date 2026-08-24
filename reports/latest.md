@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-24 21:43:25Z UTC
+Updated: 2026-08-24 22:43:25Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 58 (Good) | [Chinese Bilingual Field Test Engineer (Entry Level)](https://jobright.ai/jobs/info/6a8cbdefd34f700f87fd26c0) | BTI Solutions | Dallas, TX | 08/24/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a8cbf1c25fc4e7ae3dba3c8) | Sargent & Lundy | Charlotte, NC | 08/24/2026 22:01:00 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [EMC Test Engineer / Electrical Engineer (Entry Level)](https://jobright.ai/jobs/info/6a8ca3491d96e6541c8c213c) | Tata Consultancy Services | Fremont, CA | 08/24/2026 20:02:17 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [EMC Test Engineer / Electrical Engineer (Entry Level)](https://jobright.ai/jobs/info/6a8cacf525fc4e7ae3db9d32) | Ventures Unlimited Inc | Fremont, CA | 08/24/2026 20:43:33 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Embedded Software Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6a8c97a8581f2d7bfdfe49e2) | Sopra Steria | East Hartford, CT | 08/24/2026 19:12:40 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-24 21:43:25Z UTC
 | 49 (Possible) | [Electrical Design Engineer (Entry-level/Associate) - Millennium Space Systems](https://jobright.ai/jobs/info/6a8776e2cde3717f9e9b2433) | Boeing | El Segundo, CA | 08/21/2026 08:50:33 | Sponsorship: No |
 | 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a886a06d34f700f87fc8720) | BAE Systems | Wayne, NJ | 08/21/2026 15:08:54 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 65 (Good) | [2026 Fulltime - Raytheon FPGA Electrical Engineer I](https://jobright.ai/jobs/info/6a886f72cde3717f9e9b531b) | Raytheon | Huntsville, AL | 08/21/2026 15:32:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I - Hybrid](https://jobright.ai/jobs/info/6a885827d34f700f87fc80a6) | Newcomb & Boyd, LLP | Chapel Hill, NC | 08/21/2026 13:52:39 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a885a414afae74a0834b315) | Paragon Energy Solutions | Fort Worth, TX | 08/21/2026 14:01:37 | Sponsorship: Past Sponsorship |
