@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-24 19:55:52Z UTC
+Updated: 2026-08-24 20:49:35Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 55 (Good) | [EMC Test Engineer / Electrical Engineer (Entry Level)](https://jobright.ai/jobs/info/6a8ca3491d96e6541c8c213c) | Tata Consultancy Services | Fremont, CA | 08/24/2026 20:02:17 | Sponsorship: Past Sponsorship |
+| 55 (Good) | [EMC Test Engineer / Electrical Engineer (Entry Level)](https://jobright.ai/jobs/info/6a8cacf525fc4e7ae3db9d32) | Ventures Unlimited Inc | Fremont, CA | 08/24/2026 20:43:33 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Embedded Software Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6a8c97a8581f2d7bfdfe49e2) | Sopra Steria | East Hartford, CT | 08/24/2026 19:12:40 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a493557971cd25b06f95071) | Dewberry | New York, NY | 08/24/2026 18:08:45 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Embedded Software Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6a8c97a9cde3717f9e9be1b8) | Sopra Steria | East Hartford, CT | 08/24/2026 19:12:41 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-24 19:55:52Z UTC
 | 65 (Good) | [2026 Fulltime - Raytheon FPGA Electrical Engineer I](https://jobright.ai/jobs/info/6a886f72cde3717f9e9b531b) | Raytheon | Huntsville, AL | 08/21/2026 15:32:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - Hybrid](https://jobright.ai/jobs/info/6a885827d34f700f87fc80a6) | Newcomb & Boyd, LLP | Chapel Hill, NC | 08/21/2026 13:52:39 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a885a414afae74a0834b315) | Paragon Energy Solutions | Fort Worth, TX | 08/21/2026 14:01:37 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Facilities Electrical Engineer I](https://jobright.ai/jobs/info/6a8863584afae74a0834b5e4) | Panasonic Appliances Refrigeration Systems de México S. A. de C. V. | De Soto, KS | 08/21/2026 14:40:24 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Electrical Engineer Entry-Level (Starting Summer 2027)](https://jobright.ai/jobs/info/6a885b91d34f700f87fc820c) | IFAB Engineering Partners Ltd. | Salt Lake City, UT | 08/21/2026 14:07:13 | Sponsorship: Past Sponsorship |
