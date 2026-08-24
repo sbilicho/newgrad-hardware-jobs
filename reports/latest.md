@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-24 18:38:41Z UTC
+Updated: 2026-08-24 19:55:52Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 62 (Good) | [Embedded Software Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6a8c97a8581f2d7bfdfe49e2) | Sopra Steria | East Hartford, CT | 08/24/2026 19:12:40 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a493557971cd25b06f95071) | Dewberry | New York, NY | 08/24/2026 18:08:45 | Sponsorship: Past Sponsorship |
+| 62 (Good) | [Embedded Software Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6a8c97a9cde3717f9e9be1b8) | Sopra Steria | East Hartford, CT | 08/24/2026 19:12:41 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a8c893925fc4e7ae3db8f42) | Dewberry | Fairfax, VA | 08/24/2026 13:46:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer (Secret Cleared)](https://jobright.ai/jobs/info/6a8c892cd34f700f87fd1236) | Latitude Inc | Manassas, VA | 08/24/2026 18:10:52 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a8c7aff1d96e6541c8c1282) | Bechtel Plant Machinery, Inc. (BPMI) | Monroeville, PA | 08/24/2026 10:10:23 | Sponsorship: Not Sure |
@@ -101,6 +104,3 @@ Updated: 2026-08-24 18:38:41Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a885a414afae74a0834b315) | Paragon Energy Solutions | Fort Worth, TX | 08/21/2026 14:01:37 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Facilities Electrical Engineer I](https://jobright.ai/jobs/info/6a8863584afae74a0834b5e4) | Panasonic Appliances Refrigeration Systems de México S. A. de C. V. | De Soto, KS | 08/21/2026 14:40:24 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Engineer Entry-Level (Starting Summer 2027)](https://jobright.ai/jobs/info/6a885b91d34f700f87fc820c) | IFAB Engineering Partners Ltd. | Salt Lake City, UT | 08/21/2026 14:07:13 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer, Launch Infrastructure (Starship)](https://boards.greenhouse.io/spacex/jobs/8737393002?gh_jid=8737393002) | SpaceX | Cape Canaveral, FL; Cape Canaveral, FL, United States | 08/21/2026 14:27:55 |  |
-| 71 (Strong) | [Associate Mixed Signal Design Engineer](https://jobright.ai/jobs/info/6a884756680f314a29d3b2d0) | Analog Devices | Wilmington, MA | 08/21/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Test Engineer I](https://jobright.ai/jobs/info/6a6ba8c257120971bf3a822c) | Goldbelt Frontier LLC | Frederick, MD | 08/21/2026 03:25:31 | Sponsorship: No |
