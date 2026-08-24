@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-24 22:43:25Z UTC
+Updated: 2026-08-24 23:35:09Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Electrical Engineer Entry-Level (Starting Summer 2027)](https://jobright.ai/jobs/info/6a8cca1c2f736c304f2a7dd7) | Dice | Springfield, MA | 08/24/2026 22:47:56 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a8cca11cde3717f9e9bf35d) | Naval Nuclear Laboratory (FMP) | West Milton, NY | 08/24/2026 22:47:45 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a8c0406e8b6601d1290d14b) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/24/2026 22:53:48 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a8ccf202f736c304f2a7fd1) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/24/2026 23:09:20 | Sponsorship: Past Sponsorship |
+| 58 (Good) | [Chinese Bilingual Field Test Engineer (Entry Level)](https://jobright.ai/jobs/info/6a8ccd33581f2d7bfdfe5d95) | BTI Solutions | Richardson, TX | 08/24/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [New College Grad - Engineer - HBM Design for Test (DFT)](https://jobright.ai/jobs/info/6a8cca00d34f700f87fd2a46) | Dice | Richardson, TX | 08/24/2026 22:47:28 | Sponsorship: Past Sponsorship |
 | 58 (Good) | [Chinese Bilingual Field Test Engineer (Entry Level)](https://jobright.ai/jobs/info/6a8cbdefd34f700f87fd26c0) | BTI Solutions | Dallas, TX | 08/24/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a8cbf1c25fc4e7ae3dba3c8) | Sargent & Lundy | Charlotte, NC | 08/24/2026 22:01:00 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [EMC Test Engineer / Electrical Engineer (Entry Level)](https://jobright.ai/jobs/info/6a8ca3491d96e6541c8c213c) | Tata Consultancy Services | Fremont, CA | 08/24/2026 20:02:17 | Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-08-24 22:43:25Z UTC
 | 49 (Possible) | [Facilities Electrical Engineer I](https://jobright.ai/jobs/info/6a887b67e8b6601d12906eac) | Panasonic Energy Corporation of North America | De Soto, KS | 08/21/2026 16:23:03 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8883bee8b6601d12907287) | BAE Systems, Inc. | Wayne, NJ | 08/21/2026 16:58:38 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 54 (Good) | [Systems Integration & Test Engineer I – Test Engineer and Scripting - Space Vehicles](https://jobright.ai/jobs/info/6a886d6bd34f700f87fc883f) | BAE Systems | Boulder, CO | 08/21/2026 08:23:23 | Sponsorship: Not Sure |
-| 63 (Good) | [Electrical Test and Reliability Engineer, Satellites (Starlink)](https://jobright.ai/jobs/info/6a6c186dc00ae03109f8778d) | SpaceX | Redmond, WA | 08/21/2026 08:41:24 | Sponsorship: No |
-| 37 (Possible) | [Assistant Electrical Engineer - Water (Chicago)](https://jobright.ai/jobs/info/6a5f303e42a5e6366266150b) | Burns & McDonnell | Chicago, IL | 08/21/2026 08:42:16 | Sponsorship: No |
-| 44 (Possible) | [Structural Test Engineer (Associate, Experienced, or Senior)](https://jobright.ai/jobs/info/6a874245680f314a29d37cf7) | Boeing | Tukwila, WA | 08/21/2026 08:48:21 | Security clearance language is present; Sponsorship: No |
-| 49 (Possible) | [Electrical Design Engineer (Entry-level/Associate) - Millennium Space Systems](https://jobright.ai/jobs/info/6a8776e2cde3717f9e9b2433) | Boeing | El Segundo, CA | 08/21/2026 08:50:33 | Sponsorship: No |
-| 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a886a06d34f700f87fc8720) | BAE Systems | Wayne, NJ | 08/21/2026 15:08:54 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 65 (Good) | [2026 Fulltime - Raytheon FPGA Electrical Engineer I](https://jobright.ai/jobs/info/6a886f72cde3717f9e9b531b) | Raytheon | Huntsville, AL | 08/21/2026 15:32:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
