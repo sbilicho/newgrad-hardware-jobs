@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-25 02:47:43Z UTC
+Updated: 2026-08-25 03:56:20Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer – Entry Level (Hybrid)](https://jobright.ai/jobs/info/6a6d16efba7efe79c2f686c5) | Barr Engineering Co. | Minneapolis, MN | 08/22/2026 21:33:22 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Entry Level QA/Test Engineer-Poughkeepsie-NY](https://jobright.ai/jobs/info/6a8cfb62cde3717f9e9bfe01) | IBM | Poughkeepsie, NY | 08/25/2026 02:18:10 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Controls Engineer](https://jobright.ai/jobs/info/6a8cac651d96e6541c8c250f) | Daikin Applied Americas | Staunton, VA | 08/24/2026 17:42:09 | Sponsorship: No |
 | 44 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a8ce530cde3717f9e9bfa46) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/24/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-25 02:47:43Z UTC
 | 68 (Good) | [Graduate - Validation Engineer](https://jobright.ai/jobs/info/6a88b9cbd34f700f87fca32a) | Infineon Technologies | San Jose, CA | 08/21/2026 20:49:15 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level ATM Electrical Engineer](https://jobright.ai/jobs/info/6a4e7c6c0ea38951a6ff354c) | Haag, a Salas O'Brien Company | Green Bay, WI | 08/21/2026 16:08:06 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Construction Electrical Engineer I & II - Solar](https://jobright.ai/jobs/info/6a888e3ecde3717f9e9b5daa) | Mortenson | Minneapolis, MN | 08/21/2026 17:43:26 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a88951a680f314a29d3cbdb) | TRC Companies, Inc. | Houston, TX | 08/21/2026 18:12:42 | Sponsorship: Past Sponsorship |
