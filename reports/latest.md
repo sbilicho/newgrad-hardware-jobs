@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-25 01:45:40Z UTC
+Updated: 2026-08-25 02:47:43Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 50 (Good) | [Entry Level QA/Test Engineer-Poughkeepsie-NY](https://jobright.ai/jobs/info/6a8cfb62cde3717f9e9bfe01) | IBM | Poughkeepsie, NY | 08/25/2026 02:18:10 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Controls Engineer](https://jobright.ai/jobs/info/6a8cac651d96e6541c8c250f) | Daikin Applied Americas | Staunton, VA | 08/24/2026 17:42:09 | Sponsorship: No |
 | 44 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a8ce530cde3717f9e9bfa46) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/24/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6a879f8dd34f700f87fc6520) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 08/24/2026 23:20:22 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Engineer Entry-Level (Starting Summer 2027)](https://jobright.ai/jobs/info/6a8cca1c2f736c304f2a7dd7) | Dice | Springfield, MA | 08/24/2026 22:47:56 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-25 01:45:40Z UTC
 | 37 (Possible) | [Entry Level ATM Electrical Engineer](https://jobright.ai/jobs/info/6a4e7c6c0ea38951a6ff354c) | Haag, a Salas O'Brien Company | Green Bay, WI | 08/21/2026 16:08:06 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Construction Electrical Engineer I & II - Solar](https://jobright.ai/jobs/info/6a888e3ecde3717f9e9b5daa) | Mortenson | Minneapolis, MN | 08/21/2026 17:43:26 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a88951a680f314a29d3cbdb) | TRC Companies, Inc. | Houston, TX | 08/21/2026 18:12:42 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Structural Test Engineer (Associate, Experienced, or Senior)](https://jobright.ai/jobs/info/6a87458325fc4e7ae3dac43f) | Boeing | Tukwila, WA | 08/21/2026 08:48:21 | Security clearance language is present; Sponsorship: No |
-| 49 (Possible) | [Facilities Electrical Engineer I](https://jobright.ai/jobs/info/6a887b67e8b6601d12906eac) | Panasonic Energy Corporation of North America | De Soto, KS | 08/21/2026 16:23:03 | Sponsorship: Past Sponsorship |
