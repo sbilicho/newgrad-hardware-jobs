@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-25 11:40:14Z UTC
+Updated: 2026-08-25 12:49:42Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer 1](https://jobright.ai/jobs/info/6a8769084afae74a08348763) | Westinghouse Electric Company | Rock Hill, SC | 08/25/2026 03:44:26 | Sponsorship: Not Sure |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a767ce4bb6ca93ae5612c72) | Westinghouse Electric Company | Cranberry Township, PA | 08/25/2026 03:44:26 | Sponsorship: Not Sure |
+| 37 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a8d8d51a5639a4810326219) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/25/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer - PCB Engineer I](https://jobright.ai/jobs/info/6a76da3867a1ad0bc53cb631) | Milwaukee Tool | Brookfield, WI | 08/25/2026 09:15:55 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a78e7da4817aa430704c38b) | Westinghouse Electric Company | Cranberry Township, PA | 08/25/2026 10:44:26 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [Associate Design Verification Engineer](https://jobright.ai/jobs/info/6a8d74cd2f736c304f2a97eb) | Analog Devices | Dallas, TX | 08/25/2026 11:09:38 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-25 11:40:14Z UTC
 | 46 (Possible) | [Electrical Engineer Entry-Level (Starting Summer 2027)](https://jobright.ai/jobs/info/6a88e77be8b6601d12909250) | Dennis Group | Salt Lake City, UT | 08/21/2026 08:43:55 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Associate Product Engineer (Product Development)](https://jobright.ai/jobs/info/6a889ce8d34f700f87fc987b) | Analog Devices | Wilmington, MA; Durham, NC | 08/21/2026 16:09:34 | Sponsorship: Not Sure |
 | 96 (Strong) | [Physical Design Engineer](https://jobright.ai/jobs/info/6a88d527680f314a29d3e2ef) | Altera | San Jose, CA | 08/21/2026 16:18:39 | Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer - Design](https://jobright.ai/jobs/info/6a88c2634afae74a0834d7c6) | Shermco Industries | Cedar Park, TX | 08/21/2026 16:27:02 | Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer - Design](https://jobright.ai/jobs/info/6a88c263cde3717f9e9b70a9) | Shermco Industries | Cedar Park, TX | 08/21/2026 16:27:02 | Sponsorship: No |
-| 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a88a8b1680f314a29d3d23c) | Oshkosh Corporation | Oshkosh, WI | 08/21/2026 16:31:31 | Sponsorship: Not Sure |
