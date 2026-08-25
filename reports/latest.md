@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-25 14:21:53Z UTC
+Updated: 2026-08-25 15:21:49Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a8da9cf47679c68bf5e3bb5) | Whitman, Requardt and Associates, LLP | Fairfax, VA | 08/25/2026 14:14:59 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8daef8581f2d7bfdfe8595) | Sterling Engineering | Darien, WI | 08/25/2026 15:04:24 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Lighting/Electrical Engineer](https://jobright.ai/jobs/info/6a8db195a5639a4810326e79) | Jacobs | Chicago, IL | 08/25/2026 15:15:33 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Test Engineer I](https://jobright.ai/jobs/info/6a70c18971acd469eed9f66a) | GRAYHILL | McCook, IL | 08/25/2026 07:37:23 | Sponsorship: Not Sure |
 | 43 (Possible) | [Entry Level Electrical Engineer - System Planning](https://jobright.ai/jobs/info/6a4422440153061b8b3df591) | SEnergy | Boerne, TX | 08/25/2026 13:05:43 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer (Industrial)](https://jobright.ai/jobs/info/6a8d9a3947679c68bf5e36cc) | Carollo Engineers | Boise, ID | 08/25/2026 13:35:53 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer (Industrial)](https://jobright.ai/jobs/info/6a8d999825fc4e7ae3dbc820) | Carollo Engineers | Boise, ID | 08/25/2026 13:33:12 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-08-25 14:21:53Z UTC
 | 90 (Strong) | [Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a164b22a429fd279da9750f) | NVIDIA | California State | 08/21/2026 18:25:27 | Sponsorship: Past Sponsorship |
 | 36 (Possible) | [New College Grad - Design Engineer, DRAM Technology and Products](https://jobright.ai/jobs/info/6a87458f4afae74a083479a3) | Micron Technology | Boise, ID | 08/22/2026 09:12:17 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Senior Electrical Design Engineer I (MEP)](https://jobright.ai/jobs/info/6a7661a07b3417772ade831a) | Interface Engineering, Inc. | Oakland, CA | 08/22/2026 06:51:08 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8946c54afae74a0834e757) | Bowman Consulting | Towson, MD | 08/22/2026 06:50:45 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineering Associate I / Electrical Engineer I / Senior Electrical Engineer I](https://jobright.ai/jobs/info/6a8933eed34f700f87fcb4be) | North Carolina Department of Agriculture and Consumer Services | Lubbock, TX | 08/22/2026 05:30:22 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Engineer I - Electrical Engineer (Legacy Program)](https://jobright.ai/jobs/info/6a8923b125fc4e7ae3db3056) | Arizona Public Service - APS | Tonopah, AZ | 08/22/2026 04:21:05 | Sponsorship: Past Sponsorship |
-| 68 (Good) | [Graduate - Validation Engineer](https://jobright.ai/jobs/info/6a88bc164afae74a0834d555) | Infineon Technologies | San Jose, CA | 08/21/2026 20:59:02 | Sponsorship: Past Sponsorship |
