@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-25 10:31:58Z UTC
+Updated: 2026-08-25 11:40:14Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 45 (Possible) | [Electrical Engineer - PCB Engineer I](https://jobright.ai/jobs/info/6a76da3867a1ad0bc53cb631) | Milwaukee Tool | Brookfield, WI | 08/25/2026 09:15:55 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a78e7da4817aa430704c38b) | Westinghouse Electric Company | Cranberry Township, PA | 08/25/2026 10:44:26 | Sponsorship: Past Sponsorship |
+| 89 (Strong) | [Associate Design Verification Engineer](https://jobright.ai/jobs/info/6a8d74cd2f736c304f2a97eb) | Analog Devices | Dallas, TX | 08/25/2026 11:09:38 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Flight Test Engineer](https://jobright.ai/jobs/info/6a5217218a74e077472f3070) | Anduril Industries | Costa Mesa, CA | 08/24/2026 23:44:55 | Sponsorship: Not Sure |
 | 47 (Possible) | [Validation Engineer (Automotive)](https://jobright.ai/jobs/info/6a355bbbf6b55d12c791f78d) | F.tech R&D North America, Inc. | Troy, OH; Troy, MI | 08/24/2026 23:52:05 | Sponsorship: No |
 | 48 (Possible) | [Senior Electrical Engineer I - Secret Clearance](https://jobright.ai/jobs/info/6a628d4107e15f1ab0e471a9) | Rocket Lab | Long Beach, CA | 08/25/2026 07:39:36 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-25 10:31:58Z UTC
 | 37 (Possible) | [Electrical Engineer - Design](https://jobright.ai/jobs/info/6a88c2634afae74a0834d7c6) | Shermco Industries | Cedar Park, TX | 08/21/2026 16:27:02 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer - Design](https://jobright.ai/jobs/info/6a88c263cde3717f9e9b70a9) | Shermco Industries | Cedar Park, TX | 08/21/2026 16:27:02 | Sponsorship: No |
 | 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a88a8b1680f314a29d3d23c) | Oshkosh Corporation | Oshkosh, WI | 08/21/2026 16:31:31 | Sponsorship: Not Sure |
-| 49 (Possible) | [Electronics Engineer I](https://jobright.ai/jobs/info/6a88e18ad34f700f87fcaeab) | Pratt Miller | New Hudson, MI | 08/21/2026 23:38:50 | Sponsorship: Past Sponsorship |
-| 35 (Possible) | [Junior Engineer, FPGA](https://jobright.ai/jobs/info/6a26ef0c7d827633afff77a2) | NIKSUN | Princeton, NJ | 08/21/2026 14:50:29 | Sponsorship: Not Sure |
-| 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a88d49a4afae74a0834ddbd) | Dice | Chattanooga, TN | 08/21/2026 22:43:38 | Sponsorship: Past Sponsorship |
