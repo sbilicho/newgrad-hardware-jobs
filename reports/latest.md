@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-25 15:21:49Z UTC
+Updated: 2026-08-25 16:59:55Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 30 (Possible) | [Electrical/Computer Engineer, Level 1](https://jobright.ai/jobs/info/6a8dbd7f581f2d7bfdfe8a59) | ASRC Federal | Oklahoma City, OK | 08/25/2026 04:00:00 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 55 (Good) | [EMC Test Engineer (Entry-Level)](https://jobright.ai/jobs/info/6a8dc35147679c68bf5e46ed) | Voto Consulting LLC | Fremont, CA | 08/25/2026 16:31:13 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a8da9cf47679c68bf5e3bb5) | Whitman, Requardt and Associates, LLP | Fairfax, VA | 08/25/2026 14:14:59 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8daef8581f2d7bfdfe8595) | Sterling Engineering | Darien, WI | 08/25/2026 15:04:24 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Lighting/Electrical Engineer](https://jobright.ai/jobs/info/6a8db195a5639a4810326e79) | Jacobs | Chicago, IL | 08/25/2026 15:15:33 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-25 15:21:49Z UTC
 | 41 (Possible) | [Engineer- Electrical Engineer Functional Safety](https://jobright.ai/jobs/info/6a63948a979290281c702d45) | UL Solutions | Northbrook, IL | 08/22/2026 08:01:26 | Sponsorship: Not Sure |
 | 47 (Possible) | [Avionics Integration & Test Engineer (Starshield)](https://jobright.ai/jobs/info/6a524276d007ee02d95f6cdd) | SpaceX | Hawthorne, CA | 08/22/2026 06:51:25 | Sponsorship: No |
 | 90 (Strong) | [Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a164b22a429fd279da9750f) | NVIDIA | California State | 08/21/2026 18:25:27 | Sponsorship: Past Sponsorship |
-| 36 (Possible) | [New College Grad - Design Engineer, DRAM Technology and Products](https://jobright.ai/jobs/info/6a87458f4afae74a083479a3) | Micron Technology | Boise, ID | 08/22/2026 09:12:17 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Senior Electrical Design Engineer I (MEP)](https://jobright.ai/jobs/info/6a7661a07b3417772ade831a) | Interface Engineering, Inc. | Oakland, CA | 08/22/2026 06:51:08 | Sponsorship: Past Sponsorship |
