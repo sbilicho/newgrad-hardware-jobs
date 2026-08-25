@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-25 20:49:53Z UTC
+Updated: 2026-08-25 21:55:50Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Electrical Engineer I - Test Equipment Maintenance](https://jobright.ai/jobs/info/6a8e0744d34f700f87fd78da) | Raytheon | Andover, MA | 08/25/2026 21:21:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 64 (Good) | [New College Grad - Embedded Firmware Engineer](https://jobright.ai/jobs/info/6a8e02b347679c68bf5e62bf) | Micron Technology | Boise, ID | 08/25/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 61 (Good) | [New College Grad - ENGINEER, SIG ELECTRICAL DESIGN](https://jobright.ai/jobs/info/6a8e02d647679c68bf5e62d4) | Micron Technology | Boise, ID | 08/25/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a8dfdfc47679c68bf5e601c) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/25/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Validation Engineer I](https://jobright.ai/jobs/info/6a8dee0ecc0cf270685261e9) | Alcami Corporation | Pepperell, MA | 08/25/2026 12:33:34 | Sponsorship: Not Sure |
 | 51 (Good) | [Reliability Engineer](https://jobright.ai/jobs/info/6a8dc7d3a5639a48103279b2) | Helion | Columbia, SC | 08/25/2026 16:50:27 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-25 20:49:53Z UTC
 | 52 (Good) | [2027 Entry Level Gas Turbine Product Engineer (GTPE)](https://jobright.ai/jobs/info/6a6c077032f9300c3a3e20d7) | Solar Turbines | San Diego, CA | 08/22/2026 16:26:34 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [RF Test Engineer (Starlink/Akoustis)](https://jobright.ai/jobs/info/6a51afddae4052672fe9900c) | SpaceX | Canandaigua, NY | 08/22/2026 09:34:47 | Sponsorship: No |
 | 47 (Possible) | [Validation - Engineer I/II - Project Farma](https://jobright.ai/jobs/info/6a5480c8d007ee02d95fefce) | PerkinElmer | IN, United States of America; KS, United States of America; MN, United States; MO, United States; OH, United States; Illinois, United States | 08/22/2026 08:32:29 | Sponsorship: No |
-| 47 (Possible) | [Validation - Engineer II - Project Farma](https://jobright.ai/jobs/info/6a35de187f3fdd180d4ceed0) | PerkinElmer | United States | 08/22/2026 08:32:29 | Sponsorship: No |
-| 47 (Possible) | [Validation Engineer - Project Farma](https://jobright.ai/jobs/info/6a578b5521f64463ad359af3) | PerkinElmer | United States | 08/22/2026 08:39:37 | Sponsorship: No |
-| 47 (Possible) | [Validation Engineer - Project Farma](https://jobright.ai/jobs/info/6a15f090dc845f4be5bda84a) | PerkinElmer | United States | 08/22/2026 08:39:37 | Sponsorship: No |
