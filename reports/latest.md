@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-25 21:55:50Z UTC
+Updated: 2026-08-25 22:49:14Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 47 (Possible) | [Test Engineer (Elect/I&C) Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a2ce317c260bb1b8ae17f6c) | Westinghouse Electric Company | Bridgman, MI | 08/25/2026 18:58:04 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a8e142bd34f700f87fd7cbc) | Torus | Salt Lake City, UT | 08/25/2026 22:16:11 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer I - Test Equipment Maintenance](https://jobright.ai/jobs/info/6a8e0744d34f700f87fd78da) | Raytheon | Andover, MA | 08/25/2026 21:21:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 64 (Good) | [New College Grad - Embedded Firmware Engineer](https://jobright.ai/jobs/info/6a8e02b347679c68bf5e62bf) | Micron Technology | Boise, ID | 08/25/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 61 (Good) | [New College Grad - ENGINEER, SIG ELECTRICAL DESIGN](https://jobright.ai/jobs/info/6a8e02d647679c68bf5e62d4) | Micron Technology | Boise, ID | 08/25/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-25 21:55:50Z UTC
 | 54 (Good) | [Sr Electrical Engineer I](https://jobright.ai/jobs/info/6a530f789fbdab22fe13e177) | Axon | Scottsdale, AZ | 08/22/2026 18:11:37 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Timing Engineer](https://jobright.ai/jobs/info/6a7325371ce9647cdbca678d) | City of New York | Queens, NY, United States | 08/22/2026 09:58:52 | Sponsorship: No |
 | 52 (Good) | [2027 Entry Level Gas Turbine Product Engineer (GTPE)](https://jobright.ai/jobs/info/6a6c077032f9300c3a3e20d7) | Solar Turbines | San Diego, CA | 08/22/2026 16:26:34 | Sponsorship: Past Sponsorship |
-| 59 (Good) | [RF Test Engineer (Starlink/Akoustis)](https://jobright.ai/jobs/info/6a51afddae4052672fe9900c) | SpaceX | Canandaigua, NY | 08/22/2026 09:34:47 | Sponsorship: No |
-| 47 (Possible) | [Validation - Engineer I/II - Project Farma](https://jobright.ai/jobs/info/6a5480c8d007ee02d95fefce) | PerkinElmer | IN, United States of America; KS, United States of America; MN, United States; MO, United States; OH, United States; Illinois, United States | 08/22/2026 08:32:29 | Sponsorship: No |
