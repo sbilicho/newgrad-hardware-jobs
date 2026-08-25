@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-25 12:49:42Z UTC
+Updated: 2026-08-25 14:21:53Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 43 (Possible) | [Entry Level Electrical Engineer - System Planning](https://jobright.ai/jobs/info/6a4422440153061b8b3df591) | SEnergy | Boerne, TX | 08/25/2026 13:05:43 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer (Industrial)](https://jobright.ai/jobs/info/6a8d9a3947679c68bf5e36cc) | Carollo Engineers | Boise, ID | 08/25/2026 13:35:53 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer (Industrial)](https://jobright.ai/jobs/info/6a8d999825fc4e7ae3dbc820) | Carollo Engineers | Boise, ID | 08/25/2026 13:33:12 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer 1](https://jobright.ai/jobs/info/6a8769084afae74a08348763) | Westinghouse Electric Company | Rock Hill, SC | 08/25/2026 03:44:26 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a767ce4bb6ca93ae5612c72) | Westinghouse Electric Company | Cranberry Township, PA | 08/25/2026 03:44:26 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a8d8d51a5639a4810326219) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/25/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-25 12:49:42Z UTC
 | 41 (Possible) | [Electrical Engineering Associate I / Electrical Engineer I / Senior Electrical Engineer I](https://jobright.ai/jobs/info/6a8933eed34f700f87fcb4be) | North Carolina Department of Agriculture and Consumer Services | Lubbock, TX | 08/22/2026 05:30:22 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Engineer I - Electrical Engineer (Legacy Program)](https://jobright.ai/jobs/info/6a8923b125fc4e7ae3db3056) | Arizona Public Service - APS | Tonopah, AZ | 08/22/2026 04:21:05 | Sponsorship: Past Sponsorship |
 | 68 (Good) | [Graduate - Validation Engineer](https://jobright.ai/jobs/info/6a88bc164afae74a0834d555) | Infineon Technologies | San Jose, CA | 08/21/2026 20:59:02 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Electrical Engineer Entry-Level (Starting Summer 2027)](https://jobright.ai/jobs/info/6a88e77be8b6601d12909250) | Dennis Group | Salt Lake City, UT | 08/21/2026 08:43:55 | Sponsorship: Past Sponsorship |
-| 59 (Good) | [Associate Product Engineer (Product Development)](https://jobright.ai/jobs/info/6a889ce8d34f700f87fc987b) | Analog Devices | Wilmington, MA; Durham, NC | 08/21/2026 16:09:34 | Sponsorship: Not Sure |
-| 96 (Strong) | [Physical Design Engineer](https://jobright.ai/jobs/info/6a88d527680f314a29d3e2ef) | Altera | San Jose, CA | 08/21/2026 16:18:39 | Sponsorship: No |
