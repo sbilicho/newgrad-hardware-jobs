@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-25 22:49:14Z UTC
+Updated: 2026-08-25 23:49:11Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 49 (Possible) | [Facilities Electrical Engineer I](https://jobright.ai/jobs/info/6a8e257c581f2d7bfdfeb361) | Panasonic Energy Corporation of North America | De Soto, KS | 08/25/2026 23:30:04 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [Mechanical Engineer, Mechatronic Hardware Validation](https://jobright.ai/jobs/info/6a8e12a5d34f700f87fd7c29) | Tesla | Palo Alto, CA | 08/25/2026 15:09:41 | Sponsorship: Not Sure |
 | 47 (Possible) | [Test Engineer (Elect/I&C) Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a2ce317c260bb1b8ae17f6c) | Westinghouse Electric Company | Bridgman, MI | 08/25/2026 18:58:04 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a8e142bd34f700f87fd7cbc) | Torus | Salt Lake City, UT | 08/25/2026 22:16:11 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer I - Test Equipment Maintenance](https://jobright.ai/jobs/info/6a8e0744d34f700f87fd78da) | Raytheon | Andover, MA | 08/25/2026 21:21:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-25 22:49:14Z UTC
 | 46 (Possible) | [Associate Electrical Design Engineer](https://jobright.ai/jobs/info/6a55f9edefb06a45240d27f6) | Kenworth Truck Co. | Kirkland, WA | 08/22/2026 11:19:35 | Sponsorship: No |
 | 46 (Possible) | [Associate Electrical Design Engineer Job Details \| PACCAR](https://jobright.ai/jobs/info/6a32969829c90c607e4d723e) | Kenworth Truck Co. | Kirkland, WA | 08/22/2026 11:19:35 | Sponsorship: No |
 | 54 (Good) | [Sr Electrical Engineer I](https://jobright.ai/jobs/info/6a530f789fbdab22fe13e177) | Axon | Scottsdale, AZ | 08/22/2026 18:11:37 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [Timing Engineer](https://jobright.ai/jobs/info/6a7325371ce9647cdbca678d) | City of New York | Queens, NY, United States | 08/22/2026 09:58:52 | Sponsorship: No |
-| 52 (Good) | [2027 Entry Level Gas Turbine Product Engineer (GTPE)](https://jobright.ai/jobs/info/6a6c077032f9300c3a3e20d7) | Solar Turbines | San Diego, CA | 08/22/2026 16:26:34 | Sponsorship: Past Sponsorship |
