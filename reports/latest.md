@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-25 19:45:08Z UTC
+Updated: 2026-08-25 20:49:53Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a8dfdfc47679c68bf5e601c) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/25/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Validation Engineer I](https://jobright.ai/jobs/info/6a8dee0ecc0cf270685261e9) | Alcami Corporation | Pepperell, MA | 08/25/2026 12:33:34 | Sponsorship: Not Sure |
 | 51 (Good) | [Reliability Engineer](https://jobright.ai/jobs/info/6a8dc7d3a5639a48103279b2) | Helion | Columbia, SC | 08/25/2026 16:50:27 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Reliability Engineer](https://jobright.ai/jobs/info/6a8dca2ed34f700f87fd60ba) | Reckitt | Evansville, IN | 08/25/2026 10:00:30 | Sponsorship: Not Sure |
 | 51 (Good) | [Reliability Engineer Job Details \| Reckitt](https://jobright.ai/jobs/info/6a8dcac3a5639a4810327b67) | Reckitt | Evansville, IN | 08/25/2026 10:02:59 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-08-25 19:45:08Z UTC
 | 47 (Possible) | [Validation - Engineer II - Project Farma](https://jobright.ai/jobs/info/6a35de187f3fdd180d4ceed0) | PerkinElmer | United States | 08/22/2026 08:32:29 | Sponsorship: No |
 | 47 (Possible) | [Validation Engineer - Project Farma](https://jobright.ai/jobs/info/6a578b5521f64463ad359af3) | PerkinElmer | United States | 08/22/2026 08:39:37 | Sponsorship: No |
 | 47 (Possible) | [Validation Engineer - Project Farma](https://jobright.ai/jobs/info/6a15f090dc845f4be5bda84a) | PerkinElmer | United States | 08/22/2026 08:39:37 | Sponsorship: No |
-| 53 (Good) | [Electrical Engineer I-III, Systems](https://jobright.ai/jobs/info/6a561ac1f7517b519ad53c77) | True Anomaly | Centennial, CO; Long Beach, CA | 08/22/2026 08:51:40 | Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a5042164649561ec08b0d66) | Freeport-McMoRan | Morenci, AZ; Safford, AZ | 08/22/2026 09:13:18 | Sponsorship: Not Sure |
