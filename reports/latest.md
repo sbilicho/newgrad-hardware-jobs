@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-24 23:35:09Z UTC
+Updated: 2026-08-25 01:45:40Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a8ce530cde3717f9e9bfa46) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/24/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6a879f8dd34f700f87fc6520) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 08/24/2026 23:20:22 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Engineer Entry-Level (Starting Summer 2027)](https://jobright.ai/jobs/info/6a8cca1c2f736c304f2a7dd7) | Dice | Springfield, MA | 08/24/2026 22:47:56 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a8cca11cde3717f9e9bf35d) | Naval Nuclear Laboratory (FMP) | West Milton, NY | 08/24/2026 22:47:45 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a8c0406e8b6601d1290d14b) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/24/2026 22:53:48 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-24 23:35:09Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a88951a680f314a29d3cbdb) | TRC Companies, Inc. | Houston, TX | 08/21/2026 18:12:42 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Structural Test Engineer (Associate, Experienced, or Senior)](https://jobright.ai/jobs/info/6a87458325fc4e7ae3dac43f) | Boeing | Tukwila, WA | 08/21/2026 08:48:21 | Security clearance language is present; Sponsorship: No |
 | 49 (Possible) | [Facilities Electrical Engineer I](https://jobright.ai/jobs/info/6a887b67e8b6601d12906eac) | Panasonic Energy Corporation of North America | De Soto, KS | 08/21/2026 16:23:03 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8883bee8b6601d12907287) | BAE Systems, Inc. | Wayne, NJ | 08/21/2026 16:58:38 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 54 (Good) | [Systems Integration & Test Engineer I – Test Engineer and Scripting - Space Vehicles](https://jobright.ai/jobs/info/6a886d6bd34f700f87fc883f) | BAE Systems | Boulder, CO | 08/21/2026 08:23:23 | Sponsorship: Not Sure |
