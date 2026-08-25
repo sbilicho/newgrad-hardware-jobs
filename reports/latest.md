@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-25 03:56:20Z UTC
+Updated: 2026-08-25 05:06:10Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Associate Controls Engineer](https://jobright.ai/jobs/info/6a8d0896d34f700f87fd372c) | Tesla | Buffalo, NY | 08/24/2026 20:14:30 | Sponsorship: Not Sure |
+| 64 (Good) | [Application Validation Engineer](https://jobright.ai/jobs/info/6a5ec0f4f29acc1a1174960a) | Supermicro | San Jose, CA | 08/24/2026 20:49:38 | Sponsorship: Not Sure |
+| 64 (Good) | [Application Validation Engineer](https://jobright.ai/jobs/info/6a5ec080050c423c792f10a7) | Supermicro | San Jose, CA | 08/24/2026 20:49:38 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer – Entry Level (Hybrid)](https://jobright.ai/jobs/info/6a6d16efba7efe79c2f686c5) | Barr Engineering Co. | Minneapolis, MN | 08/22/2026 21:33:22 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Entry Level QA/Test Engineer-Poughkeepsie-NY](https://jobright.ai/jobs/info/6a8cfb62cde3717f9e9bfe01) | IBM | Poughkeepsie, NY | 08/25/2026 02:18:10 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Controls Engineer](https://jobright.ai/jobs/info/6a8cac651d96e6541c8c250f) | Daikin Applied Americas | Staunton, VA | 08/24/2026 17:42:09 | Sponsorship: No |
@@ -101,6 +104,3 @@ Updated: 2026-08-25 03:56:20Z UTC
 | 51 (Good) | [Senior Electrical Engineer I/II](https://jobright.ai/jobs/info/6a88b437680f314a29d3d5e0) | Rocket Lab | Pasadena, CA | 08/21/2026 20:25:27 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [ELECTRICAL ENGINEER I](https://jobright.ai/jobs/info/6a88b916e8b6601d12908531) | Triangle Package Machinery Co. | Chicago, IL | 08/21/2026 20:46:14 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [New College Grad - Engineer - HBM Design for Test (DFT)](https://jobright.ai/jobs/info/6a88b6b64afae74a0834d273) | Micron Technology | Richardson, TX | 08/21/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 68 (Good) | [Graduate - Validation Engineer](https://jobright.ai/jobs/info/6a88b9cbd34f700f87fca32a) | Infineon Technologies | San Jose, CA | 08/21/2026 20:49:15 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level ATM Electrical Engineer](https://jobright.ai/jobs/info/6a4e7c6c0ea38951a6ff354c) | Haag, a Salas O'Brien Company | Green Bay, WI | 08/21/2026 16:08:06 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Construction Electrical Engineer I & II - Solar](https://jobright.ai/jobs/info/6a888e3ecde3717f9e9b5daa) | Mortenson | Minneapolis, MN | 08/21/2026 17:43:26 | Sponsorship: Past Sponsorship |
