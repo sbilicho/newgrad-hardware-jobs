@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-25 07:26:02Z UTC
+Updated: 2026-08-25 09:03:57Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 54 (Good) | [Flight Test Engineer](https://jobright.ai/jobs/info/6a5217218a74e077472f3070) | Anduril Industries | Costa Mesa, CA | 08/24/2026 23:44:55 | Sponsorship: Not Sure |
+| 47 (Possible) | [Validation Engineer (Automotive)](https://jobright.ai/jobs/info/6a355bbbf6b55d12c791f78d) | F.tech R&D North America, Inc. | Troy, OH; Troy, MI | 08/24/2026 23:52:05 | Sponsorship: No |
+| 48 (Possible) | [Senior Electrical Engineer I - Secret Clearance](https://jobright.ai/jobs/info/6a628d4107e15f1ab0e471a9) | Rocket Lab | Long Beach, CA | 08/25/2026 07:39:36 | Sponsorship: Past Sponsorship |
 | 83 (Strong) | [CPU Verification Engineer](https://jobright.ai/jobs/info/6a8d1a782f736c304f2a8ca7) | Apple | Austin, TX; Santa Clara, CA | 08/24/2026 21:30:48 | Sponsorship: Not Sure |
 | 37 (Possible) | [Avionics Components Electrical Engineer 1 Job Details \| United Launch Alliance](https://jobright.ai/jobs/info/6a8d21dca5639a481032551f) | United Launch Alliance (ULA) | Centennial, CO | 08/24/2026 22:02:20 | Sponsorship: No |
 | 37 (Possible) | [Associate Controls Engineer](https://jobright.ai/jobs/info/6a8d0896d34f700f87fd372c) | Tesla | Buffalo, NY | 08/24/2026 20:14:30 | Sponsorship: Not Sure |
@@ -101,6 +104,3 @@ Updated: 2026-08-25 07:26:02Z UTC
 | 49 (Possible) | [Electronics Engineer I](https://jobright.ai/jobs/info/6a88e18ad34f700f87fcaeab) | Pratt Miller | New Hudson, MI | 08/21/2026 23:38:50 | Sponsorship: Past Sponsorship |
 | 35 (Possible) | [Junior Engineer, FPGA](https://jobright.ai/jobs/info/6a26ef0c7d827633afff77a2) | NIKSUN | Princeton, NJ | 08/21/2026 14:50:29 | Sponsorship: Not Sure |
 | 41 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6a88d49a4afae74a0834ddbd) | Dice | Chattanooga, TN | 08/21/2026 22:43:38 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a88d49625fc4e7ae3db29fe) | Dice | Minneapolis, MN | 08/21/2026 22:43:34 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level ATM Electrical Engineer](https://jobright.ai/jobs/info/6a4e9f4c397d8d353c289b68) | Salas O'Brien | Green Bay, WI | 08/21/2026 16:30:19 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [Senior Electrical Engineer I/II](https://jobright.ai/jobs/info/6a88b437680f314a29d3d5e0) | Rocket Lab | Pasadena, CA | 08/21/2026 20:25:27 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
