@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-25 05:06:10Z UTC
+Updated: 2026-08-25 06:20:57Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 83 (Strong) | [CPU Verification Engineer](https://jobright.ai/jobs/info/6a8d1a782f736c304f2a8ca7) | Apple | Austin, TX; Santa Clara, CA | 08/24/2026 21:30:48 | Sponsorship: Not Sure |
+| 37 (Possible) | [Avionics Components Electrical Engineer 1 Job Details \| United Launch Alliance](https://jobright.ai/jobs/info/6a8d21dca5639a481032551f) | United Launch Alliance (ULA) | Centennial, CO | 08/24/2026 22:02:20 | Sponsorship: No |
 | 37 (Possible) | [Associate Controls Engineer](https://jobright.ai/jobs/info/6a8d0896d34f700f87fd372c) | Tesla | Buffalo, NY | 08/24/2026 20:14:30 | Sponsorship: Not Sure |
 | 64 (Good) | [Application Validation Engineer](https://jobright.ai/jobs/info/6a5ec0f4f29acc1a1174960a) | Supermicro | San Jose, CA | 08/24/2026 20:49:38 | Sponsorship: Not Sure |
 | 64 (Good) | [Application Validation Engineer](https://jobright.ai/jobs/info/6a5ec080050c423c792f10a7) | Supermicro | San Jose, CA | 08/24/2026 20:49:38 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-08-25 05:06:10Z UTC
 | 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a88d49625fc4e7ae3db29fe) | Dice | Minneapolis, MN | 08/21/2026 22:43:34 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level ATM Electrical Engineer](https://jobright.ai/jobs/info/6a4e9f4c397d8d353c289b68) | Salas O'Brien | Green Bay, WI | 08/21/2026 16:30:19 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Senior Electrical Engineer I/II](https://jobright.ai/jobs/info/6a88b437680f314a29d3d5e0) | Rocket Lab | Pasadena, CA | 08/21/2026 20:25:27 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [ELECTRICAL ENGINEER I](https://jobright.ai/jobs/info/6a88b916e8b6601d12908531) | Triangle Package Machinery Co. | Chicago, IL | 08/21/2026 20:46:14 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [New College Grad - Engineer - HBM Design for Test (DFT)](https://jobright.ai/jobs/info/6a88b6b64afae74a0834d273) | Micron Technology | Richardson, TX | 08/21/2026 00:00:00 | Sponsorship: Past Sponsorship |
