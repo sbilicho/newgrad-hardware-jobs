@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-26 00:49:08Z UTC
+Updated: 2026-08-26 01:55:54Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 56 (Good) | [Entry Level Embedded Engineer](https://jobright.ai/jobs/info/6a8e3d16eb0ee5374a47cc7e) | DMC Engineering | Denver, CO | 07/08/2026 15:10:55 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Test Engineer, I](https://jobright.ai/jobs/info/6a8e0fb3581f2d7bfdfead23) | Zebra Technologies | Holtsville, NY | 08/25/2026 17:28:20 | Sponsorship: No |
+| 37 (Possible) | [Instrumentation & Controls Engineer 1 - Oil & Gas](https://jobright.ai/jobs/info/69d7ef82b67cec4f9b0994df) | Sargent & Lundy | Englewood, CO | 08/25/2026 17:40:11 | Sponsorship: No |
 | 49 (Possible) | [Facilities Electrical Engineer I](https://jobright.ai/jobs/info/6a8e257c581f2d7bfdfeb361) | Panasonic Energy Corporation of North America | De Soto, KS | 08/25/2026 23:30:04 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Mechanical Engineer, Mechatronic Hardware Validation](https://jobright.ai/jobs/info/6a8e12a5d34f700f87fd7c29) | Tesla | Palo Alto, CA | 08/25/2026 15:09:41 | Sponsorship: Not Sure |
 | 47 (Possible) | [Test Engineer (Elect/I&C) Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a2ce317c260bb1b8ae17f6c) | Westinghouse Electric Company | Bridgman, MI | 08/25/2026 18:58:04 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-26 00:49:08Z UTC
 | 37 (Possible) | [Electrical Engineer – Entry Level (Hybrid)](https://jobright.ai/jobs/info/6a6da65766158d7ef887e728) | Barr Engineering Co. | Minneapolis, MN; Duluth, MN | 08/22/2026 11:13:07 | Sponsorship: No |
 | 46 (Possible) | [Associate Electrical Design Engineer](https://jobright.ai/jobs/info/6a2a31b90c4972328e7e7bb4) | Kenworth Truck Co. | Kirkland, WA | 08/22/2026 11:19:35 | Sponsorship: No |
 | 46 (Possible) | [Associate Electrical Design Engineer Job Details \| PACCAR](https://jobright.ai/jobs/info/6a72f914f2974919f967ab92) | Kenworth Truck Co. | Kirkland, WA | 08/22/2026 11:19:35 | Sponsorship: No |
-| 46 (Possible) | [Associate Electrical Design Engineer](https://jobright.ai/jobs/info/6a55f9edefb06a45240d27f6) | Kenworth Truck Co. | Kirkland, WA | 08/22/2026 11:19:35 | Sponsorship: No |
-| 46 (Possible) | [Associate Electrical Design Engineer Job Details \| PACCAR](https://jobright.ai/jobs/info/6a32969829c90c607e4d723e) | Kenworth Truck Co. | Kirkland, WA | 08/22/2026 11:19:35 | Sponsorship: No |
-| 54 (Good) | [Sr Electrical Engineer I](https://jobright.ai/jobs/info/6a530f789fbdab22fe13e177) | Axon | Scottsdale, AZ | 08/22/2026 18:11:37 | Sponsorship: Past Sponsorship |
