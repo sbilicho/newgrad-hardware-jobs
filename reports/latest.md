@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-26 14:47:05Z UTC
+Updated: 2026-08-26 16:07:25Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 58 (Good) | [Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5163328007?gh_jid=5163328007) | Anduril Industries | McHenry, Mississippi, United States | 08/26/2026 14:46:06 | Security clearance language is present |
+| 91 (Strong) | [Entry Level ASIC/FPGA Design Engineer – Space Electronics - MTV](https://jobright.ai/jobs/info/6a8efaf43ac3a34f92d7edbd) | Boeing | Mountain View, CA | 08/26/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 82 (Strong) | [Design Verification Engineer (Silicon Engineering)](https://jobright.ai/jobs/info/6a568847efb06a45240d685d) | SpaceX | Austin, TX | 08/26/2026 15:50:33 | Sponsorship: Past Sponsorship |
 | 35 (Possible) | [Entry Level Hardware Developer 2027 -Austin](https://jobright.ai/jobs/info/6a8ef67cd7c91d0cf446cbb6) | IBM | Austin, TX | 08/26/2026 14:21:48 | Sponsorship: Past Sponsorship |
 | 91 (Strong) | [Entry Level ASIC/FPGA Design Engineer – Space Electronics - MTV](https://jobright.ai/jobs/info/6a8ef07bd7c91d0cf446c9f8) | Boeing | Mountain View, CA | 08/26/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 51 (Good) | [Optical Test Development Engineer](https://jobright.ai/jobs/info/6a5ae30cc8e3a473cb8ada9b) | Nokia | Allentown, PA | 08/26/2026 05:30:27 | Sponsorship: Not Sure |
@@ -101,6 +104,3 @@ Updated: 2026-08-26 14:47:05Z UTC
 | 45 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a7bb7d4bc05d77f2bde098e) | Applied Materials | Santa Clara, CA | 08/23/2026 09:43:01 | Sponsorship: Not Sure |
 | 54 (Good) | [Senior Associate, Component Reliability Engineer](https://jobright.ai/jobs/info/6a507cc5fb1cdf60f4ccd5b6) | L3Harris Technologies | San Diego, CA | 08/23/2026 15:05:28 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Principal Electrical Engineer I - Phased Array Unit Lead](https://jobright.ai/jobs/info/6a5134a578e364789ca59b4b) | CesiumAstro | Westminster, CO | 08/23/2026 14:21:31 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer, Maneuver Dominance](https://jobright.ai/jobs/info/6a0700754a0a6a7e7d81f5e8) | Anduril Industries | Costa Mesa, CA | 08/23/2026 06:48:05 | Sponsorship: No |
-| 32 (Possible) | [Entry-Level Systems Engineer (Digital Comm & Networks Sys Engrg)](https://jobright.ai/jobs/info/6a6d0ca25c54bc4752cf0e53) | Boeing | El Segundo, CA | 08/23/2026 13:18:46 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 58 (Good) | [Component Test Engineer](https://jobright.ai/jobs/info/6a51e64f8d7d3e6cf1cc484e) | Blue Water Autonomy Inc. | Lexington, MA | 08/23/2026 04:33:29 | Sponsorship: No |
