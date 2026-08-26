@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-26 01:55:54Z UTC
+Updated: 2026-08-26 03:12:47Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6a8d1dbfd34f700f87fd39fb) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 08/25/2026 22:52:55 | Sponsorship: Past Sponsorship |
+| 59 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6a8e4258eb0ee5374a47ce82) | MACOM | Lowell, MA | 08/25/2026 18:33:12 | Sponsorship: No |
 | 56 (Good) | [Entry Level Embedded Engineer](https://jobright.ai/jobs/info/6a8e3d16eb0ee5374a47cc7e) | DMC Engineering | Denver, CO | 07/08/2026 15:10:55 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Test Engineer, I](https://jobright.ai/jobs/info/6a8e0fb3581f2d7bfdfead23) | Zebra Technologies | Holtsville, NY | 08/25/2026 17:28:20 | Sponsorship: No |
 | 37 (Possible) | [Instrumentation & Controls Engineer 1 - Oil & Gas](https://jobright.ai/jobs/info/69d7ef82b67cec4f9b0994df) | Sargent & Lundy | Englewood, CO | 08/25/2026 17:40:11 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-08-26 01:55:54Z UTC
 | 49 (Possible) | [Test Engineer - Entry Level](https://jobright.ai/jobs/info/6a8a257ed34f700f87fcc7e6) | Dice | Dedham, MA | 08/22/2026 22:41:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 32 (Possible) | [Technology Architecture and Competitiveness Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6a8a024f680f314a29d3fa63) | GlobalFoundries | Santa Clara, CA | 08/22/2026 20:37:34 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer – Entry Level (Hybrid)](https://jobright.ai/jobs/info/6a6da65766158d7ef887e728) | Barr Engineering Co. | Minneapolis, MN; Duluth, MN | 08/22/2026 11:13:07 | Sponsorship: No |
-| 46 (Possible) | [Associate Electrical Design Engineer](https://jobright.ai/jobs/info/6a2a31b90c4972328e7e7bb4) | Kenworth Truck Co. | Kirkland, WA | 08/22/2026 11:19:35 | Sponsorship: No |
-| 46 (Possible) | [Associate Electrical Design Engineer Job Details \| PACCAR](https://jobright.ai/jobs/info/6a72f914f2974919f967ab92) | Kenworth Truck Co. | Kirkland, WA | 08/22/2026 11:19:35 | Sponsorship: No |
