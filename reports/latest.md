@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-26 07:26:06Z UTC
+Updated: 2026-08-26 09:06:25Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 62 (Good) | [FPGA Engineer](https://jobright.ai/jobs/info/6a51cfc9bf63b66c7997d1fd) | Qube Research & Technologies | New York, NY | 08/25/2026 23:59:34 | Sponsorship: Not Sure |
+| 49 (Possible) | [RF Hardware Engineer](https://jobright.ai/jobs/info/6a41d29dd528ac2915f97eab) | K2 Space Corporation | Los Angeles, CA | 08/26/2026 00:56:38 | Sponsorship: Not Sure |
 | 35 (Possible) | [Entry Level Hardware Developer 2027 -Poughkeepsie](https://jobright.ai/jobs/info/6a8e7c71c137ff2317e69353) | IBM | Poughkeepsie, AR | 08/26/2026 05:41:05 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a8e8357ef981311b92fc2fb) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/26/2026 06:10:31 | Sponsorship: Past Sponsorship |
 | 83 (Strong) | [Cell Modeling and Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a8e8d61b93d14258ab4597c) | NVIDIA AI | Santa Clara, CA | 08/26/2026 06:53:21 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-26 07:26:06Z UTC
 | 42 (Possible) | [Electrical Engineer, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5219512007?gh_jid=5219512007) | Anduril Industries | Costa Mesa, California, United States; Santa Ana, California, United States | 08/23/2026 05:57:36 | Security clearance language is present |
 | 40 (Possible) | [2026 Associate RF Engineer/RF Engineer - Dulles VA](https://jobright.ai/jobs/info/6a8850d8680f314a29d3b50f) | Northrop Grumman | Dulles, VA | 08/22/2026 21:11:16 | Sponsorship: No |
 | 37 (Possible) | [Utility Electrical Engineer](https://jobright.ai/jobs/info/6a71eb03ee751e0c79345a18) | Knobelsdorff | United States | 08/22/2026 19:48:04 | Sponsorship: No |
-| 57 (Good) | [Test Engineer I - Oahu Job Details \| hawaiianel](https://jobright.ai/jobs/info/6a4627270dd56c76cc2f6c66) | Hawaiian Electric | Honolulu, HI | 08/22/2026 17:55:24 | Sponsorship: Not Sure |
-| 44 (Possible) | [Lead Electrical Engineer I Job Details \| EnerSys Delaware Inc.](https://jobright.ai/jobs/info/6a8a451ae8b6601d1290ae1d) | EnerSys | Commack, NY | 08/23/2026 00:55:54 | Sponsorship: Past Sponsorship |
