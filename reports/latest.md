@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-26 12:49:16Z UTC
+Updated: 2026-08-26 13:54:18Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 51 (Good) | [Optical Test Development Engineer](https://jobright.ai/jobs/info/6a5ae30cc8e3a473cb8ada9b) | Nokia | Allentown, PA | 08/26/2026 05:30:27 | Sponsorship: Not Sure |
 | 44 (Possible) | [Electrical Engineer - San Diego, CA](https://jobright.ai/jobs/info/6a7c4fa07c52154b59f59bd4) | Eaton | San Diego, CA | 08/26/2026 03:55:47 | Sponsorship: No |
 | 62 (Good) | [FPGA Engineer](https://jobright.ai/jobs/info/6a51cfc9bf63b66c7997d1fd) | Qube Research & Technologies | New York, NY | 08/25/2026 23:59:34 | Sponsorship: Not Sure |
 | 49 (Possible) | [RF Hardware Engineer](https://jobright.ai/jobs/info/6a41d29dd528ac2915f97eab) | K2 Space Corporation | Los Angeles, CA | 08/26/2026 00:56:38 | Sponsorship: Not Sure |
@@ -103,4 +104,3 @@ Updated: 2026-08-26 12:49:16Z UTC
 | 58 (Good) | [Component Test Engineer](https://jobright.ai/jobs/info/6a51e64f8d7d3e6cf1cc484e) | Blue Water Autonomy Inc. | Lexington, MA | 08/23/2026 04:33:29 | Sponsorship: No |
 | 47 (Possible) | [Electrical Test Engineer](https://jobright.ai/jobs/info/6a5a5d79856af468ab0082d5) | Eaton | Raleigh, NC | 08/23/2026 02:12:55 | Sponsorship: No |
 | 42 (Possible) | [Electrical Engineer, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5219512007?gh_jid=5219512007) | Anduril Industries | Costa Mesa, California, United States; Santa Ana, California, United States | 08/23/2026 05:57:36 | Security clearance language is present |
-| 40 (Possible) | [2026 Associate RF Engineer/RF Engineer - Dulles VA](https://jobright.ai/jobs/info/6a8850d8680f314a29d3b50f) | Northrop Grumman | Dulles, VA | 08/22/2026 21:11:16 | Sponsorship: No |
