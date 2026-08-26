@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-26 13:54:18Z UTC
+Updated: 2026-08-26 14:47:05Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 35 (Possible) | [Entry Level Hardware Developer 2027 -Austin](https://jobright.ai/jobs/info/6a8ef67cd7c91d0cf446cbb6) | IBM | Austin, TX | 08/26/2026 14:21:48 | Sponsorship: Past Sponsorship |
+| 91 (Strong) | [Entry Level ASIC/FPGA Design Engineer – Space Electronics - MTV](https://jobright.ai/jobs/info/6a8ef07bd7c91d0cf446c9f8) | Boeing | Mountain View, CA | 08/26/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 51 (Good) | [Optical Test Development Engineer](https://jobright.ai/jobs/info/6a5ae30cc8e3a473cb8ada9b) | Nokia | Allentown, PA | 08/26/2026 05:30:27 | Sponsorship: Not Sure |
 | 44 (Possible) | [Electrical Engineer - San Diego, CA](https://jobright.ai/jobs/info/6a7c4fa07c52154b59f59bd4) | Eaton | San Diego, CA | 08/26/2026 03:55:47 | Sponsorship: No |
 | 62 (Good) | [FPGA Engineer](https://jobright.ai/jobs/info/6a51cfc9bf63b66c7997d1fd) | Qube Research & Technologies | New York, NY | 08/25/2026 23:59:34 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-08-26 13:54:18Z UTC
 | 40 (Possible) | [Electrical Engineer, Maneuver Dominance](https://jobright.ai/jobs/info/6a0700754a0a6a7e7d81f5e8) | Anduril Industries | Costa Mesa, CA | 08/23/2026 06:48:05 | Sponsorship: No |
 | 32 (Possible) | [Entry-Level Systems Engineer (Digital Comm & Networks Sys Engrg)](https://jobright.ai/jobs/info/6a6d0ca25c54bc4752cf0e53) | Boeing | El Segundo, CA | 08/23/2026 13:18:46 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 58 (Good) | [Component Test Engineer](https://jobright.ai/jobs/info/6a51e64f8d7d3e6cf1cc484e) | Blue Water Autonomy Inc. | Lexington, MA | 08/23/2026 04:33:29 | Sponsorship: No |
-| 47 (Possible) | [Electrical Test Engineer](https://jobright.ai/jobs/info/6a5a5d79856af468ab0082d5) | Eaton | Raleigh, NC | 08/23/2026 02:12:55 | Sponsorship: No |
-| 42 (Possible) | [Electrical Engineer, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5219512007?gh_jid=5219512007) | Anduril Industries | Costa Mesa, California, United States; Santa Ana, California, United States | 08/23/2026 05:57:36 | Security clearance language is present |
