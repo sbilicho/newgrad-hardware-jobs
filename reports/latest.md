@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-26 16:07:25Z UTC
+Updated: 2026-08-26 16:59:43Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 48 (Possible) | [Software Engineer - Embedded Systems (Entry Level)](https://jobright.ai/jobs/info/6a8f173d3ac3a34f92d7f849) | Battelle | Columbus, OH | 08/26/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 40 (Possible) | [New Grad Electrical Engineer I - Winter/Summer 2027](https://jobright.ai/jobs/info/6a8f1742382b237ac80c43a8) | HNTB | Kansas City, MO | 08/26/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 58 (Good) | [Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5163328007?gh_jid=5163328007) | Anduril Industries | McHenry, Mississippi, United States | 08/26/2026 14:46:06 | Security clearance language is present |
 | 91 (Strong) | [Entry Level ASIC/FPGA Design Engineer – Space Electronics - MTV](https://jobright.ai/jobs/info/6a8efaf43ac3a34f92d7edbd) | Boeing | Mountain View, CA | 08/26/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 82 (Strong) | [Design Verification Engineer (Silicon Engineering)](https://jobright.ai/jobs/info/6a568847efb06a45240d685d) | SpaceX | Austin, TX | 08/26/2026 15:50:33 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-26 16:07:25Z UTC
 | 88 (Strong) | [ASIC Physical Design Engineer, Netlisting - New College Grad 2026](https://jobright.ai/jobs/info/69fd01f3432a3c4da8e00dbd) | NVIDIA | Santa Clara, CA | 08/23/2026 17:43:20 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [PCB Reliability Engineer (Starshield)](https://jobright.ai/jobs/info/6a542c3d8576ec69c01523f3) | SpaceX | Hawthorne, CA | 08/23/2026 09:27:53 | Sponsorship: No |
 | 45 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a7bb7d4bc05d77f2bde098e) | Applied Materials | Santa Clara, CA | 08/23/2026 09:43:01 | Sponsorship: Not Sure |
-| 54 (Good) | [Senior Associate, Component Reliability Engineer](https://jobright.ai/jobs/info/6a507cc5fb1cdf60f4ccd5b6) | L3Harris Technologies | San Diego, CA | 08/23/2026 15:05:28 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Principal Electrical Engineer I - Phased Array Unit Lead](https://jobright.ai/jobs/info/6a5134a578e364789ca59b4b) | CesiumAstro | Westminster, CO | 08/23/2026 14:21:31 | Sponsorship: Past Sponsorship |
