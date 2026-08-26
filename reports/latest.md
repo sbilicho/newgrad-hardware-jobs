@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-26 19:17:50Z UTC
+Updated: 2026-08-26 21:30:44Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a8f4154a10ee661e24d74aa) | Ardurra | Egg Harbor Township, NJ | 08/26/2026 19:41:08 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Engineer Associate I - Electrical Engineer, EIT](https://jobright.ai/jobs/info/6a8f5194a10ee661e24d7b0e) | Lochner | Seattle, WA | 08/26/2026 20:50:28 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a8f405ef841e649a7191696) | Ardurra | Egg Harbor Township, NJ | 08/26/2026 19:37:02 | Sponsorship: Past Sponsorship |
+| 54 (Good) | [Integration & Test Engineer](https://jobright.ai/jobs/info/6a8f0a293ac3a34f92d7f30d) | Trident | Chantilly, VA | 08/26/2026 13:05:20 | Sponsorship: Not Sure |
 | 48 (Possible) | [Software Engineer - Embedded Systems (Entry Level)](https://jobright.ai/jobs/info/6a8f173d3ac3a34f92d7f849) | Battelle | Columbus, OH | 08/26/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [New Grad Electrical Engineer I - Winter/Summer 2027](https://jobright.ai/jobs/info/6a8f1742382b237ac80c43a8) | HNTB | Kansas City, MO | 08/26/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 58 (Good) | [Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5163328007?gh_jid=5163328007) | Anduril Industries | McHenry, Mississippi, United States | 08/26/2026 14:46:06 | Security clearance language is present |
@@ -100,7 +104,3 @@ Updated: 2026-08-26 19:17:50Z UTC
 | 41 (Possible) | [Entry Level Electrical Engineer – Class of 2025/2026](https://jobright.ai/jobs/info/6a880a63680f314a29d3ab68) | Amphenol | Santa Clara, CA | 07/20/2026 08:15:30 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a8ba8b725fc4e7ae3db5ed9) | Haag, a Salas O'Brien Company | New York, NY | 08/24/2026 06:53:56 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Senior Electrical Design Engineer I (MEP)](https://jobright.ai/jobs/info/6a7a1e9d67a1ad0bc53d1ae7) | Interface Engineering, Inc. | Los Angeles, CA | 08/24/2026 00:52:08 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Marine Test Engineer](https://jobright.ai/jobs/info/6a3bec8d4d047136e092ec09) | Brunswick Corporation | Tulsa, OK | 08/23/2026 10:38:15 | Sponsorship: No |
-| 88 (Strong) | [ASIC Physical Design Engineer, Netlisting - New College Grad 2026](https://jobright.ai/jobs/info/69fd01f3432a3c4da8e00dbd) | NVIDIA | Santa Clara, CA | 08/23/2026 17:43:20 | Sponsorship: Past Sponsorship |
-| 54 (Good) | [PCB Reliability Engineer (Starshield)](https://jobright.ai/jobs/info/6a542c3d8576ec69c01523f3) | SpaceX | Hawthorne, CA | 08/23/2026 09:27:53 | Sponsorship: No |
-| 45 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a7bb7d4bc05d77f2bde098e) | Applied Materials | Santa Clara, CA | 08/23/2026 09:43:01 | Sponsorship: Not Sure |
