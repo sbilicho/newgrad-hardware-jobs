@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-26 04:06:48Z UTC
+Updated: 2026-08-26 05:39:09Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 48 (Possible) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6a628d4af805ef6ff42339fe) | Rocket Lab | Long Beach, CA | 08/26/2026 04:19:44 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6a8d1dbfd34f700f87fd39fb) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 08/25/2026 22:52:55 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6a8e4258eb0ee5374a47ce82) | MACOM | Lowell, MA | 08/25/2026 18:33:12 | Sponsorship: No |
 | 56 (Good) | [Entry Level Embedded Engineer](https://jobright.ai/jobs/info/6a8e3d16eb0ee5374a47cc7e) | DMC Engineering | Denver, CO | 07/08/2026 15:10:55 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-26 04:06:48Z UTC
 | 51 (Good) | [Junior Test Engineer](https://jobright.ai/jobs/info/6a8a22824afae74a0834f85b) | SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED | San Jose, CA | 08/22/2026 15:28:18 | Sponsorship: Not Sure |
 | 49 (Possible) | [Test Engineer - Entry Level](https://jobright.ai/jobs/info/6a8a257ed34f700f87fcc7e6) | Dice | Dedham, MA | 08/22/2026 22:41:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 32 (Possible) | [Technology Architecture and Competitiveness Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6a8a024f680f314a29d3fa63) | GlobalFoundries | Santa Clara, CA | 08/22/2026 20:37:34 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer – Entry Level (Hybrid)](https://jobright.ai/jobs/info/6a6da65766158d7ef887e728) | Barr Engineering Co. | Minneapolis, MN; Duluth, MN | 08/22/2026 11:13:07 | Sponsorship: No |
