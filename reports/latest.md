@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-26 23:15:34Z UTC
+Updated: 2026-08-27 00:19:34Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I - Hardware / Telemetry](https://jobright.ai/jobs/info/6a8f76a67c32860d14cf5ef2) | Kansas City National Security Campus | Kansas City, MO | 08/26/2026 23:28:38 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer, Launch Pad (Starship)](https://boards.greenhouse.io/spacex/jobs/8752568002?gh_jid=8752568002) | SpaceX | Starbase, TX; Brownsville, TX, United States | 08/26/2026 23:53:56 |  |
 | 37 (Possible) | [Electrical Engineer (Entry Level)](https://jobright.ai/jobs/info/6a8f6ceb8ffa38557e6c9502) | Garver | Greenville, SC | 08/26/2026 22:47:07 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a8f4154a10ee661e24d74aa) | Ardurra | Egg Harbor Township, NJ | 08/26/2026 19:41:08 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Engineer Associate I - Electrical Engineer, EIT](https://jobright.ai/jobs/info/6a8f5194a10ee661e24d7b0e) | Lochner | Seattle, WA | 08/26/2026 20:50:28 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-26 23:15:34Z UTC
 | 59 (Good) | [Process Integration and Yield Engineer](https://jobright.ai/jobs/info/6a8c31492f736c304f2a4699) | Intel | Hillsboro, OR | 08/24/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a06fca6152f493123c4b087) | Stratolaunch | Mojave, CA | 08/24/2026 04:57:22 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a301264eace377055eb4441) | Scientific Research Corporation | Jacksonville, FL | 08/24/2026 09:04:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry Level Electrical Engineer – Class of 2025/2026](https://jobright.ai/jobs/info/6a880a63680f314a29d3ab68) | Amphenol | Santa Clara, CA | 07/20/2026 08:15:30 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a8ba8b725fc4e7ae3db5ed9) | Haag, a Salas O'Brien Company | New York, NY | 08/24/2026 06:53:56 | Sponsorship: Past Sponsorship |
