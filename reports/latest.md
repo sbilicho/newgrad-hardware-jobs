@@ -1,9 +1,20 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-27 03:27:24Z UTC
+Updated: 2026-08-27 14:34:21Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a9045e32e254e06fb9efe27) | Eagle Materials | Laramie, WY | 08/27/2026 14:12:51 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8dc5b2581f2d7bfdfe8ef9) | TRC Companies, Inc. | Salina, NY | 08/27/2026 00:59:59 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I-II](https://jobright.ai/jobs/info/6a8f4296f841e649a719172e) | Hyster-Yale Materials Handling | Portland, OR | 08/27/2026 00:50:25 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Engineer Associate I - Electrical Engineer, EIT](https://jobright.ai/jobs/info/6a8fdd47a19886486675ead2) | Lochner | Seattle, WA | 08/27/2026 06:46:31 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8ff8882e254e06fb9eed02) | Milbank \| Energy at Work | Kansas City, MO | 08/27/2026 08:42:48 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Substation Electrical Engineer](https://jobright.ai/jobs/info/6a90496f7c32860d14cf86ad) | WSP in the U.S. | Freeport, ME | 08/27/2026 14:27:59 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer, Weapon Systems](https://boards.greenhouse.io/andurilindustries/jobs/5223378007?gh_jid=5223378007) | Anduril Industries | Costa Mesa, California, United States | 08/27/2026 03:58:12 | Security clearance language is present; Full-time status is inferred from the first-party posting |
+| 82 (Strong) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a53bc0cc8eb0843027ad7d9) | NVIDIA | Santa Clara, CA | 07/19/2026 00:20:15 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [New College Grad - Design Engineer](https://jobright.ai/jobs/info/6a90049ad96ad228f125f479) | Micron Technology | San Jose, CA | 08/27/2026 09:34:18 | Sponsorship: Past Sponsorship |
+| 55 (Good) | [Failure Analysis Engineer](https://jobright.ai/jobs/info/6a7b2cd1ecf5194164fbc555) | Cisco | Maynard, MA | 08/27/2026 06:25:27 | Sponsorship: Not Sure |
+| 46 (Possible) | [GE Vernova Electrical Design Engineer](https://jobright.ai/jobs/info/6a57f4bb9838a11e5d835f85) | GE Vernova | Greenville, SC | 08/27/2026 06:26:19 | Sponsorship: No |
 | 45 (Possible) | [Electrical Engineer I - (E1)](https://jobright.ai/jobs/info/6a8ec3a3382b237ac80c2c90) | Applied Materials | Santa Clara, CA | 08/26/2026 22:57:38 | Sponsorship: Past Sponsorship |
 | 90 (Strong) | [SoC Digital Design Engineer, Multimedia Lab](https://jobright.ai/jobs/info/6a5ea156050c423c792f06d9) | TikTok | San Jose, CA | 08/26/2026 19:28:57 | Sponsorship: Not Sure |
 | 55 (Good) | [System Integration and Test Engineer - 3rd shift](https://jobright.ai/jobs/info/6a8fa1a08ffa38557e6c9dc3) | ASML | San Diego, CA | 08/26/2026 19:32:00 | Sponsorship: No |
@@ -93,14 +104,3 @@ Updated: 2026-08-27 03:27:24Z UTC
 | 62 (Good) | [Embedded Software Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6a8c8e54cde3717f9e9bdd9b) | CS GROUP - USA | East Hartford, CT | 08/24/2026 18:32:52 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a8c700bd34f700f87fd06b9) | Rocket Lab | Pasadena, CA | 08/24/2026 16:23:39 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Lighting/Electrical Engineer](https://jobright.ai/jobs/info/6a8c793725fc4e7ae3db88e9) | Jacobs | Chicago, IL | 08/24/2026 17:02:47 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a8c743fcde3717f9e9bd27b) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/24/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer (Entry Level) - Malta, NY](https://jobright.ai/jobs/info/6a8c7785cde3717f9e9bd485) | Hallam-ICS | Malta, NY | 08/24/2026 16:55:33 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Lighting/Electrical Engineer](https://jobright.ai/jobs/info/6a8c7aeed34f700f87fd0d20) | Jacobs | Madison, WI | 08/24/2026 17:10:06 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Signal Integrity Engineer (Entry level)](https://jobright.ai/jobs/info/6a332854ce501060b5cec833) | Molex | Lisle, IL | 08/23/2026 15:41:31 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer I - Test Equipment Maintenance](https://jobright.ai/jobs/info/6a8c61841d96e6541c8c065d) | RTX | Andover, MA | 08/24/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Principal Electrical Engineer I - FlatSat Lead](https://jobright.ai/jobs/info/6a57b002f7517b519ad5c34c) | CesiumAstro | Westminster, CO | 08/24/2026 14:17:25 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Electronics Engineer I - SATCOM](https://jobright.ai/jobs/info/69fcc29f432a3c4da8dfedf5) | CesiumAstro | Westminster, CO | 08/24/2026 14:19:40 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Facilities Electrical Engineer I](https://jobright.ai/jobs/info/6a8c59add34f700f87fcfeba) | Panasonic Appliances Refrigeration Systems de México S. A. de C. V. | De Soto, KS | 08/24/2026 14:48:13 | Sponsorship: Past Sponsorship |
-| 76 (Strong) | [ASIC Design Verification Engineer, Google Cloud](https://jobright.ai/jobs/info/6a1992ed547e292ae1392d87) | Google | Sunnyvale, CA | 08/24/2026 11:47:52 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6a8c4241581f2d7bfdfe29c3) | John Crane | Port Arthur, TX | 08/23/2026 23:23:26 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I - Relocate to Warroad, MN](https://jobright.ai/jobs/info/6a8c3da925fc4e7ae3db7330) | Marvin | Warroad, MN | 08/24/2026 12:48:41 | Sponsorship: Past Sponsorship |
