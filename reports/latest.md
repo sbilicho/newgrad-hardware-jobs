@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-27 00:19:34Z UTC
+Updated: 2026-08-27 03:27:24Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 45 (Possible) | [Electrical Engineer I - (E1)](https://jobright.ai/jobs/info/6a8ec3a3382b237ac80c2c90) | Applied Materials | Santa Clara, CA | 08/26/2026 22:57:38 | Sponsorship: Past Sponsorship |
+| 90 (Strong) | [SoC Digital Design Engineer, Multimedia Lab](https://jobright.ai/jobs/info/6a5ea156050c423c792f06d9) | TikTok | San Jose, CA | 08/26/2026 19:28:57 | Sponsorship: Not Sure |
+| 55 (Good) | [System Integration and Test Engineer - 3rd shift](https://jobright.ai/jobs/info/6a8fa1a08ffa38557e6c9dc3) | ASML | San Diego, CA | 08/26/2026 19:32:00 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I - Hardware / Telemetry](https://jobright.ai/jobs/info/6a8f76a67c32860d14cf5ef2) | Kansas City National Security Campus | Kansas City, MO | 08/26/2026 23:28:38 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer, Launch Pad (Starship)](https://boards.greenhouse.io/spacex/jobs/8752568002?gh_jid=8752568002) | SpaceX | Starbase, TX; Brownsville, TX, United States | 08/26/2026 23:53:56 |  |
 | 37 (Possible) | [Electrical Engineer (Entry Level)](https://jobright.ai/jobs/info/6a8f6ceb8ffa38557e6c9502) | Garver | Greenville, SC | 08/26/2026 22:47:07 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-27 00:19:34Z UTC
 | 76 (Strong) | [ASIC Design Verification Engineer, Google Cloud](https://jobright.ai/jobs/info/6a1992ed547e292ae1392d87) | Google | Sunnyvale, CA | 08/24/2026 11:47:52 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6a8c4241581f2d7bfdfe29c3) | John Crane | Port Arthur, TX | 08/23/2026 23:23:26 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I - Relocate to Warroad, MN](https://jobright.ai/jobs/info/6a8c3da925fc4e7ae3db7330) | Marvin | Warroad, MN | 08/24/2026 12:48:41 | Sponsorship: Past Sponsorship |
-| 59 (Good) | [Process Integration and Yield Engineer](https://jobright.ai/jobs/info/6a8c31492f736c304f2a4699) | Intel | Hillsboro, OR | 08/24/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a06fca6152f493123c4b087) | Stratolaunch | Mojave, CA | 08/24/2026 04:57:22 | Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a301264eace377055eb4441) | Scientific Research Corporation | Jacksonville, FL | 08/24/2026 09:04:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
