@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-27 23:59:39Z UTC
+Updated: 2026-08-28 11:18:36Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Examinations Infrastructure Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6a90f1c67c32860d14cfbd23) | Naval Nuclear Laboratory (FMP) | Idaho Falls, ID | 08/28/2026 02:26:14 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Research Electrical Engineer I or II, MSD](https://jobright.ai/jobs/info/6a90e148a198864866763740) | Women In Science | Blacksburg, VA | 08/28/2026 01:15:52 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Research Electrical Engineer I or II, MSD](https://jobright.ai/jobs/info/6a90f07dd96ad228f12639e2) | Virginia Tech | Blacksburg, VA | 08/28/2026 02:20:45 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Examinations Infrastructure Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6a911ce70bd89e205d24d010) | Naval Nuclear Laboratory (FMP) | Idaho Falls, ID | 08/28/2026 05:30:15 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Digital Electronics Circuit & Unit Hardware Design Engineer (Associate or Mid-Level)](https://jobright.ai/jobs/info/6a90e0270bd89e205d24c9ce) | Boeing | El Segundo, CA | 08/27/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a90bb8c7c32860d14cfb2a9) | Dice | Baltimore, MD | 08/27/2026 22:34:52 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Embedded Software Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6a90bc567c32860d14cfb335) | Dice | East Hartford, CT | 08/27/2026 22:38:14 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5224713007?gh_jid=5224713007) | Anduril Industries | Costa Mesa, California, United States | 08/27/2026 22:38:03 |  |
@@ -99,8 +104,3 @@ Updated: 2026-08-27 23:59:39Z UTC
 | 37 (Possible) | [Electrical Engineer – Entry Level (Hybrid)](https://jobright.ai/jobs/info/6a6d16efba7efe79c2f686c5) | Barr Engineering Co. | Minneapolis, MN | 08/22/2026 21:33:22 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Entry Level QA/Test Engineer-Poughkeepsie-NY](https://jobright.ai/jobs/info/6a8cfb62cde3717f9e9bfe01) | IBM | Poughkeepsie, NY | 08/25/2026 02:18:10 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Controls Engineer](https://jobright.ai/jobs/info/6a8cac651d96e6541c8c250f) | Daikin Applied Americas | Staunton, VA | 08/24/2026 17:42:09 | Sponsorship: No |
-| 44 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a8ce530cde3717f9e9bfa46) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/24/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6a879f8dd34f700f87fc6520) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 08/24/2026 23:20:22 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Electrical Engineer Entry-Level (Starting Summer 2027)](https://jobright.ai/jobs/info/6a8cca1c2f736c304f2a7dd7) | Dice | Springfield, MA | 08/24/2026 22:47:56 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a8cca11cde3717f9e9bf35d) | Naval Nuclear Laboratory (FMP) | West Milton, NY | 08/24/2026 22:47:45 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a8c0406e8b6601d1290d14b) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/24/2026 22:53:48 | Sponsorship: Past Sponsorship |
