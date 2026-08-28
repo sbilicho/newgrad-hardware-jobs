@@ -1,9 +1,27 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-28 11:18:36Z UTC
+Updated: 2026-08-28 21:29:25Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 55 (Good) | [Embedded Firmware Engineer, Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5225618007?gh_jid=5225618007) | Anduril Industries | Costa Mesa, California, United States | 08/28/2026 21:10:57 |  |
+| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a9190a09864261ccd29d718) | AECOM | Roanoke, VA | 08/28/2026 13:44:00 | Sponsorship: Past Sponsorship |
+| 51 (Good) | [Electrical Reliability Engineer I, II, III or Sr.](https://jobright.ai/jobs/info/6a91912ed18f75674827898c) | The Mosaic Company | Mulberry, FL | 08/28/2026 14:03:31 | Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a91a5e58e59685453376b75) | CommScope | Claremont, NC | 08/28/2026 15:14:45 | Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a91df0ac12c90443efc89af) | Rocket Lab | Long Beach, CA | 08/28/2026 19:18:34 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Sr. Electrical Design Engineer I](https://jobright.ai/jobs/info/6a91d6c3d18f75674827a711) | Intelliswift - An LTTS Company | Atlanta, GA | 08/28/2026 18:43:15 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a6cd18632f9300c3a3e5552) | FBD Partnership, LP | San Antonio, TX | 08/28/2026 20:47:49 | Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Firmware Engineer Graduate](https://jobright.ai/jobs/info/6a91dc4dd18f75674827a869) | Hewlett Packard Enterprise | Spring, TX | 08/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Electrical Engineer (New Grad / Spring 2027)](https://jobright.ai/jobs/info/6a91f5539864261ccd29fc8f) | Eight Sleep | San Francisco, CA | 08/28/2026 20:53:39 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Computer & Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6a91f3998e596854533787d8) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer, Power & Lighting](https://jobright.ai/jobs/info/6a91b1f1a27a2d3c984894c3) | Barry-Wehmiller | Portland, OR | 08/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a91990fc12c90443efc6db1) | Abacus Service Corporation | Juno Beach, FL | 08/28/2026 14:19:59 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a91b9e43603630099193fe2) | RoyOMartin | Chopin, LA | 08/28/2026 16:40:04 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Entry-Level Test Engineer/Analyst](https://jobright.ai/jobs/info/6a919cdb360363009919358c) | Torch Technologies, Inc. | Redstone Arsenal, AL | 08/28/2026 16:35:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 94 (Strong) | [Entry Level ASIC/FPGA Verification Engineer – Space Electronics - MTV](https://jobright.ai/jobs/info/6a9188f9a27a2d3c984886d3) | Boeing | Mountain View, CA | 08/28/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 85 (Strong) | [ASIC/FPGA Design and Verification Engineer – Space Electronics - MTV (Associate, Experienced, or Lead)](https://jobright.ai/jobs/info/6a9188f93603630099192ec7) | Boeing | Mountain View, CA | 08/28/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 50 (Good) | [Electrical Engineer 2](https://jobright.ai/jobs/info/6a91de613603630099194f33) | Collins Aerospace | Marlborough, MA | 08/28/2026 12:15:45 | Sponsorship: No |
+| 50 (Good) | [Digital Hardware Design Engineer 1 (Onsite)](https://jobright.ai/jobs/info/6a91e7ddc12c90443efc8b39) | Collins Aerospace | Cedar Rapids, IA | 08/28/2026 12:56:13 | Sponsorship: No |
 | 41 (Possible) | [Examinations Infrastructure Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6a90f1c67c32860d14cfbd23) | Naval Nuclear Laboratory (FMP) | Idaho Falls, ID | 08/28/2026 02:26:14 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Research Electrical Engineer I or II, MSD](https://jobright.ai/jobs/info/6a90e148a198864866763740) | Women In Science | Blacksburg, VA | 08/28/2026 01:15:52 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Research Electrical Engineer I or II, MSD](https://jobright.ai/jobs/info/6a90f07dd96ad228f12639e2) | Virginia Tech | Blacksburg, VA | 08/28/2026 02:20:45 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -86,21 +104,3 @@ Updated: 2026-08-28 11:18:36Z UTC
 | 47 (Possible) | [Test Engineer I](https://jobright.ai/jobs/info/6a70c18971acd469eed9f66a) | GRAYHILL | McCook, IL | 08/25/2026 07:37:23 | Sponsorship: Not Sure |
 | 43 (Possible) | [Entry Level Electrical Engineer - System Planning](https://jobright.ai/jobs/info/6a4422440153061b8b3df591) | SEnergy | Boerne, TX | 08/25/2026 13:05:43 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer (Industrial)](https://jobright.ai/jobs/info/6a8d9a3947679c68bf5e36cc) | Carollo Engineers | Boise, ID | 08/25/2026 13:35:53 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer (Industrial)](https://jobright.ai/jobs/info/6a8d999825fc4e7ae3dbc820) | Carollo Engineers | Boise, ID | 08/25/2026 13:33:12 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer 1](https://jobright.ai/jobs/info/6a8769084afae74a08348763) | Westinghouse Electric Company | Rock Hill, SC | 08/25/2026 03:44:26 | Sponsorship: Not Sure |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a767ce4bb6ca93ae5612c72) | Westinghouse Electric Company | Cranberry Township, PA | 08/25/2026 03:44:26 | Sponsorship: Not Sure |
-| 37 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a8d8d51a5639a4810326219) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/25/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Electrical Engineer - PCB Engineer I](https://jobright.ai/jobs/info/6a76da3867a1ad0bc53cb631) | Milwaukee Tool | Brookfield, WI | 08/25/2026 09:15:55 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a78e7da4817aa430704c38b) | Westinghouse Electric Company | Cranberry Township, PA | 08/25/2026 10:44:26 | Sponsorship: Past Sponsorship |
-| 89 (Strong) | [Associate Design Verification Engineer](https://jobright.ai/jobs/info/6a8d74cd2f736c304f2a97eb) | Analog Devices | Dallas, TX | 08/25/2026 11:09:38 | Sponsorship: Past Sponsorship |
-| 54 (Good) | [Flight Test Engineer](https://jobright.ai/jobs/info/6a5217218a74e077472f3070) | Anduril Industries | Costa Mesa, CA | 08/24/2026 23:44:55 | Sponsorship: Not Sure |
-| 47 (Possible) | [Validation Engineer (Automotive)](https://jobright.ai/jobs/info/6a355bbbf6b55d12c791f78d) | F.tech R&D North America, Inc. | Troy, OH; Troy, MI | 08/24/2026 23:52:05 | Sponsorship: No |
-| 48 (Possible) | [Senior Electrical Engineer I - Secret Clearance](https://jobright.ai/jobs/info/6a628d4107e15f1ab0e471a9) | Rocket Lab | Long Beach, CA | 08/25/2026 07:39:36 | Sponsorship: Past Sponsorship |
-| 83 (Strong) | [CPU Verification Engineer](https://jobright.ai/jobs/info/6a8d1a782f736c304f2a8ca7) | Apple | Austin, TX; Santa Clara, CA | 08/24/2026 21:30:48 | Sponsorship: Not Sure |
-| 37 (Possible) | [Avionics Components Electrical Engineer 1 Job Details \| United Launch Alliance](https://jobright.ai/jobs/info/6a8d21dca5639a481032551f) | United Launch Alliance (ULA) | Centennial, CO | 08/24/2026 22:02:20 | Sponsorship: No |
-| 37 (Possible) | [Associate Controls Engineer](https://jobright.ai/jobs/info/6a8d0896d34f700f87fd372c) | Tesla | Buffalo, NY | 08/24/2026 20:14:30 | Sponsorship: Not Sure |
-| 64 (Good) | [Application Validation Engineer](https://jobright.ai/jobs/info/6a5ec0f4f29acc1a1174960a) | Supermicro | San Jose, CA | 08/24/2026 20:49:38 | Sponsorship: Not Sure |
-| 64 (Good) | [Application Validation Engineer](https://jobright.ai/jobs/info/6a5ec080050c423c792f10a7) | Supermicro | San Jose, CA | 08/24/2026 20:49:38 | Sponsorship: Not Sure |
-| 37 (Possible) | [Electrical Engineer – Entry Level (Hybrid)](https://jobright.ai/jobs/info/6a6d16efba7efe79c2f686c5) | Barr Engineering Co. | Minneapolis, MN | 08/22/2026 21:33:22 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Entry Level QA/Test Engineer-Poughkeepsie-NY](https://jobright.ai/jobs/info/6a8cfb62cde3717f9e9bfe01) | IBM | Poughkeepsie, NY | 08/25/2026 02:18:10 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Controls Engineer](https://jobright.ai/jobs/info/6a8cac651d96e6541c8c250f) | Daikin Applied Americas | Staunton, VA | 08/24/2026 17:42:09 | Sponsorship: No |
