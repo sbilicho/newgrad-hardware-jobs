@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-29 03:23:31Z UTC
+Updated: 2026-08-29 10:19:31Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a9262e436036300991962b1) | JSG (Johnson Service Group, Inc.) | Cypress, CA | 08/28/2026 12:49:50 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Semiconductor Test Technician](https://jobright.ai/jobs/info/6a9263bfd18f75674827bcc8) | AM Technical Solutions, Inc | Manassas, VA | 08/28/2026 15:34:40 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Test Engineer](https://jobright.ai/jobs/info/6a55437e4119652ff38646ed) | SharkNinja | Needham, MA | 08/29/2026 01:57:07 | Sponsorship: Not Sure |
 | 61 (Good) | [New College Grad - ENGINEER, SIG ELECTRICAL DESIGN](https://jobright.ai/jobs/info/6a920fb1d18f75674827b51f) | Dice | Boise, ID | 08/28/2026 22:46:09 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6a920a8ad18f75674827b2cd) | Rocket Lab | Long Beach, CA | 08/28/2026 22:24:10 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer (Industrial)](https://jobright.ai/jobs/info/6a920db53603630099195a77) | Dice | Boise, ID | 08/28/2026 22:37:41 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-29 03:23:31Z UTC
 | 51 (Good) | [Reliability Engineer](https://jobright.ai/jobs/info/6a8dc7d3a5639a48103279b2) | Helion | Columbia, SC | 08/25/2026 16:50:27 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Reliability Engineer](https://jobright.ai/jobs/info/6a8dca2ed34f700f87fd60ba) | Reckitt | Evansville, IN | 08/25/2026 10:00:30 | Sponsorship: Not Sure |
 | 51 (Good) | [Reliability Engineer Job Details \| Reckitt](https://jobright.ai/jobs/info/6a8dcac3a5639a4810327b67) | Reckitt | Evansville, IN | 08/25/2026 10:02:59 | Sponsorship: Not Sure |
-| 30 (Possible) | [Electrical/Computer Engineer, Level 1](https://jobright.ai/jobs/info/6a8dbd7f581f2d7bfdfe8a59) | ASRC Federal | Oklahoma City, OK | 08/25/2026 04:00:00 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 55 (Good) | [EMC Test Engineer (Entry-Level)](https://jobright.ai/jobs/info/6a8dc35147679c68bf5e46ed) | Voto Consulting LLC | Fremont, CA | 08/25/2026 16:31:13 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a8da9cf47679c68bf5e3bb5) | Whitman, Requardt and Associates, LLP | Fairfax, VA | 08/25/2026 14:14:59 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
