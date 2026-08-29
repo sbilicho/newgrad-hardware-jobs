@@ -1,9 +1,18 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-29 10:19:31Z UTC
+Updated: 2026-08-29 15:11:01Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 39 (Possible) | [Engineer I – Focal Plane Electronics Systems](https://jobright.ai/jobs/info/6a92f3fca27a2d3c9848c753) | BAE Systems | Boulder, CO | 08/29/2026 15:00:12 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a92ef6f9864261ccd2a1491) | Eaton | Pittsfield, MA | 08/29/2026 14:40:47 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 50 (Good) | [Test Engineer (Entry Level)](https://jobright.ai/jobs/info/6a92f5af3603630099196f27) | BAE Systems | Endicott, NY | 08/29/2026 15:07:27 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Propulsion Test Engineer I](https://jobright.ai/jobs/info/6a0701c24a0a6a7e7d81fe15) | Relativity Space | John C. Stennis Space Center, MS | 08/29/2026 06:42:11 | Sponsorship: No |
+| 50 (Good) | [Propulsion Test Engineer I](https://jobright.ai/jobs/info/69f3d96d461b9b613a62482f) | Relativity Space | John C. Stennis Space Center, MS | 08/29/2026 06:42:11 | Sponsorship: No |
+| 34 (Possible) | [Associate Electrical Engineer - Buildings](https://jobright.ai/jobs/info/6a59a7d13ac7627fe90003dc) | WSP in the U.S. | Denver, CO | 08/29/2026 06:58:16 | Sponsorship: No |
+| 37 (Possible) | [Associate Electrical Engineer - Buildings](https://jobright.ai/jobs/info/6a58d5f0c8e3a473cb8a3385) | WSP in the U.S. | Honolulu, HI | 08/29/2026 06:58:16 | Sponsorship: No |
+| 88 (Strong) | [SOC Design Verification Engineer](https://jobright.ai/jobs/info/6a90b4c9a198864866762be3) | Qualcomm | San Diego, CA | 08/29/2026 07:05:35 | Sponsorship: Not Sure |
+| 90 (Strong) | [Digital Design Engineer I](https://jobright.ai/jobs/info/6a75e2eab17cba569035b640) | Silicon Labs | Austin, TX | 08/29/2026 07:07:55 | Sponsorship: Not Sure |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a9262e436036300991962b1) | JSG (Johnson Service Group, Inc.) | Cypress, CA | 08/28/2026 12:49:50 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Semiconductor Test Technician](https://jobright.ai/jobs/info/6a9263bfd18f75674827bcc8) | AM Technical Solutions, Inc | Manassas, VA | 08/28/2026 15:34:40 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Test Engineer](https://jobright.ai/jobs/info/6a55437e4119652ff38646ed) | SharkNinja | Needham, MA | 08/29/2026 01:57:07 | Sponsorship: Not Sure |
@@ -95,12 +104,3 @@ Updated: 2026-08-29 10:19:31Z UTC
 | 49 (Possible) | [Facilities Electrical Engineer I](https://jobright.ai/jobs/info/6a8e257c581f2d7bfdfeb361) | Panasonic Energy Corporation of North America | De Soto, KS | 08/25/2026 23:30:04 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Mechanical Engineer, Mechatronic Hardware Validation](https://jobright.ai/jobs/info/6a8e12a5d34f700f87fd7c29) | Tesla | Palo Alto, CA | 08/25/2026 15:09:41 | Sponsorship: Not Sure |
 | 47 (Possible) | [Test Engineer (Elect/I&C) Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a2ce317c260bb1b8ae17f6c) | Westinghouse Electric Company | Bridgman, MI | 08/25/2026 18:58:04 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a8e142bd34f700f87fd7cbc) | Torus | Salt Lake City, UT | 08/25/2026 22:16:11 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer I - Test Equipment Maintenance](https://jobright.ai/jobs/info/6a8e0744d34f700f87fd78da) | Raytheon | Andover, MA | 08/25/2026 21:21:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 64 (Good) | [New College Grad - Embedded Firmware Engineer](https://jobright.ai/jobs/info/6a8e02b347679c68bf5e62bf) | Micron Technology | Boise, ID | 08/25/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 61 (Good) | [New College Grad - ENGINEER, SIG ELECTRICAL DESIGN](https://jobright.ai/jobs/info/6a8e02d647679c68bf5e62d4) | Micron Technology | Boise, ID | 08/25/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a8dfdfc47679c68bf5e601c) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/25/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Validation Engineer I](https://jobright.ai/jobs/info/6a8dee0ecc0cf270685261e9) | Alcami Corporation | Pepperell, MA | 08/25/2026 12:33:34 | Sponsorship: Not Sure |
-| 51 (Good) | [Reliability Engineer](https://jobright.ai/jobs/info/6a8dc7d3a5639a48103279b2) | Helion | Columbia, SC | 08/25/2026 16:50:27 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [Reliability Engineer](https://jobright.ai/jobs/info/6a8dca2ed34f700f87fd60ba) | Reckitt | Evansville, IN | 08/25/2026 10:00:30 | Sponsorship: Not Sure |
-| 51 (Good) | [Reliability Engineer Job Details \| Reckitt](https://jobright.ai/jobs/info/6a8dcac3a5639a4810327b67) | Reckitt | Evansville, IN | 08/25/2026 10:02:59 | Sponsorship: Not Sure |
