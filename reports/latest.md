@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-29 15:11:01Z UTC
+Updated: 2026-08-29 18:37:05Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [2026 Entry Level Electrical Engineer - RF Specific (Hybrid)](https://jobright.ai/jobs/info/6a93011a8e5968545337a711) | BAE Systems | Nashua, NH | 08/29/2026 15:56:10 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a930ee5c12c90443efcb4bb) | Military Spouse Jobs | Pittsfield, MA | 08/29/2026 16:55:01 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a930f538e5968545337aeab) | Military Spouse Jobs | Pittsfield, MA | 08/29/2026 09:56:51 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 39 (Possible) | [Engineer I – Focal Plane Electronics Systems](https://jobright.ai/jobs/info/6a92f3fca27a2d3c9848c753) | BAE Systems | Boulder, CO | 08/29/2026 15:00:12 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a92ef6f9864261ccd2a1491) | Eaton | Pittsfield, MA | 08/29/2026 14:40:47 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 50 (Good) | [Test Engineer (Entry Level)](https://jobright.ai/jobs/info/6a92f5af3603630099196f27) | BAE Systems | Endicott, NY | 08/29/2026 15:07:27 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-29 15:11:01Z UTC
 | 56 (Good) | [Entry Level Embedded Engineer](https://jobright.ai/jobs/info/6a8e3d16eb0ee5374a47cc7e) | DMC Engineering | Denver, CO | 07/08/2026 15:10:55 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Test Engineer, I](https://jobright.ai/jobs/info/6a8e0fb3581f2d7bfdfead23) | Zebra Technologies | Holtsville, NY | 08/25/2026 17:28:20 | Sponsorship: No |
 | 37 (Possible) | [Instrumentation & Controls Engineer 1 - Oil & Gas](https://jobright.ai/jobs/info/69d7ef82b67cec4f9b0994df) | Sargent & Lundy | Englewood, CO | 08/25/2026 17:40:11 | Sponsorship: No |
-| 49 (Possible) | [Facilities Electrical Engineer I](https://jobright.ai/jobs/info/6a8e257c581f2d7bfdfeb361) | Panasonic Energy Corporation of North America | De Soto, KS | 08/25/2026 23:30:04 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [Mechanical Engineer, Mechatronic Hardware Validation](https://jobright.ai/jobs/info/6a8e12a5d34f700f87fd7c29) | Tesla | Palo Alto, CA | 08/25/2026 15:09:41 | Sponsorship: Not Sure |
-| 47 (Possible) | [Test Engineer (Elect/I&C) Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6a2ce317c260bb1b8ae17f6c) | Westinghouse Electric Company | Bridgman, MI | 08/25/2026 18:58:04 | Sponsorship: Past Sponsorship |
