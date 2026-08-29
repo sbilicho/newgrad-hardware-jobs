@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-29 18:37:05Z UTC
+Updated: 2026-08-29 23:25:58Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a935f8fa27a2d3c9848dd36) | Dice | Egg Harbor Township, NJ | 08/29/2026 22:39:11 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer – Entry Level – 2+ Years (Hybrid)](https://jobright.ai/jobs/info/6a4f28d80ea38951a6ff56a8) | Barr Engineering Co. | Minneapolis, MN | 08/29/2026 18:48:25 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Jr. Validation Engineer](https://jobright.ai/jobs/info/6a9338639864261ccd2a27d4) | USDM Life Sciences | Winston-Salem, NC | 08/29/2026 12:52:03 | Sponsorship: Not Sure |
 | 44 (Possible) | [2026 Entry Level Electrical Engineer - RF Specific (Hybrid)](https://jobright.ai/jobs/info/6a93011a8e5968545337a711) | BAE Systems | Nashua, NH | 08/29/2026 15:56:10 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a930ee5c12c90443efcb4bb) | Military Spouse Jobs | Pittsfield, MA | 08/29/2026 16:55:01 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a930f538e5968545337aeab) | Military Spouse Jobs | Pittsfield, MA | 08/29/2026 09:56:51 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-08-29 18:37:05Z UTC
 | 48 (Possible) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6a628d4af805ef6ff42339fe) | Rocket Lab | Long Beach, CA | 08/26/2026 04:19:44 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6a8d1dbfd34f700f87fd39fb) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 08/25/2026 22:52:55 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6a8e4258eb0ee5374a47ce82) | MACOM | Lowell, MA | 08/25/2026 18:33:12 | Sponsorship: No |
-| 56 (Good) | [Entry Level Embedded Engineer](https://jobright.ai/jobs/info/6a8e3d16eb0ee5374a47cc7e) | DMC Engineering | Denver, CO | 07/08/2026 15:10:55 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Test Engineer, I](https://jobright.ai/jobs/info/6a8e0fb3581f2d7bfdfead23) | Zebra Technologies | Holtsville, NY | 08/25/2026 17:28:20 | Sponsorship: No |
-| 37 (Possible) | [Instrumentation & Controls Engineer 1 - Oil & Gas](https://jobright.ai/jobs/info/69d7ef82b67cec4f9b0994df) | Sargent & Lundy | Englewood, CO | 08/25/2026 17:40:11 | Sponsorship: No |
