@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-28 21:29:25Z UTC
+Updated: 2026-08-29 03:23:31Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 61 (Good) | [New College Grad - ENGINEER, SIG ELECTRICAL DESIGN](https://jobright.ai/jobs/info/6a920fb1d18f75674827b51f) | Dice | Boise, ID | 08/28/2026 22:46:09 | Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6a920a8ad18f75674827b2cd) | Rocket Lab | Long Beach, CA | 08/28/2026 22:24:10 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer (Industrial)](https://jobright.ai/jobs/info/6a920db53603630099195a77) | Dice | Boise, ID | 08/28/2026 22:37:41 | Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Software Engineer - Embedded Systems (Entry Level)](https://jobright.ai/jobs/info/6a920f043603630099195b27) | Dice | Columbus, OH | 08/28/2026 22:43:16 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a9222a48e59685453379199) | Cyient | Irvine, CA | 08/28/2026 17:07:00 | Sponsorship: Not Sure |
 | 55 (Good) | [Embedded Firmware Engineer, Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5225618007?gh_jid=5225618007) | Anduril Industries | Costa Mesa, California, United States | 08/28/2026 21:10:57 |  |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a9190a09864261ccd29d718) | AECOM | Roanoke, VA | 08/28/2026 13:44:00 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Electrical Reliability Engineer I, II, III or Sr.](https://jobright.ai/jobs/info/6a91912ed18f75674827898c) | The Mosaic Company | Mulberry, FL | 08/28/2026 14:03:31 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-08-28 21:29:25Z UTC
 | 30 (Possible) | [Electrical/Computer Engineer, Level 1](https://jobright.ai/jobs/info/6a8dbd7f581f2d7bfdfe8a59) | ASRC Federal | Oklahoma City, OK | 08/25/2026 04:00:00 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 55 (Good) | [EMC Test Engineer (Entry-Level)](https://jobright.ai/jobs/info/6a8dc35147679c68bf5e46ed) | Voto Consulting LLC | Fremont, CA | 08/25/2026 16:31:13 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a8da9cf47679c68bf5e3bb5) | Whitman, Requardt and Associates, LLP | Fairfax, VA | 08/25/2026 14:14:59 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8daef8581f2d7bfdfe8595) | Sterling Engineering | Darien, WI | 08/25/2026 15:04:24 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Lighting/Electrical Engineer](https://jobright.ai/jobs/info/6a8db195a5639a4810326e79) | Jacobs | Chicago, IL | 08/25/2026 15:15:33 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Test Engineer I](https://jobright.ai/jobs/info/6a70c18971acd469eed9f66a) | GRAYHILL | McCook, IL | 08/25/2026 07:37:23 | Sponsorship: Not Sure |
-| 43 (Possible) | [Entry Level Electrical Engineer - System Planning](https://jobright.ai/jobs/info/6a4422440153061b8b3df591) | SEnergy | Boerne, TX | 08/25/2026 13:05:43 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer (Industrial)](https://jobright.ai/jobs/info/6a8d9a3947679c68bf5e36cc) | Carollo Engineers | Boise, ID | 08/25/2026 13:35:53 | Sponsorship: Past Sponsorship |
