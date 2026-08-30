@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-30 20:02:01Z UTC
+Updated: 2026-08-30 22:42:51Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 49 (Possible) | [Entry-Level Test Engineer/Analyst](https://jobright.ai/jobs/info/6a94b1ab9864261ccd2a4722) | Dice | Redstone Arsenal, AL | 08/30/2026 22:41:47 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 60 (Good) | [New College Grad - Product Test Engineer](https://jobright.ai/jobs/info/6a94a5f83603630099199fd0) | Micron Technology | Boise, ID | 08/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 56 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a9479c6d18f75674827f643) | CesiumAstro | Austin, TX | 08/30/2026 18:43:18 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Staff Electrical Engineer I - Phased Array Unit Lead](https://jobright.ai/jobs/info/6a947e57a27a2d3c9848f4a6) | CesiumAstro | Austin, TX | 08/30/2026 19:02:47 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a935f8fa27a2d3c9848dd36) | Dice | Egg Harbor Township, NJ | 08/29/2026 22:39:11 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-08-30 20:02:01Z UTC
 | 49 (Possible) | [RF Hardware Engineer](https://jobright.ai/jobs/info/6a41d29dd528ac2915f97eab) | K2 Space Corporation | Los Angeles, CA | 08/26/2026 00:56:38 | Sponsorship: Not Sure |
 | 35 (Possible) | [Entry Level Hardware Developer 2027 -Poughkeepsie](https://jobright.ai/jobs/info/6a8e7c71c137ff2317e69353) | IBM | Poughkeepsie, AR | 08/26/2026 05:41:05 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a8e8357ef981311b92fc2fb) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/26/2026 06:10:31 | Sponsorship: Past Sponsorship |
-| 83 (Strong) | [Cell Modeling and Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a8e8d61b93d14258ab4597c) | NVIDIA AI | Santa Clara, CA | 08/26/2026 06:53:21 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6a628d4af805ef6ff42339fe) | Rocket Lab | Long Beach, CA | 08/26/2026 04:19:44 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
