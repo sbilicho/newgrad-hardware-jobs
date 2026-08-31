@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-31 06:49:49Z UTC
+Updated: 2026-08-31 14:51:31Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 58 (Good) | [2027 Entry Level Gas Turbine Product Engineer (GTPE)](https://jobright.ai/jobs/info/6a8f517ff841e649a7191d26) | Solar Turbines | San Diego, CA | 08/31/2026 08:24:14 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer I (Contract)](https://jobright.ai/jobs/info/6a9523f9d18f7567482801f6) | Gilat Satellite Networks | Fort Worth, TX | 08/31/2026 06:49:29 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Early Careers Electrical Engineer I (Lynchburg)](https://jobright.ai/jobs/info/6a958ec6c8763a3a87ffa913) | Framatome North America | Lynchburg, VA | 08/31/2026 14:25:10 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a8da9d025fc4e7ae3dbcd62) | Whitman, Requardt and Associates, LLP | Baltimore, MD | 08/25/2026 14:14:59 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a955ec75af94e5abbe27381) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/31/2026 11:00:23 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Hardware Engineer 1 - 23830 (FS Poly Required) Job Details \| HII's Mission Technologies division](https://jobright.ai/jobs/info/6a94d1fe360363009919a41a) | Mission Technologies, a division of HII | Fort Meade, MD | 08/31/2026 00:59:42 | Sponsorship: Past Sponsorship |
+| 32 (Possible) | [Entry Level NVM Reliability Lab Engineer](https://jobright.ai/jobs/info/6a958f10c8763a3a87ffa93b) | NXP Semiconductors | Austin, TX | 08/31/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 60 (Good) | [New College Grad - Product Test Engineer](https://jobright.ai/jobs/info/6a94a5f8d18f75674827f8c8) | Micron Technology | Boise, ID | 08/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I - SATCOM](https://jobright.ai/jobs/info/6a9479c79864261ccd2a42e3) | CesiumAstro | Westminster, CO | 08/31/2026 00:28:39 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Entry-Level Test Engineer/Analyst](https://jobright.ai/jobs/info/6a94b1ab9864261ccd2a4722) | Dice | Redstone Arsenal, AL | 08/30/2026 22:41:47 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -97,10 +104,3 @@ Updated: 2026-08-31 06:49:49Z UTC
 | 40 (Possible) | [New Grad Electrical Engineer I - Winter/Summer 2027](https://jobright.ai/jobs/info/6a8f1742382b237ac80c43a8) | HNTB | Kansas City, MO | 08/26/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 58 (Good) | [Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5163328007?gh_jid=5163328007) | Anduril Industries | McHenry, Mississippi, United States | 08/26/2026 14:46:06 | Security clearance language is present |
 | 91 (Strong) | [Entry Level ASIC/FPGA Design Engineer – Space Electronics - MTV](https://jobright.ai/jobs/info/6a8efaf43ac3a34f92d7edbd) | Boeing | Mountain View, CA | 08/26/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 82 (Strong) | [Design Verification Engineer (Silicon Engineering)](https://jobright.ai/jobs/info/6a568847efb06a45240d685d) | SpaceX | Austin, TX | 08/26/2026 15:50:33 | Sponsorship: Past Sponsorship |
-| 35 (Possible) | [Entry Level Hardware Developer 2027 -Austin](https://jobright.ai/jobs/info/6a8ef67cd7c91d0cf446cbb6) | IBM | Austin, TX | 08/26/2026 14:21:48 | Sponsorship: Past Sponsorship |
-| 91 (Strong) | [Entry Level ASIC/FPGA Design Engineer – Space Electronics - MTV](https://jobright.ai/jobs/info/6a8ef07bd7c91d0cf446c9f8) | Boeing | Mountain View, CA | 08/26/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 51 (Good) | [Optical Test Development Engineer](https://jobright.ai/jobs/info/6a5ae30cc8e3a473cb8ada9b) | Nokia | Allentown, PA | 08/26/2026 05:30:27 | Sponsorship: Not Sure |
-| 44 (Possible) | [Electrical Engineer - San Diego, CA](https://jobright.ai/jobs/info/6a7c4fa07c52154b59f59bd4) | Eaton | San Diego, CA | 08/26/2026 03:55:47 | Sponsorship: No |
-| 62 (Good) | [FPGA Engineer](https://jobright.ai/jobs/info/6a51cfc9bf63b66c7997d1fd) | Qube Research & Technologies | New York, NY | 08/25/2026 23:59:34 | Sponsorship: Not Sure |
-| 49 (Possible) | [RF Hardware Engineer](https://jobright.ai/jobs/info/6a41d29dd528ac2915f97eab) | K2 Space Corporation | Los Angeles, CA | 08/26/2026 00:56:38 | Sponsorship: Not Sure |
