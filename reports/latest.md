@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-31 00:54:39Z UTC
+Updated: 2026-08-31 06:49:49Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 60 (Good) | [New College Grad - Product Test Engineer](https://jobright.ai/jobs/info/6a94a5f8d18f75674827f8c8) | Micron Technology | Boise, ID | 08/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I - SATCOM](https://jobright.ai/jobs/info/6a9479c79864261ccd2a42e3) | CesiumAstro | Westminster, CO | 08/31/2026 00:28:39 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Entry-Level Test Engineer/Analyst](https://jobright.ai/jobs/info/6a94b1ab9864261ccd2a4722) | Dice | Redstone Arsenal, AL | 08/30/2026 22:41:47 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 60 (Good) | [New College Grad - Product Test Engineer](https://jobright.ai/jobs/info/6a94a5f83603630099199fd0) | Micron Technology | Boise, ID | 08/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-08-31 00:54:39Z UTC
 | 44 (Possible) | [Electrical Engineer - San Diego, CA](https://jobright.ai/jobs/info/6a7c4fa07c52154b59f59bd4) | Eaton | San Diego, CA | 08/26/2026 03:55:47 | Sponsorship: No |
 | 62 (Good) | [FPGA Engineer](https://jobright.ai/jobs/info/6a51cfc9bf63b66c7997d1fd) | Qube Research & Technologies | New York, NY | 08/25/2026 23:59:34 | Sponsorship: Not Sure |
 | 49 (Possible) | [RF Hardware Engineer](https://jobright.ai/jobs/info/6a41d29dd528ac2915f97eab) | K2 Space Corporation | Los Angeles, CA | 08/26/2026 00:56:38 | Sponsorship: Not Sure |
-| 35 (Possible) | [Entry Level Hardware Developer 2027 -Poughkeepsie](https://jobright.ai/jobs/info/6a8e7c71c137ff2317e69353) | IBM | Poughkeepsie, AR | 08/26/2026 05:41:05 | Sponsorship: Past Sponsorship |
