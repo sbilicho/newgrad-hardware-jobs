@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-01 05:07:05Z UTC
+Updated: 2026-09-01 10:05:49Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 80 (Strong) | [GPU Design Verification Engineer](https://jobright.ai/jobs/info/6a95e6e29fcec544237300b3) | Intel | Folsom, CA | 09/01/2026 01:38:08 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a956d3801d0e62174586807) | ESPEC North America | Hudsonville, MI | 09/01/2026 02:47:31 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer I – Early Career (2027 Starts)](https://jobright.ai/jobs/info/6a9631f49fcec54423731e3a) | Blue Origin | Greater Seattle Area | 09/01/2026 05:23:55 | Sponsorship: Past Sponsorship |
+| 43 (Possible) | [2027 - Electrical Engineer I (Crewed Land) - Slidell, LA](https://jobright.ai/jobs/info/6a96957fe4e60e4b8da59879) | Louisiana Economic Development | Slidell, LA | 09/01/2026 09:06:07 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Antenna RF Electrical Design Engineer I (Onsite)](https://jobright.ai/jobs/info/6a969976455eaf6a08c18299) | Raytheon | McKinney, TX | 09/01/2026 09:23:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 40 (Possible) | [2027 Entry Level - Electrical Engineer (Interiors)](https://jobright.ai/jobs/info/6a966431b22f636c8141253a) | Textron | Wichita, KS | 09/01/2026 05:35:45 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a9687a0455eaf6a08c17dd4) | Paragon Energy Solutions | Fort Worth, TX | 09/01/2026 01:06:56 | Sponsorship: Past Sponsorship |
 | 85 (Strong) | [Design Verification (DV) Engineer - 2027 Grads](https://jobright.ai/jobs/info/6a95f2e43843db0159908887) | Hudson River Trading | New York, NY | 08/31/2026 21:32:20 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a9600f3f28891320e85f96b) | Zachry Group | Downers Grove, IL | 09/01/2026 01:46:56 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - Technology Center](https://jobright.ai/jobs/info/6a95a5473843db015990630d) | Brunswick Corporation | Edgewater, FL | 08/31/2026 21:04:03 | Sponsorship: Past Sponsorship |
@@ -97,10 +104,3 @@ Updated: 2026-09-01 05:07:05Z UTC
 | 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a90bb8c7c32860d14cfb2a9) | Dice | Baltimore, MD | 08/27/2026 22:34:52 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Embedded Software Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6a90bc567c32860d14cfb335) | Dice | East Hartford, CT | 08/27/2026 22:38:14 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5224713007?gh_jid=5224713007) | Anduril Industries | Costa Mesa, California, United States | 08/27/2026 22:38:03 |  |
-| 59 (Good) | [Embedded Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5224716007?gh_jid=5224716007) | Anduril Industries | Costa Mesa, California, United States | 08/27/2026 22:44:00 |  |
-| 64 (Good) | [2026 Fulltime- RF Electrical Engineer I- Onsite](https://jobright.ai/jobs/info/6a10169112f8b43cf3982e6b) | Raytheon | Marlborough, MA | 08/27/2026 18:53:54 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Research Electrical Engineer I or II, MSD](https://jobright.ai/jobs/info/6a9094f2a198864866761edd) | Virginia Tech | Blacksburg, VA | 08/27/2026 19:50:10 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 76 (Strong) | [CAD/EDA Engineer I, CAD/EDA Engineer II, Senior CAD/EDA Engineer, Texas Institute for Electronics](https://jobright.ai/jobs/info/6a905e217c32860d14cf8e3f) | The University of Texas at Austin | Austin, TX | 08/27/2026 19:34:51 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Substation Electrical Engineer](https://jobright.ai/jobs/info/6a9097ed8ffa38557e6cdcd0) | WSP | Freeport, ME | 08/27/2026 20:02:53 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Examinations Infrastructure Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6a90bdf90bd89e205d24c23a) | Naval Nuclear Laboratory (FMP) | Idaho Falls, ID | 08/27/2026 22:45:13 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Signal Integrity Engineer (Entry level)](https://jobright.ai/jobs/info/6a904d2ba198864866760433) | Koch Engineered Solutions | Lisle, IL | 08/27/2026 14:43:55 | Sponsorship: Past Sponsorship |
