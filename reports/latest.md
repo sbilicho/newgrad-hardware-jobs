@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-01 18:10:28Z UTC
+Updated: 2026-09-01 21:07:39Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 49 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a973cad455eaf6a08c1b94b) | iWorx Systems, Inc. | Dover, NH | 09/01/2026 05:20:27 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a973963e4e60e4b8da5cdbb) | Ranpak | Shelton, CT | 09/01/2026 20:45:23 | Sponsorship: Past Sponsorship |
+| 30 (Possible) | [Entry Level Hardware Developer 2027 -New York](https://jobright.ai/jobs/info/6a973430455eaf6a08c1b41b) | IBM | Poughkeepsie, AR | 09/01/2026 20:23:12 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [ASIC Floorplan Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a971c2e455eaf6a08c1aba0) | NVIDIA AI | Santa Clara, CA | 09/01/2026 18:40:46 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electrical Engineer, Air Dominance and Strike](https://boards.greenhouse.io/andurilindustries/jobs/5214492007?gh_jid=5214492007) | Anduril Industries | Costa Mesa, California, United States | 09/01/2026 15:37:38 | Security clearance language is present |
 | 37 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6a970171f5337b2cf731f543) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 09/01/2026 16:53:26 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a96fc61455eaf6a08c19b64) | Task software solutions LLC | Denver, CO | 09/01/2026 16:25:05 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-09-01 18:10:28Z UTC
 | 47 (Possible) | [Electrical Engineer (New Grad / Spring 2027)](https://jobright.ai/jobs/info/6a91f5539864261ccd29fc8f) | Eight Sleep | San Francisco, CA | 08/28/2026 20:53:39 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Computer & Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6a91f3998e596854533787d8) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer, Power & Lighting](https://jobright.ai/jobs/info/6a91b1f1a27a2d3c984894c3) | Barry-Wehmiller | Portland, OR | 08/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a91990fc12c90443efc6db1) | Abacus Service Corporation | Juno Beach, FL | 08/28/2026 14:19:59 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a91b9e43603630099193fe2) | RoyOMartin | Chopin, LA | 08/28/2026 16:40:04 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Entry-Level Test Engineer/Analyst](https://jobright.ai/jobs/info/6a919cdb360363009919358c) | Torch Technologies, Inc. | Redstone Arsenal, AL | 08/28/2026 16:35:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 94 (Strong) | [Entry Level ASIC/FPGA Verification Engineer – Space Electronics - MTV](https://jobright.ai/jobs/info/6a9188f9a27a2d3c984886d3) | Boeing | Mountain View, CA | 08/28/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
