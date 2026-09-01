@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-01 14:52:25Z UTC
+Updated: 2026-09-01 18:10:28Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 42 (Possible) | [Electrical Engineer, Air Dominance and Strike](https://boards.greenhouse.io/andurilindustries/jobs/5214492007?gh_jid=5214492007) | Anduril Industries | Costa Mesa, California, United States | 09/01/2026 15:37:38 | Security clearance language is present |
+| 37 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6a970171f5337b2cf731f543) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 09/01/2026 16:53:26 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a96fc61455eaf6a08c19b64) | Task software solutions LLC | Denver, CO | 09/01/2026 16:25:05 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer (Entry)](https://jobright.ai/jobs/info/6a970611246d697dcee02dea) | Coffman Engineers | Burlington, WA | 09/01/2026 17:06:25 | Sponsorship: Past Sponsorship |
+| 83 (Strong) | [CPU Design Verification Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6a9706a7d13b4819f39de9f4) | GlobalFoundries | Richardson, TX | 09/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 90 (Strong) | [New College Grad - Mixed Signal Design Engineer, HBM](https://jobright.ai/jobs/info/6a970280d13b4819f39de71b) | Micron Technology | Richardson, TX | 09/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a96d25db22f636c81413e0c) | Elbit Systems of America | Roanoke, VA | 09/01/2026 13:25:58 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer - Hiring Event with AECOM - New York City](https://jobright.ai/jobs/info/6a96e228246d697dcee01c28) | AECOM | New York, NY | 09/01/2026 14:33:12 | Sponsorship: Past Sponsorship |
 | 78 (Strong) | [FPGA Silicon Validation Engineer](https://jobright.ai/jobs/info/6a9610019fcec544237312ba) | Altera | San Jose, CA | 09/01/2026 10:16:53 | Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-09-01 14:52:25Z UTC
 | 45 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a91b9e43603630099193fe2) | RoyOMartin | Chopin, LA | 08/28/2026 16:40:04 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Entry-Level Test Engineer/Analyst](https://jobright.ai/jobs/info/6a919cdb360363009919358c) | Torch Technologies, Inc. | Redstone Arsenal, AL | 08/28/2026 16:35:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 94 (Strong) | [Entry Level ASIC/FPGA Verification Engineer – Space Electronics - MTV](https://jobright.ai/jobs/info/6a9188f9a27a2d3c984886d3) | Boeing | Mountain View, CA | 08/28/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 85 (Strong) | [ASIC/FPGA Design and Verification Engineer – Space Electronics - MTV (Associate, Experienced, or Lead)](https://jobright.ai/jobs/info/6a9188f93603630099192ec7) | Boeing | Mountain View, CA | 08/28/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 50 (Good) | [Electrical Engineer 2](https://jobright.ai/jobs/info/6a91de613603630099194f33) | Collins Aerospace | Marlborough, MA | 08/28/2026 12:15:45 | Sponsorship: No |
-| 50 (Good) | [Digital Hardware Design Engineer 1 (Onsite)](https://jobright.ai/jobs/info/6a91e7ddc12c90443efc8b39) | Collins Aerospace | Cedar Rapids, IA | 08/28/2026 12:56:13 | Sponsorship: No |
-| 41 (Possible) | [Examinations Infrastructure Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6a90f1c67c32860d14cfbd23) | Naval Nuclear Laboratory (FMP) | Idaho Falls, ID | 08/28/2026 02:26:14 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Research Electrical Engineer I or II, MSD](https://jobright.ai/jobs/info/6a90e148a198864866763740) | Women In Science | Blacksburg, VA | 08/28/2026 01:15:52 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Research Electrical Engineer I or II, MSD](https://jobright.ai/jobs/info/6a90f07dd96ad228f12639e2) | Virginia Tech | Blacksburg, VA | 08/28/2026 02:20:45 | Security clearance language is present; Sponsorship: Past Sponsorship |
