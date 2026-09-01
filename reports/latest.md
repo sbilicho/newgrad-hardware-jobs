@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-01 10:05:49Z UTC
+Updated: 2026-09-01 14:52:25Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a96d25db22f636c81413e0c) | Elbit Systems of America | Roanoke, VA | 09/01/2026 13:25:58 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Electrical Engineer - Hiring Event with AECOM - New York City](https://jobright.ai/jobs/info/6a96e228246d697dcee01c28) | AECOM | New York, NY | 09/01/2026 14:33:12 | Sponsorship: Past Sponsorship |
+| 78 (Strong) | [FPGA Silicon Validation Engineer](https://jobright.ai/jobs/info/6a9610019fcec544237312ba) | Altera | San Jose, CA | 09/01/2026 10:16:53 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [New Grad Product Engineer](https://jobright.ai/jobs/info/6a96178b3843db01599095da) | Nuvo | San Francisco, CA | 09/01/2026 00:08:43 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer - R&D](https://jobright.ai/jobs/info/6a96db2be4e60e4b8da5a3e7) | Wagstaff, Inc. | Spokane Valley, WA | 09/01/2026 07:03:23 | Sponsorship: No |
 | 80 (Strong) | [GPU Design Verification Engineer](https://jobright.ai/jobs/info/6a95e6e29fcec544237300b3) | Intel | Folsom, CA | 09/01/2026 01:38:08 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a956d3801d0e62174586807) | ESPEC North America | Hudsonville, MI | 09/01/2026 02:47:31 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer I – Early Career (2027 Starts)](https://jobright.ai/jobs/info/6a9631f49fcec54423731e3a) | Blue Origin | Greater Seattle Area | 09/01/2026 05:23:55 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-09-01 10:05:49Z UTC
 | 41 (Possible) | [Examinations Infrastructure Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6a90f1c67c32860d14cfbd23) | Naval Nuclear Laboratory (FMP) | Idaho Falls, ID | 08/28/2026 02:26:14 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Research Electrical Engineer I or II, MSD](https://jobright.ai/jobs/info/6a90e148a198864866763740) | Women In Science | Blacksburg, VA | 08/28/2026 01:15:52 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Research Electrical Engineer I or II, MSD](https://jobright.ai/jobs/info/6a90f07dd96ad228f12639e2) | Virginia Tech | Blacksburg, VA | 08/28/2026 02:20:45 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Examinations Infrastructure Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6a911ce70bd89e205d24d010) | Naval Nuclear Laboratory (FMP) | Idaho Falls, ID | 08/28/2026 05:30:15 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Digital Electronics Circuit & Unit Hardware Design Engineer (Associate or Mid-Level)](https://jobright.ai/jobs/info/6a90e0270bd89e205d24c9ce) | Boeing | El Segundo, CA | 08/27/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a90bb8c7c32860d14cfb2a9) | Dice | Baltimore, MD | 08/27/2026 22:34:52 | Sponsorship: Past Sponsorship |
-| 62 (Good) | [Embedded Software Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6a90bc567c32860d14cfb335) | Dice | East Hartford, CT | 08/27/2026 22:38:14 | Sponsorship: Past Sponsorship |
-| 59 (Good) | [Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5224713007?gh_jid=5224713007) | Anduril Industries | Costa Mesa, California, United States | 08/27/2026 22:38:03 |  |
