@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-01 22:43:03Z UTC
+Updated: 2026-09-01 23:34:11Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 55 (Good) | [Product Engineer I/II](https://jobright.ai/jobs/info/6a974c19e4e60e4b8da5d6fc) | Mini-Circuits | Hialeah, FL | 09/01/2026 15:05:13 | Sponsorship: Not Sure |
+| 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a97556ae4e60e4b8da5dab9) | Ranpak | Shelton, CT | 09/01/2026 22:44:58 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Test Engineer I - Electronics](https://jobright.ai/jobs/info/6a9746baf5337b2cf7321493) | Honeywell Aerospace | Rocky Mount, NC | 09/01/2026 21:42:18 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a97510cf5337b2cf73217ab) | VNSURE BUSINESS SOLUTIONS PRIVATE LIMITED | Schaumburg, IL | 09/01/2026 22:26:20 | Sponsorship: Past Sponsorship |
 | 38 (Possible) | [Entry level Hardware Developer - Austin, TX - 2027](https://jobright.ai/jobs/info/6a97382b246d697dcee041ae) | IBM | Austin, TX | 09/01/2026 20:40:11 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-09-01 22:43:03Z UTC
 | 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a9222a48e59685453379199) | Cyient | Irvine, CA | 08/28/2026 17:07:00 | Sponsorship: Not Sure |
 | 55 (Good) | [Embedded Firmware Engineer, Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5225618007?gh_jid=5225618007) | Anduril Industries | Costa Mesa, California, United States | 08/28/2026 21:10:57 |  |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a9190a09864261ccd29d718) | AECOM | Roanoke, VA | 08/28/2026 13:44:00 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [Electrical Reliability Engineer I, II, III or Sr.](https://jobright.ai/jobs/info/6a91912ed18f75674827898c) | The Mosaic Company | Mulberry, FL | 08/28/2026 14:03:31 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a91a5e58e59685453376b75) | CommScope | Claremont, NC | 08/28/2026 15:14:45 | Sponsorship: Past Sponsorship |
