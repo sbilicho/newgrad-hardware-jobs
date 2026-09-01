@@ -1,9 +1,23 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-08-31 20:40:20Z UTC
+Updated: 2026-09-01 05:07:05Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 85 (Strong) | [Design Verification (DV) Engineer - 2027 Grads](https://jobright.ai/jobs/info/6a95f2e43843db0159908887) | Hudson River Trading | New York, NY | 08/31/2026 21:32:20 | Sponsorship: Past Sponsorship |
+| 43 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a9600f3f28891320e85f96b) | Zachry Group | Downers Grove, IL | 09/01/2026 01:46:56 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I - Technology Center](https://jobright.ai/jobs/info/6a95a5473843db015990630d) | Brunswick Corporation | Edgewater, FL | 08/31/2026 21:04:03 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a95f05a3843db01599086d2) | Collins Aerospace | Wilsonville, OR | 08/31/2026 21:21:30 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a960caccabc9f6703e1bea3) | Kansas City National Security Campus | Kansas City, MO | 08/31/2026 23:22:20 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5226778007?gh_jid=5226778007) | Anduril Industries | Irvine, California, United States | 08/31/2026 21:22:18 | Security clearance language is present; Full-time status is inferred from the first-party posting |
+| 55 (Good) | [EMC Test Engineer (Entry Level)](https://jobright.ai/jobs/info/6a9658229fcec544237324ee) | Yoh, A Day & Zimmermann Company | Fremont, CA | 08/06/2026 08:36:02 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Entry Level Site Reliability Engineer - Tucson-AZ](https://jobright.ai/jobs/info/6a96035a3843db0159908f0b) | Dice | Tucson, AZ | 08/31/2026 22:42:34 | Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Hardware Firmware Engineer](https://jobright.ai/jobs/info/6a95f1aef28891320e85f36f) | SJE Inc. | Detroit Lakes, MN | 08/31/2026 21:27:10 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [New Grad Product Engineer](https://jobright.ai/jobs/info/6a9609503843db0159909221) | Nuvo | New York, NY | 09/01/2026 00:17:11 | Sponsorship: Past Sponsorship |
+| 71 (Strong) | [Hardware Design Engineer - 2027 Grads](https://jobright.ai/jobs/info/6a95f0793843db01599086ef) | Hudson River Trading | New York, NY | 08/31/2026 21:22:01 | Sponsorship: Past Sponsorship |
+| 51 (Good) | [Product Engineer 1](https://jobright.ai/jobs/info/6a6d818eca1f933846603cde) | Lanner Electronics Inc. | Union City, CA | 08/31/2026 19:35:23 | Sponsorship: Not Sure |
+| 51 (Good) | [Product Engineer 1](https://jobright.ai/jobs/info/6a71934202d93145bf88fe35) | Lanner Electronics Inc. | Union City, CA | 08/31/2026 19:35:23 | Sponsorship: Not Sure |
+| 40 (Possible) | [ASIC Floorplan Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a95f03c9fcec5442373050a) | NVIDIA | Santa Clara, CA | 09/01/2026 00:07:57 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Hardware Electronics Engineer I](https://jobright.ai/jobs/info/6a95c4e3c8763a3a87ffbf06) | Nidec Motor Corporation | St. Louis, MO | 08/31/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 60 (Good) | [New College Grad - Product Test Engineer](https://jobright.ai/jobs/info/6a94a5fbd18f75674827f8c9) | Micron Technology | Boise, ID | 08/31/2026 12:12:25 | Sponsorship: Past Sponsorship |
 | 92 (Strong) | [GPU Design Verification Engineer](https://jobright.ai/jobs/info/6a95ba50c8763a3a87ffba9b) | Qualcomm | Santa Clara, CA | 08/31/2026 17:30:56 | Sponsorship: Past Sponsorship |
@@ -90,17 +104,3 @@ Updated: 2026-08-31 20:40:20Z UTC
 | 37 (Possible) | [Entry Level Substation Electrical Engineer](https://jobright.ai/jobs/info/6a9097ed8ffa38557e6cdcd0) | WSP | Freeport, ME | 08/27/2026 20:02:53 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Examinations Infrastructure Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6a90bdf90bd89e205d24c23a) | Naval Nuclear Laboratory (FMP) | Idaho Falls, ID | 08/27/2026 22:45:13 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Signal Integrity Engineer (Entry level)](https://jobright.ai/jobs/info/6a904d2ba198864866760433) | Koch Engineered Solutions | Lisle, IL | 08/27/2026 14:43:55 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Entry Level Product Engineer (December Grads)](https://jobright.ai/jobs/info/6a9068caa198864866760e8b) | Plexus Corp. | Nampa, ID | 08/27/2026 19:05:38 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Entry Level Product Engineer (December Grads)](https://jobright.ai/jobs/info/6a907b61a19886486676158a) | Plexus Corp. | Neenah, WI | 08/27/2026 19:05:38 | Sponsorship: Past Sponsorship |
-| 58 (Good) | [Chinese Bilingual Field Test Engineer (Entry Level)](https://jobright.ai/jobs/info/6a90bbb12e254e06fb9f29e4) | Dice | Richardson, TX | 08/27/2026 22:35:29 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [New College Grad - DRAM Design Engineer](https://jobright.ai/jobs/info/6a8f13bf382b237ac80c419f) | Micron Technology | Boise, ID | 08/27/2026 12:26:59 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a90bf9e2e254e06fb9f2c7a) | National Strategic Research Institute (NSRI) at the University of Nebraska | Melbourne, FL | 08/27/2026 15:52:14 | Sponsorship: No |
-| 32 (Possible) | [Controls Engineer I (Irvine, CA)](https://jobright.ai/jobs/info/6a90bfad2e254e06fb9f2c85) | Enterprise Automation, A Tetra Tech Company | Irvine, CA | 08/27/2026 15:52:29 | Sponsorship: Not Sure |
-| 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a9045e32e254e06fb9efe27) | Eagle Materials | Laramie, WY | 08/27/2026 14:12:51 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8dc5b2581f2d7bfdfe8ef9) | TRC Companies, Inc. | Salina, NY | 08/27/2026 00:59:59 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I-II](https://jobright.ai/jobs/info/6a8f4296f841e649a719172e) | Hyster-Yale Materials Handling | Portland, OR | 08/27/2026 00:50:25 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Engineer Associate I - Electrical Engineer, EIT](https://jobright.ai/jobs/info/6a8fdd47a19886486675ead2) | Lochner | Seattle, WA | 08/27/2026 06:46:31 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a8ff8882e254e06fb9eed02) | Milbank \| Energy at Work | Kansas City, MO | 08/27/2026 08:42:48 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Substation Electrical Engineer](https://jobright.ai/jobs/info/6a90496f7c32860d14cf86ad) | WSP in the U.S. | Freeport, ME | 08/27/2026 14:27:59 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer, Weapon Systems](https://boards.greenhouse.io/andurilindustries/jobs/5223378007?gh_jid=5223378007) | Anduril Industries | Costa Mesa, California, United States | 08/27/2026 03:58:12 | Security clearance language is present; Full-time status is inferred from the first-party posting |
-| 82 (Strong) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a53bc0cc8eb0843027ad7d9) | NVIDIA | Santa Clara, CA | 07/19/2026 00:20:15 | Sponsorship: Past Sponsorship |
