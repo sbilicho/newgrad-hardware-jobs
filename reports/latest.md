@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-01 21:07:39Z UTC
+Updated: 2026-09-01 22:43:03Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 50 (Good) | [Test Engineer I - Electronics](https://jobright.ai/jobs/info/6a9746baf5337b2cf7321493) | Honeywell Aerospace | Rocky Mount, NC | 09/01/2026 21:42:18 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a97510cf5337b2cf73217ab) | VNSURE BUSINESS SOLUTIONS PRIVATE LIMITED | Schaumburg, IL | 09/01/2026 22:26:20 | Sponsorship: Past Sponsorship |
+| 38 (Possible) | [Entry level Hardware Developer - Austin, TX - 2027](https://jobright.ai/jobs/info/6a97382b246d697dcee041ae) | IBM | Austin, TX | 09/01/2026 20:40:11 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6a9700a8246d697dcee029fc) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/01/2026 16:43:20 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a9740afd13b4819f39e02e9) | MDP Engineering Group | Denver Metropolitan Area | 09/01/2026 21:16:31 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a974c91e4e60e4b8da5d731) | Bridgers & Paxton | Colorado Springs, CO | 09/01/2026 22:07:13 | Sponsorship: Past Sponsorship |
+| 61 (Good) | [Entry Level Hardware Design and Validation](https://jobright.ai/jobs/info/6a971eb1455eaf6a08c1acc1) | General Motors | Milford Charter Township, MI | 09/01/2026 21:49:40 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a973cad455eaf6a08c1b94b) | iWorx Systems, Inc. | Dover, NH | 09/01/2026 05:20:27 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a973963e4e60e4b8da5cdbb) | Ranpak | Shelton, CT | 09/01/2026 20:45:23 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Entry Level Hardware Developer 2027 -New York](https://jobright.ai/jobs/info/6a973430455eaf6a08c1b41b) | IBM | Poughkeepsie, AR | 09/01/2026 20:23:12 | Sponsorship: Past Sponsorship |
@@ -97,10 +104,3 @@ Updated: 2026-09-01 21:07:39Z UTC
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a9190a09864261ccd29d718) | AECOM | Roanoke, VA | 08/28/2026 13:44:00 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Electrical Reliability Engineer I, II, III or Sr.](https://jobright.ai/jobs/info/6a91912ed18f75674827898c) | The Mosaic Company | Mulberry, FL | 08/28/2026 14:03:31 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a91a5e58e59685453376b75) | CommScope | Claremont, NC | 08/28/2026 15:14:45 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a91df0ac12c90443efc89af) | Rocket Lab | Long Beach, CA | 08/28/2026 19:18:34 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Sr. Electrical Design Engineer I](https://jobright.ai/jobs/info/6a91d6c3d18f75674827a711) | Intelliswift - An LTTS Company | Atlanta, GA | 08/28/2026 18:43:15 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a6cd18632f9300c3a3e5552) | FBD Partnership, LP | San Antonio, TX | 08/28/2026 20:47:49 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Firmware Engineer Graduate](https://jobright.ai/jobs/info/6a91dc4dd18f75674827a869) | Hewlett Packard Enterprise | Spring, TX | 08/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Electrical Engineer (New Grad / Spring 2027)](https://jobright.ai/jobs/info/6a91f5539864261ccd29fc8f) | Eight Sleep | San Francisco, CA | 08/28/2026 20:53:39 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Computer & Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6a91f3998e596854533787d8) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer, Power & Lighting](https://jobright.ai/jobs/info/6a91b1f1a27a2d3c984894c3) | Barry-Wehmiller | Portland, OR | 08/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
