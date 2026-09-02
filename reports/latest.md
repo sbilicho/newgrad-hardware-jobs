@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-02 11:05:37Z UTC
+Updated: 2026-09-02 15:06:19Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 49 (Possible) | [Power Electronics - Electrical Engineer I](https://jobright.ai/jobs/info/6a51f97bae4052672fe9cf85) | Shield AI | Seattle, WA | 09/02/2026 11:17:25 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a98364add171c7285790ca4) | Ranpak | Shelton, CT | 09/02/2026 14:44:26 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a983a90af954907d65720b1) | REV Group, Inc | Charlotte, MI | 09/02/2026 15:02:40 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6a97ec13af954907d6570e11) | Textron Aviation | Cockeysville, MD | 09/02/2026 09:27:47 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [2027 - Electrical Engineer I (Crewed Land) - Slidell, LA](https://jobright.ai/jobs/info/6a97ebb0af954907d6570df5) | Textron | Slidell, LA | 09/02/2026 09:26:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 72 (Strong) | [FPGA Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a97eb38c8ed473c5c76191a) | Raytheon | McKinney, TX | 09/02/2026 09:24:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-09-02 11:05:37Z UTC
 | 45 (Possible) | [Propulsion Test Engineer I](https://jobright.ai/jobs/info/6a0701c24a0a6a7e7d81fe15) | Relativity Space | John C. Stennis Space Center, MS | 08/29/2026 06:42:11 | Sponsorship: No |
 | 50 (Good) | [Propulsion Test Engineer I](https://jobright.ai/jobs/info/69f3d96d461b9b613a62482f) | Relativity Space | John C. Stennis Space Center, MS | 08/29/2026 06:42:11 | Sponsorship: No |
 | 34 (Possible) | [Associate Electrical Engineer - Buildings](https://jobright.ai/jobs/info/6a59a7d13ac7627fe90003dc) | WSP in the U.S. | Denver, CO | 08/29/2026 06:58:16 | Sponsorship: No |
-| 37 (Possible) | [Associate Electrical Engineer - Buildings](https://jobright.ai/jobs/info/6a58d5f0c8e3a473cb8a3385) | WSP in the U.S. | Honolulu, HI | 08/29/2026 06:58:16 | Sponsorship: No |
-| 88 (Strong) | [SOC Design Verification Engineer](https://jobright.ai/jobs/info/6a90b4c9a198864866762be3) | Qualcomm | San Diego, CA | 08/29/2026 07:05:35 | Sponsorship: Not Sure |
-| 90 (Strong) | [Digital Design Engineer I](https://jobright.ai/jobs/info/6a75e2eab17cba569035b640) | Silicon Labs | Austin, TX | 08/29/2026 07:07:55 | Sponsorship: Not Sure |
