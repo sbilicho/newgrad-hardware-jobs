@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-02 21:22:33Z UTC
+Updated: 2026-09-02 23:29:54Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a98a6c3dd171c7285793585) | Ranpak | Shelton, CT | 09/02/2026 22:44:19 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a988a02c8ed473c5c764a24) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Electrical Hardware Engineer Graduate](https://jobright.ai/jobs/info/6a98808311f73b6462c8ef58) | Hewlett Packard Enterprise | Spring, TX | 09/02/2026 22:56:42 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a9889ccc8ed473c5c7649e4) | ThinKom Solutions, Inc. | Hawthorne, CA | 09/02/2026 14:55:15 | Sponsorship: No |
+| 40 (Possible) | [Analog & Power Design Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6a989d1adef18223c8550747) | Raytheon | Marlborough, MA | 09/02/2026 15:03:06 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a988aaddd171c7285792d31) | Ranpak | Shelton, CT | 09/02/2026 20:44:29 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [ELECTRICAL ENGINEER I - CO](https://jobright.ai/jobs/info/6a988d5ac8ed473c5c764c04) | City Light & Power, Inc. | Denver, CO | 09/02/2026 20:55:54 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Controls Engineer I / Electrical Engineer I](https://jobright.ai/jobs/info/6a98922ddef18223c85503e8) | Communications & Power Industries (CPI) | Plano, TX | 09/02/2026 21:16:29 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-09-02 21:22:33Z UTC
 | 46 (Possible) | [Entry Level Electrical Design Engineer – Switchgear & Generator Control Systems](https://jobright.ai/jobs/info/6a95c8719fcec5442372f075) | Generac | East Peoria, IL | 08/31/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 58 (Good) | [2027 Entry Level Gas Turbine Product Engineer (GTPE)](https://jobright.ai/jobs/info/6a8f517ff841e649a7191d26) | Solar Turbines | San Diego, CA | 08/31/2026 08:24:14 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I (Contract)](https://jobright.ai/jobs/info/6a9523f9d18f7567482801f6) | Gilat Satellite Networks | Fort Worth, TX | 08/31/2026 06:49:29 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Early Careers Electrical Engineer I (Lynchburg)](https://jobright.ai/jobs/info/6a958ec6c8763a3a87ffa913) | Framatome North America | Lynchburg, VA | 08/31/2026 14:25:10 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a8da9d025fc4e7ae3dbcd62) | Whitman, Requardt and Associates, LLP | Baltimore, MD | 08/25/2026 14:14:59 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a955ec75af94e5abbe27381) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/31/2026 11:00:23 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Hardware Engineer 1 - 23830 (FS Poly Required) Job Details \| HII's Mission Technologies division](https://jobright.ai/jobs/info/6a94d1fe360363009919a41a) | Mission Technologies, a division of HII | Fort Meade, MD | 08/31/2026 00:59:42 | Sponsorship: Past Sponsorship |
-| 32 (Possible) | [Entry Level NVM Reliability Lab Engineer](https://jobright.ai/jobs/info/6a958f10c8763a3a87ffa93b) | NXP Semiconductors | Austin, TX | 08/31/2026 00:00:00 | Sponsorship: Past Sponsorship |
