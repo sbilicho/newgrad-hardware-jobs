@@ -1,9 +1,19 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-02 18:40:46Z UTC
+Updated: 2026-09-02 21:22:33Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a988aaddd171c7285792d31) | Ranpak | Shelton, CT | 09/02/2026 20:44:29 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [ELECTRICAL ENGINEER I - CO](https://jobright.ai/jobs/info/6a988d5ac8ed473c5c764c04) | City Light & Power, Inc. | Denver, CO | 09/02/2026 20:55:54 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Controls Engineer I / Electrical Engineer I](https://jobright.ai/jobs/info/6a98922ddef18223c85503e8) | Communications & Power Industries (CPI) | Plano, TX | 09/02/2026 21:16:29 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a97e203d356304a02688560) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial (Summer 2027)](https://jobright.ai/jobs/info/6a988406af954907d6573c29) | Sargent & Lundy | Chicago, IL | 09/02/2026 20:16:06 | Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a987bf511f73b6462c8ee12) | Amentum | Crane, IN | 09/02/2026 20:57:08 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Electrical Hardware Engineer Graduate](https://jobright.ai/jobs/info/6a988d6adef18223c85501c4) | Hewlett Packard Enterprise | Spring, TX | 09/02/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 63 (Good) | [Entry Level Digital Verification Engineer](https://jobright.ai/jobs/info/6a988fc3dd171c7285792fae) | NXP Semiconductors | Austin, TX | 09/02/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 78 (Strong) | [CPU Circuit Design Engineer](https://jobright.ai/jobs/info/6a9866e8dd171c7285792069) | Intel | Austin, TX | 09/02/2026 12:28:45 | Sponsorship: Not Sure |
+| 44 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a987e3bdef18223c854fb7d) | Mach Industries | Huntington Beach, CA | 09/02/2026 12:51:23 | Sponsorship: No |
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a98698adef18223c854f479) | Brightpath Associates LLC | Bethesda, MD | 09/02/2026 18:23:06 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer, New Graduate Job Details \| Amrize](https://jobright.ai/jobs/info/6a985542af954907d6572b07) | Amrize | Bloomsdale, MO | 09/02/2026 16:56:34 | Sponsorship: Past Sponsorship |
 | 56 (Good) | [Firmware Engineer](https://jobright.ai/jobs/info/6a984398def18223c854e527) | GE HealthCare | Waukesha, WI | 09/02/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -94,13 +104,3 @@ Updated: 2026-09-02 18:40:46Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a955ec75af94e5abbe27381) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/31/2026 11:00:23 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Hardware Engineer 1 - 23830 (FS Poly Required) Job Details \| HII's Mission Technologies division](https://jobright.ai/jobs/info/6a94d1fe360363009919a41a) | Mission Technologies, a division of HII | Fort Meade, MD | 08/31/2026 00:59:42 | Sponsorship: Past Sponsorship |
 | 32 (Possible) | [Entry Level NVM Reliability Lab Engineer](https://jobright.ai/jobs/info/6a958f10c8763a3a87ffa93b) | NXP Semiconductors | Austin, TX | 08/31/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 60 (Good) | [New College Grad - Product Test Engineer](https://jobright.ai/jobs/info/6a94a5f8d18f75674827f8c8) | Micron Technology | Boise, ID | 08/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I - SATCOM](https://jobright.ai/jobs/info/6a9479c79864261ccd2a42e3) | CesiumAstro | Westminster, CO | 08/31/2026 00:28:39 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Entry-Level Test Engineer/Analyst](https://jobright.ai/jobs/info/6a94b1ab9864261ccd2a4722) | Dice | Redstone Arsenal, AL | 08/30/2026 22:41:47 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 60 (Good) | [New College Grad - Product Test Engineer](https://jobright.ai/jobs/info/6a94a5f83603630099199fd0) | Micron Technology | Boise, ID | 08/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 56 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a9479c6d18f75674827f643) | CesiumAstro | Austin, TX | 08/30/2026 18:43:18 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Staff Electrical Engineer I - Phased Array Unit Lead](https://jobright.ai/jobs/info/6a947e57a27a2d3c9848f4a6) | CesiumAstro | Austin, TX | 08/30/2026 19:02:47 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a935f8fa27a2d3c9848dd36) | Dice | Egg Harbor Township, NJ | 08/29/2026 22:39:11 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer – Entry Level – 2+ Years (Hybrid)](https://jobright.ai/jobs/info/6a4f28d80ea38951a6ff56a8) | Barr Engineering Co. | Minneapolis, MN | 08/29/2026 18:48:25 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Jr. Validation Engineer](https://jobright.ai/jobs/info/6a9338639864261ccd2a27d4) | USDM Life Sciences | Winston-Salem, NC | 08/29/2026 12:52:03 | Sponsorship: Not Sure |
-| 44 (Possible) | [2026 Entry Level Electrical Engineer - RF Specific (Hybrid)](https://jobright.ai/jobs/info/6a93011a8e5968545337a711) | BAE Systems | Nashua, NH | 08/29/2026 15:56:10 | Sponsorship: Past Sponsorship |
