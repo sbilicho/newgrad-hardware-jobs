@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-02 05:56:16Z UTC
+Updated: 2026-09-02 11:05:37Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 51 (Good) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6a97ec13af954907d6570e11) | Textron Aviation | Cockeysville, MD | 09/02/2026 09:27:47 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 40 (Possible) | [2027 - Electrical Engineer I (Crewed Land) - Slidell, LA](https://jobright.ai/jobs/info/6a97ebb0af954907d6570df5) | Textron | Slidell, LA | 09/02/2026 09:26:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 72 (Strong) | [FPGA Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a97eb38c8ed473c5c76191a) | Raytheon | McKinney, TX | 09/02/2026 09:24:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 72 (Strong) | [Power & Analog Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a97eb3272b96b1c436f1ace) | Raytheon | McKinney, TX | 09/02/2026 09:24:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 40 (Possible) | [2027 - Electrical Engineer I (Crewed Land) - Slidell, LA](https://jobright.ai/jobs/info/6a97ec3adef18223c854cf1c) | Textron Aviation | Slidell, LA | 09/02/2026 09:28:26 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a97e1dfc8ed473c5c761754) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Experienced Electrical Engineer](https://jobright.ai/jobs/info/6a966d8569b865490a63208a) | Henderson Building Solutions | Houston, TX; Plano, TX; New York, NY; Las Vegas, NV; Bentonville, AR; St. Louis, MO; Philadelphia, PA; Nashville, TN; Chantilly, VA; Washington, DC; Phoenix, AZ; Los Angeles, CA; Denver, CO; Kansas City, MO; Lenexa, KS | 09/01/2026 22:50:19 | Sponsorship: No |
 | 46 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6a55cd1afdf4fa71202b54cc) | Murata Power Solutions | Westborough, MA | 09/01/2026 23:54:28 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a97a9c3d356304a02687d47) | Ranpak | Shelton, CT | 09/02/2026 04:44:51 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6a975493246d697dcee04ee6) | Fresenius Kabi USA | Melrose Park, IL | 09/01/2026 16:08:52 | Sponsorship: No |
@@ -97,10 +104,3 @@ Updated: 2026-09-02 05:56:16Z UTC
 | 37 (Possible) | [Associate Electrical Engineer - Buildings](https://jobright.ai/jobs/info/6a58d5f0c8e3a473cb8a3385) | WSP in the U.S. | Honolulu, HI | 08/29/2026 06:58:16 | Sponsorship: No |
 | 88 (Strong) | [SOC Design Verification Engineer](https://jobright.ai/jobs/info/6a90b4c9a198864866762be3) | Qualcomm | San Diego, CA | 08/29/2026 07:05:35 | Sponsorship: Not Sure |
 | 90 (Strong) | [Digital Design Engineer I](https://jobright.ai/jobs/info/6a75e2eab17cba569035b640) | Silicon Labs | Austin, TX | 08/29/2026 07:07:55 | Sponsorship: Not Sure |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a9262e436036300991962b1) | JSG (Johnson Service Group, Inc.) | Cypress, CA | 08/28/2026 12:49:50 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Semiconductor Test Technician](https://jobright.ai/jobs/info/6a9263bfd18f75674827bcc8) | AM Technical Solutions, Inc | Manassas, VA | 08/28/2026 15:34:40 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Test Engineer](https://jobright.ai/jobs/info/6a55437e4119652ff38646ed) | SharkNinja | Needham, MA | 08/29/2026 01:57:07 | Sponsorship: Not Sure |
-| 61 (Good) | [New College Grad - ENGINEER, SIG ELECTRICAL DESIGN](https://jobright.ai/jobs/info/6a920fb1d18f75674827b51f) | Dice | Boise, ID | 08/28/2026 22:46:09 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6a920a8ad18f75674827b2cd) | Rocket Lab | Long Beach, CA | 08/28/2026 22:24:10 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer (Industrial)](https://jobright.ai/jobs/info/6a920db53603630099195a77) | Dice | Boise, ID | 08/28/2026 22:37:41 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Software Engineer - Embedded Systems (Entry Level)](https://jobright.ai/jobs/info/6a920f043603630099195b27) | Dice | Columbus, OH | 08/28/2026 22:43:16 | Sponsorship: Past Sponsorship |
