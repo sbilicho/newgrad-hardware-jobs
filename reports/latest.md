@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-02 01:34:46Z UTC
+Updated: 2026-09-02 05:56:16Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6a55cd1afdf4fa71202b54cc) | Murata Power Solutions | Westborough, MA | 09/01/2026 23:54:28 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a97a9c3d356304a02687d47) | Ranpak | Shelton, CT | 09/02/2026 04:44:51 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6a975493246d697dcee04ee6) | Fresenius Kabi USA | Melrose Park, IL | 09/01/2026 16:08:52 | Sponsorship: No |
 | 55 (Good) | [Product Engineer I/II](https://jobright.ai/jobs/info/6a974c19e4e60e4b8da5d6fc) | Mini-Circuits | Hialeah, FL | 09/01/2026 15:05:13 | Sponsorship: Not Sure |
 | 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a97556ae4e60e4b8da5dab9) | Ranpak | Shelton, CT | 09/01/2026 22:44:58 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-09-02 01:34:46Z UTC
 | 48 (Possible) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6a920a8ad18f75674827b2cd) | Rocket Lab | Long Beach, CA | 08/28/2026 22:24:10 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer (Industrial)](https://jobright.ai/jobs/info/6a920db53603630099195a77) | Dice | Boise, ID | 08/28/2026 22:37:41 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Software Engineer - Embedded Systems (Entry Level)](https://jobright.ai/jobs/info/6a920f043603630099195b27) | Dice | Columbus, OH | 08/28/2026 22:43:16 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a9222a48e59685453379199) | Cyient | Irvine, CA | 08/28/2026 17:07:00 | Sponsorship: Not Sure |
-| 55 (Good) | [Embedded Firmware Engineer, Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5225618007?gh_jid=5225618007) | Anduril Industries | Costa Mesa, California, United States | 08/28/2026 21:10:57 |  |
