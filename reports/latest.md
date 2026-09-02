@@ -1,9 +1,17 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-02 15:06:19Z UTC
+Updated: 2026-09-02 18:40:46Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a98698adef18223c854f479) | Brightpath Associates LLC | Bethesda, MD | 09/02/2026 18:23:06 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer, New Graduate Job Details \| Amrize](https://jobright.ai/jobs/info/6a985542af954907d6572b07) | Amrize | Bloomsdale, MO | 09/02/2026 16:56:34 | Sponsorship: Past Sponsorship |
+| 56 (Good) | [Firmware Engineer](https://jobright.ai/jobs/info/6a984398def18223c854e527) | GE HealthCare | Waukesha, WI | 09/02/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a983cdadd171c7285790f57) | Bridgers & Paxton | Albuquerque, NM | 09/02/2026 15:12:26 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [D489 MAIN PROPULSION CONTROL SYSTEM (MPC) – SYSTEMS ENGINEER (ELECTRICAL) (ENGINEER I/II)](https://jobright.ai/jobs/info/6a986b75dd171c72857921f5) | General Dynamics Electric Boat | Groton, CT | 09/02/2026 18:31:17 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 63 (Good) | [Silicon Test Engineer](https://jobright.ai/jobs/info/6a986b4383fc63335763165d) | Apple | Cupertino, CA | 09/02/2026 18:30:27 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Early Career - Validation Engineer, Powertrain](https://jobright.ai/jobs/info/6a985f0dc8ed473c5c763b18) | Rivian | Plymouth, MI | 09/02/2026 10:38:21 | Sponsorship: Not Sure |
+| 60 (Good) | [Early Career - Validation Engineer, Vehicle Hardware](https://jobright.ai/jobs/info/6a985f16def18223c854f13b) | Rivian | Irvine, CA | 09/02/2026 10:38:30 | Sponsorship: Not Sure |
 | 49 (Possible) | [Power Electronics - Electrical Engineer I](https://jobright.ai/jobs/info/6a51f97bae4052672fe9cf85) | Shield AI | Seattle, WA | 09/02/2026 11:17:25 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a98364add171c7285790ca4) | Ranpak | Shelton, CT | 09/02/2026 14:44:26 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a983a90af954907d65720b1) | REV Group, Inc | Charlotte, MI | 09/02/2026 15:02:40 | Sponsorship: Past Sponsorship |
@@ -96,11 +104,3 @@ Updated: 2026-09-02 15:06:19Z UTC
 | 37 (Possible) | [Electrical Engineer – Entry Level – 2+ Years (Hybrid)](https://jobright.ai/jobs/info/6a4f28d80ea38951a6ff56a8) | Barr Engineering Co. | Minneapolis, MN | 08/29/2026 18:48:25 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Jr. Validation Engineer](https://jobright.ai/jobs/info/6a9338639864261ccd2a27d4) | USDM Life Sciences | Winston-Salem, NC | 08/29/2026 12:52:03 | Sponsorship: Not Sure |
 | 44 (Possible) | [2026 Entry Level Electrical Engineer - RF Specific (Hybrid)](https://jobright.ai/jobs/info/6a93011a8e5968545337a711) | BAE Systems | Nashua, NH | 08/29/2026 15:56:10 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a930ee5c12c90443efcb4bb) | Military Spouse Jobs | Pittsfield, MA | 08/29/2026 16:55:01 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a930f538e5968545337aeab) | Military Spouse Jobs | Pittsfield, MA | 08/29/2026 09:56:51 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 39 (Possible) | [Engineer I – Focal Plane Electronics Systems](https://jobright.ai/jobs/info/6a92f3fca27a2d3c9848c753) | BAE Systems | Boulder, CO | 08/29/2026 15:00:12 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer Entry Level *CLEARANCE REQUIRED* - Pittsfield, MA](https://jobright.ai/jobs/info/6a92ef6f9864261ccd2a1491) | Eaton | Pittsfield, MA | 08/29/2026 14:40:47 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 50 (Good) | [Test Engineer (Entry Level)](https://jobright.ai/jobs/info/6a92f5af3603630099196f27) | BAE Systems | Endicott, NY | 08/29/2026 15:07:27 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Propulsion Test Engineer I](https://jobright.ai/jobs/info/6a0701c24a0a6a7e7d81fe15) | Relativity Space | John C. Stennis Space Center, MS | 08/29/2026 06:42:11 | Sponsorship: No |
-| 50 (Good) | [Propulsion Test Engineer I](https://jobright.ai/jobs/info/69f3d96d461b9b613a62482f) | Relativity Space | John C. Stennis Space Center, MS | 08/29/2026 06:42:11 | Sponsorship: No |
-| 34 (Possible) | [Associate Electrical Engineer - Buildings](https://jobright.ai/jobs/info/6a59a7d13ac7627fe90003dc) | WSP in the U.S. | Denver, CO | 08/29/2026 06:58:16 | Sponsorship: No |
