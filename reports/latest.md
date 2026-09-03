@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-03 15:11:05Z UTC
+Updated: 2026-09-03 18:44:44Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a999d3f8a8b765bc55f42ff) | Brightpath Associates LLC | Bethesda, MD | 09/03/2026 16:15:59 | Sponsorship: Past Sponsorship |
+| 63 (Good) | [New College Grad - Yield Enhancement Electrical Failure Analysis Engineer](https://jobright.ai/jobs/info/6a99b082138838706058fa30) | Micron Technology | Boise, ID | 09/03/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 59 (Good) | [Embedded Engineer (New Graduate Opportunities) (based in Grand Rapids, MI)](https://jobright.ai/jobs/info/6a99a611ad752e2ad5500ed4) | DornerWorks | Grand Rapids, MI | 09/03/2026 16:53:37 | Sponsorship: Past Sponsorship |
+| 77 (Strong) | [ASIC / FPGA Design Verification Engineer - (Associate or Experienced)](https://jobright.ai/jobs/info/6a99a5c8138838706058f59e) | Boeing | El Segundo, CA | 09/03/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6a7dc147e2030208f2765d28) | Atkore | Harvey, IL; Merrillville, IN; Hobart, IN | 09/03/2026 10:19:45 | Sponsorship: No |
 | 61 (Good) | [FPGA Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6a9988f3040e5c3d07596d0c) | Raytheon | Huntsville, AL | 09/03/2026 03:32:09 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a4ef06415b4965afd585110) | Southwire Company | Heflin, AL | 09/03/2026 14:48:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a997496ad752e2ad54ff985) | Brightpath Associates LLC | Bethesda, MD | 09/03/2026 13:22:30 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-09-03 15:11:05Z UTC
 | 55 (Good) | [EMC Test Engineer (Entry Level)](https://jobright.ai/jobs/info/6a9658229fcec544237324ee) | Yoh, A Day & Zimmermann Company | Fremont, CA | 08/06/2026 08:36:02 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Entry Level Site Reliability Engineer - Tucson-AZ](https://jobright.ai/jobs/info/6a96035a3843db0159908f0b) | Dice | Tucson, AZ | 08/31/2026 22:42:34 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Hardware Firmware Engineer](https://jobright.ai/jobs/info/6a95f1aef28891320e85f36f) | SJE Inc. | Detroit Lakes, MN | 08/31/2026 21:27:10 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [New Grad Product Engineer](https://jobright.ai/jobs/info/6a9609503843db0159909221) | Nuvo | New York, NY | 09/01/2026 00:17:11 | Sponsorship: Past Sponsorship |
-| 71 (Strong) | [Hardware Design Engineer - 2027 Grads](https://jobright.ai/jobs/info/6a95f0793843db01599086ef) | Hudson River Trading | New York, NY | 08/31/2026 21:22:01 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [Product Engineer 1](https://jobright.ai/jobs/info/6a6d818eca1f933846603cde) | Lanner Electronics Inc. | Union City, CA | 08/31/2026 19:35:23 | Sponsorship: Not Sure |
-| 51 (Good) | [Product Engineer 1](https://jobright.ai/jobs/info/6a71934202d93145bf88fe35) | Lanner Electronics Inc. | Union City, CA | 08/31/2026 19:35:23 | Sponsorship: Not Sure |
-| 40 (Possible) | [ASIC Floorplan Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a95f03c9fcec5442373050a) | NVIDIA | Santa Clara, CA | 09/01/2026 00:07:57 | Sponsorship: Past Sponsorship |
