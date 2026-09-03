@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-03 21:25:30Z UTC
+Updated: 2026-09-03 23:28:36Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 42 (Possible) | [Electrical Design and Analysis Engineer (Associate or Mid-Level)](https://jobright.ai/jobs/info/6a99914d90a313642c650f97) | Boeing | El Segundo, CA | 09/03/2026 21:49:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I, II, III or Principal](https://jobright.ai/jobs/info/6a99fcdd90a313642c653f55) | LG&E and KU Energy LLC | Louisville, KY | 09/03/2026 23:03:57 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a99f8a4040e5c3d0759a013) | Dice | Chicago, IL | 09/03/2026 22:45:56 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a99e4d6040e5c3d075999b0) | Raytheon | Plano, TX; McKinney, TX | 09/03/2026 14:21:26 | Security clearance language is present; Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer (New Grad)](https://jobright.ai/jobs/info/6a99dac78a8b765bc55f5ebb) | Mussett Nicholas Associates | Raleigh, NC | 09/03/2026 20:38:31 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I, II, III or Principal](https://jobright.ai/jobs/info/6a99cb82138838706059070f) | PPL Corporation | Louisville, KY | 09/03/2026 19:33:22 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a99e5631388387060591432) | Raytheon | McKinney, TX | 09/03/2026 21:23:47 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-09-03 21:25:30Z UTC
 | 40 (Possible) | [2027 Entry Level - Electrical Engineer (Interiors)](https://jobright.ai/jobs/info/6a966431b22f636c8141253a) | Textron | Wichita, KS | 09/01/2026 05:35:45 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a9687a0455eaf6a08c17dd4) | Paragon Energy Solutions | Fort Worth, TX | 09/01/2026 01:06:56 | Sponsorship: Past Sponsorship |
 | 85 (Strong) | [Design Verification (DV) Engineer - 2027 Grads](https://jobright.ai/jobs/info/6a95f2e43843db0159908887) | Hudson River Trading | New York, NY | 08/31/2026 21:32:20 | Sponsorship: Past Sponsorship |
-| 43 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a9600f3f28891320e85f96b) | Zachry Group | Downers Grove, IL | 09/01/2026 01:46:56 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I - Technology Center](https://jobright.ai/jobs/info/6a95a5473843db015990630d) | Brunswick Corporation | Edgewater, FL | 08/31/2026 21:04:03 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a95f05a3843db01599086d2) | Collins Aerospace | Wilsonville, OR | 08/31/2026 21:21:30 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a960caccabc9f6703e1bea3) | Kansas City National Security Campus | Kansas City, MO | 08/31/2026 23:22:20 | Security clearance language is present; Sponsorship: Past Sponsorship |
