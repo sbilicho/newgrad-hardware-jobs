@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-03 18:44:44Z UTC
+Updated: 2026-09-03 21:25:30Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer (New Grad)](https://jobright.ai/jobs/info/6a99dac78a8b765bc55f5ebb) | Mussett Nicholas Associates | Raleigh, NC | 09/03/2026 20:38:31 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I, II, III or Principal](https://jobright.ai/jobs/info/6a99cb82138838706059070f) | PPL Corporation | Louisville, KY | 09/03/2026 19:33:22 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a99e5631388387060591432) | Raytheon | McKinney, TX | 09/03/2026 21:23:47 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 66 (Good) | [Applied Machine Learning Engineer, Circuit Design - New College Grad 2026](https://jobright.ai/jobs/info/6a51c14ebf63b66c7997c1dd) | NVIDIA | United States | 09/03/2026 18:28:21 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a999d3f8a8b765bc55f42ff) | Brightpath Associates LLC | Bethesda, MD | 09/03/2026 16:15:59 | Sponsorship: Past Sponsorship |
 | 63 (Good) | [New College Grad - Yield Enhancement Electrical Failure Analysis Engineer](https://jobright.ai/jobs/info/6a99b082138838706058fa30) | Micron Technology | Boise, ID | 09/03/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Embedded Engineer (New Graduate Opportunities) (based in Grand Rapids, MI)](https://jobright.ai/jobs/info/6a99a611ad752e2ad5500ed4) | DornerWorks | Grand Rapids, MI | 09/03/2026 16:53:37 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-09-03 18:44:44Z UTC
 | 37 (Possible) | [Electrical Engineer I - Technology Center](https://jobright.ai/jobs/info/6a95a5473843db015990630d) | Brunswick Corporation | Edgewater, FL | 08/31/2026 21:04:03 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a95f05a3843db01599086d2) | Collins Aerospace | Wilsonville, OR | 08/31/2026 21:21:30 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a960caccabc9f6703e1bea3) | Kansas City National Security Campus | Kansas City, MO | 08/31/2026 23:22:20 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5226778007?gh_jid=5226778007) | Anduril Industries | Irvine, California, United States | 08/31/2026 21:22:18 | Security clearance language is present; Full-time status is inferred from the first-party posting |
-| 55 (Good) | [EMC Test Engineer (Entry Level)](https://jobright.ai/jobs/info/6a9658229fcec544237324ee) | Yoh, A Day & Zimmermann Company | Fremont, CA | 08/06/2026 08:36:02 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Entry Level Site Reliability Engineer - Tucson-AZ](https://jobright.ai/jobs/info/6a96035a3843db0159908f0b) | Dice | Tucson, AZ | 08/31/2026 22:42:34 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Hardware Firmware Engineer](https://jobright.ai/jobs/info/6a95f1aef28891320e85f36f) | SJE Inc. | Detroit Lakes, MN | 08/31/2026 21:27:10 | Sponsorship: Past Sponsorship |
