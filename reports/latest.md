@@ -1,9 +1,18 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-03 11:33:36Z UTC
+Updated: 2026-09-03 15:11:05Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 61 (Good) | [FPGA Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6a9988f3040e5c3d07596d0c) | Raytheon | Huntsville, AL | 09/03/2026 03:32:09 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a4ef06415b4965afd585110) | Southwire Company | Heflin, AL | 09/03/2026 14:48:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a997496ad752e2ad54ff985) | Brightpath Associates LLC | Bethesda, MD | 09/03/2026 13:22:30 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Electrical Engineer (Power)](https://jobright.ai/jobs/info/6a9984ee551435518ebeecfc) | Arcadis | Columbus, OH | 09/03/2026 14:32:14 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6a9975d5ad752e2ad54ffa4e) | John Crane | Port Arthur, TX | 09/02/2026 20:52:42 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6a997996040e5c3d07596750) | Smiths Group plc | Port Arthur, TX | 09/03/2026 02:00:34 | Sponsorship: Past Sponsorship |
+| 69 (Good) | [PhD Student: Analog/Mixed-Signal IC Design](https://jobright.ai/jobs/info/6a9986d9040e5c3d07596bf3) | Dartmouth College | Hanover, NH | 09/03/2026 14:40:25 | Sponsorship: Past Sponsorship |
+| 58 (Good) | [Entry Level Radiation Test Engineer](https://jobright.ai/jobs/info/6a998250551435518ebeec27) | Amentum | Crane, IN | 09/03/2026 14:46:23 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer (Engineer-In-Training)](https://jobright.ai/jobs/info/6a5f969133ef5c58b4ffeb7a) | Woolpert | Fairview Heights, IL; St. Louis, MO | 09/03/2026 06:38:26 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a992b7ca873af78718f4155) | Rev | Charlotte, MI | 09/02/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 85 (Strong) | [New College Grad - Design Engineer, Circuit Design](https://jobright.ai/jobs/info/6a9931f9f6de551aa0aaeb00) | Micron Technology | San Jose, CA | 09/03/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [New College Grad - Semiconductor Design Engineer](https://jobright.ai/jobs/info/6a5fa99c33ef5c58b4fff405) | Micron Technology | Boise, ID | 09/03/2026 09:08:58 | Sponsorship: Past Sponsorship |
@@ -95,12 +104,3 @@ Updated: 2026-09-03 11:33:36Z UTC
 | 51 (Good) | [Product Engineer 1](https://jobright.ai/jobs/info/6a6d818eca1f933846603cde) | Lanner Electronics Inc. | Union City, CA | 08/31/2026 19:35:23 | Sponsorship: Not Sure |
 | 51 (Good) | [Product Engineer 1](https://jobright.ai/jobs/info/6a71934202d93145bf88fe35) | Lanner Electronics Inc. | Union City, CA | 08/31/2026 19:35:23 | Sponsorship: Not Sure |
 | 40 (Possible) | [ASIC Floorplan Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a95f03c9fcec5442373050a) | NVIDIA | Santa Clara, CA | 09/01/2026 00:07:57 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Hardware Electronics Engineer I](https://jobright.ai/jobs/info/6a95c4e3c8763a3a87ffbf06) | Nidec Motor Corporation | St. Louis, MO | 08/31/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 60 (Good) | [New College Grad - Product Test Engineer](https://jobright.ai/jobs/info/6a94a5fbd18f75674827f8c9) | Micron Technology | Boise, ID | 08/31/2026 12:12:25 | Sponsorship: Past Sponsorship |
-| 92 (Strong) | [GPU Design Verification Engineer](https://jobright.ai/jobs/info/6a95ba50c8763a3a87ffba9b) | Qualcomm | Santa Clara, CA | 08/31/2026 17:30:56 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Early Careers Electrical Engineer I (Richland)](https://jobright.ai/jobs/info/6a959715c8763a3a87ffacbb) | Framatome North America | Richland, WA | 08/31/2026 15:00:37 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Spring & Summer 2027)](https://jobright.ai/jobs/info/6a95dffef28891320e85e8fd) | Sargent & Lundy | Minneapolis, MN | 08/31/2026 20:11:42 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a95b0f6cabc9f6703e193e6) | Dewberry | Peoria, IL | 08/31/2026 17:53:28 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a95b11ff28891320e85d4c4) | Dewberry | Raleigh, NC | 08/31/2026 17:53:28 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a95cbfb3843db01599073b2) | CORYS | Jacksonville, FL | 08/31/2026 18:46:19 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a95dfe7f28891320e85e8f2) | Sargent & Lundy | Chicago, IL | 08/31/2026 20:11:19 | Sponsorship: Past Sponsorship |
