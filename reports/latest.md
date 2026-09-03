@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-03 06:24:23Z UTC
+Updated: 2026-09-03 11:33:36Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a992b7ca873af78718f4155) | Rev | Charlotte, MI | 09/02/2026 05:00:00 | Sponsorship: Past Sponsorship |
+| 85 (Strong) | [New College Grad - Design Engineer, Circuit Design](https://jobright.ai/jobs/info/6a9931f9f6de551aa0aaeb00) | Micron Technology | San Jose, CA | 09/03/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [New College Grad - Semiconductor Design Engineer](https://jobright.ai/jobs/info/6a5fa99c33ef5c58b4fff405) | Micron Technology | Boise, ID | 09/03/2026 09:08:58 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Computer & Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6a988a9c83fc6333576321b2) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/02/2026 23:49:18 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Computer & Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6a988a79af954907d6573ef6) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/02/2026 23:49:18 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Assistant Electrical Engineer, Aviation & Federal (Morristown)](https://jobright.ai/jobs/info/6a99035e83fc633357632c49) | Burns & McDonnell | Morristown, NJ | 09/02/2026 22:19:26 | Sponsorship: No |
@@ -101,6 +104,3 @@ Updated: 2026-09-03 06:24:23Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a95b11ff28891320e85d4c4) | Dewberry | Raleigh, NC | 08/31/2026 17:53:28 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a95cbfb3843db01599073b2) | CORYS | Jacksonville, FL | 08/31/2026 18:46:19 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a95dfe7f28891320e85e8f2) | Sargent & Lundy | Chicago, IL | 08/31/2026 20:11:19 | Sponsorship: Past Sponsorship |
-| 71 (Strong) | [New College Grad - EDA/CAD Engineer](https://jobright.ai/jobs/info/6a69090e3b549b0b531d37a3) | Micron Technology | Boise, ID | 08/31/2026 20:02:01 | Sponsorship: Past Sponsorship |
-| 68 (Good) | [Software Verification Engineer](https://jobright.ai/jobs/info/6a95bd144c22023a0793572e) | System One | Greater Philadelphia | 08/31/2026 17:42:44 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Entry Level Validation Engineer](https://jobright.ai/jobs/info/6a95dc60f28891320e85e77c) | Barry-Wehmiller | Indianapolis, IN | 08/31/2026 00:00:00 | Sponsorship: Past Sponsorship |
