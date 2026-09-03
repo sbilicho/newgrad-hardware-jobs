@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-02 23:29:54Z UTC
+Updated: 2026-09-03 01:26:42Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 48 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a987bfdaf954907d6573975) | Amentum | Crane, IN | 09/02/2026 20:57:08 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a98c212dd171c72857935df) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a98a6c3dd171c7285793585) | Ranpak | Shelton, CT | 09/02/2026 22:44:19 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a988a02c8ed473c5c764a24) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Hardware Engineer Graduate](https://jobright.ai/jobs/info/6a98808311f73b6462c8ef58) | Hewlett Packard Enterprise | Spring, TX | 09/02/2026 22:56:42 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-09-02 23:29:54Z UTC
 | 40 (Possible) | [New Graduate- Associate Electrical Engineer - Nuclear Design Team](https://jobright.ai/jobs/info/6a95b182c8763a3a87ffb767) | Enercon Services, Inc. | Kennesaw, GA | 08/31/2026 16:53:22 | Sponsorship: Past Sponsorship |
 | 96 (Strong) | [CPU Core  Physical Design Engineer](https://jobright.ai/jobs/info/6a95c1754c22023a0793586a) | Intel | Folsom, CA | 08/31/2026 12:29:41 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Entry Level Electrical Design Engineer – Switchgear & Generator Control Systems](https://jobright.ai/jobs/info/6a95c8719fcec5442372f075) | Generac | East Peoria, IL | 08/31/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 58 (Good) | [2027 Entry Level Gas Turbine Product Engineer (GTPE)](https://jobright.ai/jobs/info/6a8f517ff841e649a7191d26) | Solar Turbines | San Diego, CA | 08/31/2026 08:24:14 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer I (Contract)](https://jobright.ai/jobs/info/6a9523f9d18f7567482801f6) | Gilat Satellite Networks | Fort Worth, TX | 08/31/2026 06:49:29 | Sponsorship: Past Sponsorship |
