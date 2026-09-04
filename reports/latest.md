@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-04 06:18:01Z UTC
+Updated: 2026-09-04 11:29:53Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 48 (Possible) | [Software Engineer - Embedded Systems (Entry Level)](https://jobright.ai/jobs/info/6a9a84f4fe45b8490f603d5c) | Battelle | Columbus, OH | 08/26/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 35 (Possible) | [Design Engineer (New College Graduate)](https://jobright.ai/jobs/info/6a9a8d7be6c97d4b970afafb) | Diodes Incorporated | Milpitas, CA | 09/03/2026 17:07:11 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [RF Engineer](https://jobright.ai/jobs/info/6a99c2d0ad752e2ad5501ba8) | Mach Industries | Huntington Beach, CA | 09/04/2026 03:29:45 | Sponsorship: No |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a9a4bdf90a313642c655145) | JSG (Johnson Service Group, Inc.) | Cypress, CA | 09/03/2026 14:49:51 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Associate Electrical Engineer](https://jobright.ai/jobs/info/6a992f2c8974952dfc949ad4) | Heaviside Industries | Los Angeles, CA | 09/03/2026 19:48:08 | Sponsorship: No |
 | 37 (Possible) | [Commissioning Electrical Engineer](https://jobright.ai/jobs/info/6a9a32f1ad752e2ad55040e3) | Grumman\|Butkus Associates | Evanston, IL | 09/03/2026 19:54:41 | Sponsorship: Not Sure |
@@ -101,6 +104,3 @@ Updated: 2026-09-04 06:18:01Z UTC
 | 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a96d25db22f636c81413e0c) | Elbit Systems of America | Roanoke, VA | 09/01/2026 13:25:58 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer - Hiring Event with AECOM - New York City](https://jobright.ai/jobs/info/6a96e228246d697dcee01c28) | AECOM | New York, NY | 09/01/2026 14:33:12 | Sponsorship: Past Sponsorship |
 | 78 (Strong) | [FPGA Silicon Validation Engineer](https://jobright.ai/jobs/info/6a9610019fcec544237312ba) | Altera | San Jose, CA | 09/01/2026 10:16:53 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [New Grad Product Engineer](https://jobright.ai/jobs/info/6a96178b3843db01599095da) | Nuvo | San Francisco, CA | 09/01/2026 00:08:43 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer - R&D](https://jobright.ai/jobs/info/6a96db2be4e60e4b8da5a3e7) | Wagstaff, Inc. | Spokane Valley, WA | 09/01/2026 07:03:23 | Sponsorship: No |
-| 80 (Strong) | [GPU Design Verification Engineer](https://jobright.ai/jobs/info/6a95e6e29fcec544237300b3) | Intel | Folsom, CA | 09/01/2026 01:38:08 | Sponsorship: Past Sponsorship |
