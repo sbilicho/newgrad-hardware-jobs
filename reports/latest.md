@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-04 20:19:09Z UTC
+Updated: 2026-09-04 22:58:26Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Associate Electrical Design Engineer](https://jobright.ai/jobs/info/6a9b323d90a313642c6590f2) | PACCAR | Kirkland, WA | 09/04/2026 14:03:57 | Sponsorship: Not Sure |
+| 37 (Possible) | [AUSTIN - Electrical Engineer, New Grad](https://jobright.ai/jobs/info/6a9b2e469c24314c35f9824e) | BGE, Inc. | Austin, TX | 09/04/2026 20:47:02 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [AUSTIN - Electrical Engineer, New Grad](https://jobright.ai/jobs/info/6a9b2d22fe45b8490f6072ca) | BGE, Inc. | Austin, TX | 09/04/2026 20:42:10 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a9b49442cdc5958f53ebd9a) | Dice | Colorado Springs, CO | 09/04/2026 22:42:12 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a9b497afe45b8490f607cdd) | Dice | Albuquerque, NM | 09/04/2026 22:43:06 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer – Entry Level (Hybrid)](https://jobright.ai/jobs/info/6a9b40be138838706059769b) | Barr Engineering Co. | Bismarck, ND | 09/04/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [AUSTIN - Electrical Engineer, New Grad](https://jobright.ai/jobs/info/6a9b262a2cdc5958f53eb062) | BGE, Inc. | Round Rock, TX | 09/04/2026 20:12:26 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [HOUSTON - Electrical Engineer, New Grad](https://jobright.ai/jobs/info/6a9b22112cdc5958f53eaf6b) | BGE, Inc. | Houston, TX | 09/04/2026 19:54:57 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer level 1/2](https://jobright.ai/jobs/info/6a9b0d622cdc5958f53ea9b8) | Northrop Grumman | Rocket Center, WV | 09/04/2026 18:26:42 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-09-04 20:19:09Z UTC
 | 50 (Good) | [Test Engineer I - Electronics](https://jobright.ai/jobs/info/6a9746baf5337b2cf7321493) | Honeywell Aerospace | Rocky Mount, NC | 09/01/2026 21:42:18 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a97510cf5337b2cf73217ab) | VNSURE BUSINESS SOLUTIONS PRIVATE LIMITED | Schaumburg, IL | 09/01/2026 22:26:20 | Sponsorship: Past Sponsorship |
 | 38 (Possible) | [Entry level Hardware Developer - Austin, TX - 2027](https://jobright.ai/jobs/info/6a97382b246d697dcee041ae) | IBM | Austin, TX | 09/01/2026 20:40:11 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6a9700a8246d697dcee029fc) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/01/2026 16:43:20 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a9740afd13b4819f39e02e9) | MDP Engineering Group | Denver Metropolitan Area | 09/01/2026 21:16:31 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a974c91e4e60e4b8da5d731) | Bridgers & Paxton | Colorado Springs, CO | 09/01/2026 22:07:13 | Sponsorship: Past Sponsorship |
-| 61 (Good) | [Entry Level Hardware Design and Validation](https://jobright.ai/jobs/info/6a971eb1455eaf6a08c1acc1) | General Motors | Milford Charter Township, MI | 09/01/2026 21:49:40 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a973cad455eaf6a08c1b94b) | iWorx Systems, Inc. | Dover, NH | 09/01/2026 05:20:27 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a973963e4e60e4b8da5cdbb) | Ranpak | Shelton, CT | 09/01/2026 20:45:23 | Sponsorship: Past Sponsorship |
