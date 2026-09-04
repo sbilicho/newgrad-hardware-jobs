@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-04 18:23:16Z UTC
+Updated: 2026-09-04 19:26:52Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Electrical Engineer level 1/2](https://jobright.ai/jobs/info/6a9b0d622cdc5958f53ea9b8) | Northrop Grumman | Rocket Center, WV | 09/04/2026 18:26:42 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a9b18d2d5ff1f3f1c39da11) | Mead & Hunt | Milwaukee, WI | 09/04/2026 19:15:30 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical Engineer - Summer 2027](https://jobright.ai/jobs/info/6a9b015ad5ff1f3f1c39d2c6) | Jacobs | Fort Worth, TX | 09/04/2026 17:35:22 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6a9afb71fe45b8490f6062fe) | Brightpath Associates LLC | Maryland State | 09/04/2026 17:10:09 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical Engineer - Summer 2027](https://jobright.ai/jobs/info/6a9b05591388387060596384) | Jacobs | Dallas, TX | 09/04/2026 17:52:25 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-09-04 18:23:16Z UTC
 | 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a973963e4e60e4b8da5cdbb) | Ranpak | Shelton, CT | 09/01/2026 20:45:23 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Entry Level Hardware Developer 2027 -New York](https://jobright.ai/jobs/info/6a973430455eaf6a08c1b41b) | IBM | Poughkeepsie, AR | 09/01/2026 20:23:12 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [ASIC Floorplan Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a971c2e455eaf6a08c1aba0) | NVIDIA AI | Santa Clara, CA | 09/01/2026 18:40:46 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Electrical Engineer, Air Dominance and Strike](https://boards.greenhouse.io/andurilindustries/jobs/5214492007?gh_jid=5214492007) | Anduril Industries | Costa Mesa, California, United States | 09/01/2026 15:37:38 | Security clearance language is present |
-| 37 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6a970171f5337b2cf731f543) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 09/01/2026 16:53:26 | Sponsorship: Past Sponsorship |
