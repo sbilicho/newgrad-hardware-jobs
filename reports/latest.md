@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-03 23:28:36Z UTC
+Updated: 2026-09-04 01:21:15Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [2027 Entry Level - Electrical Engineer (Interiors)](https://jobright.ai/jobs/info/6a99f7f4040e5c3d07599f8b) | Dice | Wichita, KS | 09/03/2026 22:43:00 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electrical Design and Analysis Engineer (Associate or Mid-Level)](https://jobright.ai/jobs/info/6a99914d90a313642c650f97) | Boeing | El Segundo, CA | 09/03/2026 21:49:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I, II, III or Principal](https://jobright.ai/jobs/info/6a99fcdd90a313642c653f55) | LG&E and KU Energy LLC | Louisville, KY | 09/03/2026 23:03:57 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a99f8a4040e5c3d0759a013) | Dice | Chicago, IL | 09/03/2026 22:45:56 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-09-03 23:28:36Z UTC
 | 45 (Possible) | [Antenna RF Electrical Design Engineer I (Onsite)](https://jobright.ai/jobs/info/6a969976455eaf6a08c18299) | Raytheon | McKinney, TX | 09/01/2026 09:23:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [2027 Entry Level - Electrical Engineer (Interiors)](https://jobright.ai/jobs/info/6a966431b22f636c8141253a) | Textron | Wichita, KS | 09/01/2026 05:35:45 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a9687a0455eaf6a08c17dd4) | Paragon Energy Solutions | Fort Worth, TX | 09/01/2026 01:06:56 | Sponsorship: Past Sponsorship |
-| 85 (Strong) | [Design Verification (DV) Engineer - 2027 Grads](https://jobright.ai/jobs/info/6a95f2e43843db0159908887) | Hudson River Trading | New York, NY | 08/31/2026 21:32:20 | Sponsorship: Past Sponsorship |
