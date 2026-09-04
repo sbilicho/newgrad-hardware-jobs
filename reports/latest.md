@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-04 11:29:53Z UTC
+Updated: 2026-09-04 15:06:19Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a9ac1d9d5ff1f3f1c39b36a) | Brightpath Associates LLC | Bethesda, MD | 09/04/2026 13:04:25 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [Digital Hardware Engineer](https://jobright.ai/jobs/info/6a9990e590a313642c650f7e) | Qualcomm | Boulder, CO; San Diego, CA | 09/04/2026 07:05:02 | Sponsorship: Not Sure |
 | 48 (Possible) | [Software Engineer - Embedded Systems (Entry Level)](https://jobright.ai/jobs/info/6a9a84f4fe45b8490f603d5c) | Battelle | Columbus, OH | 08/26/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 35 (Possible) | [Design Engineer (New College Graduate)](https://jobright.ai/jobs/info/6a9a8d7be6c97d4b970afafb) | Diodes Incorporated | Milpitas, CA | 09/03/2026 17:07:11 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [RF Engineer](https://jobright.ai/jobs/info/6a99c2d0ad752e2ad5501ba8) | Mach Industries | Huntington Beach, CA | 09/04/2026 03:29:45 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-09-04 11:29:53Z UTC
 | 83 (Strong) | [CPU Design Verification Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6a9706a7d13b4819f39de9f4) | GlobalFoundries | Richardson, TX | 09/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 90 (Strong) | [New College Grad - Mixed Signal Design Engineer, HBM](https://jobright.ai/jobs/info/6a970280d13b4819f39de71b) | Micron Technology | Richardson, TX | 09/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a96d25db22f636c81413e0c) | Elbit Systems of America | Roanoke, VA | 09/01/2026 13:25:58 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Electrical Engineer - Hiring Event with AECOM - New York City](https://jobright.ai/jobs/info/6a96e228246d697dcee01c28) | AECOM | New York, NY | 09/01/2026 14:33:12 | Sponsorship: Past Sponsorship |
-| 78 (Strong) | [FPGA Silicon Validation Engineer](https://jobright.ai/jobs/info/6a9610019fcec544237312ba) | Altera | San Jose, CA | 09/01/2026 10:16:53 | Sponsorship: Past Sponsorship |
