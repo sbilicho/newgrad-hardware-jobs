@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-04 01:21:15Z UTC
+Updated: 2026-09-04 06:18:01Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a9a4bdf90a313642c655145) | JSG (Johnson Service Group, Inc.) | Cypress, CA | 09/03/2026 14:49:51 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Associate Electrical Engineer](https://jobright.ai/jobs/info/6a992f2c8974952dfc949ad4) | Heaviside Industries | Los Angeles, CA | 09/03/2026 19:48:08 | Sponsorship: No |
+| 37 (Possible) | [Commissioning Electrical Engineer](https://jobright.ai/jobs/info/6a9a32f1ad752e2ad55040e3) | Grumman\|Butkus Associates | Evanston, IL | 09/03/2026 19:54:41 | Sponsorship: Not Sure |
+| 62 (Good) | [Digital Hardware Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a9a39238a8b765bc55f7e01) | Raytheon | McKinney, TX | 09/03/2026 20:21:07 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 51 (Good) | [Analog & Power Electronics Engineer I](https://jobright.ai/jobs/info/6a9a392b040e5c3d0759b2d3) | Raytheon | Tucson, AZ | 09/03/2026 20:21:15 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Electronics Engineer 1 Job Details \| United Launch Alliance](https://jobright.ai/jobs/info/6a9a51b9a33d28569fb99d54) | United Launch Alliance (ULA) | Centennial, CO; Denver, CO | 09/03/2026 22:06:01 | Sponsorship: No |
 | 40 (Possible) | [2027 Entry Level - Electrical Engineer (Interiors)](https://jobright.ai/jobs/info/6a99f7f4040e5c3d07599f8b) | Dice | Wichita, KS | 09/03/2026 22:43:00 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electrical Design and Analysis Engineer (Associate or Mid-Level)](https://jobright.ai/jobs/info/6a99914d90a313642c650f97) | Boeing | El Segundo, CA | 09/03/2026 21:49:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I, II, III or Principal](https://jobright.ai/jobs/info/6a99fcdd90a313642c653f55) | LG&E and KU Energy LLC | Louisville, KY | 09/03/2026 23:03:57 | Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-09-04 01:21:15Z UTC
 | 42 (Possible) | [New Grad Product Engineer](https://jobright.ai/jobs/info/6a96178b3843db01599095da) | Nuvo | San Francisco, CA | 09/01/2026 00:08:43 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer - R&D](https://jobright.ai/jobs/info/6a96db2be4e60e4b8da5a3e7) | Wagstaff, Inc. | Spokane Valley, WA | 09/01/2026 07:03:23 | Sponsorship: No |
 | 80 (Strong) | [GPU Design Verification Engineer](https://jobright.ai/jobs/info/6a95e6e29fcec544237300b3) | Intel | Folsom, CA | 09/01/2026 01:38:08 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a956d3801d0e62174586807) | ESPEC North America | Hudsonville, MI | 09/01/2026 02:47:31 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer I – Early Career (2027 Starts)](https://jobright.ai/jobs/info/6a9631f49fcec54423731e3a) | Blue Origin | Greater Seattle Area | 09/01/2026 05:23:55 | Sponsorship: Past Sponsorship |
-| 43 (Possible) | [2027 - Electrical Engineer I (Crewed Land) - Slidell, LA](https://jobright.ai/jobs/info/6a96957fe4e60e4b8da59879) | Louisiana Economic Development | Slidell, LA | 09/01/2026 09:06:07 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Antenna RF Electrical Design Engineer I (Onsite)](https://jobright.ai/jobs/info/6a969976455eaf6a08c18299) | Raytheon | McKinney, TX | 09/01/2026 09:23:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 40 (Possible) | [2027 Entry Level - Electrical Engineer (Interiors)](https://jobright.ai/jobs/info/6a966431b22f636c8141253a) | Textron | Wichita, KS | 09/01/2026 05:35:45 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a9687a0455eaf6a08c17dd4) | Paragon Energy Solutions | Fort Worth, TX | 09/01/2026 01:06:56 | Sponsorship: Past Sponsorship |
