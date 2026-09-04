@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-04 15:06:19Z UTC
+Updated: 2026-09-04 18:23:16Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Entry Level Electrical Engineer - Summer 2027](https://jobright.ai/jobs/info/6a9b015ad5ff1f3f1c39d2c6) | Jacobs | Fort Worth, TX | 09/04/2026 17:35:22 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6a9afb71fe45b8490f6062fe) | Brightpath Associates LLC | Maryland State | 09/04/2026 17:10:09 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Entry Level Electrical Engineer - Summer 2027](https://jobright.ai/jobs/info/6a9b05591388387060596384) | Jacobs | Dallas, TX | 09/04/2026 17:52:25 | Sponsorship: Past Sponsorship |
+| 82 (Strong) | [Graduate Verification Engineer](https://jobright.ai/jobs/info/6a9b0ba4d5ff1f3f1c39d5b7) | Arm | Chandler, AZ | 09/04/2026 18:19:16 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Entry Level Electrical Engineer - Winter 2027](https://jobright.ai/jobs/info/6a9aec13d5ff1f3f1c39bbd6) | Jacobs | Dallas, TX | 09/04/2026 10:04:52 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a9ac1d9d5ff1f3f1c39b36a) | Brightpath Associates LLC | Bethesda, MD | 09/04/2026 13:04:25 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [Digital Hardware Engineer](https://jobright.ai/jobs/info/6a9990e590a313642c650f7e) | Qualcomm | Boulder, CO; San Diego, CA | 09/04/2026 07:05:02 | Sponsorship: Not Sure |
 | 48 (Possible) | [Software Engineer - Embedded Systems (Entry Level)](https://jobright.ai/jobs/info/6a9a84f4fe45b8490f603d5c) | Battelle | Columbus, OH | 08/26/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-09-04 15:06:19Z UTC
 | 40 (Possible) | [ASIC Floorplan Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6a971c2e455eaf6a08c1aba0) | NVIDIA AI | Santa Clara, CA | 09/01/2026 18:40:46 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electrical Engineer, Air Dominance and Strike](https://boards.greenhouse.io/andurilindustries/jobs/5214492007?gh_jid=5214492007) | Anduril Industries | Costa Mesa, California, United States | 09/01/2026 15:37:38 | Security clearance language is present |
 | 37 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6a970171f5337b2cf731f543) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 09/01/2026 16:53:26 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a96fc61455eaf6a08c19b64) | Task software solutions LLC | Denver, CO | 09/01/2026 16:25:05 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer (Entry)](https://jobright.ai/jobs/info/6a970611246d697dcee02dea) | Coffman Engineers | Burlington, WA | 09/01/2026 17:06:25 | Sponsorship: Past Sponsorship |
-| 83 (Strong) | [CPU Design Verification Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6a9706a7d13b4819f39de9f4) | GlobalFoundries | Richardson, TX | 09/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 90 (Strong) | [New College Grad - Mixed Signal Design Engineer, HBM](https://jobright.ai/jobs/info/6a970280d13b4819f39de71b) | Micron Technology | Richardson, TX | 09/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a96d25db22f636c81413e0c) | Elbit Systems of America | Roanoke, VA | 09/01/2026 13:25:58 | Security clearance language is present; Sponsorship: Past Sponsorship |
