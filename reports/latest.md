@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-05 09:13:58Z UTC
+Updated: 2026-09-05 15:48:25Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 35 (Possible) | [Embedded Software Engineer - New Grad (2027)](https://jobright.ai/jobs/info/6a7f90a6b56bea5779c0cdc7) | Applied Intuition | Sunnyvale, CA | 09/05/2026 11:50:34 | Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Electrical Engineer I - NPD](https://jobright.ai/jobs/info/6a800fd3e51a1e18a24178f9) | Milwaukee Tool | Brookfield, WI | 09/05/2026 09:31:42 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a4573563dbab558e29a14da) | Antares | Los Angeles, CA | 09/05/2026 12:20:27 | Sponsorship: Past Sponsorship |
+| 86 (Strong) | [Product Engineer - Tessent Design for Test (DFT)](https://jobright.ai/jobs/info/6a9c1306dacf777321a8da5d) | Siemens EDA (Siemens Digital Industries Software) | Wilsonville, OR | 09/05/2026 13:03:02 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Controls Engineer I](https://jobright.ai/jobs/info/6a99c2d390a313642c652919) | Baxter International Inc. | Marion, NC | 09/05/2026 00:07:34 | Sponsorship: No |
 | 43 (Possible) | [Electrical Engineer I Job Details \| Holtec International](https://jobright.ai/jobs/info/6a67fd1dd0fb4c3df393fad0) | Holtec International | Camden, NJ | 09/05/2026 04:44:26 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Associate Electrical Design Engineer](https://jobright.ai/jobs/info/6a9b323d90a313642c6590f2) | PACCAR | Kirkland, WA | 09/04/2026 14:03:57 | Sponsorship: Not Sure |
@@ -100,7 +104,3 @@ Updated: 2026-09-05 09:13:58Z UTC
 | 37 (Possible) | [Experienced Electrical Engineer](https://jobright.ai/jobs/info/6a966d8569b865490a63208a) | Henderson Building Solutions | Houston, TX; Plano, TX; New York, NY; Las Vegas, NV; Bentonville, AR; St. Louis, MO; Philadelphia, PA; Nashville, TN; Chantilly, VA; Washington, DC; Phoenix, AZ; Los Angeles, CA; Denver, CO; Kansas City, MO; Lenexa, KS | 09/01/2026 22:50:19 | Sponsorship: No |
 | 46 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6a55cd1afdf4fa71202b54cc) | Murata Power Solutions | Westborough, MA | 09/01/2026 23:54:28 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a97a9c3d356304a02687d47) | Ranpak | Shelton, CT | 09/02/2026 04:44:51 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6a975493246d697dcee04ee6) | Fresenius Kabi USA | Melrose Park, IL | 09/01/2026 16:08:52 | Sponsorship: No |
-| 55 (Good) | [Product Engineer I/II](https://jobright.ai/jobs/info/6a974c19e4e60e4b8da5d6fc) | Mini-Circuits | Hialeah, FL | 09/01/2026 15:05:13 | Sponsorship: Not Sure |
-| 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a97556ae4e60e4b8da5dab9) | Ranpak | Shelton, CT | 09/01/2026 22:44:58 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Test Engineer I - Electronics](https://jobright.ai/jobs/info/6a9746baf5337b2cf7321493) | Honeywell Aerospace | Rocky Mount, NC | 09/01/2026 21:42:18 | Sponsorship: Past Sponsorship |
