@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-05 15:48:25Z UTC
+Updated: 2026-09-05 17:45:12Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 66 (Good) | [2nd Shift Manufacturing Test Engineer](https://jobright.ai/jobs/info/6a7f7574ad9ff00c26bae500) | Analog Devices | Chelmsford, MA | 09/05/2026 10:07:22 | Security clearance language is present; Sponsorship: No |
 | 35 (Possible) | [Embedded Software Engineer - New Grad (2027)](https://jobright.ai/jobs/info/6a7f90a6b56bea5779c0cdc7) | Applied Intuition | Sunnyvale, CA | 09/05/2026 11:50:34 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer I - NPD](https://jobright.ai/jobs/info/6a800fd3e51a1e18a24178f9) | Milwaukee Tool | Brookfield, WI | 09/05/2026 09:31:42 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a4573563dbab558e29a14da) | Antares | Los Angeles, CA | 09/05/2026 12:20:27 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-09-05 15:48:25Z UTC
 | 37 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a97e1dfc8ed473c5c761754) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Experienced Electrical Engineer](https://jobright.ai/jobs/info/6a966d8569b865490a63208a) | Henderson Building Solutions | Houston, TX; Plano, TX; New York, NY; Las Vegas, NV; Bentonville, AR; St. Louis, MO; Philadelphia, PA; Nashville, TN; Chantilly, VA; Washington, DC; Phoenix, AZ; Los Angeles, CA; Denver, CO; Kansas City, MO; Lenexa, KS | 09/01/2026 22:50:19 | Sponsorship: No |
 | 46 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6a55cd1afdf4fa71202b54cc) | Murata Power Solutions | Westborough, MA | 09/01/2026 23:54:28 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a97a9c3d356304a02687d47) | Ranpak | Shelton, CT | 09/02/2026 04:44:51 | Sponsorship: Past Sponsorship |
