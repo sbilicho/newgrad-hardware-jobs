@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-05 05:23:14Z UTC
+Updated: 2026-09-05 09:13:58Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Controls Engineer I](https://jobright.ai/jobs/info/6a99c2d390a313642c652919) | Baxter International Inc. | Marion, NC | 09/05/2026 00:07:34 | Sponsorship: No |
 | 43 (Possible) | [Electrical Engineer I Job Details \| Holtec International](https://jobright.ai/jobs/info/6a67fd1dd0fb4c3df393fad0) | Holtec International | Camden, NJ | 09/05/2026 04:44:26 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Associate Electrical Design Engineer](https://jobright.ai/jobs/info/6a9b323d90a313642c6590f2) | PACCAR | Kirkland, WA | 09/04/2026 14:03:57 | Sponsorship: Not Sure |
 | 37 (Possible) | [AUSTIN - Electrical Engineer, New Grad](https://jobright.ai/jobs/info/6a9b2e469c24314c35f9824e) | BGE, Inc. | Austin, TX | 09/04/2026 20:47:02 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-09-05 05:23:14Z UTC
 | 55 (Good) | [Product Engineer I/II](https://jobright.ai/jobs/info/6a974c19e4e60e4b8da5d6fc) | Mini-Circuits | Hialeah, FL | 09/01/2026 15:05:13 | Sponsorship: Not Sure |
 | 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a97556ae4e60e4b8da5dab9) | Ranpak | Shelton, CT | 09/01/2026 22:44:58 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Test Engineer I - Electronics](https://jobright.ai/jobs/info/6a9746baf5337b2cf7321493) | Honeywell Aerospace | Rocky Mount, NC | 09/01/2026 21:42:18 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a97510cf5337b2cf73217ab) | VNSURE BUSINESS SOLUTIONS PRIVATE LIMITED | Schaumburg, IL | 09/01/2026 22:26:20 | Sponsorship: Past Sponsorship |
