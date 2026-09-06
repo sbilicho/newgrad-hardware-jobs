@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-06 21:03:33Z UTC
+Updated: 2026-09-06 22:53:31Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 47 (Possible) | [CAD Engineer](https://jobright.ai/jobs/info/6a51fd3d02522b5b722ed9f7) | Astranis Space Technologies | San Francisco, CA | 09/06/2026 15:09:32 | Sponsorship: No |
 | 41 (Possible) | [Switchgear Electrical Engineer](https://jobright.ai/jobs/info/6a760d5f67a1ad0bc53c874d) | RESA Power | Plant City, FL | 09/06/2026 09:58:08 | Sponsorship: Not Sure |
 | 57 (Good) | [2026 Fulltime- RF Electrical Engineer I- Onsite](https://jobright.ai/jobs/info/6a9a22ca90a313642c6548ca) | Raytheon | Marlborough, MA | 09/06/2026 16:28:52 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a9c7f5668f82b4036736737) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-09-06 21:03:33Z UTC
 | 63 (Good) | [Silicon Test Engineer](https://jobright.ai/jobs/info/6a986b4383fc63335763165d) | Apple | Cupertino, CA | 09/02/2026 18:30:27 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Early Career - Validation Engineer, Powertrain](https://jobright.ai/jobs/info/6a985f0dc8ed473c5c763b18) | Rivian | Plymouth, MI | 09/02/2026 10:38:21 | Sponsorship: Not Sure |
 | 60 (Good) | [Early Career - Validation Engineer, Vehicle Hardware](https://jobright.ai/jobs/info/6a985f16def18223c854f13b) | Rivian | Irvine, CA | 09/02/2026 10:38:30 | Sponsorship: Not Sure |
-| 49 (Possible) | [Power Electronics - Electrical Engineer I](https://jobright.ai/jobs/info/6a51f97bae4052672fe9cf85) | Shield AI | Seattle, WA | 09/02/2026 11:17:25 | Security clearance language is present; Sponsorship: Past Sponsorship |
