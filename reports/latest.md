@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-06 06:03:56Z UTC
+Updated: 2026-09-06 10:51:19Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Sr. Electrical Engineer I - Product Development - I&R](https://jobright.ai/jobs/info/6a295e0d1de59e0682a7eb60) | Arthrex | Naples, FL | 09/05/2026 14:47:30 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Marine Electrical Engineer Entry Level - Providence, RI](https://jobright.ai/jobs/info/6a9c7fac2c964816f65e991c) | Glosten | Providence, RI | 07/19/2026 05:28:21 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6a7019c741b41d325296dd98) | APTIM | Knoxville, TN | 09/05/2026 16:35:42 | Sponsorship: No |
 | 37 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6a6fe13041b41d325296d713) | APTIM | Knoxville, TN | 09/05/2026 16:35:42 | Sponsorship: Not Sure |
 | 37 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6a5dbf0f63a8f619507d07f2) | APTIM | Knoxville, TN | 09/05/2026 16:35:42 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-09-06 06:03:56Z UTC
 | 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a98364add171c7285790ca4) | Ranpak | Shelton, CT | 09/02/2026 14:44:26 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a983a90af954907d65720b1) | REV Group, Inc | Charlotte, MI | 09/02/2026 15:02:40 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6a97ec13af954907d6570e11) | Textron Aviation | Cockeysville, MD | 09/02/2026 09:27:47 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 40 (Possible) | [2027 - Electrical Engineer I (Crewed Land) - Slidell, LA](https://jobright.ai/jobs/info/6a97ebb0af954907d6570df5) | Textron | Slidell, LA | 09/02/2026 09:26:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 72 (Strong) | [FPGA Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a97eb38c8ed473c5c76191a) | Raytheon | McKinney, TX | 09/02/2026 09:24:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
