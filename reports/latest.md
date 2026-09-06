@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-05 23:24:27Z UTC
+Updated: 2026-09-06 01:15:39Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6a7019c741b41d325296dd98) | APTIM | Knoxville, TN | 09/05/2026 16:35:42 | Sponsorship: No |
+| 37 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6a6fe13041b41d325296d713) | APTIM | Knoxville, TN | 09/05/2026 16:35:42 | Sponsorship: Not Sure |
+| 37 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6a5dbf0f63a8f619507d07f2) | APTIM | Knoxville, TN | 09/05/2026 16:35:42 | Sponsorship: Not Sure |
+| 37 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6a5da2fe63a8f619507cfc92) | APTIM | Knoxville, TN | 09/05/2026 16:35:42 | Sponsorship: Not Sure |
 | 37 (Possible) | [Entry Level Electrical Engineer [Wilton]](https://jobright.ai/jobs/info/6a9c7a0768f82b40367363cd) | Altieri | Wilton, CT | 08/15/2026 17:23:13 | Sponsorship: Past Sponsorship |
 | 66 (Good) | [2nd Shift Manufacturing Test Engineer](https://jobright.ai/jobs/info/6a7f7574ad9ff00c26bae500) | Analog Devices | Chelmsford, MA | 09/05/2026 10:07:22 | Security clearance language is present; Sponsorship: No |
 | 35 (Possible) | [Embedded Software Engineer - New Grad (2027)](https://jobright.ai/jobs/info/6a7f90a6b56bea5779c0cdc7) | Applied Intuition | Sunnyvale, CA | 09/05/2026 11:50:34 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-09-05 23:24:27Z UTC
 | 51 (Good) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6a97ec13af954907d6570e11) | Textron Aviation | Cockeysville, MD | 09/02/2026 09:27:47 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [2027 - Electrical Engineer I (Crewed Land) - Slidell, LA](https://jobright.ai/jobs/info/6a97ebb0af954907d6570df5) | Textron | Slidell, LA | 09/02/2026 09:26:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 72 (Strong) | [FPGA Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a97eb38c8ed473c5c76191a) | Raytheon | McKinney, TX | 09/02/2026 09:24:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 72 (Strong) | [Power & Analog Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a97eb3272b96b1c436f1ace) | Raytheon | McKinney, TX | 09/02/2026 09:24:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 40 (Possible) | [2027 - Electrical Engineer I (Crewed Land) - Slidell, LA](https://jobright.ai/jobs/info/6a97ec3adef18223c854cf1c) | Textron Aviation | Slidell, LA | 09/02/2026 09:28:26 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a97e1dfc8ed473c5c761754) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Experienced Electrical Engineer](https://jobright.ai/jobs/info/6a966d8569b865490a63208a) | Henderson Building Solutions | Houston, TX; Plano, TX; New York, NY; Las Vegas, NV; Bentonville, AR; St. Louis, MO; Philadelphia, PA; Nashville, TN; Chantilly, VA; Washington, DC; Phoenix, AZ; Los Angeles, CA; Denver, CO; Kansas City, MO; Lenexa, KS | 09/01/2026 22:50:19 | Sponsorship: No |
