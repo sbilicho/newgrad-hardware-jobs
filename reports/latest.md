@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-06 16:52:53Z UTC
+Updated: 2026-09-06 18:51:19Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Switchgear Electrical Engineer](https://jobright.ai/jobs/info/6a760d5f67a1ad0bc53c874d) | RESA Power | Plant City, FL | 09/06/2026 09:58:08 | Sponsorship: Not Sure |
 | 57 (Good) | [2026 Fulltime- RF Electrical Engineer I- Onsite](https://jobright.ai/jobs/info/6a9a22ca90a313642c6548ca) | Raytheon | Marlborough, MA | 09/06/2026 16:28:52 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a9c7f5668f82b4036736737) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Sr. Electrical Engineer I - Product Development - I&R](https://jobright.ai/jobs/info/6a295e0d1de59e0682a7eb60) | Arthrex | Naples, FL | 09/05/2026 14:47:30 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-09-06 16:52:53Z UTC
 | 47 (Possible) | [Early Career - Validation Engineer, Powertrain](https://jobright.ai/jobs/info/6a985f0dc8ed473c5c763b18) | Rivian | Plymouth, MI | 09/02/2026 10:38:21 | Sponsorship: Not Sure |
 | 60 (Good) | [Early Career - Validation Engineer, Vehicle Hardware](https://jobright.ai/jobs/info/6a985f16def18223c854f13b) | Rivian | Irvine, CA | 09/02/2026 10:38:30 | Sponsorship: Not Sure |
 | 49 (Possible) | [Power Electronics - Electrical Engineer I](https://jobright.ai/jobs/info/6a51f97bae4052672fe9cf85) | Shield AI | Seattle, WA | 09/02/2026 11:17:25 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a98364add171c7285790ca4) | Ranpak | Shelton, CT | 09/02/2026 14:44:26 | Sponsorship: Past Sponsorship |
