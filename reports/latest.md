@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-07 19:55:02Z UTC
+Updated: 2026-09-07 22:23:53Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 53 (Good) | [Electrical Hardware Design Engineer](https://jobright.ai/jobs/info/6a57b811e9b77f668bd6a44f) | General Dynamics | Pittsfield, MA | 09/07/2026 14:01:19 | Sponsorship: No |
 | 56 (Good) | [Entry Level Digital Electrical Design Engineer](https://jobright.ai/jobs/info/6a9ef74168f82b403673bef8) | 180 Engineering | Colorado Springs, CO | 09/07/2026 17:41:21 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Entry Level Digital Validation Engineer](https://jobright.ai/jobs/info/6a9e4e6b27c94c3d5a1cc2eb) | NXP Semiconductors | Austin, TX | 09/07/2026 08:06:51 | Sponsorship: Past Sponsorship |
 | 63 (Good) | [Entry Level Digital Verification Engineer](https://jobright.ai/jobs/info/6a9e4e6edacf777321a91759) | NXP Semiconductors | Austin, TX | 09/07/2026 08:20:02 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-09-07 19:55:02Z UTC
 | 37 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a97e203d356304a02688560) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial (Summer 2027)](https://jobright.ai/jobs/info/6a988406af954907d6573c29) | Sargent & Lundy | Chicago, IL | 09/02/2026 20:16:06 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a987bf511f73b6462c8ee12) | Amentum | Crane, IN | 09/02/2026 20:57:08 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Electrical Hardware Engineer Graduate](https://jobright.ai/jobs/info/6a988d6adef18223c85501c4) | Hewlett Packard Enterprise | Spring, TX | 09/02/2026 00:00:00 | Sponsorship: Past Sponsorship |
