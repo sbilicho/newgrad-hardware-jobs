@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-07 00:42:34Z UTC
+Updated: 2026-09-07 05:17:16Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Entry Level Hardware Developer-Tucson-AZ](https://jobright.ai/jobs/info/6a9e29cea7ba386c5d670e73) | IBM | Tucson, AZ | 09/07/2026 03:04:46 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Entry Level Site Reliability Engineer -Tucson-AZ](https://jobright.ai/jobs/info/6a9e29d827c94c3d5a1cb5f3) | IBM | Tucson, AZ | 09/07/2026 03:04:56 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6a975484455eaf6a08c1c31c) | Fresenius Kabi USA | Melrose Park, IL | 09/06/2026 16:35:21 | Sponsorship: No |
+| 30 (Possible) | [Entry Level Hardware Developer 2027 -New York](https://jobright.ai/jobs/info/6a9e29b9a7ba386c5d670e66) | IBM | Poughkeepsie, NY; Hopewell Junction, NY | 09/06/2026 20:04:25 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [CAD Engineer](https://jobright.ai/jobs/info/6a51fd3d02522b5b722ed9f7) | Astranis Space Technologies | San Francisco, CA | 09/06/2026 15:09:32 | Sponsorship: No |
 | 41 (Possible) | [Switchgear Electrical Engineer](https://jobright.ai/jobs/info/6a760d5f67a1ad0bc53c874d) | RESA Power | Plant City, FL | 09/06/2026 09:58:08 | Sponsorship: Not Sure |
 | 57 (Good) | [2026 Fulltime- RF Electrical Engineer I- Onsite](https://jobright.ai/jobs/info/6a9a22ca90a313642c6548ca) | Raytheon | Marlborough, MA | 09/06/2026 16:28:52 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-09-07 00:42:34Z UTC
 | 41 (Possible) | [Electrical Engineer, New Graduate Job Details \| Amrize](https://jobright.ai/jobs/info/6a985542af954907d6572b07) | Amrize | Bloomsdale, MO | 09/02/2026 16:56:34 | Sponsorship: Past Sponsorship |
 | 56 (Good) | [Firmware Engineer](https://jobright.ai/jobs/info/6a984398def18223c854e527) | GE HealthCare | Waukesha, WI | 09/02/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a983cdadd171c7285790f57) | Bridgers & Paxton | Albuquerque, NM | 09/02/2026 15:12:26 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [D489 MAIN PROPULSION CONTROL SYSTEM (MPC) – SYSTEMS ENGINEER (ELECTRICAL) (ENGINEER I/II)](https://jobright.ai/jobs/info/6a986b75dd171c72857921f5) | General Dynamics Electric Boat | Groton, CT | 09/02/2026 18:31:17 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 63 (Good) | [Silicon Test Engineer](https://jobright.ai/jobs/info/6a986b4383fc63335763165d) | Apple | Cupertino, CA | 09/02/2026 18:30:27 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Early Career - Validation Engineer, Powertrain](https://jobright.ai/jobs/info/6a985f0dc8ed473c5c763b18) | Rivian | Plymouth, MI | 09/02/2026 10:38:21 | Sponsorship: Not Sure |
-| 60 (Good) | [Early Career - Validation Engineer, Vehicle Hardware](https://jobright.ai/jobs/info/6a985f16def18223c854f13b) | Rivian | Irvine, CA | 09/02/2026 10:38:30 | Sponsorship: Not Sure |
