@@ -1,9 +1,17 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-08 18:00:27Z UTC
+Updated: 2026-09-08 20:41:25Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 51 (Good) | [Reliability Engineer](https://jobright.ai/jobs/info/6aa056fc5b2d5633ef3bdfde) | Helion | Columbia, SC | 09/08/2026 18:42:04 | Sponsorship: Past Sponsorship |
+| 79 (Strong) | [Electrical Engineer -  Analog & Mixed-Signal](https://jobs.ashbyhq.com/voyant-photonics/ae08246e-3f98-4c39-91cf-bbd76e600f6a) | Voyant Photonics | New York Office (HQ) | 09/08/2026 18:25:37 |  |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa066a8500b01124c778bd8) | Pond & Company | Peachtree Corners, GA | 09/08/2026 19:48:56 | Sponsorship: Past Sponsorship |
+| 79 (Strong) | [Electrical Engineer -  Analog & Mixed-Signal](https://jobright.ai/jobs/info/6aa05500ea127c3794696703) | Voyant Photonics | New York, NY | 09/08/2026 19:57:23 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Validation Engineer Entry Level](https://jobright.ai/jobs/info/6aa04fe63b5aa83237b084a8) | VTI Life Sciences | Columbus, GA | 09/08/2026 18:11:50 | Sponsorship: Past Sponsorship |
+| 51 (Good) | [EMC Test Engineer / Electrical Engineer (Entry Level)](https://jobright.ai/jobs/info/6aa0710fdbc0e60e37e0da6c) | Envision Technology Solutions | Fremont, CA | 09/08/2026 20:33:19 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Assistant Electrical Engineer, Transmission & Distribution - Protection Applications (Minneapolis)](https://jobright.ai/jobs/info/6aa059253b5aa83237b0889e) | Burns & McDonnell | Minneapolis, MN | 09/08/2026 11:51:17 | Sponsorship: No |
+| 41 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial](https://jobright.ai/jobs/info/6a6775372bf1fb2b71925343) | Sargent & Lundy | Chicago, IL | 09/08/2026 11:54:38 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa03652ea127c3794695846) | Syska Hennessy Group | San Francisco, CA | 09/08/2026 17:39:53 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Controls Engineer](https://jobright.ai/jobs/info/6aa0284d3b5aa83237b07313) | Kleinfelder | Perrysburg, OH | 09/08/2026 15:22:53 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa0364f500b01124c7775b9) | Syska Hennessy Group | Los Angeles, CA | 09/08/2026 17:39:53 | Sponsorship: Past Sponsorship |
@@ -96,11 +104,3 @@ Updated: 2026-09-08 18:00:27Z UTC
 | 37 (Possible) | [Entry-Level Electrical Engineer (Power)](https://jobright.ai/jobs/info/6a9984ee551435518ebeecfc) | Arcadis | Columbus, OH | 09/03/2026 14:32:14 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6a9975d5ad752e2ad54ffa4e) | John Crane | Port Arthur, TX | 09/02/2026 20:52:42 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6a997996040e5c3d07596750) | Smiths Group plc | Port Arthur, TX | 09/03/2026 02:00:34 | Sponsorship: Past Sponsorship |
-| 69 (Good) | [PhD Student: Analog/Mixed-Signal IC Design](https://jobright.ai/jobs/info/6a9986d9040e5c3d07596bf3) | Dartmouth College | Hanover, NH | 09/03/2026 14:40:25 | Sponsorship: Past Sponsorship |
-| 58 (Good) | [Entry Level Radiation Test Engineer](https://jobright.ai/jobs/info/6a998250551435518ebeec27) | Amentum | Crane, IN | 09/03/2026 14:46:23 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer (Engineer-In-Training)](https://jobright.ai/jobs/info/6a5f969133ef5c58b4ffeb7a) | Woolpert | Fairview Heights, IL; St. Louis, MO | 09/03/2026 06:38:26 | Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a992b7ca873af78718f4155) | Rev | Charlotte, MI | 09/02/2026 05:00:00 | Sponsorship: Past Sponsorship |
-| 85 (Strong) | [New College Grad - Design Engineer, Circuit Design](https://jobright.ai/jobs/info/6a9931f9f6de551aa0aaeb00) | Micron Technology | San Jose, CA | 09/03/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [New College Grad - Semiconductor Design Engineer](https://jobright.ai/jobs/info/6a5fa99c33ef5c58b4fff405) | Micron Technology | Boise, ID | 09/03/2026 09:08:58 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Computer & Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6a988a9c83fc6333576321b2) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/02/2026 23:49:18 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Computer & Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6a988a79af954907d6573ef6) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/02/2026 23:49:18 | Sponsorship: Past Sponsorship |
