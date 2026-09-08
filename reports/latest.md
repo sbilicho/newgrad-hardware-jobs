@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-08 21:35:00Z UTC
+Updated: 2026-09-08 22:34:45Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Electrical Engineer Technician](https://jobright.ai/jobs/info/6aa070ee5b2d5633ef3be9e3) | Ombra | Potsdam, NY; Massena, NY | 09/08/2026 13:32:46 | U.S. citizenship language is present; Sponsorship: No |
 | 53 (Good) | [AEGS Pro Electrical Engineer I (On-Site)](https://jobright.ai/jobs/info/6aa07c393b5aa83237b097e2) | Raytheon | Tucson, AZ | 09/08/2026 21:20:57 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 66 (Good) | [Junior FPGA Engineer](https://jobright.ai/jobs/info/6aa06674a2266b538d230140) | Eagle Seven | Chicago, IL | 09/08/2026 12:48:04 | Sponsorship: Not Sure |
 | 68 (Good) | [Product Test Engineer - New College Graduate](https://jobright.ai/jobs/info/6aa07dd43b5aa83237b09906) | Cirrus Logic | Austin, TX | 09/08/2026 21:27:48 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-09-08 21:35:00Z UTC
 | 47 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6a7dc147e2030208f2765d28) | Atkore | Harvey, IL; Merrillville, IN; Hobart, IN | 09/03/2026 10:19:45 | Sponsorship: No |
 | 61 (Good) | [FPGA Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6a9988f3040e5c3d07596d0c) | Raytheon | Huntsville, AL | 09/03/2026 03:32:09 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a4ef06415b4965afd585110) | Southwire Company | Heflin, AL | 09/03/2026 14:48:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a997496ad752e2ad54ff985) | Brightpath Associates LLC | Bethesda, MD | 09/03/2026 13:22:30 | Sponsorship: Past Sponsorship |
