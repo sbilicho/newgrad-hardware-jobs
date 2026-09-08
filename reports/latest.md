@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-08 20:41:25Z UTC
+Updated: 2026-09-08 21:35:00Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 53 (Good) | [AEGS Pro Electrical Engineer I (On-Site)](https://jobright.ai/jobs/info/6aa07c393b5aa83237b097e2) | Raytheon | Tucson, AZ | 09/08/2026 21:20:57 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 66 (Good) | [Junior FPGA Engineer](https://jobright.ai/jobs/info/6aa06674a2266b538d230140) | Eagle Seven | Chicago, IL | 09/08/2026 12:48:04 | Sponsorship: Not Sure |
+| 68 (Good) | [Product Test Engineer - New College Graduate](https://jobright.ai/jobs/info/6aa07dd43b5aa83237b09906) | Cirrus Logic | Austin, TX | 09/08/2026 21:27:48 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Reliability Engineer](https://jobright.ai/jobs/info/6aa056fc5b2d5633ef3bdfde) | Helion | Columbia, SC | 09/08/2026 18:42:04 | Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Electrical Engineer -  Analog & Mixed-Signal](https://jobs.ashbyhq.com/voyant-photonics/ae08246e-3f98-4c39-91cf-bbd76e600f6a) | Voyant Photonics | New York Office (HQ) | 09/08/2026 18:25:37 |  |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa066a8500b01124c778bd8) | Pond & Company | Peachtree Corners, GA | 09/08/2026 19:48:56 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-09-08 20:41:25Z UTC
 | 61 (Good) | [FPGA Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6a9988f3040e5c3d07596d0c) | Raytheon | Huntsville, AL | 09/03/2026 03:32:09 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a4ef06415b4965afd585110) | Southwire Company | Heflin, AL | 09/03/2026 14:48:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a997496ad752e2ad54ff985) | Brightpath Associates LLC | Bethesda, MD | 09/03/2026 13:22:30 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Electrical Engineer (Power)](https://jobright.ai/jobs/info/6a9984ee551435518ebeecfc) | Arcadis | Columbus, OH | 09/03/2026 14:32:14 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6a9975d5ad752e2ad54ffa4e) | John Crane | Port Arthur, TX | 09/02/2026 20:52:42 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6a997996040e5c3d07596750) | Smiths Group plc | Port Arthur, TX | 09/03/2026 02:00:34 | Sponsorship: Past Sponsorship |
