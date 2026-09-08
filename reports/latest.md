@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-08 09:57:31Z UTC
+Updated: 2026-09-08 14:23:15Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 58 (Good) | [Entry-Level Test Engineer](https://jobright.ai/jobs/info/6aa00d275b2d5633ef3bc230) | Leidos | Huntsville, AL | 09/08/2026 00:00:00 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 58 (Good) | [Entry-Level Test Engineer](https://jobright.ai/jobs/info/6aa00d3aa2266b538d22ded5) | Leidos | Huntsville, AL | 09/08/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer, Level I,](https://jobright.ai/jobs/info/6a9f741968f82b403673d1e7) | Verustruct | Torrance, CA | 09/08/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Failure Analysis Engineer I (Full-Time) United States](https://jobright.ai/jobs/info/6a9f9434352f093fc756eabe) | Cisco | Maynard, MA | 09/08/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer, Level I,](https://jobright.ai/jobs/info/6a9f5dbb352f093fc756e2ee) | Verustruct | Torrance, CA | 09/08/2026 00:58:35 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-09-08 09:57:31Z UTC
 | 41 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a988a02c8ed473c5c764a24) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Hardware Engineer Graduate](https://jobright.ai/jobs/info/6a98808311f73b6462c8ef58) | Hewlett Packard Enterprise | Spring, TX | 09/02/2026 22:56:42 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a9889ccc8ed473c5c7649e4) | ThinKom Solutions, Inc. | Hawthorne, CA | 09/02/2026 14:55:15 | Sponsorship: No |
-| 40 (Possible) | [Analog & Power Design Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6a989d1adef18223c8550747) | Raytheon | Marlborough, MA | 09/02/2026 15:03:06 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a988aaddd171c7285792d31) | Ranpak | Shelton, CT | 09/02/2026 20:44:29 | Sponsorship: Past Sponsorship |
