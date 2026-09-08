@@ -1,9 +1,18 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-08 14:23:15Z UTC
+Updated: 2026-09-08 18:00:27Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa03652ea127c3794695846) | Syska Hennessy Group | San Francisco, CA | 09/08/2026 17:39:53 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Electrical Controls Engineer](https://jobright.ai/jobs/info/6aa0284d3b5aa83237b07313) | Kleinfelder | Perrysburg, OH | 09/08/2026 15:22:53 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa0364f500b01124c7775b9) | Syska Hennessy Group | Los Angeles, CA | 09/08/2026 17:39:53 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial (Summer 2027)](https://jobright.ai/jobs/info/6aa04075ea127c3794695f5d) | Sargent & Lundy | Englewood, CO | 09/08/2026 17:05:57 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Electrical Controls Engineer](https://jobright.ai/jobs/info/6aa02914dbc0e60e37e0bb85) | Kleinfelder | Perrysburg, OH | 09/08/2026 15:26:12 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Submarine Power Plant Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6aa03d99dbc0e60e37e0c48a) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/08/2026 16:53:45 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial](https://jobright.ai/jobs/info/6aa0407b5b2d5633ef3bd6c4) | Sargent & Lundy | Englewood, CO | 09/08/2026 17:06:03 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [Entry Level Validation Engineer](https://jobright.ai/jobs/info/6aa02373500b01124c776fb3) | SEGULA Technologies | Chelsea, MI | 09/03/2026 15:00:10 | Sponsorship: Past Sponsorship |
+| 54 (Good) | [Development Test Engineer, Satellites (Starlink)](https://jobright.ai/jobs/info/6a2a87f0d3ec8317fe144182) | SpaceX | Redmond, WA | 09/08/2026 09:28:59 | Sponsorship: No |
 | 58 (Good) | [Entry-Level Test Engineer](https://jobright.ai/jobs/info/6aa00d275b2d5633ef3bc230) | Leidos | Huntsville, AL | 09/08/2026 00:00:00 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 58 (Good) | [Entry-Level Test Engineer](https://jobright.ai/jobs/info/6aa00d3aa2266b538d22ded5) | Leidos | Huntsville, AL | 09/08/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer, Level I,](https://jobright.ai/jobs/info/6a9f741968f82b403673d1e7) | Verustruct | Torrance, CA | 09/08/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -95,12 +104,3 @@ Updated: 2026-09-08 14:23:15Z UTC
 | 45 (Possible) | [New College Grad - Semiconductor Design Engineer](https://jobright.ai/jobs/info/6a5fa99c33ef5c58b4fff405) | Micron Technology | Boise, ID | 09/03/2026 09:08:58 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Computer & Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6a988a9c83fc6333576321b2) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/02/2026 23:49:18 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Computer & Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6a988a79af954907d6573ef6) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/02/2026 23:49:18 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Assistant Electrical Engineer, Aviation & Federal (Morristown)](https://jobright.ai/jobs/info/6a99035e83fc633357632c49) | Burns & McDonnell | Morristown, NJ | 09/02/2026 22:19:26 | Sponsorship: No |
-| 37 (Possible) | [Assistant Electrical Engineer, Power - Energy Storage (Columbus)](https://jobright.ai/jobs/info/6a990363af954907d6574a81) | Burns & McDonnell | Columbus, OH | 09/02/2026 22:19:31 | Sponsorship: No |
-| 37 (Possible) | [Assistant Electrical Engineer, Power (Chicago)](https://jobright.ai/jobs/info/6a9903bcdd171c728579383f) | Burns & McDonnell | Chicago, IL | 09/02/2026 22:21:00 | Sponsorship: No |
-| 48 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a987bfdaf954907d6573975) | Amentum | Crane, IN | 09/02/2026 20:57:08 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a98c212dd171c72857935df) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a98a6c3dd171c7285793585) | Ranpak | Shelton, CT | 09/02/2026 22:44:19 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6a988a02c8ed473c5c764a24) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Electrical Hardware Engineer Graduate](https://jobright.ai/jobs/info/6a98808311f73b6462c8ef58) | Hewlett Packard Enterprise | Spring, TX | 09/02/2026 22:56:42 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a9889ccc8ed473c5c7649e4) | ThinKom Solutions, Inc. | Hawthorne, CA | 09/02/2026 14:55:15 | Sponsorship: No |
