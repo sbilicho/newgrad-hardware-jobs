@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-08 03:19:02Z UTC
+Updated: 2026-09-08 05:22:20Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 48 (Possible) | [Electrical Engineer, Level I,](https://jobright.ai/jobs/info/6a9f741968f82b403673d1e7) | Verustruct | Torrance, CA | 09/08/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 59 (Good) | [Failure Analysis Engineer I (Full-Time) United States](https://jobright.ai/jobs/info/6a9f9434352f093fc756eabe) | Cisco | Maynard, MA | 09/08/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer, Level I,](https://jobright.ai/jobs/info/6a9f5dbb352f093fc756e2ee) | Verustruct | Torrance, CA | 09/08/2026 00:58:35 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical Engineer - Summer 2027](https://jobright.ai/jobs/info/6a9b43c41388387060597780) | Jacobs | Dallas, TX | 09/07/2026 15:50:10 | Sponsorship: No |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a9f43a92c964816f65ef92a) | Jacobs | Dallas, TX | 09/07/2026 05:00:00 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-09-08 03:19:02Z UTC
 | 44 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a9889ccc8ed473c5c7649e4) | ThinKom Solutions, Inc. | Hawthorne, CA | 09/02/2026 14:55:15 | Sponsorship: No |
 | 40 (Possible) | [Analog & Power Design Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6a989d1adef18223c8550747) | Raytheon | Marlborough, MA | 09/02/2026 15:03:06 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Field Electrical Engineer I](https://jobright.ai/jobs/info/6a988aaddd171c7285792d31) | Ranpak | Shelton, CT | 09/02/2026 20:44:29 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [ELECTRICAL ENGINEER I - CO](https://jobright.ai/jobs/info/6a988d5ac8ed473c5c764c04) | City Light & Power, Inc. | Denver, CO | 09/02/2026 20:55:54 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Controls Engineer I / Electrical Engineer I](https://jobright.ai/jobs/info/6a98922ddef18223c85503e8) | Communications & Power Industries (CPI) | Plano, TX | 09/02/2026 21:16:29 | Security clearance language is present; Sponsorship: Past Sponsorship |
