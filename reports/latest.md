@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-09 16:54:21Z UTC
+Updated: 2026-09-09 17:49:53Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 48 (Possible) | [Electrical Engineer I (hybrid)](https://jobright.ai/jobs/info/6aa198472f936e4a53daccb8) | OKSI | United States | 09/09/2026 12:17:18 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer (entry level)](https://jobright.ai/jobs/info/6aa18f652f936e4a53dac6bb) | Lake Superior Consulting | Duluth, MN | 09/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6aa1885d3272060a8e3f03c1) | Brightpath Associates LLC | Maryland State | 09/09/2026 16:25:01 | Sponsorship: Past Sponsorship |
 | 86 (Strong) | [Graduate - Analog Mixed-Signal Design Verification Engineer](https://jobright.ai/jobs/info/6aa15f99500b01124c77c638) | Infineon Technologies | Andover, MA | 09/09/2026 13:31:05 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Test Solutions Northeast Electrical Engineer I](https://jobright.ai/jobs/info/6aa166d80ffb3d4fea6b48a6) | Raytheon | Tewksbury, MA | 09/09/2026 14:02:00 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-09-09 16:54:21Z UTC
 | 40 (Possible) | [2027 Entry Level - Electrical Engineer (Interiors)](https://jobright.ai/jobs/info/6a99f7f4040e5c3d07599f8b) | Dice | Wichita, KS | 09/03/2026 22:43:00 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electrical Design and Analysis Engineer (Associate or Mid-Level)](https://jobright.ai/jobs/info/6a99914d90a313642c650f97) | Boeing | El Segundo, CA | 09/03/2026 21:49:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I, II, III or Principal](https://jobright.ai/jobs/info/6a99fcdd90a313642c653f55) | LG&E and KU Energy LLC | Louisville, KY | 09/03/2026 23:03:57 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a99f8a4040e5c3d0759a013) | Dice | Chicago, IL | 09/03/2026 22:45:56 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a99e4d6040e5c3d075999b0) | Raytheon | Plano, TX; McKinney, TX | 09/03/2026 14:21:26 | Security clearance language is present; Sponsorship: No |
