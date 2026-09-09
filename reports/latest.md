@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-09 02:34:05Z UTC
+Updated: 2026-09-09 06:26:33Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 65 (Good) | [FPGA Electrical Design Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa0d101a2266b538d2324dd) | Raytheon | Tucson, AZ | 09/09/2026 03:22:41 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Antenna & Microwave Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa0d0f2a2266b538d2324d8) | Raytheon | El Segundo, CA | 09/09/2026 03:22:26 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 55 (Good) | [Junior Validation Engineer](https://jobright.ai/jobs/info/6a99d979040e5c3d0759948e) | SEGULA Technologies | Auburn Hills, MI | 09/04/2026 00:03:26 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer Technician](https://jobright.ai/jobs/info/6aa070ee5b2d5633ef3be9e3) | Ombra | Potsdam, NY; Massena, NY | 09/08/2026 13:32:46 | U.S. citizenship language is present; Sponsorship: No |
 | 53 (Good) | [AEGS Pro Electrical Engineer I (On-Site)](https://jobright.ai/jobs/info/6aa07c393b5aa83237b097e2) | Raytheon | Tucson, AZ | 09/08/2026 21:20:57 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-09-09 02:34:05Z UTC
 | 63 (Good) | [New College Grad - Yield Enhancement Electrical Failure Analysis Engineer](https://jobright.ai/jobs/info/6a99b082138838706058fa30) | Micron Technology | Boise, ID | 09/03/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Embedded Engineer (New Graduate Opportunities) (based in Grand Rapids, MI)](https://jobright.ai/jobs/info/6a99a611ad752e2ad5500ed4) | DornerWorks | Grand Rapids, MI | 09/03/2026 16:53:37 | Sponsorship: Past Sponsorship |
 | 77 (Strong) | [ASIC / FPGA Design Verification Engineer - (Associate or Experienced)](https://jobright.ai/jobs/info/6a99a5c8138838706058f59e) | Boeing | El Segundo, CA | 09/03/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6a7dc147e2030208f2765d28) | Atkore | Harvey, IL; Merrillville, IN; Hobart, IN | 09/03/2026 10:19:45 | Sponsorship: No |
-| 61 (Good) | [FPGA Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6a9988f3040e5c3d07596d0c) | Raytheon | Huntsville, AL | 09/03/2026 03:32:09 | Security clearance language is present; Sponsorship: Past Sponsorship |
