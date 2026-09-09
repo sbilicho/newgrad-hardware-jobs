@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-09 17:49:53Z UTC
+Updated: 2026-09-09 18:47:34Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer (Entry Level – EIT)](https://jobright.ai/jobs/info/6aa19f660ffb3d4fea6b60e6) | LBE, Inc. | Moncks Corner, SC | 09/09/2026 18:03:18 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer (Entry level)](https://jobright.ai/jobs/info/6aa1a5dc3272060a8e3f13fb) | Sunrise Systems, Inc. | San Ramon, CA | 09/09/2026 18:30:52 | Sponsorship: Past Sponsorship |
+| 77 (Strong) | [Silicon Validation Engineer](https://jobright.ai/jobs/info/6aa1a655ef23570cae24555a) | Apple | Cupertino, CA | 09/09/2026 18:32:53 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer I (hybrid)](https://jobright.ai/jobs/info/6aa198472f936e4a53daccb8) | OKSI | United States | 09/09/2026 12:17:18 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer (entry level)](https://jobright.ai/jobs/info/6aa18f652f936e4a53dac6bb) | Lake Superior Consulting | Duluth, MN | 09/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6aa1885d3272060a8e3f03c1) | Brightpath Associates LLC | Maryland State | 09/09/2026 16:25:01 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-09-09 17:49:53Z UTC
 | 62 (Good) | [Digital Hardware Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a9a39238a8b765bc55f7e01) | Raytheon | McKinney, TX | 09/03/2026 20:21:07 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 51 (Good) | [Analog & Power Electronics Engineer I](https://jobright.ai/jobs/info/6a9a392b040e5c3d0759b2d3) | Raytheon | Tucson, AZ | 09/03/2026 20:21:15 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electronics Engineer 1 Job Details \| United Launch Alliance](https://jobright.ai/jobs/info/6a9a51b9a33d28569fb99d54) | United Launch Alliance (ULA) | Centennial, CO; Denver, CO | 09/03/2026 22:06:01 | Sponsorship: No |
-| 40 (Possible) | [2027 Entry Level - Electrical Engineer (Interiors)](https://jobright.ai/jobs/info/6a99f7f4040e5c3d07599f8b) | Dice | Wichita, KS | 09/03/2026 22:43:00 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Electrical Design and Analysis Engineer (Associate or Mid-Level)](https://jobright.ai/jobs/info/6a99914d90a313642c650f97) | Boeing | El Segundo, CA | 09/03/2026 21:49:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I, II, III or Principal](https://jobright.ai/jobs/info/6a99fcdd90a313642c653f55) | LG&E and KU Energy LLC | Louisville, KY | 09/03/2026 23:03:57 | Sponsorship: Past Sponsorship |
