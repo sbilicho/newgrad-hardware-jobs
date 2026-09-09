@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-09 20:38:25Z UTC
+Updated: 2026-09-09 23:22:57Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 32 (Possible) | [Entry-Level Systems Engineer (Digital Comm & Networks Sys Engrg)](https://jobright.ai/jobs/info/6aa1d4c4ef23570cae246743) | Boeing | El Segundo, CA | 09/09/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6aa1cef33272060a8e3f24b3) | General Dynamics | Pittsfield, MA | 09/09/2026 21:26:11 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Receiver, Exciter & Processing Architecture Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6aa1ce462f936e4a53dae3b5) | Raytheon | Tewksbury, MA | 09/09/2026 21:23:18 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6aa1dac4dbc0e60e37e13fd9) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/09/2026 22:53:02 | Sponsorship: Past Sponsorship |
+| 55 (Good) | [2027 New College Graduates - Design Engineering](https://jobright.ai/jobs/info/6aa1c63e500b01124c77ef21) | Silicon Labs | Austin, TX | 09/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Electrical Engineer - New Grad (December 2026)](https://jobright.ai/jobs/info/6aa1ab1bef23570cae245864) | Applied Intuition | Sunnyvale, CA | 09/09/2026 18:53:15 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Electrical Engineer - New Grad (December 2026)](https://jobright.ai/jobs/info/6aa1a9f02f936e4a53dad5b6) | Applied Intuition | Sunnyvale, CA | 09/09/2026 18:48:16 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa1b7713272060a8e3f1aae) | Dewberry | Birmingham, AL | 09/09/2026 19:45:53 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-09-09 20:38:25Z UTC
 | 40 (Possible) | [Entry Level Electrical Engineer - Winter 2027](https://jobright.ai/jobs/info/6a9aec13d5ff1f3f1c39bbd6) | Jacobs | Dallas, TX | 09/04/2026 10:04:52 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a9ac1d9d5ff1f3f1c39b36a) | Brightpath Associates LLC | Bethesda, MD | 09/04/2026 13:04:25 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [Digital Hardware Engineer](https://jobright.ai/jobs/info/6a9990e590a313642c650f7e) | Qualcomm | Boulder, CO; San Diego, CA | 09/04/2026 07:05:02 | Sponsorship: Not Sure |
-| 48 (Possible) | [Software Engineer - Embedded Systems (Entry Level)](https://jobright.ai/jobs/info/6a9a84f4fe45b8490f603d5c) | Battelle | Columbus, OH | 08/26/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 35 (Possible) | [Design Engineer (New College Graduate)](https://jobright.ai/jobs/info/6a9a8d7be6c97d4b970afafb) | Diodes Incorporated | Milpitas, CA | 09/03/2026 17:07:11 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [RF Engineer](https://jobright.ai/jobs/info/6a99c2d0ad752e2ad5501ba8) | Mach Industries | Huntington Beach, CA | 09/04/2026 03:29:45 | Sponsorship: No |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a9a4bdf90a313642c655145) | JSG (Johnson Service Group, Inc.) | Cypress, CA | 09/03/2026 14:49:51 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Associate Electrical Engineer](https://jobright.ai/jobs/info/6a992f2c8974952dfc949ad4) | Heaviside Industries | Los Angeles, CA | 09/03/2026 19:48:08 | Sponsorship: No |
