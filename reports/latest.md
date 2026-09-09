@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-09 18:47:34Z UTC
+Updated: 2026-09-09 20:38:25Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 50 (Good) | [Electrical Engineer - New Grad (December 2026)](https://jobright.ai/jobs/info/6aa1ab1bef23570cae245864) | Applied Intuition | Sunnyvale, CA | 09/09/2026 18:53:15 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Electrical Engineer - New Grad (December 2026)](https://jobright.ai/jobs/info/6aa1a9f02f936e4a53dad5b6) | Applied Intuition | Sunnyvale, CA | 09/09/2026 18:48:16 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa1b7713272060a8e3f1aae) | Dewberry | Birmingham, AL | 09/09/2026 19:45:53 | Sponsorship: Past Sponsorship |
+| 31 (Possible) | [New College Grad - IC Package Layout Engineer](https://jobright.ai/jobs/info/6aa1b0ca0ffb3d4fea6b689f) | Micron Technology | Boise, ID | 09/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer (Entry Level – EIT)](https://jobright.ai/jobs/info/6aa19f660ffb3d4fea6b60e6) | LBE, Inc. | Moncks Corner, SC | 09/09/2026 18:03:18 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer (Entry level)](https://jobright.ai/jobs/info/6aa1a5dc3272060a8e3f13fb) | Sunrise Systems, Inc. | San Ramon, CA | 09/09/2026 18:30:52 | Sponsorship: Past Sponsorship |
 | 77 (Strong) | [Silicon Validation Engineer](https://jobright.ai/jobs/info/6aa1a655ef23570cae24555a) | Apple | Cupertino, CA | 09/09/2026 18:32:53 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-09-09 18:47:34Z UTC
 | 41 (Possible) | [RF Engineer](https://jobright.ai/jobs/info/6a99c2d0ad752e2ad5501ba8) | Mach Industries | Huntington Beach, CA | 09/04/2026 03:29:45 | Sponsorship: No |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a9a4bdf90a313642c655145) | JSG (Johnson Service Group, Inc.) | Cypress, CA | 09/03/2026 14:49:51 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Associate Electrical Engineer](https://jobright.ai/jobs/info/6a992f2c8974952dfc949ad4) | Heaviside Industries | Los Angeles, CA | 09/03/2026 19:48:08 | Sponsorship: No |
-| 37 (Possible) | [Commissioning Electrical Engineer](https://jobright.ai/jobs/info/6a9a32f1ad752e2ad55040e3) | Grumman\|Butkus Associates | Evanston, IL | 09/03/2026 19:54:41 | Sponsorship: Not Sure |
-| 62 (Good) | [Digital Hardware Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a9a39238a8b765bc55f7e01) | Raytheon | McKinney, TX | 09/03/2026 20:21:07 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 51 (Good) | [Analog & Power Electronics Engineer I](https://jobright.ai/jobs/info/6a9a392b040e5c3d0759b2d3) | Raytheon | Tucson, AZ | 09/03/2026 20:21:15 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Electronics Engineer 1 Job Details \| United Launch Alliance](https://jobright.ai/jobs/info/6a9a51b9a33d28569fb99d54) | United Launch Alliance (ULA) | Centennial, CO; Denver, CO | 09/03/2026 22:06:01 | Sponsorship: No |
