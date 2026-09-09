@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-09 11:46:28Z UTC
+Updated: 2026-09-09 15:22:35Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 86 (Strong) | [Graduate - Analog Mixed-Signal Design Verification Engineer](https://jobright.ai/jobs/info/6aa15f99500b01124c77c638) | Infineon Technologies | Andover, MA | 09/09/2026 13:31:05 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Test Solutions Northeast Electrical Engineer I](https://jobright.ai/jobs/info/6aa166d80ffb3d4fea6b48a6) | Raytheon | Tewksbury, MA | 09/09/2026 14:02:00 | Sponsorship: Past Sponsorship |
+| 56 (Good) | [Electronics Engineer I/II](https://jobright.ai/jobs/info/6aa173df0ffb3d4fea6b4cbe) | Micro Control Company | Arden Hills, MN | 09/09/2026 14:57:35 | Sponsorship: Past Sponsorship |
+| 88 (Strong) | [Design-for-Test (DFT) Engineer — ASIC Backend – (Associate, Experienced, or Lead)](https://jobright.ai/jobs/info/6aa170012f936e4a53dabae0) | Boeing | El Segundo, CA | 09/09/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 86 (Strong) | [Graduate - Analog Mixed-Signal Design Verification Engineer](https://jobright.ai/jobs/info/6aa1669def23570cae243a59) | Infineon Technologies | Andover, MA | 09/09/2026 14:01:01 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 52 (Good) | [Entry Level Digital Validation Engineer](https://jobright.ai/jobs/info/6aa1365aef23570cae242ff0) | Dice | Austin, TX | 09/09/2026 10:35:06 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Assistant Instrument & Controls Engineer- Global Facilities, Consumer & Life Solutions (Chicago)](https://jobright.ai/jobs/info/6aa091015b2d5633ef3bf687) | Burns & McDonnell | Chicago, IL | 09/08/2026 19:21:42 | Sponsorship: No |
 | 65 (Good) | [FPGA Electrical Design Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa0d101a2266b538d2324dd) | Raytheon | Tucson, AZ | 09/09/2026 03:22:41 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-09-09 11:46:28Z UTC
 | 44 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a99f8a4040e5c3d0759a013) | Dice | Chicago, IL | 09/03/2026 22:45:56 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a99e4d6040e5c3d075999b0) | Raytheon | Plano, TX; McKinney, TX | 09/03/2026 14:21:26 | Security clearance language is present; Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer (New Grad)](https://jobright.ai/jobs/info/6a99dac78a8b765bc55f5ebb) | Mussett Nicholas Associates | Raleigh, NC | 09/03/2026 20:38:31 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I, II, III or Principal](https://jobright.ai/jobs/info/6a99cb82138838706059070f) | PPL Corporation | Louisville, KY | 09/03/2026 19:33:22 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a99e5631388387060591432) | Raytheon | McKinney, TX | 09/03/2026 21:23:47 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 66 (Good) | [Applied Machine Learning Engineer, Circuit Design - New College Grad 2026](https://jobright.ai/jobs/info/6a51c14ebf63b66c7997c1dd) | NVIDIA | United States | 09/03/2026 18:28:21 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a999d3f8a8b765bc55f42ff) | Brightpath Associates LLC | Bethesda, MD | 09/03/2026 16:15:59 | Sponsorship: Past Sponsorship |
-| 63 (Good) | [New College Grad - Yield Enhancement Electrical Failure Analysis Engineer](https://jobright.ai/jobs/info/6a99b082138838706058fa30) | Micron Technology | Boise, ID | 09/03/2026 00:00:00 | Sponsorship: Past Sponsorship |
