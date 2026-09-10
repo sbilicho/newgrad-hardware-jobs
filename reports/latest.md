@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-10 01:19:27Z UTC
+Updated: 2026-09-10 04:53:33Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 51 (Good) | [Launch Reliability Engineer](https://jobright.ai/jobs/info/6aa1f502500b01124c77fcec) | SpaceX | Vandenberg Space Force Base, CA | 09/09/2026 18:54:51 | Sponsorship: No |
 | 45 (Possible) | [Test Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa1cdcb2f936e4a53dae38b) | Collins Aerospace | Jamestown, ND | 09/09/2026 14:21:15 | Sponsorship: No |
 | 48 (Possible) | [FPGA Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6aa1ce452f936e4a53dae3b2) | Raytheon | Fort Wayne, IN | 09/09/2026 14:23:17 | Security clearance language is present; Sponsorship: No |
 | 50 (Good) | [Automation Manufacturing Test Engineer I](https://jobright.ai/jobs/info/6aa1d01d2f936e4a53dae432) | Honeywell Aerospace | Redmond, WA | 09/09/2026 14:31:09 | Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-09-10 01:19:27Z UTC
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a9b18d2d5ff1f3f1c39da11) | Mead & Hunt | Milwaukee, WI | 09/04/2026 19:15:30 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical Engineer - Summer 2027](https://jobright.ai/jobs/info/6a9b015ad5ff1f3f1c39d2c6) | Jacobs | Fort Worth, TX | 09/04/2026 17:35:22 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6a9afb71fe45b8490f6062fe) | Brightpath Associates LLC | Maryland State | 09/04/2026 17:10:09 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Entry Level Electrical Engineer - Summer 2027](https://jobright.ai/jobs/info/6a9b05591388387060596384) | Jacobs | Dallas, TX | 09/04/2026 17:52:25 | Sponsorship: Past Sponsorship |
