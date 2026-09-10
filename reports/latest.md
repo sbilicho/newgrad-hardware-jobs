@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-10 12:37:54Z UTC
+Updated: 2026-09-10 15:13:51Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Hardware Engineer](https://jobright.ai/jobs/info/6a594fc6686b4755d1e0fc3e) | Arlo Technologies, Inc. | Carlsbad, CA | 09/10/2026 06:37:15 | Sponsorship: Not Sure |
 | 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6aa2880189c0049f1182c1c2) | John Crane | Port Arthur, TX | 09/02/2026 20:52:42 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6aa23e94a841402ec45aca82) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/09/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Launch Reliability Engineer](https://jobright.ai/jobs/info/6aa1f502500b01124c77fcec) | SpaceX | Vandenberg Space Force Base, CA | 09/09/2026 18:54:51 | Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-09-10 12:37:54Z UTC
 | 37 (Possible) | [AUSTIN - Electrical Engineer, New Grad](https://jobright.ai/jobs/info/6a9b262a2cdc5958f53eb062) | BGE, Inc. | Round Rock, TX | 09/04/2026 20:12:26 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [HOUSTON - Electrical Engineer, New Grad](https://jobright.ai/jobs/info/6a9b22112cdc5958f53eaf6b) | BGE, Inc. | Houston, TX | 09/04/2026 19:54:57 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer level 1/2](https://jobright.ai/jobs/info/6a9b0d622cdc5958f53ea9b8) | Northrop Grumman | Rocket Center, WV | 09/04/2026 18:26:42 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a9b18d2d5ff1f3f1c39da11) | Mead & Hunt | Milwaukee, WI | 09/04/2026 19:15:30 | Sponsorship: Past Sponsorship |
