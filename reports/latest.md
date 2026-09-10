@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-09 23:22:57Z UTC
+Updated: 2026-09-10 01:19:27Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 45 (Possible) | [Test Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa1cdcb2f936e4a53dae38b) | Collins Aerospace | Jamestown, ND | 09/09/2026 14:21:15 | Sponsorship: No |
+| 48 (Possible) | [FPGA Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6aa1ce452f936e4a53dae3b2) | Raytheon | Fort Wayne, IN | 09/09/2026 14:23:17 | Security clearance language is present; Sponsorship: No |
+| 50 (Good) | [Automation Manufacturing Test Engineer I](https://jobright.ai/jobs/info/6aa1d01d2f936e4a53dae432) | Honeywell Aerospace | Redmond, WA | 09/09/2026 14:31:09 | Sponsorship: No |
+| 48 (Possible) | [Electrical Engineer Entry Level](https://jobright.ai/jobs/info/6aa1f61b500b01124c77fd6f) | General Dynamics Mission Systems | Pittsfield, MA | 09/09/2026 22:12:56 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 32 (Possible) | [Entry-Level Systems Engineer (Digital Comm & Networks Sys Engrg)](https://jobright.ai/jobs/info/6aa1d4c4ef23570cae246743) | Boeing | El Segundo, CA | 09/09/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6aa1cef33272060a8e3f24b3) | General Dynamics | Pittsfield, MA | 09/09/2026 21:26:11 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Receiver, Exciter & Processing Architecture Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6aa1ce462f936e4a53dae3b5) | Raytheon | Tewksbury, MA | 09/09/2026 21:23:18 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-09-09 23:22:57Z UTC
 | 40 (Possible) | [Entry Level Electrical Engineer - Summer 2027](https://jobright.ai/jobs/info/6a9b015ad5ff1f3f1c39d2c6) | Jacobs | Fort Worth, TX | 09/04/2026 17:35:22 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6a9afb71fe45b8490f6062fe) | Brightpath Associates LLC | Maryland State | 09/04/2026 17:10:09 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical Engineer - Summer 2027](https://jobright.ai/jobs/info/6a9b05591388387060596384) | Jacobs | Dallas, TX | 09/04/2026 17:52:25 | Sponsorship: Past Sponsorship |
-| 82 (Strong) | [Graduate Verification Engineer](https://jobright.ai/jobs/info/6a9b0ba4d5ff1f3f1c39d5b7) | Arm | Chandler, AZ | 09/04/2026 18:19:16 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Entry Level Electrical Engineer - Winter 2027](https://jobright.ai/jobs/info/6a9aec13d5ff1f3f1c39bbd6) | Jacobs | Dallas, TX | 09/04/2026 10:04:52 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a9ac1d9d5ff1f3f1c39b36a) | Brightpath Associates LLC | Bethesda, MD | 09/04/2026 13:04:25 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [Digital Hardware Engineer](https://jobright.ai/jobs/info/6a9990e590a313642c650f7e) | Qualcomm | Boulder, CO; San Diego, CA | 09/04/2026 07:05:02 | Sponsorship: Not Sure |
