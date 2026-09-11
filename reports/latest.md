@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-11 20:49:18Z UTC
+Updated: 2026-09-11 21:49:19Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Entry-Level Manufacturing Controls/Electrical Engineer](https://jobright.ai/jobs/info/6aa46e19f3aa936e2cdb1379) | General Motors | Defiance, OH | 09/11/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa47718c1928370a285e0b4) | BlueWave | Boston, MA | 09/11/2026 18:43:17 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Associate Electrical Design Engineer](https://jobright.ai/jobs/info/6a9b2d7afe45b8490f60730f) | Kenworth Truck Co. | Kirkland, WA | 09/11/2026 12:37:42 | Sponsorship: Not Sure |
 | 55 (Good) | [Hardware Test Engineer - Entry Level](https://jobright.ai/jobs/info/690cece54a1b456627b1b8e8) | Foxconn Industrial Internet - FII | Houston, TX | 04/16/2026 14:42:17 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Associate Electrical Engineer I - Design](https://jobright.ai/jobs/info/6aa45be5422289703bd6653b) | Novate Solutions, Inc. | West Sacramento, CA | 09/11/2026 12:48:45 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical/Controls Engineer I/II](https://jobright.ai/jobs/info/6aa4576b8275e3a21175ffaf) | TP Engineering Services | Poway, CA | 09/11/2026 17:30:04 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-09-11 20:49:18Z UTC
 | 58 (Good) | [Entry-Level Test Engineer](https://jobright.ai/jobs/info/6aa00d275b2d5633ef3bc230) | Leidos | Huntsville, AL | 09/08/2026 00:00:00 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 58 (Good) | [Entry-Level Test Engineer](https://jobright.ai/jobs/info/6aa00d3aa2266b538d22ded5) | Leidos | Huntsville, AL | 09/08/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer, Level I,](https://jobright.ai/jobs/info/6a9f741968f82b403673d1e7) | Verustruct | Torrance, CA | 09/08/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 59 (Good) | [Failure Analysis Engineer I (Full-Time) United States](https://jobright.ai/jobs/info/6a9f9434352f093fc756eabe) | Cisco | Maynard, MA | 09/08/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer, Level I,](https://jobright.ai/jobs/info/6a9f5dbb352f093fc756e2ee) | Verustruct | Torrance, CA | 09/08/2026 00:58:35 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Entry Level Electrical Engineer - Summer 2027](https://jobright.ai/jobs/info/6a9b43c41388387060597780) | Jacobs | Dallas, TX | 09/07/2026 15:50:10 | Sponsorship: No |
