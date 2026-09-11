@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-11 21:49:19Z UTC
+Updated: 2026-09-11 23:22:59Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 45 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa4782fc1928370a285e105) | SharkNinja | Needham, MA | 09/11/2026 18:44:14 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Embedded Software Test Engineer Graduate](https://jobright.ai/jobs/info/6aa47432422289703bd66a99) | Hewlett Packard Enterprise | Spring, TX | 09/11/2026 22:37:07 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry-Level Manufacturing Controls/Electrical Engineer](https://jobright.ai/jobs/info/6aa46e19f3aa936e2cdb1379) | General Motors | Defiance, OH | 09/11/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa47718c1928370a285e0b4) | BlueWave | Boston, MA | 09/11/2026 18:43:17 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Associate Electrical Design Engineer](https://jobright.ai/jobs/info/6a9b2d7afe45b8490f60730f) | Kenworth Truck Co. | Kirkland, WA | 09/11/2026 12:37:42 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-09-11 21:49:19Z UTC
 | 52 (Good) | [Entry Level Validation Engineer](https://jobright.ai/jobs/info/6aa02373500b01124c776fb3) | SEGULA Technologies | Chelsea, MI | 09/03/2026 15:00:10 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Development Test Engineer, Satellites (Starlink)](https://jobright.ai/jobs/info/6a2a87f0d3ec8317fe144182) | SpaceX | Redmond, WA | 09/08/2026 09:28:59 | Sponsorship: No |
 | 58 (Good) | [Entry-Level Test Engineer](https://jobright.ai/jobs/info/6aa00d275b2d5633ef3bc230) | Leidos | Huntsville, AL | 09/08/2026 00:00:00 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 58 (Good) | [Entry-Level Test Engineer](https://jobright.ai/jobs/info/6aa00d3aa2266b538d22ded5) | Leidos | Huntsville, AL | 09/08/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer, Level I,](https://jobright.ai/jobs/info/6a9f741968f82b403673d1e7) | Verustruct | Torrance, CA | 09/08/2026 00:00:00 | Sponsorship: Past Sponsorship |
