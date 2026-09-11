@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-11 15:06:57Z UTC
+Updated: 2026-09-11 17:32:06Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa430abf7baf881567cdb13) | RTX | Bellevue, IA | 09/11/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I - Kestrel](https://jobright.ai/jobs/info/6aa4325e8275e3a21175f5a5) | ENTRUST Solutions Group | United States | 09/11/2026 16:54:54 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Electrical Engineer - HYBRID SCHEDULE](https://jobright.ai/jobs/info/6aa432cd1d92e2d05d113c3a) | Case Engineering | Fenton, MO | 09/11/2026 14:51:48 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6aa42fdef3aa936e2cdb026e) | Haag, a Salas O'Brien Company | Laconia, NH | 09/11/2026 14:32:34 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6aa42f7e1d92e2d05d113b77) | Salas O'Brien | Laconia, NH | 09/11/2026 14:32:34 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aa3fab8f3aa936e2cdaf181) | Brightpath Associates LLC | Bethesda, MD | 09/11/2026 12:57:28 | Sponsorship: Past Sponsorship |
 | 74 (Strong) | [Junior CPU Verification Engineer](https://jobright.ai/jobs/info/6aa3df96c1928370a285af96) | Intel | Hillsboro, OR | 09/11/2026 03:29:40 | Sponsorship: Past Sponsorship |
 | 58 (Good) | [Entry-Level Test Engineer](https://jobright.ai/jobs/info/6aa40887422289703bd64c08) | Dice | Huntsville, AL | 09/11/2026 13:56:23 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-09-11 15:06:57Z UTC
 | 63 (Good) | [Entry Level Digital Verification Engineer](https://jobright.ai/jobs/info/6a9e4e6edacf777321a91759) | NXP Semiconductors | Austin, TX | 09/07/2026 08:20:02 | Sponsorship: Past Sponsorship |
 | 63 (Good) | [Entry Level Digital Design Engineer](https://jobright.ai/jobs/info/6a9e4e6c68f82b403673996e) | NXP Semiconductors | Austin, TX | 09/07/2026 08:06:59 | Sponsorship: Past Sponsorship |
 | 81 (Strong) | [Entry Level DFT Design Engineer](https://jobright.ai/jobs/info/6a9e4e73a7ba386c5d671b3d) | NXP Semiconductors | Austin, TX | 09/07/2026 08:06:52 | Sponsorship: Past Sponsorship |
-| 63 (Good) | [Entry Level Digital Design Engineer](https://jobright.ai/jobs/info/6a9e4e732c964816f65eca32) | NXP Semiconductors | Austin, TX | 09/07/2026 08:06:59 | Sponsorship: Past Sponsorship |
-| 65 (Good) | [Entry Level Digital Physical Design Engineer](https://jobright.ai/jobs/info/6a9e4e67dacf777321a91753) | NXP Semiconductors | Austin, TX | 09/07/2026 08:06:59 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry Level Hardware Developer-Tucson-AZ](https://jobright.ai/jobs/info/6a9e29cea7ba386c5d670e73) | IBM | Tucson, AZ | 09/07/2026 03:04:46 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Entry Level Site Reliability Engineer -Tucson-AZ](https://jobright.ai/jobs/info/6a9e29d827c94c3d5a1cb5f3) | IBM | Tucson, AZ | 09/07/2026 03:04:56 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6a975484455eaf6a08c1c31c) | Fresenius Kabi USA | Melrose Park, IL | 09/06/2026 16:35:21 | Sponsorship: No |
