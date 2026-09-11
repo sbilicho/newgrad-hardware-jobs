@@ -1,9 +1,19 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-11 06:34:16Z UTC
+Updated: 2026-09-11 11:17:18Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 74 (Strong) | [Junior CPU Verification Engineer](https://jobright.ai/jobs/info/6aa3c0ef959a10d7230d3c3c) | Intel | Austin, TX | 09/11/2026 03:43:17 | Sponsorship: Past Sponsorship |
+| 60 (Good) | [Early Career - Validation Engineer, Vehicle Hardware](https://jobright.ai/jobs/info/6a7310526a034212ea025a44) | Rivian | Irvine, CA | 09/11/2026 10:31:01 | Sponsorship: Past Sponsorship |
+| 34 (Possible) | [AI GPU Power Architect - New College Grad 2026](https://jobright.ai/jobs/info/6aa3e07af3aa936e2cdae607) | NVIDIA AI | Santa Clara, CA | 09/11/2026 06:30:33 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [RF Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa3d10d4238ea18d430e820) | Raytheon | El Segundo, CA | 09/10/2026 21:19:41 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6aa3b89d4238ea18d430db3c) | Applied Medical | Rancho Santa Margarita, CA | 09/10/2026 21:07:48 | Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6aa3c1b84233a2201a2b3654) | General Dynamics Mission Systems | Pittsfield, MA | 09/09/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aa3ae754233a2201a2b2dbd) | PAE | Seattle, WA | 09/10/2026 02:48:01 | Sponsorship: Past Sponsorship |
+| 85 (Strong) | [Digital Hardware Design Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6aa3bed55c11cce360366115) | RTX | El Segundo, CA | 09/10/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 85 (Strong) | [Digital Hardware Design Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6aa3c4c95c11cce3603664c5) | Raytheon | El Segundo, CA | 09/10/2026 21:19:06 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 86 (Strong) | [ASIC Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6aa3d109626f9945308b37bc) | NVIDIA AI | Santa Clara, CA | 09/11/2026 06:18:13 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6aa39fc5c5a856ac7e33a83f) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 09/10/2026 19:42:34 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa3a0624233a2201a2b281a) | McClure Engineering-St. Louis (MEP) | St. Louis, MO | 09/10/2026 11:45:46 | Sponsorship: Past Sponsorship |
 | 85 (Strong) | [ASIC & FPGA Design Engineer Asc - Entry Level](https://jobright.ai/jobs/info/6aa39aa7959a10d7230d2af3) | Lockheed Martin | Highlands Ranch, CO | 09/10/2026 17:01:22 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
@@ -94,13 +104,3 @@ Updated: 2026-09-11 06:34:16Z UTC
 | 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a9c7f5668f82b4036736737) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Sr. Electrical Engineer I - Product Development - I&R](https://jobright.ai/jobs/info/6a295e0d1de59e0682a7eb60) | Arthrex | Naples, FL | 09/05/2026 14:47:30 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Marine Electrical Engineer Entry Level - Providence, RI](https://jobright.ai/jobs/info/6a9c7fac2c964816f65e991c) | Glosten | Providence, RI | 07/19/2026 05:28:21 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6a7019c741b41d325296dd98) | APTIM | Knoxville, TN | 09/05/2026 16:35:42 | Sponsorship: No |
-| 37 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6a6fe13041b41d325296d713) | APTIM | Knoxville, TN | 09/05/2026 16:35:42 | Sponsorship: Not Sure |
-| 37 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6a5dbf0f63a8f619507d07f2) | APTIM | Knoxville, TN | 09/05/2026 16:35:42 | Sponsorship: Not Sure |
-| 37 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6a5da2fe63a8f619507cfc92) | APTIM | Knoxville, TN | 09/05/2026 16:35:42 | Sponsorship: Not Sure |
-| 37 (Possible) | [Entry Level Electrical Engineer [Wilton]](https://jobright.ai/jobs/info/6a9c7a0768f82b40367363cd) | Altieri | Wilton, CT | 08/15/2026 17:23:13 | Sponsorship: Past Sponsorship |
-| 66 (Good) | [2nd Shift Manufacturing Test Engineer](https://jobright.ai/jobs/info/6a7f7574ad9ff00c26bae500) | Analog Devices | Chelmsford, MA | 09/05/2026 10:07:22 | Security clearance language is present; Sponsorship: No |
-| 35 (Possible) | [Embedded Software Engineer - New Grad (2027)](https://jobright.ai/jobs/info/6a7f90a6b56bea5779c0cdc7) | Applied Intuition | Sunnyvale, CA | 09/05/2026 11:50:34 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer I - NPD](https://jobright.ai/jobs/info/6a800fd3e51a1e18a24178f9) | Milwaukee Tool | Brookfield, WI | 09/05/2026 09:31:42 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a4573563dbab558e29a14da) | Antares | Los Angeles, CA | 09/05/2026 12:20:27 | Sponsorship: Past Sponsorship |
-| 86 (Strong) | [Product Engineer - Tessent Design for Test (DFT)](https://jobright.ai/jobs/info/6a9c1306dacf777321a8da5d) | Siemens EDA (Siemens Digital Industries Software) | Wilsonville, OR | 09/05/2026 13:03:02 | Sponsorship: Past Sponsorship |
