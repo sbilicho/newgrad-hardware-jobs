@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-11 18:31:42Z UTC
+Updated: 2026-09-11 20:49:18Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 55 (Good) | [Hardware Test Engineer - Entry Level](https://jobright.ai/jobs/info/690cece54a1b456627b1b8e8) | Foxconn Industrial Internet - FII | Houston, TX | 04/16/2026 14:42:17 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Associate Electrical Engineer I - Design](https://jobright.ai/jobs/info/6aa45be5422289703bd6653b) | Novate Solutions, Inc. | West Sacramento, CA | 09/11/2026 12:48:45 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Electrical/Controls Engineer I/II](https://jobright.ai/jobs/info/6aa4576b8275e3a21175ffaf) | TP Engineering Services | Poway, CA | 09/11/2026 17:30:04 | Sponsorship: Past Sponsorship |
+| 55 (Good) | [Entry Level Semiconductor Test Engineer](https://jobright.ai/jobs/info/6aa466b3f3aa936e2cdb11fc) | NXP Semiconductors | Chandler, AZ | 09/11/2026 20:38:11 | Sponsorship: Past Sponsorship |
 | 35 (Possible) | [Design Engineer (New College Graduate)](https://jobright.ai/jobs/info/6aa443b2f7baf881567ce184) | Diodes Incorporated | Milpitas, CA | 09/11/2026 00:52:35 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Test Engineer - Haircare](https://jobright.ai/jobs/info/6a91ae7ad18f756748279536) | SharkNinja | Needham, MA | 09/11/2026 10:05:14 | Sponsorship: Not Sure |
 | 42 (Possible) | [Test Engineer - Indoor Heated](https://jobright.ai/jobs/info/6a99bf62138838706059008c) | SharkNinja | Needham, MA | 09/11/2026 10:09:28 | Sponsorship: Not Sure |
@@ -100,7 +104,3 @@ Updated: 2026-09-11 18:31:42Z UTC
 | 59 (Good) | [Failure Analysis Engineer I (Full-Time) United States](https://jobright.ai/jobs/info/6a9f9434352f093fc756eabe) | Cisco | Maynard, MA | 09/08/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer, Level I,](https://jobright.ai/jobs/info/6a9f5dbb352f093fc756e2ee) | Verustruct | Torrance, CA | 09/08/2026 00:58:35 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical Engineer - Summer 2027](https://jobright.ai/jobs/info/6a9b43c41388387060597780) | Jacobs | Dallas, TX | 09/07/2026 15:50:10 | Sponsorship: No |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a9f43a92c964816f65ef92a) | Jacobs | Dallas, TX | 09/07/2026 05:00:00 | Sponsorship: Past Sponsorship |
-| 53 (Good) | [Electrical Hardware Design Engineer](https://jobright.ai/jobs/info/6a57b811e9b77f668bd6a44f) | General Dynamics | Pittsfield, MA | 09/07/2026 14:01:19 | Sponsorship: No |
-| 56 (Good) | [Entry Level Digital Electrical Design Engineer](https://jobright.ai/jobs/info/6a9ef74168f82b403673bef8) | 180 Engineering | Colorado Springs, CO | 09/07/2026 17:41:21 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [Entry Level Digital Validation Engineer](https://jobright.ai/jobs/info/6a9e4e6b27c94c3d5a1cc2eb) | NXP Semiconductors | Austin, TX | 09/07/2026 08:06:51 | Sponsorship: Past Sponsorship |
