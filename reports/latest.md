@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-11 17:32:06Z UTC
+Updated: 2026-09-11 18:31:42Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 35 (Possible) | [Design Engineer (New College Graduate)](https://jobright.ai/jobs/info/6aa443b2f7baf881567ce184) | Diodes Incorporated | Milpitas, CA | 09/11/2026 00:52:35 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Test Engineer - Haircare](https://jobright.ai/jobs/info/6a91ae7ad18f756748279536) | SharkNinja | Needham, MA | 09/11/2026 10:05:14 | Sponsorship: Not Sure |
+| 42 (Possible) | [Test Engineer - Indoor Heated](https://jobright.ai/jobs/info/6a99bf62138838706059008c) | SharkNinja | Needham, MA | 09/11/2026 10:09:28 | Sponsorship: Not Sure |
 | 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa430abf7baf881567cdb13) | RTX | Bellevue, IA | 09/11/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - Kestrel](https://jobright.ai/jobs/info/6aa4325e8275e3a21175f5a5) | ENTRUST Solutions Group | United States | 09/11/2026 16:54:54 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer - HYBRID SCHEDULE](https://jobright.ai/jobs/info/6aa432cd1d92e2d05d113c3a) | Case Engineering | Fenton, MO | 09/11/2026 14:51:48 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-09-11 17:32:06Z UTC
 | 53 (Good) | [Electrical Hardware Design Engineer](https://jobright.ai/jobs/info/6a57b811e9b77f668bd6a44f) | General Dynamics | Pittsfield, MA | 09/07/2026 14:01:19 | Sponsorship: No |
 | 56 (Good) | [Entry Level Digital Electrical Design Engineer](https://jobright.ai/jobs/info/6a9ef74168f82b403673bef8) | 180 Engineering | Colorado Springs, CO | 09/07/2026 17:41:21 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Entry Level Digital Validation Engineer](https://jobright.ai/jobs/info/6a9e4e6b27c94c3d5a1cc2eb) | NXP Semiconductors | Austin, TX | 09/07/2026 08:06:51 | Sponsorship: Past Sponsorship |
-| 63 (Good) | [Entry Level Digital Verification Engineer](https://jobright.ai/jobs/info/6a9e4e6edacf777321a91759) | NXP Semiconductors | Austin, TX | 09/07/2026 08:20:02 | Sponsorship: Past Sponsorship |
-| 63 (Good) | [Entry Level Digital Design Engineer](https://jobright.ai/jobs/info/6a9e4e6c68f82b403673996e) | NXP Semiconductors | Austin, TX | 09/07/2026 08:06:59 | Sponsorship: Past Sponsorship |
-| 81 (Strong) | [Entry Level DFT Design Engineer](https://jobright.ai/jobs/info/6a9e4e73a7ba386c5d671b3d) | NXP Semiconductors | Austin, TX | 09/07/2026 08:06:52 | Sponsorship: Past Sponsorship |
