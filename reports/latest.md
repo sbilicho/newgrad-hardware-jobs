@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-11 11:17:18Z UTC
+Updated: 2026-09-11 12:32:08Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa3e507c1928370a285b1f8) | McClure Engineering-St. Louis (MEP) | St. Louis, MO | 09/10/2026 05:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa3e92af3aa936e2cdae9cd) | McClure Engineering | St. Louis, MO | 09/10/2026 18:57:46 | Sponsorship: Past Sponsorship |
+| 77 (Strong) | [FAST Lab – Entry Level FPGA Engineer](https://jobright.ai/jobs/info/6aa3d74a422289703bd63858) | BAE Systems | Merrimack, NH | 09/11/2026 07:59:06 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 77 (Strong) | [Entry Level - Wireless EF Design & Validation Engineer](https://jobright.ai/jobs/info/6aa3e3d28275e3a21175dbf6) | General Motors | Warren, MI | 09/10/2026 21:38:17 | Sponsorship: Past Sponsorship |
 | 74 (Strong) | [Junior CPU Verification Engineer](https://jobright.ai/jobs/info/6aa3c0ef959a10d7230d3c3c) | Intel | Austin, TX | 09/11/2026 03:43:17 | Sponsorship: Past Sponsorship |
 | 60 (Good) | [Early Career - Validation Engineer, Vehicle Hardware](https://jobright.ai/jobs/info/6a7310526a034212ea025a44) | Rivian | Irvine, CA | 09/11/2026 10:31:01 | Sponsorship: Past Sponsorship |
 | 34 (Possible) | [AI GPU Power Architect - New College Grad 2026](https://jobright.ai/jobs/info/6aa3e07af3aa936e2cdae607) | NVIDIA AI | Santa Clara, CA | 09/11/2026 06:30:33 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-09-11 11:17:18Z UTC
 | 30 (Possible) | [Entry Level Hardware Developer 2027 -New York](https://jobright.ai/jobs/info/6a9e29b9a7ba386c5d670e66) | IBM | Poughkeepsie, NY; Hopewell Junction, NY | 09/06/2026 20:04:25 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [CAD Engineer](https://jobright.ai/jobs/info/6a51fd3d02522b5b722ed9f7) | Astranis Space Technologies | San Francisco, CA | 09/06/2026 15:09:32 | Sponsorship: No |
 | 41 (Possible) | [Switchgear Electrical Engineer](https://jobright.ai/jobs/info/6a760d5f67a1ad0bc53c874d) | RESA Power | Plant City, FL | 09/06/2026 09:58:08 | Sponsorship: Not Sure |
-| 57 (Good) | [2026 Fulltime- RF Electrical Engineer I- Onsite](https://jobright.ai/jobs/info/6a9a22ca90a313642c6548ca) | Raytheon | Marlborough, MA | 09/06/2026 16:28:52 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level I&C Power Plant Electrical Engineer](https://jobright.ai/jobs/info/6a9c7f5668f82b4036736737) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Sr. Electrical Engineer I - Product Development - I&R](https://jobright.ai/jobs/info/6a295e0d1de59e0682a7eb60) | Arthrex | Naples, FL | 09/05/2026 14:47:30 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Marine Electrical Engineer Entry Level - Providence, RI](https://jobright.ai/jobs/info/6a9c7fac2c964816f65e991c) | Glosten | Providence, RI | 07/19/2026 05:28:21 | Sponsorship: Past Sponsorship |
