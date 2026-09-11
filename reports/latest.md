@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-11 05:34:04Z UTC
+Updated: 2026-09-11 06:34:16Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6aa39fc5c5a856ac7e33a83f) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 09/10/2026 19:42:34 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa3a0624233a2201a2b281a) | McClure Engineering-St. Louis (MEP) | St. Louis, MO | 09/10/2026 11:45:46 | Sponsorship: Past Sponsorship |
+| 85 (Strong) | [ASIC & FPGA Design Engineer Asc - Entry Level](https://jobright.ai/jobs/info/6aa39aa7959a10d7230d2af3) | Lockheed Martin | Highlands Ranch, CO | 09/10/2026 17:01:22 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 47 (Possible) | [2026 Associate Thermal Test Engineer/ Thermal Test Engineer](https://jobright.ai/jobs/info/6aa1bddaef23570cae245e2e) | Northrop Grumman | Redondo Beach, CA | 09/10/2026 21:12:02 | Security clearance language is present; Sponsorship: No |
 | 77 (Strong) | [Entry Level - Wireless EF Design & Validation Engineer](https://jobright.ai/jobs/info/6aa387374233a2201a2b1d92) | General Motors | Warren, MI | 09/10/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa37f7d4238ea18d430c001) | CRB | Irvine, CA | 09/10/2026 07:37:41 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-09-11 05:34:04Z UTC
 | 48 (Possible) | [Electrical Engineer I - NPD](https://jobright.ai/jobs/info/6a800fd3e51a1e18a24178f9) | Milwaukee Tool | Brookfield, WI | 09/05/2026 09:31:42 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6a4573563dbab558e29a14da) | Antares | Los Angeles, CA | 09/05/2026 12:20:27 | Sponsorship: Past Sponsorship |
 | 86 (Strong) | [Product Engineer - Tessent Design for Test (DFT)](https://jobright.ai/jobs/info/6a9c1306dacf777321a8da5d) | Siemens EDA (Siemens Digital Industries Software) | Wilsonville, OR | 09/05/2026 13:03:02 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Controls Engineer I](https://jobright.ai/jobs/info/6a99c2d390a313642c652919) | Baxter International Inc. | Marion, NC | 09/05/2026 00:07:34 | Sponsorship: No |
-| 43 (Possible) | [Electrical Engineer I Job Details \| Holtec International](https://jobright.ai/jobs/info/6a67fd1dd0fb4c3df393fad0) | Holtec International | Camden, NJ | 09/05/2026 04:44:26 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Associate Electrical Design Engineer](https://jobright.ai/jobs/info/6a9b323d90a313642c6590f2) | PACCAR | Kirkland, WA | 09/04/2026 14:03:57 | Sponsorship: Not Sure |
