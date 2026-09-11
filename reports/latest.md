@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-11 03:03:59Z UTC
+Updated: 2026-09-11 04:34:25Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa37f7d4238ea18d430c001) | CRB | Irvine, CA | 09/10/2026 07:37:41 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [RF/Microwave Electrical Engineer I - Production Support (Onsite)](https://jobright.ai/jobs/info/6aa37d1083233ca167c8af27) | Raytheon | El Segundo, CA | 09/10/2026 21:20:19 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Electrical/Controls Engineer I/II](https://jobright.ai/jobs/info/6aa37d7de38fb65a7df5375c) | TP Engineering Services | Poway, CA | 09/10/2026 22:47:28 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Test Engineer- Entry Level (No C2C)](https://jobright.ai/jobs/info/6aa3829ac5a856ac7e339a79) | HRU Technical Resources | Sterling Heights, MI | 09/10/2026 17:48:10 | Sponsorship: Past Sponsorship |
+| 85 (Strong) | [Digital Hardware Design Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6aa3843f5c11cce360364740) | RTX | El Segundo, CA | 09/10/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 83 (Strong) | [ASIC Design Verification Engineer](https://jobright.ai/jobs/info/6aa1beaf0ffb3d4fea6b6cdc) | Qualcomm | Santa Clara, CA | 09/10/2026 14:18:12 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Hardware Engineer](https://jobright.ai/jobs/info/6a594fc6686b4755d1e0fc3e) | Arlo Technologies, Inc. | Carlsbad, CA | 09/10/2026 06:37:15 | Sponsorship: Not Sure |
 | 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6aa2880189c0049f1182c1c2) | John Crane | Port Arthur, TX | 09/02/2026 20:52:42 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-09-11 03:03:59Z UTC
 | 46 (Possible) | [Associate Electrical Design Engineer](https://jobright.ai/jobs/info/6a9b323d90a313642c6590f2) | PACCAR | Kirkland, WA | 09/04/2026 14:03:57 | Sponsorship: Not Sure |
 | 37 (Possible) | [AUSTIN - Electrical Engineer, New Grad](https://jobright.ai/jobs/info/6a9b2e469c24314c35f9824e) | BGE, Inc. | Austin, TX | 09/04/2026 20:47:02 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [AUSTIN - Electrical Engineer, New Grad](https://jobright.ai/jobs/info/6a9b2d22fe45b8490f6072ca) | BGE, Inc. | Austin, TX | 09/04/2026 20:42:10 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a9b49442cdc5958f53ebd9a) | Dice | Colorado Springs, CO | 09/04/2026 22:42:12 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a9b497afe45b8490f607cdd) | Dice | Albuquerque, NM | 09/04/2026 22:43:06 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer – Entry Level (Hybrid)](https://jobright.ai/jobs/info/6a9b40be138838706059769b) | Barr Engineering Co. | Bismarck, ND | 09/04/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [AUSTIN - Electrical Engineer, New Grad](https://jobright.ai/jobs/info/6a9b262a2cdc5958f53eb062) | BGE, Inc. | Round Rock, TX | 09/04/2026 20:12:26 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [HOUSTON - Electrical Engineer, New Grad](https://jobright.ai/jobs/info/6a9b22112cdc5958f53eaf6b) | BGE, Inc. | Houston, TX | 09/04/2026 19:54:57 | Sponsorship: Past Sponsorship |
