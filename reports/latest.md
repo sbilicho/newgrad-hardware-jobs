@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-11 12:32:08Z UTC
+Updated: 2026-09-11 15:06:57Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aa3fab8f3aa936e2cdaf181) | Brightpath Associates LLC | Bethesda, MD | 09/11/2026 12:57:28 | Sponsorship: Past Sponsorship |
+| 74 (Strong) | [Junior CPU Verification Engineer](https://jobright.ai/jobs/info/6aa3df96c1928370a285af96) | Intel | Hillsboro, OR | 09/11/2026 03:29:40 | Sponsorship: Past Sponsorship |
+| 58 (Good) | [Entry-Level Test Engineer](https://jobright.ai/jobs/info/6aa40887422289703bd64c08) | Dice | Huntsville, AL | 09/11/2026 13:56:23 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa3e507c1928370a285b1f8) | McClure Engineering-St. Louis (MEP) | St. Louis, MO | 09/10/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa3e92af3aa936e2cdae9cd) | McClure Engineering | St. Louis, MO | 09/10/2026 18:57:46 | Sponsorship: Past Sponsorship |
 | 77 (Strong) | [FAST Lab – Entry Level FPGA Engineer](https://jobright.ai/jobs/info/6aa3d74a422289703bd63858) | BAE Systems | Merrimack, NH | 09/11/2026 07:59:06 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-09-11 12:32:08Z UTC
 | 41 (Possible) | [Entry Level Hardware Developer-Tucson-AZ](https://jobright.ai/jobs/info/6a9e29cea7ba386c5d670e73) | IBM | Tucson, AZ | 09/07/2026 03:04:46 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Entry Level Site Reliability Engineer -Tucson-AZ](https://jobright.ai/jobs/info/6a9e29d827c94c3d5a1cb5f3) | IBM | Tucson, AZ | 09/07/2026 03:04:56 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6a975484455eaf6a08c1c31c) | Fresenius Kabi USA | Melrose Park, IL | 09/06/2026 16:35:21 | Sponsorship: No |
-| 30 (Possible) | [Entry Level Hardware Developer 2027 -New York](https://jobright.ai/jobs/info/6a9e29b9a7ba386c5d670e66) | IBM | Poughkeepsie, NY; Hopewell Junction, NY | 09/06/2026 20:04:25 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [CAD Engineer](https://jobright.ai/jobs/info/6a51fd3d02522b5b722ed9f7) | Astranis Space Technologies | San Francisco, CA | 09/06/2026 15:09:32 | Sponsorship: No |
-| 41 (Possible) | [Switchgear Electrical Engineer](https://jobright.ai/jobs/info/6a760d5f67a1ad0bc53c874d) | RESA Power | Plant City, FL | 09/06/2026 09:58:08 | Sponsorship: Not Sure |
