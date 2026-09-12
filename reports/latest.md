@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-11 23:22:59Z UTC
+Updated: 2026-09-12 01:23:14Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 55 (Good) | [Entry Level Semiconductor Test Engineer](https://jobright.ai/jobs/info/6aa4a052422289703bd6758e) | NXP Semiconductors | Chandler, AZ | 09/11/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa4782fc1928370a285e105) | SharkNinja | Needham, MA | 09/11/2026 18:44:14 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Embedded Software Test Engineer Graduate](https://jobright.ai/jobs/info/6aa47432422289703bd66a99) | Hewlett Packard Enterprise | Spring, TX | 09/11/2026 22:37:07 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry-Level Manufacturing Controls/Electrical Engineer](https://jobright.ai/jobs/info/6aa46e19f3aa936e2cdb1379) | General Motors | Defiance, OH | 09/11/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-09-11 23:22:59Z UTC
 | 41 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial](https://jobright.ai/jobs/info/6aa0407b5b2d5633ef3bd6c4) | Sargent & Lundy | Englewood, CO | 09/08/2026 17:06:03 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Entry Level Validation Engineer](https://jobright.ai/jobs/info/6aa02373500b01124c776fb3) | SEGULA Technologies | Chelsea, MI | 09/03/2026 15:00:10 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Development Test Engineer, Satellites (Starlink)](https://jobright.ai/jobs/info/6a2a87f0d3ec8317fe144182) | SpaceX | Redmond, WA | 09/08/2026 09:28:59 | Sponsorship: No |
-| 58 (Good) | [Entry-Level Test Engineer](https://jobright.ai/jobs/info/6aa00d275b2d5633ef3bc230) | Leidos | Huntsville, AL | 09/08/2026 00:00:00 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
