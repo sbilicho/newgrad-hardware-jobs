@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-12 21:29:23Z UTC
+Updated: 2026-09-12 23:19:21Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa4c12842411952ff9a5610) | SharkNinja | Needham, MA | 09/12/2026 13:56:36 | Sponsorship: Not Sure |
 | 37 (Possible) | [RF Engineer](https://jobright.ai/jobs/info/6aa5a00482e82a31997be2f3) | SpaceNews | Longmont, CO | 09/12/2026 11:55:00 | Sponsorship: No |
 | 58 (Good) | [Entry-Level Test Engineer](https://jobright.ai/jobs/info/6aa55e8b42411952ff9a8689) | Dice | Huntsville, AL | 09/12/2026 14:15:39 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6aa55162a77a53f5a1570a8e) | Dice | Pittsfield, MA | 09/12/2026 13:19:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-09-12 21:29:23Z UTC
 | 41 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial](https://jobright.ai/jobs/info/6a6775372bf1fb2b71925343) | Sargent & Lundy | Chicago, IL | 09/08/2026 11:54:38 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa03652ea127c3794695846) | Syska Hennessy Group | San Francisco, CA | 09/08/2026 17:39:53 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Controls Engineer](https://jobright.ai/jobs/info/6aa0284d3b5aa83237b07313) | Kleinfelder | Perrysburg, OH | 09/08/2026 15:22:53 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa0364f500b01124c7775b9) | Syska Hennessy Group | Los Angeles, CA | 09/08/2026 17:39:53 | Sponsorship: Past Sponsorship |
