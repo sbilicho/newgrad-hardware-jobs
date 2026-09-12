@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-12 06:11:50Z UTC
+Updated: 2026-09-12 10:55:20Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa4ffce930bff471a29c7a8) | Jacobs | Austin, TX | 09/11/2026 05:00:00 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [ELECTRICAL ENGINEER I](https://jobright.ai/jobs/info/6aa51dde42411952ff9a723b) | SharkNinja France | Needham, MA | 09/12/2026 00:04:26 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa4e10b2ed333b4ea5c46bc) | BlueWave | Boston, MA | 09/11/2026 19:23:26 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Entry Level Semiconductor Test Engineer](https://jobright.ai/jobs/info/6aa4a052422289703bd6758e) | NXP Semiconductors | Chandler, AZ | 09/11/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa4782fc1928370a285e105) | SharkNinja | Needham, MA | 09/11/2026 18:44:14 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-09-12 06:11:50Z UTC
 | 44 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial (Summer 2027)](https://jobright.ai/jobs/info/6aa04075ea127c3794695f5d) | Sargent & Lundy | Englewood, CO | 09/08/2026 17:05:57 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Controls Engineer](https://jobright.ai/jobs/info/6aa02914dbc0e60e37e0bb85) | Kleinfelder | Perrysburg, OH | 09/08/2026 15:26:12 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Submarine Power Plant Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6aa03d99dbc0e60e37e0c48a) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/08/2026 16:53:45 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial](https://jobright.ai/jobs/info/6aa0407b5b2d5633ef3bd6c4) | Sargent & Lundy | Englewood, CO | 09/08/2026 17:06:03 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [Entry Level Validation Engineer](https://jobright.ai/jobs/info/6aa02373500b01124c776fb3) | SEGULA Technologies | Chelsea, MI | 09/03/2026 15:00:10 | Sponsorship: Past Sponsorship |
