@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-13 01:18:18Z UTC
+Updated: 2026-09-13 06:33:16Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 47 (Possible) | [Validation Engineer Entry Level](https://jobright.ai/jobs/info/6aa63e5482e82a31997c0ae5) | Validation Associates LLC | Columbus, GA | 09/09/2026 05:11:29 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6a95e9f7f28891320e85efff) | Supermicro | San Jose, CA | 09/12/2026 21:00:57 | Sponsorship: Not Sure |
 | 51 (Good) | [TEST ENGINEER - INDOOR HEATED](https://jobright.ai/jobs/info/6aa5e64482e82a31997beffd) | SharkNinja France | Needham, MA | 09/12/2026 16:54:44 | Sponsorship: Not Sure |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa4c12842411952ff9a5610) | SharkNinja | Needham, MA | 09/12/2026 13:56:36 | Sponsorship: Not Sure |
 | 37 (Possible) | [RF Engineer](https://jobright.ai/jobs/info/6aa5a00482e82a31997be2f3) | SpaceNews | Longmont, CO | 09/12/2026 11:55:00 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-09-13 01:18:18Z UTC
 | 47 (Possible) | [Validation Engineer Entry Level](https://jobright.ai/jobs/info/6aa04fe63b5aa83237b084a8) | VTI Life Sciences | Columbus, GA | 09/08/2026 18:11:50 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [EMC Test Engineer / Electrical Engineer (Entry Level)](https://jobright.ai/jobs/info/6aa0710fdbc0e60e37e0da6c) | Envision Technology Solutions | Fremont, CA | 09/08/2026 20:33:19 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Assistant Electrical Engineer, Transmission & Distribution - Protection Applications (Minneapolis)](https://jobright.ai/jobs/info/6aa059253b5aa83237b0889e) | Burns & McDonnell | Minneapolis, MN | 09/08/2026 11:51:17 | Sponsorship: No |
-| 41 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial](https://jobright.ai/jobs/info/6a6775372bf1fb2b71925343) | Sargent & Lundy | Chicago, IL | 09/08/2026 11:54:38 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa03652ea127c3794695846) | Syska Hennessy Group | San Francisco, CA | 09/08/2026 17:39:53 | Sponsorship: Past Sponsorship |
