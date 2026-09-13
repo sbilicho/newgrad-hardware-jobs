@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-13 16:29:16Z UTC
+Updated: 2026-09-13 18:56:30Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa6dd5242411952ff9ac723) | AutoStore™ | Atlanta, GA | 09/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Engineer I, Reliability Engineer](https://jobright.ai/jobs/info/6a45ec704f64ba41dcb4f1c1) | Thermo Fisher Scientific | Fair Lawn, NJ | 09/13/2026 09:13:52 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a9e3ed949f4604c7894e255) | Bowman Consulting | Towson, MD | 09/12/2026 13:06:51 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a99a6dc551435518ebf01d1) | Freeport-McMoRan | Morenci, AZ | 09/12/2026 16:25:25 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6aa5babe930bff471a29f9a7) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-09-13 16:29:16Z UTC
 | 68 (Good) | [Product Test Engineer - New College Graduate](https://jobright.ai/jobs/info/6aa07dd43b5aa83237b09906) | Cirrus Logic | Austin, TX | 09/08/2026 21:27:48 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Reliability Engineer](https://jobright.ai/jobs/info/6aa056fc5b2d5633ef3bdfde) | Helion | Columbia, SC | 09/08/2026 18:42:04 | Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Electrical Engineer -  Analog & Mixed-Signal](https://jobs.ashbyhq.com/voyant-photonics/ae08246e-3f98-4c39-91cf-bbd76e600f6a) | Voyant Photonics | New York Office (HQ) | 09/08/2026 18:25:37 |  |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa066a8500b01124c778bd8) | Pond & Company | Peachtree Corners, GA | 09/08/2026 19:48:56 | Sponsorship: Past Sponsorship |
-| 79 (Strong) | [Electrical Engineer -  Analog & Mixed-Signal](https://jobright.ai/jobs/info/6aa05500ea127c3794696703) | Voyant Photonics | New York, NY | 09/08/2026 19:57:23 | Sponsorship: Past Sponsorship |
