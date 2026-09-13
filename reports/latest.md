@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-13 06:33:16Z UTC
+Updated: 2026-09-13 12:16:46Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a99a6dc551435518ebf01d1) | Freeport-McMoRan | Morenci, AZ | 09/12/2026 16:25:25 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6aa5babe930bff471a29f9a7) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Validation Engineer Entry Level](https://jobright.ai/jobs/info/6aa63e5482e82a31997c0ae5) | Validation Associates LLC | Columbus, GA | 09/09/2026 05:11:29 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6a95e9f7f28891320e85efff) | Supermicro | San Jose, CA | 09/12/2026 21:00:57 | Sponsorship: Not Sure |
 | 51 (Good) | [TEST ENGINEER - INDOOR HEATED](https://jobright.ai/jobs/info/6aa5e64482e82a31997beffd) | SharkNinja France | Needham, MA | 09/12/2026 16:54:44 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-09-13 06:33:16Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa066a8500b01124c778bd8) | Pond & Company | Peachtree Corners, GA | 09/08/2026 19:48:56 | Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Electrical Engineer -  Analog & Mixed-Signal](https://jobright.ai/jobs/info/6aa05500ea127c3794696703) | Voyant Photonics | New York, NY | 09/08/2026 19:57:23 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Validation Engineer Entry Level](https://jobright.ai/jobs/info/6aa04fe63b5aa83237b084a8) | VTI Life Sciences | Columbus, GA | 09/08/2026 18:11:50 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [EMC Test Engineer / Electrical Engineer (Entry Level)](https://jobright.ai/jobs/info/6aa0710fdbc0e60e37e0da6c) | Envision Technology Solutions | Fremont, CA | 09/08/2026 20:33:19 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Assistant Electrical Engineer, Transmission & Distribution - Protection Applications (Minneapolis)](https://jobright.ai/jobs/info/6aa059253b5aa83237b0889e) | Burns & McDonnell | Minneapolis, MN | 09/08/2026 11:51:17 | Sponsorship: No |
