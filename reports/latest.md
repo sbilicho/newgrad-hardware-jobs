@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-14 11:49:37Z UTC
+Updated: 2026-09-14 13:25:20Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Examinations Infrastructure Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6aa7ec442ed333b4ea5cc5f5) | Naval Nuclear Laboratory (FMP) | Idaho Falls, ID | 08/27/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 55 (Good) | [Entry Level Semiconductor Test Engineer](https://jobright.ai/jobs/info/6aa7e156930bff471a2a42fc) | Dice | Chandler, AZ | 09/14/2026 11:58:14 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6aa7abb52ed333b4ea5cbaf0) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 09/14/2026 08:09:25 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Hardware Engineer I Graduate](https://jobright.ai/jobs/info/6aa763b642411952ff9acf46) | Hewlett Packard Enterprise | Spring, TX | 09/14/2026 04:36:59 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Associate Digital Hardware Engineer Engineer (Comms/TVI) Job Details \| Thales Defense & Security, Inc.](https://jobright.ai/jobs/info/6aa78499654b2a9424cf8dc9) | Thales Defense & Security, Inc. | Clarksburg, MD | 09/13/2026 22:22:33 | U.S. citizenship language is present; Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-09-14 11:49:37Z UTC
 | 65 (Good) | [FPGA Electrical Design Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa0d101a2266b538d2324dd) | Raytheon | Tucson, AZ | 09/09/2026 03:22:41 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Antenna & Microwave Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa0d0f2a2266b538d2324d8) | Raytheon | El Segundo, CA | 09/09/2026 03:22:26 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 55 (Good) | [Junior Validation Engineer](https://jobright.ai/jobs/info/6a99d979040e5c3d0759948e) | SEGULA Technologies | Auburn Hills, MI | 09/04/2026 00:03:26 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer Technician](https://jobright.ai/jobs/info/6aa070ee5b2d5633ef3be9e3) | Ombra | Potsdam, NY; Massena, NY | 09/08/2026 13:32:46 | U.S. citizenship language is present; Sponsorship: No |
-| 53 (Good) | [AEGS Pro Electrical Engineer I (On-Site)](https://jobright.ai/jobs/info/6aa07c393b5aa83237b097e2) | Raytheon | Tucson, AZ | 09/08/2026 21:20:57 | Security clearance language is present; Sponsorship: Past Sponsorship |
