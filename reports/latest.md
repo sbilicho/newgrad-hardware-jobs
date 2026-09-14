@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-14 06:44:38Z UTC
+Updated: 2026-09-14 10:58:04Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6aa7abb52ed333b4ea5cbaf0) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 09/14/2026 08:09:25 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Hardware Engineer I Graduate](https://jobright.ai/jobs/info/6aa763b642411952ff9acf46) | Hewlett Packard Enterprise | Spring, TX | 09/14/2026 04:36:59 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Associate Digital Hardware Engineer Engineer (Comms/TVI) Job Details \| Thales Defense & Security, Inc.](https://jobright.ai/jobs/info/6aa78499654b2a9424cf8dc9) | Thales Defense & Security, Inc. | Clarksburg, MD | 09/13/2026 22:22:33 | U.S. citizenship language is present; Sponsorship: No |
 | 45 (Possible) | [Associate RF Hardware Engineer (Comms) Job Details \| Thales Defense & Security, Inc.](https://jobright.ai/jobs/info/6aa784a12ed333b4ea5cb6a0) | Thales Defense & Security, Inc. | Clarksburg, MD | 09/13/2026 22:22:41 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-09-14 06:44:38Z UTC
 | 55 (Good) | [Junior Validation Engineer](https://jobright.ai/jobs/info/6a99d979040e5c3d0759948e) | SEGULA Technologies | Auburn Hills, MI | 09/04/2026 00:03:26 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer Technician](https://jobright.ai/jobs/info/6aa070ee5b2d5633ef3be9e3) | Ombra | Potsdam, NY; Massena, NY | 09/08/2026 13:32:46 | U.S. citizenship language is present; Sponsorship: No |
 | 53 (Good) | [AEGS Pro Electrical Engineer I (On-Site)](https://jobright.ai/jobs/info/6aa07c393b5aa83237b097e2) | Raytheon | Tucson, AZ | 09/08/2026 21:20:57 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 66 (Good) | [Junior FPGA Engineer](https://jobright.ai/jobs/info/6aa06674a2266b538d230140) | Eagle Seven | Chicago, IL | 09/08/2026 12:48:04 | Sponsorship: Not Sure |
