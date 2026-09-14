@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-14 17:34:16Z UTC
+Updated: 2026-09-14 18:34:08Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 52 (Good) | [Entry-Level Equipment Validation Engineer](https://jobright.ai/jobs/info/6aa830c6a77a53f5a1577d7d) | Virtue America | United States | 09/14/2026 17:37:10 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer](https://jobright.ai/jobs/info/6aa838bf2ed333b4ea5cdf87) | Boeing | El Segundo, CA | 09/14/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 65 (Good) | [Engineer I - Analog Design](https://jobright.ai/jobs/info/6aa82b432ed333b4ea5cdb9c) | Microchip Technology Inc. | San Jose, CA | 09/14/2026 10:13:39 | Sponsorship: Not Sure |
 | 37 (Possible) | [Early Careers Electrical Engineer I (Lynchburg)](https://jobright.ai/jobs/info/6a959ab9c8763a3a87ffadf0) | Framatome North America | Lynchburg, VA | 09/14/2026 16:15:59 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Early Careers Electrical Engineer I (Richland)](https://jobright.ai/jobs/info/6a959ac04c22023a07934a18) | Framatome North America | Richland, WA | 09/14/2026 16:16:25 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aa81cda930bff471a2a5265) | Brightpath Associates LLC | Bethesda, MD | 09/14/2026 16:12:10 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-09-14 17:34:16Z UTC
 | 48 (Possible) | [Electrical Engineer I (hybrid)](https://jobright.ai/jobs/info/6aa198472f936e4a53daccb8) | OKSI | United States | 09/09/2026 12:17:18 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer (entry level)](https://jobright.ai/jobs/info/6aa18f652f936e4a53dac6bb) | Lake Superior Consulting | Duluth, MN | 09/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6aa1885d3272060a8e3f03c1) | Brightpath Associates LLC | Maryland State | 09/09/2026 16:25:01 | Sponsorship: Past Sponsorship |
-| 86 (Strong) | [Graduate - Analog Mixed-Signal Design Verification Engineer](https://jobright.ai/jobs/info/6aa15f99500b01124c77c638) | Infineon Technologies | Andover, MA | 09/09/2026 13:31:05 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Test Solutions Northeast Electrical Engineer I](https://jobright.ai/jobs/info/6aa166d80ffb3d4fea6b48a6) | Raytheon | Tewksbury, MA | 09/09/2026 14:02:00 | Sponsorship: Past Sponsorship |
-| 56 (Good) | [Electronics Engineer I/II](https://jobright.ai/jobs/info/6aa173df0ffb3d4fea6b4cbe) | Micro Control Company | Arden Hills, MN | 09/09/2026 14:57:35 | Sponsorship: Past Sponsorship |
