@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-14 01:22:35Z UTC
+Updated: 2026-09-14 06:44:38Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Electrical Hardware Engineer I Graduate](https://jobright.ai/jobs/info/6aa763b642411952ff9acf46) | Hewlett Packard Enterprise | Spring, TX | 09/14/2026 04:36:59 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Associate Digital Hardware Engineer Engineer (Comms/TVI) Job Details \| Thales Defense & Security, Inc.](https://jobright.ai/jobs/info/6aa78499654b2a9424cf8dc9) | Thales Defense & Security, Inc. | Clarksburg, MD | 09/13/2026 22:22:33 | U.S. citizenship language is present; Sponsorship: No |
+| 45 (Possible) | [Associate RF Hardware Engineer (Comms) Job Details \| Thales Defense & Security, Inc.](https://jobright.ai/jobs/info/6aa784a12ed333b4ea5cb6a0) | Thales Defense & Security, Inc. | Clarksburg, MD | 09/13/2026 22:22:41 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: No |
 | 41 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa6dd5242411952ff9ac723) | AutoStore™ | Atlanta, GA | 09/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Engineer I, Reliability Engineer](https://jobright.ai/jobs/info/6a45ec704f64ba41dcb4f1c1) | Thermo Fisher Scientific | Fair Lawn, NJ | 09/13/2026 09:13:52 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a9e3ed949f4604c7894e255) | Bowman Consulting | Towson, MD | 09/12/2026 13:06:51 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-09-14 01:22:35Z UTC
 | 40 (Possible) | [Electrical Engineer Technician](https://jobright.ai/jobs/info/6aa070ee5b2d5633ef3be9e3) | Ombra | Potsdam, NY; Massena, NY | 09/08/2026 13:32:46 | U.S. citizenship language is present; Sponsorship: No |
 | 53 (Good) | [AEGS Pro Electrical Engineer I (On-Site)](https://jobright.ai/jobs/info/6aa07c393b5aa83237b097e2) | Raytheon | Tucson, AZ | 09/08/2026 21:20:57 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 66 (Good) | [Junior FPGA Engineer](https://jobright.ai/jobs/info/6aa06674a2266b538d230140) | Eagle Seven | Chicago, IL | 09/08/2026 12:48:04 | Sponsorship: Not Sure |
-| 68 (Good) | [Product Test Engineer - New College Graduate](https://jobright.ai/jobs/info/6aa07dd43b5aa83237b09906) | Cirrus Logic | Austin, TX | 09/08/2026 21:27:48 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [Reliability Engineer](https://jobright.ai/jobs/info/6aa056fc5b2d5633ef3bdfde) | Helion | Columbia, SC | 09/08/2026 18:42:04 | Sponsorship: Past Sponsorship |
-| 79 (Strong) | [Electrical Engineer -  Analog & Mixed-Signal](https://jobs.ashbyhq.com/voyant-photonics/ae08246e-3f98-4c39-91cf-bbd76e600f6a) | Voyant Photonics | New York Office (HQ) | 09/08/2026 18:25:37 |  |
