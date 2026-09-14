@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-14 19:35:29Z UTC
+Updated: 2026-09-14 22:16:31Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Electrical Engineer Entry-Level (Starting Summer 2027)](https://jobright.ai/jobs/info/6a885b8e680f314a29d3b82c) | IFAB Engineering Partners Ltd. | Springfield, MA | 09/14/2026 21:00:10 | Sponsorship: Past Sponsorship |
+| 54 (Good) | [Electrical Engineer, Test Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa8267682e82a31997c4291) | RTX | Largo, FL | 09/14/2026 21:19:21 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa8708b3a9f0a4fe6f19526) | Salas O'Brien | Orlando, FL | 09/14/2026 22:09:15 | Sponsorship: Past Sponsorship |
+| 92 (Strong) | [New College Grad - HBM SoC Design Engineer/Architect](https://jobright.ai/jobs/info/6aa86fe7a77a53f5a1579702) | Micron Technology | Folsom, CA | 09/14/2026 22:06:31 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Field Electrical Engineer](https://jobright.ai/jobs/info/6aa85bec654b2a9424cfc467) | Shermco Industries | Houston, TX | 09/14/2026 13:41:16 | Sponsorship: Not Sure |
 | 49 (Possible) | [Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer](https://jobright.ai/jobs/info/6aa847e982e82a31997c4edc) | Boeing | El Segundo, CA | 09/14/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 54 (Good) | [HW Test Development Engineer, Amazon LEO](https://jobright.ai/jobs/info/6aa838a83a9f0a4fe6f17e68) | Amazon | Redmond, WA | 09/14/2026 11:10:48 | Sponsorship: No |
 | 52 (Good) | [Entry-Level Equipment Validation Engineer](https://jobright.ai/jobs/info/6aa830c6a77a53f5a1577d7d) | Virtue America | United States | 09/14/2026 17:37:10 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-09-14 19:35:29Z UTC
 | 50 (Good) | [Electrical Engineer - New Grad (December 2026)](https://jobright.ai/jobs/info/6aa1ab1bef23570cae245864) | Applied Intuition | Sunnyvale, CA | 09/09/2026 18:53:15 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Electrical Engineer - New Grad (December 2026)](https://jobright.ai/jobs/info/6aa1a9f02f936e4a53dad5b6) | Applied Intuition | Sunnyvale, CA | 09/09/2026 18:48:16 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa1b7713272060a8e3f1aae) | Dewberry | Birmingham, AL | 09/09/2026 19:45:53 | Sponsorship: Past Sponsorship |
-| 31 (Possible) | [New College Grad - IC Package Layout Engineer](https://jobright.ai/jobs/info/6aa1b0ca0ffb3d4fea6b689f) | Micron Technology | Boise, ID | 09/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer (Entry Level – EIT)](https://jobright.ai/jobs/info/6aa19f660ffb3d4fea6b60e6) | LBE, Inc. | Moncks Corner, SC | 09/09/2026 18:03:18 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer (Entry level)](https://jobright.ai/jobs/info/6aa1a5dc3272060a8e3f13fb) | Sunrise Systems, Inc. | San Ramon, CA | 09/09/2026 18:30:52 | Sponsorship: Past Sponsorship |
-| 77 (Strong) | [Silicon Validation Engineer](https://jobright.ai/jobs/info/6aa1a655ef23570cae24555a) | Apple | Cupertino, CA | 09/09/2026 18:32:53 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer I (hybrid)](https://jobright.ai/jobs/info/6aa198472f936e4a53daccb8) | OKSI | United States | 09/09/2026 12:17:18 | Sponsorship: Past Sponsorship |
