@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-14 13:25:20Z UTC
+Updated: 2026-09-14 17:34:16Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Early Careers Electrical Engineer I (Lynchburg)](https://jobright.ai/jobs/info/6a959ab9c8763a3a87ffadf0) | Framatome North America | Lynchburg, VA | 09/14/2026 16:15:59 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Early Careers Electrical Engineer I (Richland)](https://jobright.ai/jobs/info/6a959ac04c22023a07934a18) | Framatome North America | Richland, WA | 09/14/2026 16:16:25 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aa81cda930bff471a2a5265) | Brightpath Associates LLC | Bethesda, MD | 09/14/2026 16:12:10 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aa82430654b2a9424cfaf18) | Scout Boats | Summerville, SC | 09/14/2026 16:43:28 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aa7fa91a77a53f5a157697a) | Sopra Steria | East Hartford, CT | 09/14/2026 13:45:53 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [PRODUCT ENGINEER, TESTING](https://jobright.ai/jobs/info/6a6a2dcc48355b3f12bef836) | John Deere | Grovetown, GA | 09/14/2026 09:33:39 | Sponsorship: No |
+| 42 (Possible) | [PRODUCT ENGINEER, TESTING Job Details \| John Deere](https://jobright.ai/jobs/info/6a6b4809acb0a61f9dbbff25) | John Deere | Grovetown, GA | 09/14/2026 09:33:39 | Sponsorship: No |
 | 41 (Possible) | [Examinations Infrastructure Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6aa7ec442ed333b4ea5cc5f5) | Naval Nuclear Laboratory (FMP) | Idaho Falls, ID | 08/27/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Entry Level Semiconductor Test Engineer](https://jobright.ai/jobs/info/6aa7e156930bff471a2a42fc) | Dice | Chandler, AZ | 09/14/2026 11:58:14 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6aa7abb52ed333b4ea5cbaf0) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 09/14/2026 08:09:25 | Sponsorship: Past Sponsorship |
@@ -97,10 +104,3 @@ Updated: 2026-09-14 13:25:20Z UTC
 | 86 (Strong) | [Graduate - Analog Mixed-Signal Design Verification Engineer](https://jobright.ai/jobs/info/6aa15f99500b01124c77c638) | Infineon Technologies | Andover, MA | 09/09/2026 13:31:05 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Test Solutions Northeast Electrical Engineer I](https://jobright.ai/jobs/info/6aa166d80ffb3d4fea6b48a6) | Raytheon | Tewksbury, MA | 09/09/2026 14:02:00 | Sponsorship: Past Sponsorship |
 | 56 (Good) | [Electronics Engineer I/II](https://jobright.ai/jobs/info/6aa173df0ffb3d4fea6b4cbe) | Micro Control Company | Arden Hills, MN | 09/09/2026 14:57:35 | Sponsorship: Past Sponsorship |
-| 88 (Strong) | [Design-for-Test (DFT) Engineer — ASIC Backend – (Associate, Experienced, or Lead)](https://jobright.ai/jobs/info/6aa170012f936e4a53dabae0) | Boeing | El Segundo, CA | 09/09/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 86 (Strong) | [Graduate - Analog Mixed-Signal Design Verification Engineer](https://jobright.ai/jobs/info/6aa1669def23570cae243a59) | Infineon Technologies | Andover, MA | 09/09/2026 14:01:01 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 52 (Good) | [Entry Level Digital Validation Engineer](https://jobright.ai/jobs/info/6aa1365aef23570cae242ff0) | Dice | Austin, TX | 09/09/2026 10:35:06 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Assistant Instrument & Controls Engineer- Global Facilities, Consumer & Life Solutions (Chicago)](https://jobright.ai/jobs/info/6aa091015b2d5633ef3bf687) | Burns & McDonnell | Chicago, IL | 09/08/2026 19:21:42 | Sponsorship: No |
-| 65 (Good) | [FPGA Electrical Design Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa0d101a2266b538d2324dd) | Raytheon | Tucson, AZ | 09/09/2026 03:22:41 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Antenna & Microwave Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa0d0f2a2266b538d2324d8) | Raytheon | El Segundo, CA | 09/09/2026 03:22:26 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 55 (Good) | [Junior Validation Engineer](https://jobright.ai/jobs/info/6a99d979040e5c3d0759948e) | SEGULA Technologies | Auburn Hills, MI | 09/04/2026 00:03:26 | Sponsorship: Past Sponsorship |
