@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-15 00:43:18Z UTC
+Updated: 2026-09-15 05:10:36Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Product Engineer Job Details \| John Deere](https://jobright.ai/jobs/info/6aa8c7ff6d0edc2d91b07a25) | John Deere | Fuquay-Varina, NC | 09/14/2026 21:33:24 | Sponsorship: No |
+| 42 (Possible) | [Product Engineer Job Details \| John Deere](https://jobright.ai/jobs/info/6aa631e2a77a53f5a15740b8) | John Deere | Coffeyville, KS | 09/14/2026 21:33:24 | Sponsorship: No |
+| 40 (Possible) | [Electrical Engineer (Entry)](https://jobright.ai/jobs/info/6aa89d0382e82a31997c6a9c) | Bayer | Chesterfield, MO | 09/15/2026 01:18:59 | Sponsorship: Past Sponsorship |
+| 35 (Possible) | [Design Engineer (New College Graduate)](https://jobright.ai/jobs/info/6aa8a91c4cb6b0e0b828e0ae) | Diodes Incorporated | Milpitas, CA | 09/10/2026 18:13:00 | Sponsorship: Past Sponsorship |
+| 55 (Good) | [2027 New College Graduates - Design Engineering](https://jobright.ai/jobs/info/6aa8ab1d17ddad6a8a47c774) | Silicon Labs | Austin, TX | 09/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Facilities Electrical Engineer, Entry](https://jobright.ai/jobs/info/6aa823c7930bff471a2a56d8) | Naval Nuclear Laboratory (FMP) | Idaho Falls, ID | 09/14/2026 22:41:20 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Engineer Entry-Level (Starting Summer 2027)](https://jobright.ai/jobs/info/6a885b8e680f314a29d3b82c) | IFAB Engineering Partners Ltd. | Springfield, MA | 09/14/2026 21:00:10 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Electrical Engineer, Test Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa8267682e82a31997c4291) | RTX | Largo, FL | 09/14/2026 21:19:21 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-09-15 00:43:18Z UTC
 | 48 (Possible) | [Electrical Engineer Entry Level](https://jobright.ai/jobs/info/6aa1f61b500b01124c77fd6f) | General Dynamics Mission Systems | Pittsfield, MA | 09/09/2026 22:12:56 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 32 (Possible) | [Entry-Level Systems Engineer (Digital Comm & Networks Sys Engrg)](https://jobright.ai/jobs/info/6aa1d4c4ef23570cae246743) | Boeing | El Segundo, CA | 09/09/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6aa1cef33272060a8e3f24b3) | General Dynamics | Pittsfield, MA | 09/09/2026 21:26:11 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Receiver, Exciter & Processing Architecture Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6aa1ce462f936e4a53dae3b5) | Raytheon | Tewksbury, MA | 09/09/2026 21:23:18 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6aa1dac4dbc0e60e37e13fd9) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/09/2026 22:53:02 | Sponsorship: Past Sponsorship |
-| 55 (Good) | [2027 New College Graduates - Design Engineering](https://jobright.ai/jobs/info/6aa1c63e500b01124c77ef21) | Silicon Labs | Austin, TX | 09/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Electrical Engineer - New Grad (December 2026)](https://jobright.ai/jobs/info/6aa1ab1bef23570cae245864) | Applied Intuition | Sunnyvale, CA | 09/09/2026 18:53:15 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Electrical Engineer - New Grad (December 2026)](https://jobright.ai/jobs/info/6aa1a9f02f936e4a53dad5b6) | Applied Intuition | Sunnyvale, CA | 09/09/2026 18:48:16 | Sponsorship: Past Sponsorship |
