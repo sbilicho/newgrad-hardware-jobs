@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-15 05:10:36Z UTC
+Updated: 2026-09-15 10:25:49Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 57 (Good) | [Jr Power Electronics Engineer](https://jobright.ai/jobs/info/6aa091cbdbc0e60e37e0e7b6) | ITT Inc. | Syracuse, NY | 09/15/2026 02:12:13 | Sponsorship: Not Sure |
+| 58 (Good) | [Vision Systems, Test Engineer I](https://jobright.ai/jobs/info/6aa8f38eeff87f571fc9812c) | RTX | Goleta, CA | 09/15/2026 02:19:52 | Security clearance language is present; Sponsorship: No |
 | 46 (Possible) | [Product Engineer Job Details \| John Deere](https://jobright.ai/jobs/info/6aa8c7ff6d0edc2d91b07a25) | John Deere | Fuquay-Varina, NC | 09/14/2026 21:33:24 | Sponsorship: No |
 | 42 (Possible) | [Product Engineer Job Details \| John Deere](https://jobright.ai/jobs/info/6aa631e2a77a53f5a15740b8) | John Deere | Coffeyville, KS | 09/14/2026 21:33:24 | Sponsorship: No |
 | 40 (Possible) | [Electrical Engineer (Entry)](https://jobright.ai/jobs/info/6aa89d0382e82a31997c6a9c) | Bayer | Chesterfield, MO | 09/15/2026 01:18:59 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-09-15 05:10:36Z UTC
 | 48 (Possible) | [FPGA Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6aa1ce452f936e4a53dae3b2) | Raytheon | Fort Wayne, IN | 09/09/2026 14:23:17 | Security clearance language is present; Sponsorship: No |
 | 50 (Good) | [Automation Manufacturing Test Engineer I](https://jobright.ai/jobs/info/6aa1d01d2f936e4a53dae432) | Honeywell Aerospace | Redmond, WA | 09/09/2026 14:31:09 | Sponsorship: No |
 | 48 (Possible) | [Electrical Engineer Entry Level](https://jobright.ai/jobs/info/6aa1f61b500b01124c77fd6f) | General Dynamics Mission Systems | Pittsfield, MA | 09/09/2026 22:12:56 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 32 (Possible) | [Entry-Level Systems Engineer (Digital Comm & Networks Sys Engrg)](https://jobright.ai/jobs/info/6aa1d4c4ef23570cae246743) | Boeing | El Segundo, CA | 09/09/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6aa1cef33272060a8e3f24b3) | General Dynamics | Pittsfield, MA | 09/09/2026 21:26:11 | Security clearance language is present; Sponsorship: Past Sponsorship |
