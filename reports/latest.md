@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-14 22:16:31Z UTC
+Updated: 2026-09-15 00:43:18Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Facilities Electrical Engineer, Entry](https://jobright.ai/jobs/info/6aa823c7930bff471a2a56d8) | Naval Nuclear Laboratory (FMP) | Idaho Falls, ID | 09/14/2026 22:41:20 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Engineer Entry-Level (Starting Summer 2027)](https://jobright.ai/jobs/info/6a885b8e680f314a29d3b82c) | IFAB Engineering Partners Ltd. | Springfield, MA | 09/14/2026 21:00:10 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Electrical Engineer, Test Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa8267682e82a31997c4291) | RTX | Largo, FL | 09/14/2026 21:19:21 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa8708b3a9f0a4fe6f19526) | Salas O'Brien | Orlando, FL | 09/14/2026 22:09:15 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-09-14 22:16:31Z UTC
 | 55 (Good) | [2027 New College Graduates - Design Engineering](https://jobright.ai/jobs/info/6aa1c63e500b01124c77ef21) | Silicon Labs | Austin, TX | 09/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Electrical Engineer - New Grad (December 2026)](https://jobright.ai/jobs/info/6aa1ab1bef23570cae245864) | Applied Intuition | Sunnyvale, CA | 09/09/2026 18:53:15 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Electrical Engineer - New Grad (December 2026)](https://jobright.ai/jobs/info/6aa1a9f02f936e4a53dad5b6) | Applied Intuition | Sunnyvale, CA | 09/09/2026 18:48:16 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa1b7713272060a8e3f1aae) | Dewberry | Birmingham, AL | 09/09/2026 19:45:53 | Sponsorship: Past Sponsorship |
