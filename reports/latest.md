@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-15 15:13:14Z UTC
+Updated: 2026-09-15 19:05:00Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry-Level Substation Electrical Engineer](https://jobright.ai/jobs/info/6aa966cb28e24cb38513a300) | WSP | Maitland, FL | 09/15/2026 15:39:55 | Sponsorship: Past Sponsorship |
+| 51 (Good) | [Entry Level Electrical Reliability Engineer](https://jobright.ai/jobs/info/6aa990e009ae03adcacddaf2) | Olin | Charleston, TN | 09/15/2026 18:39:28 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6aa968433387a3d9b67d4f23) | Fresenius Kabi USA | Grand Island, NY | 09/15/2026 10:09:05 | Sponsorship: Not Sure |
 | 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6aa93d8910b1cd4f41604fa1) | Brightpath Associates LLC | Maryland State | 09/15/2026 12:43:53 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Associate Test Engineer](https://jobright.ai/jobs/info/6a96c7add13b4819f39dcf30) | SGS | Oklahoma City, OK | 09/15/2026 06:17:58 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa9316028e24cb3851392f9) | Scientific Research Corporation | Jacksonville, FL | 09/15/2026 11:52:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-09-15 15:13:14Z UTC
 | 48 (Possible) | [Electrical/Controls Engineer I/II](https://jobright.ai/jobs/info/6aa37d7de38fb65a7df5375c) | TP Engineering Services | Poway, CA | 09/10/2026 22:47:28 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Test Engineer- Entry Level (No C2C)](https://jobright.ai/jobs/info/6aa3829ac5a856ac7e339a79) | HRU Technical Resources | Sterling Heights, MI | 09/10/2026 17:48:10 | Sponsorship: Past Sponsorship |
 | 85 (Strong) | [Digital Hardware Design Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6aa3843f5c11cce360364740) | RTX | El Segundo, CA | 09/10/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 83 (Strong) | [ASIC Design Verification Engineer](https://jobright.ai/jobs/info/6aa1beaf0ffb3d4fea6b6cdc) | Qualcomm | Santa Clara, CA | 09/10/2026 14:18:12 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Hardware Engineer](https://jobright.ai/jobs/info/6a594fc6686b4755d1e0fc3e) | Arlo Technologies, Inc. | Carlsbad, CA | 09/10/2026 06:37:15 | Sponsorship: Not Sure |
-| 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6aa2880189c0049f1182c1c2) | John Crane | Port Arthur, TX | 09/02/2026 20:52:42 | Sponsorship: Past Sponsorship |
