@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-15 19:05:00Z UTC
+Updated: 2026-09-15 22:13:17Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa99ec809ae03adcacde2eb) | Rocket Lab | Long Beach, CA | 09/15/2026 19:38:48 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 51 (Good) | [Electrical Engineer, Space Emerging Talent](https://boards.greenhouse.io/andurilindustries/jobs/5236639007?gh_jid=5236639007) | Anduril Industries | Costa Mesa, California, United States | 09/15/2026 19:17:08 | Full-time status is inferred from the first-party posting |
 | 37 (Possible) | [Entry-Level Substation Electrical Engineer](https://jobright.ai/jobs/info/6aa966cb28e24cb38513a300) | WSP | Maitland, FL | 09/15/2026 15:39:55 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Entry Level Electrical Reliability Engineer](https://jobright.ai/jobs/info/6aa990e009ae03adcacddaf2) | Olin | Charleston, TN | 09/15/2026 18:39:28 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6aa968433387a3d9b67d4f23) | Fresenius Kabi USA | Grand Island, NY | 09/15/2026 10:09:05 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-09-15 19:05:00Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa37f7d4238ea18d430c001) | CRB | Irvine, CA | 09/10/2026 07:37:41 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [RF/Microwave Electrical Engineer I - Production Support (Onsite)](https://jobright.ai/jobs/info/6aa37d1083233ca167c8af27) | Raytheon | El Segundo, CA | 09/10/2026 21:20:19 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical/Controls Engineer I/II](https://jobright.ai/jobs/info/6aa37d7de38fb65a7df5375c) | TP Engineering Services | Poway, CA | 09/10/2026 22:47:28 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Test Engineer- Entry Level (No C2C)](https://jobright.ai/jobs/info/6aa3829ac5a856ac7e339a79) | HRU Technical Resources | Sterling Heights, MI | 09/10/2026 17:48:10 | Sponsorship: Past Sponsorship |
-| 85 (Strong) | [Digital Hardware Design Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6aa3843f5c11cce360364740) | RTX | El Segundo, CA | 09/10/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
