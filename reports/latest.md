@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-15 10:25:49Z UTC
+Updated: 2026-09-15 12:34:05Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa9316028e24cb3851392f9) | Scientific Research Corporation | Jacksonville, FL | 09/15/2026 11:52:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6a8c76c5581f2d7bfdfe3c0e) | LaBella Associates | Albany, NY; Poughkeepsie, NY | 09/15/2026 02:53:50 | Sponsorship: Not Sure |
+| 56 (Good) | [Application Validation Engineer](https://jobright.ai/jobs/info/6a6985cf436a9228dd005bba) | Supermicro | San Jose, CA | 09/15/2026 03:20:50 | Sponsorship: Not Sure |
+| 37 (Possible) | [Electrical Engineer 1 Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6aa2002e2f936e4a53daf22d) | Westinghouse Electric Company | Rock Hill, SC | 09/15/2026 03:58:19 | U.S. citizenship language is present; Sponsorship: No |
 | 57 (Good) | [Jr Power Electronics Engineer](https://jobright.ai/jobs/info/6aa091cbdbc0e60e37e0e7b6) | ITT Inc. | Syracuse, NY | 09/15/2026 02:12:13 | Sponsorship: Not Sure |
 | 58 (Good) | [Vision Systems, Test Engineer I](https://jobright.ai/jobs/info/6aa8f38eeff87f571fc9812c) | RTX | Goleta, CA | 09/15/2026 02:19:52 | Security clearance language is present; Sponsorship: No |
 | 46 (Possible) | [Product Engineer Job Details \| John Deere](https://jobright.ai/jobs/info/6aa8c7ff6d0edc2d91b07a25) | John Deere | Fuquay-Varina, NC | 09/14/2026 21:33:24 | Sponsorship: No |
@@ -100,7 +104,3 @@ Updated: 2026-09-15 10:25:49Z UTC
 | 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6aa2880189c0049f1182c1c2) | John Crane | Port Arthur, TX | 09/02/2026 20:52:42 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6aa23e94a841402ec45aca82) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/09/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Launch Reliability Engineer](https://jobright.ai/jobs/info/6aa1f502500b01124c77fcec) | SpaceX | Vandenberg Space Force Base, CA | 09/09/2026 18:54:51 | Sponsorship: No |
-| 45 (Possible) | [Test Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa1cdcb2f936e4a53dae38b) | Collins Aerospace | Jamestown, ND | 09/09/2026 14:21:15 | Sponsorship: No |
-| 48 (Possible) | [FPGA Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6aa1ce452f936e4a53dae3b2) | Raytheon | Fort Wayne, IN | 09/09/2026 14:23:17 | Security clearance language is present; Sponsorship: No |
-| 50 (Good) | [Automation Manufacturing Test Engineer I](https://jobright.ai/jobs/info/6aa1d01d2f936e4a53dae432) | Honeywell Aerospace | Redmond, WA | 09/09/2026 14:31:09 | Sponsorship: No |
-| 48 (Possible) | [Electrical Engineer Entry Level](https://jobright.ai/jobs/info/6aa1f61b500b01124c77fd6f) | General Dynamics Mission Systems | Pittsfield, MA | 09/09/2026 22:12:56 | Security clearance language is present; Sponsorship: Past Sponsorship |
