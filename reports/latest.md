@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-15 12:34:05Z UTC
+Updated: 2026-09-15 15:13:14Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6aa93d8910b1cd4f41604fa1) | Brightpath Associates LLC | Maryland State | 09/15/2026 12:43:53 | Sponsorship: Past Sponsorship |
+| 54 (Good) | [Associate Test Engineer](https://jobright.ai/jobs/info/6a96c7add13b4819f39dcf30) | SGS | Oklahoma City, OK | 09/15/2026 06:17:58 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa9316028e24cb3851392f9) | Scientific Research Corporation | Jacksonville, FL | 09/15/2026 11:52:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6a8c76c5581f2d7bfdfe3c0e) | LaBella Associates | Albany, NY; Poughkeepsie, NY | 09/15/2026 02:53:50 | Sponsorship: Not Sure |
 | 56 (Good) | [Application Validation Engineer](https://jobright.ai/jobs/info/6a6985cf436a9228dd005bba) | Supermicro | San Jose, CA | 09/15/2026 03:20:50 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-09-15 12:34:05Z UTC
 | 83 (Strong) | [ASIC Design Verification Engineer](https://jobright.ai/jobs/info/6aa1beaf0ffb3d4fea6b6cdc) | Qualcomm | Santa Clara, CA | 09/10/2026 14:18:12 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Hardware Engineer](https://jobright.ai/jobs/info/6a594fc6686b4755d1e0fc3e) | Arlo Technologies, Inc. | Carlsbad, CA | 09/10/2026 06:37:15 | Sponsorship: Not Sure |
 | 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6aa2880189c0049f1182c1c2) | John Crane | Port Arthur, TX | 09/02/2026 20:52:42 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6aa23e94a841402ec45aca82) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/09/2026 05:00:00 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [Launch Reliability Engineer](https://jobright.ai/jobs/info/6aa1f502500b01124c77fcec) | SpaceX | Vandenberg Space Force Base, CA | 09/09/2026 18:54:51 | Sponsorship: No |
