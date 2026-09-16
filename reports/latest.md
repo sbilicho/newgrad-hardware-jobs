@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-16 02:19:08Z UTC
+Updated: 2026-09-16 05:13:01Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 72 (Strong) | [Entry-Level Electrical Hardware Engineer – FPGA, Networking & Cybersecurity](https://jobright.ai/jobs/info/6aaa0e083387a3d9b67d8e23) | General Dynamics | Pittsfield, MA | 09/15/2026 12:56:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Vision Systems Test Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa9e91c3387a3d9b67d7ddb) | RTX | Goleta, CA | 09/15/2026 20:19:39 | Security clearance language is present; Sponsorship: No |
+| 63 (Good) | [Hardware Test Engineer](https://jobright.ai/jobs/info/6aa9c8f710b1cd4f41607e49) | Cisco | Carlsbad, CA | 09/15/2026 20:52:12 | Sponsorship: Not Sure |
 | 72 (Strong) | [Entry-Level Electrical Hardware Engineer – FPGA, Networking & Cybersecurity](https://jobright.ai/jobs/info/6aa9fa01eff87f571fc9cdc7) | General Dynamics Mission Systems | Pittsfield, MA | 09/15/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Hardware Engineer, Entry Level](https://jobright.ai/jobs/info/6aa9f79828e24cb38513d944) | BurnBot | South San Francisco, CA | 09/15/2026 17:04:30 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa9e3d310b1cd4f41608a0c) | Humphrey Products | Kalamazoo, MI | 09/16/2026 00:33:23 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-09-16 02:19:08Z UTC
 | 44 (Possible) | [RF Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa3d10d4238ea18d430e820) | Raytheon | El Segundo, CA | 09/10/2026 21:19:41 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6aa3b89d4238ea18d430db3c) | Applied Medical | Rancho Santa Margarita, CA | 09/10/2026 21:07:48 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6aa3c1b84233a2201a2b3654) | General Dynamics Mission Systems | Pittsfield, MA | 09/09/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aa3ae754233a2201a2b2dbd) | PAE | Seattle, WA | 09/10/2026 02:48:01 | Sponsorship: Past Sponsorship |
-| 85 (Strong) | [Digital Hardware Design Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6aa3bed55c11cce360366115) | RTX | El Segundo, CA | 09/10/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 85 (Strong) | [Digital Hardware Design Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6aa3c4c95c11cce3603664c5) | Raytheon | El Segundo, CA | 09/10/2026 21:19:06 | Security clearance language is present; Sponsorship: Past Sponsorship |
