@@ -1,9 +1,17 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-16 18:46:29Z UTC
+Updated: 2026-09-16 21:47:01Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Physical Electrical Engineer I](https://jobright.ai/jobs/info/6aaae44476707040fb082e5f) | Minnesota Power | Duluth, MN | 09/16/2026 18:47:32 | Sponsorship: Past Sponsorship |
+| 71 (Strong) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aab022ac85610f4a4843032) | Raytheon | McKinney, TX | 09/16/2026 21:20:06 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6aab0b668e1bf0f764af81e3) | Hurst Electric | Euless, TX | 09/16/2026 21:34:30 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [Post-silicon Validation and Debug Engineer](https://jobright.ai/jobs/info/6aaaf2f576707040fb0833d2) | Intel | Hillsboro, OR | 09/16/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 55 (Good) | [Hardware Engineer I (Full Time) - United States](https://jobright.ai/jobs/info/6aaaf09376707040fb083332) | Cisco | San Jose, CA | 09/16/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 56 (Good) | [Hardware Validation Engineer, NPD Hardware](https://jobright.ai/jobs/info/6aaaf92f76707040fb083530) | Amazon | Cupertino, CA | 09/16/2026 13:16:47 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Physical Electrical Engineer I](https://jobright.ai/jobs/info/6aaafeb54be87a72913a2920) | ALLETE | Duluth, MN | 09/16/2026 13:40:21 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer- Submarine RF, Sensor & Hardware Systems](https://jobright.ai/jobs/info/6aab01ed4be87a72913a2b22) | STC, an Arcfield Company | Middletown, RI | 09/16/2026 13:54:05 | Sponsorship: No |
 | 66 (Good) | [Firmware Engineer, Space (Emerging Talent)](https://boards.greenhouse.io/andurilindustries/jobs/5239596007?gh_jid=5239596007) | Anduril Industries | Costa Mesa, California, United States | 09/16/2026 18:30:31 | Security clearance language is present; Full-time status is inferred from the first-party posting |
 | 30 (Possible) | [December 2026 New Graduate Engineer, Software / GNC](https://jobright.ai/jobs/info/6a9831c2def18223c854de48) | Mach Industries | Huntington Beach, CA | 09/16/2026 15:25:25 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer (EE1)](https://jobright.ai/jobs/info/6aaad03df6bd9d2d17c19b2f) | NCS ENGINEERS | Phoenix, AZ | 09/16/2026 17:22:05 | Sponsorship: Past Sponsorship |
@@ -96,11 +104,3 @@ Updated: 2026-09-16 18:46:29Z UTC
 | 47 (Possible) | [Test Engineer - Haircare](https://jobright.ai/jobs/info/6a91ae7ad18f756748279536) | SharkNinja | Needham, MA | 09/11/2026 10:05:14 | Sponsorship: Not Sure |
 | 42 (Possible) | [Test Engineer - Indoor Heated](https://jobright.ai/jobs/info/6a99bf62138838706059008c) | SharkNinja | Needham, MA | 09/11/2026 10:09:28 | Sponsorship: Not Sure |
 | 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa430abf7baf881567cdb13) | RTX | Bellevue, IA | 09/11/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I - Kestrel](https://jobright.ai/jobs/info/6aa4325e8275e3a21175f5a5) | ENTRUST Solutions Group | United States | 09/11/2026 16:54:54 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Electrical Engineer - HYBRID SCHEDULE](https://jobright.ai/jobs/info/6aa432cd1d92e2d05d113c3a) | Case Engineering | Fenton, MO | 09/11/2026 14:51:48 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6aa42fdef3aa936e2cdb026e) | Haag, a Salas O'Brien Company | Laconia, NH | 09/11/2026 14:32:34 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6aa42f7e1d92e2d05d113b77) | Salas O'Brien | Laconia, NH | 09/11/2026 14:32:34 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aa3fab8f3aa936e2cdaf181) | Brightpath Associates LLC | Bethesda, MD | 09/11/2026 12:57:28 | Sponsorship: Past Sponsorship |
-| 74 (Strong) | [Junior CPU Verification Engineer](https://jobright.ai/jobs/info/6aa3df96c1928370a285af96) | Intel | Hillsboro, OR | 09/11/2026 03:29:40 | Sponsorship: Past Sponsorship |
-| 58 (Good) | [Entry-Level Test Engineer](https://jobright.ai/jobs/info/6aa40887422289703bd64c08) | Dice | Huntsville, AL | 09/11/2026 13:56:23 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa3e507c1928370a285b1f8) | McClure Engineering-St. Louis (MEP) | St. Louis, MO | 09/10/2026 05:00:00 | Sponsorship: Past Sponsorship |
