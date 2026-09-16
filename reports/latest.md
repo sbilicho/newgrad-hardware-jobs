@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-16 10:01:40Z UTC
+Updated: 2026-09-16 14:54:52Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 49 (Possible) | [Electrical Engineer I - Test](https://jobright.ai/jobs/info/6aaaa01440807b73bd390fa3) | RTX | Tucson, AZ | 09/16/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 51 (Good) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6a97eae6c8ed473c5c76190d) | Textron | Cockeysville, MD | 09/16/2026 11:15:49 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Lead Electrical Engineer I](https://jobright.ai/jobs/info/6aaa7036f6bd9d2d17c17db8) | EnerSys | Commack, NY | 09/16/2026 10:32:22 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aaa8984c85610f4a48405d3) | Donohue & Associates, Inc. | Indianapolis, IN | 09/16/2026 12:20:20 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aaa80f34be87a729139ff43) | Donohue & Associates, Inc. | Indianapolis, IN | 09/16/2026 11:43:47 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [Entry-Level Electrical Hardware Engineer – FPGA, Networking & Cybersecurity](https://jobright.ai/jobs/info/6aaa0e083387a3d9b67d8e23) | General Dynamics | Pittsfield, MA | 09/15/2026 12:56:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Vision Systems Test Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa9e91c3387a3d9b67d7ddb) | RTX | Goleta, CA | 09/15/2026 20:19:39 | Security clearance language is present; Sponsorship: No |
 | 63 (Good) | [Hardware Test Engineer](https://jobright.ai/jobs/info/6aa9c8f710b1cd4f41607e49) | Cisco | Carlsbad, CA | 09/15/2026 20:52:12 | Sponsorship: Not Sure |
@@ -99,8 +104,3 @@ Updated: 2026-09-16 10:01:40Z UTC
 | 77 (Strong) | [FAST Lab – Entry Level FPGA Engineer](https://jobright.ai/jobs/info/6aa3d74a422289703bd63858) | BAE Systems | Merrimack, NH | 09/11/2026 07:59:06 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 77 (Strong) | [Entry Level - Wireless EF Design & Validation Engineer](https://jobright.ai/jobs/info/6aa3e3d28275e3a21175dbf6) | General Motors | Warren, MI | 09/10/2026 21:38:17 | Sponsorship: Past Sponsorship |
 | 74 (Strong) | [Junior CPU Verification Engineer](https://jobright.ai/jobs/info/6aa3c0ef959a10d7230d3c3c) | Intel | Austin, TX | 09/11/2026 03:43:17 | Sponsorship: Past Sponsorship |
-| 60 (Good) | [Early Career - Validation Engineer, Vehicle Hardware](https://jobright.ai/jobs/info/6a7310526a034212ea025a44) | Rivian | Irvine, CA | 09/11/2026 10:31:01 | Sponsorship: Past Sponsorship |
-| 34 (Possible) | [AI GPU Power Architect - New College Grad 2026](https://jobright.ai/jobs/info/6aa3e07af3aa936e2cdae607) | NVIDIA AI | Santa Clara, CA | 09/11/2026 06:30:33 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [RF Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa3d10d4238ea18d430e820) | Raytheon | El Segundo, CA | 09/10/2026 21:19:41 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6aa3b89d4238ea18d430db3c) | Applied Medical | Rancho Santa Margarita, CA | 09/10/2026 21:07:48 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6aa3c1b84233a2201a2b3654) | General Dynamics Mission Systems | Pittsfield, MA | 09/09/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
