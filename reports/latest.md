@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-16 01:19:02Z UTC
+Updated: 2026-09-16 02:19:08Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 72 (Strong) | [Entry-Level Electrical Hardware Engineer – FPGA, Networking & Cybersecurity](https://jobright.ai/jobs/info/6aa9fa01eff87f571fc9cdc7) | General Dynamics Mission Systems | Pittsfield, MA | 09/15/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Hardware Engineer, Entry Level](https://jobright.ai/jobs/info/6aa9f79828e24cb38513d944) | BurnBot | South San Francisco, CA | 09/15/2026 17:04:30 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa9e3d310b1cd4f41608a0c) | Humphrey Products | Kalamazoo, MI | 09/16/2026 00:33:23 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6aa9e57728e24cb38513d17c) | Concord Engineering Group, Inc. | Bellevue, WA | 09/16/2026 00:40:23 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aa9e02509ae03adcacdfe9c) | Snap Inc. | Los Angeles, CA | 09/15/2026 17:17:41 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-09-16 01:19:02Z UTC
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aa3ae754233a2201a2b2dbd) | PAE | Seattle, WA | 09/10/2026 02:48:01 | Sponsorship: Past Sponsorship |
 | 85 (Strong) | [Digital Hardware Design Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6aa3bed55c11cce360366115) | RTX | El Segundo, CA | 09/10/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 85 (Strong) | [Digital Hardware Design Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6aa3c4c95c11cce3603664c5) | Raytheon | El Segundo, CA | 09/10/2026 21:19:06 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 86 (Strong) | [ASIC Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6aa3d109626f9945308b37bc) | NVIDIA AI | Santa Clara, CA | 09/11/2026 06:18:13 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6aa39fc5c5a856ac7e33a83f) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 09/10/2026 19:42:34 | Sponsorship: Past Sponsorship |
