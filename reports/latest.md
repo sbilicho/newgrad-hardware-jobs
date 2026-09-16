@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-16 00:28:35Z UTC
+Updated: 2026-09-16 01:19:02Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa9e3d310b1cd4f41608a0c) | Humphrey Products | Kalamazoo, MI | 09/16/2026 00:33:23 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6aa9e57728e24cb38513d17c) | Concord Engineering Group, Inc. | Bellevue, WA | 09/16/2026 00:40:23 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aa9e02509ae03adcacdfe9c) | Snap Inc. | Los Angeles, CA | 09/15/2026 17:17:41 | Sponsorship: Not Sure |
 | 47 (Possible) | [Recent College Graduate Validation Engineer](https://jobright.ai/jobs/info/6aa9cb3b3387a3d9b67d6f9a) | Valspec | Royersford, PA | 09/15/2026 20:32:48 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [Entry-Level Electrical Hardware Engineer FPGA, Networking & Cybersecurity](https://jobright.ai/jobs/info/6aa9dead6d0edc2d91b0c235) | General Dynamics Mission Systems | Pittsfield, MA | 09/15/2026 21:45:35 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aa9ca8ceff87f571fc9b968) | West Coast Magnetics | Stockton, CA | 09/15/2026 15:45:32 | Sponsorship: Not Sure |
@@ -101,6 +104,3 @@ Updated: 2026-09-16 00:28:35Z UTC
 | 85 (Strong) | [Digital Hardware Design Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6aa3c4c95c11cce3603664c5) | Raytheon | El Segundo, CA | 09/10/2026 21:19:06 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 86 (Strong) | [ASIC Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6aa3d109626f9945308b37bc) | NVIDIA AI | Santa Clara, CA | 09/11/2026 06:18:13 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6aa39fc5c5a856ac7e33a83f) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 09/10/2026 19:42:34 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa3a0624233a2201a2b281a) | McClure Engineering-St. Louis (MEP) | St. Louis, MO | 09/10/2026 11:45:46 | Sponsorship: Past Sponsorship |
-| 85 (Strong) | [ASIC & FPGA Design Engineer Asc - Entry Level](https://jobright.ai/jobs/info/6aa39aa7959a10d7230d2af3) | Lockheed Martin | Highlands Ranch, CO | 09/10/2026 17:01:22 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 47 (Possible) | [2026 Associate Thermal Test Engineer/ Thermal Test Engineer](https://jobright.ai/jobs/info/6aa1bddaef23570cae245e2e) | Northrop Grumman | Redondo Beach, CA | 09/10/2026 21:12:02 | Security clearance language is present; Sponsorship: No |
