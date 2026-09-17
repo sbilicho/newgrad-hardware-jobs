@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-17 09:08:22Z UTC
+Updated: 2026-09-17 14:08:33Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6aa9433310b1cd4f41605178) | General Dynamics Mission Systems | Arizona State | 09/17/2026 09:51:27 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [Junior Post-Silicon Validation Engineer](https://jobright.ai/jobs/info/6aabefbf3d96632d741a8401) | Movellus Inc. | Ann Arbor, MI | 09/17/2026 13:48:47 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aabc3170d36a75ba5bb0f94) | Dice | East Hartford, CT | 09/17/2026 10:38:15 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6aaba3c0c85610f4a4845023) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 09/17/2026 08:24:32 | Sponsorship: Past Sponsorship |
 | 64 (Good) | [Firmware Engineer](https://jobs.ashbyhq.com/etched/a735c757-7d39-47de-9329-77d6362b5547) | Etched | Austin | 05/12/2026 02:18:10 |  |
 | 48 (Possible) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6aab9acf455e4265cc3478c5) | General Dynamics | Pittsfield, MA | 09/17/2026 02:36:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-09-17 09:08:22Z UTC
 | 58 (Good) | [Entry-Level Test Engineer](https://jobright.ai/jobs/info/6aa55e8b42411952ff9a8689) | Dice | Huntsville, AL | 09/12/2026 14:15:39 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6aa55162a77a53f5a1570a8e) | Dice | Pittsfield, MA | 09/12/2026 13:19:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa4ffce930bff471a29c7a8) | Jacobs | Austin, TX | 09/11/2026 05:00:00 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [ELECTRICAL ENGINEER I](https://jobright.ai/jobs/info/6aa51dde42411952ff9a723b) | SharkNinja France | Needham, MA | 09/12/2026 00:04:26 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa4e10b2ed333b4ea5c46bc) | BlueWave | Boston, MA | 09/11/2026 19:23:26 | Sponsorship: Past Sponsorship |
-| 55 (Good) | [Entry Level Semiconductor Test Engineer](https://jobright.ai/jobs/info/6aa4a052422289703bd6758e) | NXP Semiconductors | Chandler, AZ | 09/11/2026 00:00:00 | Sponsorship: Past Sponsorship |
