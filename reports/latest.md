@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-16 23:48:59Z UTC
+Updated: 2026-09-17 00:49:09Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aa9c5693387a3d9b67d6d01) | Brindley Engineering Corporation | Lisle, IL | 09/16/2026 16:51:36 | Sponsorship: Not Sure |
 | 37 (Possible) | [Submarine Power Plant Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6aa780ae82e82a31997c1fa8) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/16/2026 22:40:53 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Associate Electrical Engineer](https://jobright.ai/jobs/info/6a9880c711f73b6462c8ef77) | Ramboll | Los Angeles, CA; Valhalla, NY; Binghamton, NY; Syracuse, NY; Charlotte, NC | 09/16/2026 14:27:50 | Sponsorship: No |
 | 40 (Possible) | [Physical Electrical Engineer I](https://jobright.ai/jobs/info/6aaae44476707040fb082e5f) | Minnesota Power | Duluth, MN | 09/16/2026 18:47:32 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-09-16 23:48:59Z UTC
 | 48 (Possible) | [Electrical/Controls Engineer I/II](https://jobright.ai/jobs/info/6aa4576b8275e3a21175ffaf) | TP Engineering Services | Poway, CA | 09/11/2026 17:30:04 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Entry Level Semiconductor Test Engineer](https://jobright.ai/jobs/info/6aa466b3f3aa936e2cdb11fc) | NXP Semiconductors | Chandler, AZ | 09/11/2026 20:38:11 | Sponsorship: Past Sponsorship |
 | 35 (Possible) | [Design Engineer (New College Graduate)](https://jobright.ai/jobs/info/6aa443b2f7baf881567ce184) | Diodes Incorporated | Milpitas, CA | 09/11/2026 00:52:35 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Test Engineer - Haircare](https://jobright.ai/jobs/info/6a91ae7ad18f756748279536) | SharkNinja | Needham, MA | 09/11/2026 10:05:14 | Sponsorship: Not Sure |
