@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-17 18:30:41Z UTC
+Updated: 2026-09-17 21:44:36Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aac44973d96632d741aa1f8) | Ciorba Group, Inc. | Greater Chicago Area | 09/17/2026 19:50:47 | Sponsorship: Past Sponsorship |
+| 95 (Strong) | [New College Grad - Engineer, ASIC Digital Design](https://jobright.ai/jobs/info/6aac3cc13e3ce93970c7c7ea) | Micron Technology | Minneapolis, MN | 09/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 65 (Good) | [Entry-Level FPGA Design Engineer](https://jobright.ai/jobs/info/6aac396d3e3ce93970c7c6ee) | Space Dynamics Laboratory | North Logan, UT | 09/17/2026 19:03:09 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aab714d8e1bf0f764af98f8) | PAE | Denver, CO | 09/17/2026 04:49:17 | Sponsorship: Past Sponsorship |
 | 36 (Possible) | [Embedded Software Engineer – Entry Level](https://jobright.ai/jobs/info/6aac0ee9636cddf7396f1f0f) | General Dynamics | Boise, ID | 09/17/2026 10:30:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 36 (Possible) | [Embedded Software Engineer Entry Level](https://jobright.ai/jobs/info/6aac0e783d96632d741a8def) | General Dynamics Mission Systems | Boise, ID | 09/17/2026 15:59:52 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-09-17 18:30:41Z UTC
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6aa7abb52ed333b4ea5cbaf0) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 09/14/2026 08:09:25 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Hardware Engineer I Graduate](https://jobright.ai/jobs/info/6aa763b642411952ff9acf46) | Hewlett Packard Enterprise | Spring, TX | 09/14/2026 04:36:59 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Associate Digital Hardware Engineer Engineer (Comms/TVI) Job Details \| Thales Defense & Security, Inc.](https://jobright.ai/jobs/info/6aa78499654b2a9424cf8dc9) | Thales Defense & Security, Inc. | Clarksburg, MD | 09/13/2026 22:22:33 | U.S. citizenship language is present; Sponsorship: No |
-| 45 (Possible) | [Associate RF Hardware Engineer (Comms) Job Details \| Thales Defense & Security, Inc.](https://jobright.ai/jobs/info/6aa784a12ed333b4ea5cb6a0) | Thales Defense & Security, Inc. | Clarksburg, MD | 09/13/2026 22:22:41 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: No |
-| 41 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa6dd5242411952ff9ac723) | AutoStore™ | Atlanta, GA | 09/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Engineer I, Reliability Engineer](https://jobright.ai/jobs/info/6a45ec704f64ba41dcb4f1c1) | Thermo Fisher Scientific | Fair Lawn, NJ | 09/13/2026 09:13:52 | Sponsorship: No |
