@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-17 17:10:08Z UTC
+Updated: 2026-09-17 18:30:41Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aab714d8e1bf0f764af98f8) | PAE | Denver, CO | 09/17/2026 04:49:17 | Sponsorship: Past Sponsorship |
 | 36 (Possible) | [Embedded Software Engineer – Entry Level](https://jobright.ai/jobs/info/6aac0ee9636cddf7396f1f0f) | General Dynamics | Boise, ID | 09/17/2026 10:30:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 36 (Possible) | [Embedded Software Engineer Entry Level](https://jobright.ai/jobs/info/6aac0e783d96632d741a8def) | General Dynamics Mission Systems | Boise, ID | 09/17/2026 15:59:52 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aac18493e3ce93970c7b9f0) | Twenty-Six Defense | Merrimack, NH | 09/17/2026 05:00:00 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-09-17 17:10:08Z UTC
 | 45 (Possible) | [Associate RF Hardware Engineer (Comms) Job Details \| Thales Defense & Security, Inc.](https://jobright.ai/jobs/info/6aa784a12ed333b4ea5cb6a0) | Thales Defense & Security, Inc. | Clarksburg, MD | 09/13/2026 22:22:41 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: No |
 | 41 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa6dd5242411952ff9ac723) | AutoStore™ | Atlanta, GA | 09/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Engineer I, Reliability Engineer](https://jobright.ai/jobs/info/6a45ec704f64ba41dcb4f1c1) | Thermo Fisher Scientific | Fair Lawn, NJ | 09/13/2026 09:13:52 | Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a9e3ed949f4604c7894e255) | Bowman Consulting | Towson, MD | 09/12/2026 13:06:51 | Sponsorship: Past Sponsorship |
