@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-17 04:24:17Z UTC
+Updated: 2026-09-17 09:08:22Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6aaba3c0c85610f4a4845023) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 09/17/2026 08:24:32 | Sponsorship: Past Sponsorship |
+| 64 (Good) | [Firmware Engineer](https://jobs.ashbyhq.com/etched/a735c757-7d39-47de-9329-77d6362b5547) | Etched | Austin | 05/12/2026 02:18:10 |  |
+| 48 (Possible) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6aab9acf455e4265cc3478c5) | General Dynamics | Pittsfield, MA | 09/17/2026 02:36:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aab8dbc8e1bf0f764af9bc8) | PAE | Portland, OR | 09/17/2026 06:50:36 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Assistant Electrical Engineer, Water - Municipal (Denver)](https://jobright.ai/jobs/info/6a99036283fc633357632c50) | Burns & McDonnell | Denver, CO | 09/16/2026 23:50:29 | Sponsorship: No |
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aab5548f6bd9d2d17c1c44f) | PAE | Culver City, CA | 09/17/2026 04:16:18 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aab5510c85610f4a484465a) | PAE | New York, NY | 09/16/2026 19:48:48 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aab5515c85610f4a484465b) | PAE | Boston, MA | 09/16/2026 19:48:53 | Sponsorship: Not Sure |
@@ -99,8 +104,3 @@ Updated: 2026-09-17 04:24:17Z UTC
 | 45 (Possible) | [ELECTRICAL ENGINEER I](https://jobright.ai/jobs/info/6aa51dde42411952ff9a723b) | SharkNinja France | Needham, MA | 09/12/2026 00:04:26 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa4e10b2ed333b4ea5c46bc) | BlueWave | Boston, MA | 09/11/2026 19:23:26 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Entry Level Semiconductor Test Engineer](https://jobright.ai/jobs/info/6aa4a052422289703bd6758e) | NXP Semiconductors | Chandler, AZ | 09/11/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa4782fc1928370a285e105) | SharkNinja | Needham, MA | 09/11/2026 18:44:14 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Embedded Software Test Engineer Graduate](https://jobright.ai/jobs/info/6aa47432422289703bd66a99) | Hewlett Packard Enterprise | Spring, TX | 09/11/2026 22:37:07 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Entry-Level Manufacturing Controls/Electrical Engineer](https://jobright.ai/jobs/info/6aa46e19f3aa936e2cdb1379) | General Motors | Defiance, OH | 09/11/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa47718c1928370a285e0b4) | BlueWave | Boston, MA | 09/11/2026 18:43:17 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Associate Electrical Design Engineer](https://jobright.ai/jobs/info/6a9b2d7afe45b8490f60730f) | Kenworth Truck Co. | Kirkland, WA | 09/11/2026 12:37:42 | Sponsorship: Not Sure |
