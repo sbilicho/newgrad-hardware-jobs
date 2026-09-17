@@ -1,7 +1,7 @@
 {
   "Version": 1,
-  "UpdatedUtc": "2026-09-17T02:48:56.7793865Z",
-  "LatestSequence": 1231,
+  "UpdatedUtc": "2026-09-17T04:24:17.3968632Z",
+  "LatestSequence": 1236,
   "Months": [
     {
       "File": "2026-08.jsonl",
@@ -12,8 +12,8 @@
     {
       "File": "2026-09.jsonl",
       "Minimum": 866,
-      "Maximum": 1231,
-      "RecordCount": 366
+      "Maximum": 1236,
+      "RecordCount": 371
     }
   ]
 }

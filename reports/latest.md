@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-17 02:48:56Z UTC
+Updated: 2026-09-17 04:24:17Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aab5548f6bd9d2d17c1c44f) | PAE | Culver City, CA | 09/17/2026 04:16:18 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aab5510c85610f4a484465a) | PAE | New York, NY | 09/16/2026 19:48:48 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aab5515c85610f4a484465b) | PAE | Boston, MA | 09/16/2026 19:48:53 | Sponsorship: Not Sure |
+| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aab554af6bd9d2d17c1c452) | PAE | Seattle, WA | 09/16/2026 19:49:46 | Sponsorship: Not Sure |
+| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aab556d8e1bf0f764af94ee) | PAE | San Francisco, CA | 09/16/2026 19:50:21 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aa9c5693387a3d9b67d6d01) | Brindley Engineering Corporation | Lisle, IL | 09/16/2026 16:51:36 | Sponsorship: Not Sure |
 | 37 (Possible) | [Submarine Power Plant Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6aa780ae82e82a31997c1fa8) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/16/2026 22:40:53 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Associate Electrical Engineer](https://jobright.ai/jobs/info/6a9880c711f73b6462c8ef77) | Ramboll | Los Angeles, CA; Valhalla, NY; Binghamton, NY; Syracuse, NY; Charlotte, NC | 09/16/2026 14:27:50 | Sponsorship: No |
@@ -99,8 +104,3 @@ Updated: 2026-09-17 02:48:56Z UTC
 | 40 (Possible) | [Entry-Level Manufacturing Controls/Electrical Engineer](https://jobright.ai/jobs/info/6aa46e19f3aa936e2cdb1379) | General Motors | Defiance, OH | 09/11/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa47718c1928370a285e0b4) | BlueWave | Boston, MA | 09/11/2026 18:43:17 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Associate Electrical Design Engineer](https://jobright.ai/jobs/info/6a9b2d7afe45b8490f60730f) | Kenworth Truck Co. | Kirkland, WA | 09/11/2026 12:37:42 | Sponsorship: Not Sure |
-| 55 (Good) | [Hardware Test Engineer - Entry Level](https://jobright.ai/jobs/info/690cece54a1b456627b1b8e8) | Foxconn Industrial Internet - FII | Houston, TX | 04/16/2026 14:42:17 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Associate Electrical Engineer I - Design](https://jobright.ai/jobs/info/6aa45be5422289703bd6653b) | Novate Solutions, Inc. | West Sacramento, CA | 09/11/2026 12:48:45 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical/Controls Engineer I/II](https://jobright.ai/jobs/info/6aa4576b8275e3a21175ffaf) | TP Engineering Services | Poway, CA | 09/11/2026 17:30:04 | Sponsorship: Past Sponsorship |
-| 55 (Good) | [Entry Level Semiconductor Test Engineer](https://jobright.ai/jobs/info/6aa466b3f3aa936e2cdb11fc) | NXP Semiconductors | Chandler, AZ | 09/11/2026 20:38:11 | Sponsorship: Past Sponsorship |
-| 35 (Possible) | [Design Engineer (New College Graduate)](https://jobright.ai/jobs/info/6aa443b2f7baf881567ce184) | Diodes Incorporated | Milpitas, CA | 09/11/2026 00:52:35 | Sponsorship: Past Sponsorship |
