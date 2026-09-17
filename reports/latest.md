@@ -1,9 +1,19 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-17 14:08:33Z UTC
+Updated: 2026-09-17 17:10:08Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 36 (Possible) | [Embedded Software Engineer – Entry Level](https://jobright.ai/jobs/info/6aac0ee9636cddf7396f1f0f) | General Dynamics | Boise, ID | 09/17/2026 10:30:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 36 (Possible) | [Embedded Software Engineer Entry Level](https://jobright.ai/jobs/info/6aac0e783d96632d741a8def) | General Dynamics Mission Systems | Boise, ID | 09/17/2026 15:59:52 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aac18493e3ce93970c7b9f0) | Twenty-Six Defense | Merrimack, NH | 09/17/2026 05:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aabf4d795c707f49dfeeacf) | Chaparral Boats Inc | Nashville, GA | 09/17/2026 09:08:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aac184295c707f49dfef6df) | Bowman Consulting | Westminster, CO | 09/17/2026 16:41:38 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6aac18ae3e3ce93970c7ba5d) | Affiliated Engineers, Inc. | Charlottesville, VA | 09/17/2026 16:43:26 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aac05693e3ce93970c7b26b) | JSG (Johnson Service Group, Inc.) | Cypress, CA | 09/16/2026 21:04:53 | Sponsorship: Past Sponsorship |
+| 59 (Good) | [PCB Design Engineer I](https://jobright.ai/jobs/info/6aac0d2a636cddf7396f1e45) | Powerus | Charlotte, NC | 09/17/2026 15:54:18 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 72 (Strong) | [ASIC FPGA Engineer – Entry Level](https://jobright.ai/jobs/info/6aac0e93636cddf7396f1ed3) | General Dynamics | Boise, ID | 09/17/2026 10:30:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 72 (Strong) | [ASIC FPGA Engineer Entry Level](https://jobright.ai/jobs/info/6aac0e5695c707f49dfef29c) | General Dynamics Mission Systems | Boise, ID | 09/17/2026 15:59:18 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6aa9433310b1cd4f41605178) | General Dynamics Mission Systems | Arizona State | 09/17/2026 09:51:27 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [Junior Post-Silicon Validation Engineer](https://jobright.ai/jobs/info/6aabefbf3d96632d741a8401) | Movellus Inc. | Ann Arbor, MI | 09/17/2026 13:48:47 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aabc3170d36a75ba5bb0f94) | Dice | East Hartford, CT | 09/17/2026 10:38:15 | Sponsorship: Past Sponsorship |
@@ -94,13 +104,3 @@ Updated: 2026-09-17 14:08:33Z UTC
 | 41 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa6dd5242411952ff9ac723) | AutoStore™ | Atlanta, GA | 09/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Engineer I, Reliability Engineer](https://jobright.ai/jobs/info/6a45ec704f64ba41dcb4f1c1) | Thermo Fisher Scientific | Fair Lawn, NJ | 09/13/2026 09:13:52 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a9e3ed949f4604c7894e255) | Bowman Consulting | Towson, MD | 09/12/2026 13:06:51 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a99a6dc551435518ebf01d1) | Freeport-McMoRan | Morenci, AZ | 09/12/2026 16:25:25 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6aa5babe930bff471a29f9a7) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Validation Engineer Entry Level](https://jobright.ai/jobs/info/6aa63e5482e82a31997c0ae5) | Validation Associates LLC | Columbus, GA | 09/09/2026 05:11:29 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6a95e9f7f28891320e85efff) | Supermicro | San Jose, CA | 09/12/2026 21:00:57 | Sponsorship: Not Sure |
-| 51 (Good) | [TEST ENGINEER - INDOOR HEATED](https://jobright.ai/jobs/info/6aa5e64482e82a31997beffd) | SharkNinja France | Needham, MA | 09/12/2026 16:54:44 | Sponsorship: Not Sure |
-| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa4c12842411952ff9a5610) | SharkNinja | Needham, MA | 09/12/2026 13:56:36 | Sponsorship: Not Sure |
-| 37 (Possible) | [RF Engineer](https://jobright.ai/jobs/info/6aa5a00482e82a31997be2f3) | SpaceNews | Longmont, CO | 09/12/2026 11:55:00 | Sponsorship: No |
-| 58 (Good) | [Entry-Level Test Engineer](https://jobright.ai/jobs/info/6aa55e8b42411952ff9a8689) | Dice | Huntsville, AL | 09/12/2026 14:15:39 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6aa55162a77a53f5a1570a8e) | Dice | Pittsfield, MA | 09/12/2026 13:19:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa4ffce930bff471a29c7a8) | Jacobs | Austin, TX | 09/11/2026 05:00:00 | Sponsorship: Past Sponsorship |
