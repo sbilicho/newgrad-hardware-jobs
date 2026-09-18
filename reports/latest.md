@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-18 01:37:33Z UTC
+Updated: 2026-09-18 06:41:01Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 36 (Possible) | [Embedded Software Engineer – Entry Level](https://jobright.ai/jobs/info/6aac9d193dbb1f8967ceb2fb) | General Dynamics Mission Systems | Boise, ID | 09/17/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 50 (Good) | [Radar Systems Test Engineer I (Onsite)](https://jobright.ai/jobs/info/6aac7666636cddf7396f42e1) | RTX | El Segundo, CA | 09/17/2026 20:19:13 | Security clearance language is present; Sponsorship: No |
+| 51 (Good) | [Availability & Reliability Engineer](https://jobright.ai/jobs/info/6aac94f63e3ce93970c7df01) | GE Vernova | Greenville, SC | 09/17/2026 22:23:01 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I-Power Systems](https://jobright.ai/jobs/info/6aac7cc13dbb1f8967cead60) | Affiliated Engineers, Inc. | Chapel Hill, NC | 09/17/2026 16:49:16 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Associate Product Engineer](https://jobright.ai/jobs/info/6aac4aa195c707f49dff09ef) | Callaway Golf | Carlsbad, CA | 09/17/2026 16:48:41 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aac44973d96632d741aa1f8) | Ciorba Group, Inc. | Greater Chicago Area | 09/17/2026 19:50:47 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-09-18 01:37:33Z UTC
 | 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aa7fa91a77a53f5a157697a) | Sopra Steria | East Hartford, CT | 09/14/2026 13:45:53 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [PRODUCT ENGINEER, TESTING](https://jobright.ai/jobs/info/6a6a2dcc48355b3f12bef836) | John Deere | Grovetown, GA | 09/14/2026 09:33:39 | Sponsorship: No |
 | 42 (Possible) | [PRODUCT ENGINEER, TESTING Job Details \| John Deere](https://jobright.ai/jobs/info/6a6b4809acb0a61f9dbbff25) | John Deere | Grovetown, GA | 09/14/2026 09:33:39 | Sponsorship: No |
-| 41 (Possible) | [Examinations Infrastructure Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6aa7ec442ed333b4ea5cc5f5) | Naval Nuclear Laboratory (FMP) | Idaho Falls, ID | 08/27/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 55 (Good) | [Entry Level Semiconductor Test Engineer](https://jobright.ai/jobs/info/6aa7e156930bff471a2a42fc) | Dice | Chandler, AZ | 09/14/2026 11:58:14 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6aa7abb52ed333b4ea5cbaf0) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 09/14/2026 08:09:25 | Sponsorship: Past Sponsorship |
