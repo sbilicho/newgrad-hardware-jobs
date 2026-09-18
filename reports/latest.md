@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-18 21:38:35Z UTC
+Updated: 2026-09-18 23:38:32Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 72 (Strong) | [Entry-Level Electrical Hardware Engineer - FPGA, Networking & Cybersecurity](https://jobright.ai/jobs/info/6aadbe900ebc8fb2313eb47a) | Dice | Pittsfield, MA | 09/18/2026 22:43:28 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 88 (Strong) | [CPU Physical Design Engineer, San Diego](https://jobright.ai/jobs/info/6aadbe206956574eac8b76b4) | Qualcomm | San Diego, CA | 09/18/2026 22:41:36 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Early Career R&D Electrical Engineer - High-reliability Electronic Components, Onsite](https://jobright.ai/jobs/info/6aacb9dd636cddf7396f4c60) | Sandia National Laboratories | Albuquerque, NM | 09/18/2026 16:43:26 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Senior Electrical Engineer I Job Details \| NEW YORK POWER AUTHORITY](https://jobright.ai/jobs/info/6aad6f070ebc8fb2313e980e) | New York Power Authority | Astoria, OR | 09/18/2026 17:04:07 | Sponsorship: Past Sponsorship |
 | 91 (Strong) | [Entry Level ASIC/FPGA Design Engineer – Space Electronics - MTV](https://jobright.ai/jobs/info/6aad78fc6956574eac8b5dd4) | Boeing | Mountain View, CA | 09/18/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-09-18 21:38:35Z UTC
 | 37 (Possible) | [Field Electrical Engineer](https://jobright.ai/jobs/info/6aa85bec654b2a9424cfc467) | Shermco Industries | Houston, TX | 09/14/2026 13:41:16 | Sponsorship: Not Sure |
 | 49 (Possible) | [Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer](https://jobright.ai/jobs/info/6aa847e982e82a31997c4edc) | Boeing | El Segundo, CA | 09/14/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 54 (Good) | [HW Test Development Engineer, Amazon LEO](https://jobright.ai/jobs/info/6aa838a83a9f0a4fe6f17e68) | Amazon | Redmond, WA | 09/14/2026 11:10:48 | Sponsorship: No |
-| 52 (Good) | [Entry-Level Equipment Validation Engineer](https://jobright.ai/jobs/info/6aa830c6a77a53f5a1577d7d) | Virtue America | United States | 09/14/2026 17:37:10 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer](https://jobright.ai/jobs/info/6aa838bf2ed333b4ea5cdf87) | Boeing | El Segundo, CA | 09/14/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
