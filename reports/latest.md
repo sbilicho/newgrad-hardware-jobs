@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-18 16:01:11Z UTC
+Updated: 2026-09-18 19:01:37Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Senior Electrical Engineer I Job Details \| NEW YORK POWER AUTHORITY](https://jobright.ai/jobs/info/6aad6f070ebc8fb2313e980e) | New York Power Authority | Astoria, OR | 09/18/2026 17:04:07 | Sponsorship: Past Sponsorship |
+| 91 (Strong) | [Entry Level ASIC/FPGA Design Engineer – Space Electronics - MTV](https://jobright.ai/jobs/info/6aad78fc6956574eac8b5dd4) | Boeing | Mountain View, CA | 09/18/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Electrical Design Engineer (Entry-Level)](https://jobright.ai/jobs/info/6aad6a753d96632d741adb05) | Mulder Engineering Inc | Greater Minneapolis–St. Paul Area | 09/18/2026 16:44:37 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aad59642e757fcb5c8b7ca3) | RFA Engineering | East Peoria, IL | 09/18/2026 15:31:48 | Sponsorship: Past Sponsorship |
 | 91 (Strong) | [Entry Level- FPGA Engineer (Onsite- Aberdeen, Maryland)](https://jobright.ai/jobs/info/6aad493b3d96632d741acf0f) | Fairwinds Technologies | Aberdeen, MD | 09/18/2026 09:53:00 | Sponsorship: Past Sponsorship |
 | 80 (Strong) | [FAST Lab – Entry Level FPGA Engineer (Fall 2026 hire)](https://jobright.ai/jobs/info/6aad3d983dbb1f8967cec6fb) | BAE Systems | Merrimack, NH | 09/18/2026 13:33:12 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-09-18 16:01:11Z UTC
 | 52 (Good) | [Entry-Level Equipment Validation Engineer](https://jobright.ai/jobs/info/6aa830c6a77a53f5a1577d7d) | Virtue America | United States | 09/14/2026 17:37:10 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer](https://jobright.ai/jobs/info/6aa838bf2ed333b4ea5cdf87) | Boeing | El Segundo, CA | 09/14/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 65 (Good) | [Engineer I - Analog Design](https://jobright.ai/jobs/info/6aa82b432ed333b4ea5cdb9c) | Microchip Technology Inc. | San Jose, CA | 09/14/2026 10:13:39 | Sponsorship: Not Sure |
-| 37 (Possible) | [Early Careers Electrical Engineer I (Lynchburg)](https://jobright.ai/jobs/info/6a959ab9c8763a3a87ffadf0) | Framatome North America | Lynchburg, VA | 09/14/2026 16:15:59 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Early Careers Electrical Engineer I (Richland)](https://jobright.ai/jobs/info/6a959ac04c22023a07934a18) | Framatome North America | Richland, WA | 09/14/2026 16:16:25 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aa81cda930bff471a2a5265) | Brightpath Associates LLC | Bethesda, MD | 09/14/2026 16:12:10 | Sponsorship: Past Sponsorship |
