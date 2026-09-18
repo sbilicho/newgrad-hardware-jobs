@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-18 11:54:22Z UTC
+Updated: 2026-09-18 16:01:11Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aad59642e757fcb5c8b7ca3) | RFA Engineering | East Peoria, IL | 09/18/2026 15:31:48 | Sponsorship: Past Sponsorship |
+| 91 (Strong) | [Entry Level- FPGA Engineer (Onsite- Aberdeen, Maryland)](https://jobright.ai/jobs/info/6aad493b3d96632d741acf0f) | Fairwinds Technologies | Aberdeen, MD | 09/18/2026 09:53:00 | Sponsorship: Past Sponsorship |
+| 80 (Strong) | [FAST Lab – Entry Level FPGA Engineer (Fall 2026 hire)](https://jobright.ai/jobs/info/6aad3d983dbb1f8967cec6fb) | BAE Systems | Merrimack, NH | 09/18/2026 13:33:12 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 67 (Good) | [Entry Level- Test Engineer (Onsite- Aberdeen Maryland)](https://jobright.ai/jobs/info/6aad498b3d96632d741acf25) | Fairwinds Technologies | United States | 09/18/2026 09:19:00 | Sponsorship: Past Sponsorship |
 | 36 (Possible) | [Embedded Software Engineer – Entry Level](https://jobright.ai/jobs/info/6aac9d193dbb1f8967ceb2fb) | General Dynamics Mission Systems | Boise, ID | 09/17/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 50 (Good) | [Radar Systems Test Engineer I (Onsite)](https://jobright.ai/jobs/info/6aac7666636cddf7396f42e1) | RTX | El Segundo, CA | 09/17/2026 20:19:13 | Security clearance language is present; Sponsorship: No |
 | 51 (Good) | [Availability & Reliability Engineer](https://jobright.ai/jobs/info/6aac94f63e3ce93970c7df01) | GE Vernova | Greenville, SC | 09/17/2026 22:23:01 | Sponsorship: No |
@@ -100,7 +104,3 @@ Updated: 2026-09-18 11:54:22Z UTC
 | 37 (Possible) | [Early Careers Electrical Engineer I (Lynchburg)](https://jobright.ai/jobs/info/6a959ab9c8763a3a87ffadf0) | Framatome North America | Lynchburg, VA | 09/14/2026 16:15:59 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Early Careers Electrical Engineer I (Richland)](https://jobright.ai/jobs/info/6a959ac04c22023a07934a18) | Framatome North America | Richland, WA | 09/14/2026 16:16:25 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aa81cda930bff471a2a5265) | Brightpath Associates LLC | Bethesda, MD | 09/14/2026 16:12:10 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aa82430654b2a9424cfaf18) | Scout Boats | Summerville, SC | 09/14/2026 16:43:28 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aa7fa91a77a53f5a157697a) | Sopra Steria | East Hartford, CT | 09/14/2026 13:45:53 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [PRODUCT ENGINEER, TESTING](https://jobright.ai/jobs/info/6a6a2dcc48355b3f12bef836) | John Deere | Grovetown, GA | 09/14/2026 09:33:39 | Sponsorship: No |
-| 42 (Possible) | [PRODUCT ENGINEER, TESTING Job Details \| John Deere](https://jobright.ai/jobs/info/6a6b4809acb0a61f9dbbff25) | John Deere | Grovetown, GA | 09/14/2026 09:33:39 | Sponsorship: No |
