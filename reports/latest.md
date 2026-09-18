@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-18 19:01:37Z UTC
+Updated: 2026-09-18 21:38:35Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 55 (Good) | [Early Career R&D Electrical Engineer - High-reliability Electronic Components, Onsite](https://jobright.ai/jobs/info/6aacb9dd636cddf7396f4c60) | Sandia National Laboratories | Albuquerque, NM | 09/18/2026 16:43:26 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Senior Electrical Engineer I Job Details \| NEW YORK POWER AUTHORITY](https://jobright.ai/jobs/info/6aad6f070ebc8fb2313e980e) | New York Power Authority | Astoria, OR | 09/18/2026 17:04:07 | Sponsorship: Past Sponsorship |
 | 91 (Strong) | [Entry Level ASIC/FPGA Design Engineer – Space Electronics - MTV](https://jobright.ai/jobs/info/6aad78fc6956574eac8b5dd4) | Boeing | Mountain View, CA | 09/18/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electrical Design Engineer (Entry-Level)](https://jobright.ai/jobs/info/6aad6a753d96632d741adb05) | Mulder Engineering Inc | Greater Minneapolis–St. Paul Area | 09/18/2026 16:44:37 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-09-18 19:01:37Z UTC
 | 54 (Good) | [HW Test Development Engineer, Amazon LEO](https://jobright.ai/jobs/info/6aa838a83a9f0a4fe6f17e68) | Amazon | Redmond, WA | 09/14/2026 11:10:48 | Sponsorship: No |
 | 52 (Good) | [Entry-Level Equipment Validation Engineer](https://jobright.ai/jobs/info/6aa830c6a77a53f5a1577d7d) | Virtue America | United States | 09/14/2026 17:37:10 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer](https://jobright.ai/jobs/info/6aa838bf2ed333b4ea5cdf87) | Boeing | El Segundo, CA | 09/14/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 65 (Good) | [Engineer I - Analog Design](https://jobright.ai/jobs/info/6aa82b432ed333b4ea5cdb9c) | Microchip Technology Inc. | San Jose, CA | 09/14/2026 10:13:39 | Sponsorship: Not Sure |
