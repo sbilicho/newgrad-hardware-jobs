@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-17 23:45:23Z UTC
+Updated: 2026-09-18 01:37:33Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I-Power Systems](https://jobright.ai/jobs/info/6aac7cc13dbb1f8967cead60) | Affiliated Engineers, Inc. | Chapel Hill, NC | 09/17/2026 16:49:16 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Associate Product Engineer](https://jobright.ai/jobs/info/6aac4aa195c707f49dff09ef) | Callaway Golf | Carlsbad, CA | 09/17/2026 16:48:41 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aac44973d96632d741aa1f8) | Ciorba Group, Inc. | Greater Chicago Area | 09/17/2026 19:50:47 | Sponsorship: Past Sponsorship |
 | 95 (Strong) | [New College Grad - Engineer, ASIC Digital Design](https://jobright.ai/jobs/info/6aac3cc13e3ce93970c7c7ea) | Micron Technology | Minneapolis, MN | 09/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 65 (Good) | [Entry-Level FPGA Design Engineer](https://jobright.ai/jobs/info/6aac396d3e3ce93970c7c6ee) | Space Dynamics Laboratory | North Logan, UT | 09/17/2026 19:03:09 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-09-17 23:45:23Z UTC
 | 41 (Possible) | [Examinations Infrastructure Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6aa7ec442ed333b4ea5cc5f5) | Naval Nuclear Laboratory (FMP) | Idaho Falls, ID | 08/27/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Entry Level Semiconductor Test Engineer](https://jobright.ai/jobs/info/6aa7e156930bff471a2a42fc) | Dice | Chandler, AZ | 09/14/2026 11:58:14 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6aa7abb52ed333b4ea5cbaf0) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 09/14/2026 08:09:25 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Electrical Hardware Engineer I Graduate](https://jobright.ai/jobs/info/6aa763b642411952ff9acf46) | Hewlett Packard Enterprise | Spring, TX | 09/14/2026 04:36:59 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Associate Digital Hardware Engineer Engineer (Comms/TVI) Job Details \| Thales Defense & Security, Inc.](https://jobright.ai/jobs/info/6aa78499654b2a9424cf8dc9) | Thales Defense & Security, Inc. | Clarksburg, MD | 09/13/2026 22:22:33 | U.S. citizenship language is present; Sponsorship: No |
