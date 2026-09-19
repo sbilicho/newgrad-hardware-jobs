@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-19 01:41:27Z UTC
+Updated: 2026-09-19 06:42:54Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aac12b32e757fcb5c8b3907) | Harris Group | Portland, OR | 09/18/2026 06:03:29 | Sponsorship: Past Sponsorship |
+| 57 (Good) | [Electrical Engineer](https://job-boards.greenhouse.io/astranis/jobs/4359278006) | Astranis | San Francisco; San Francisco, California, United States | 09/19/2026 04:21:11 | Full-time status is inferred from the first-party posting |
+| 47 (Possible) | [Senior Validation Engineer I](https://jobright.ai/jobs/info/6aad4d7a2e757fcb5c8b7952) | Takeda | Lexington, MA | 09/19/2026 04:53:12 | Sponsorship: Past Sponsorship |
 | 64 (Good) | [Firmware Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/5243033007?gh_jid=5243033007) | Anduril Industries | Atlanta, Georgia, United States; Costa Mesa, California, United States | 09/19/2026 00:13:35 | Security clearance language is present; Full-time status is inferred from the first-party posting |
 | 64 (Good) | [Firmware Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/4987908007?gh_jid=4987908007) | Anduril Industries | Costa Mesa, California, United States | 09/19/2026 00:08:41 | Security clearance language is present; Full-time status is inferred from the first-party posting |
 | 50 (Good) | [System Integration and Test Engineer - 2nd Shift](https://jobright.ai/jobs/info/6aadd6183d96632d741afef5) | ASML | San Diego, CA | 09/18/2026 17:23:52 | Sponsorship: No |
@@ -101,6 +104,3 @@ Updated: 2026-09-19 01:41:27Z UTC
 | 55 (Good) | [2027 New College Graduates - Design Engineering](https://jobright.ai/jobs/info/6aa8ab1d17ddad6a8a47c774) | Silicon Labs | Austin, TX | 09/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Facilities Electrical Engineer, Entry](https://jobright.ai/jobs/info/6aa823c7930bff471a2a56d8) | Naval Nuclear Laboratory (FMP) | Idaho Falls, ID | 09/14/2026 22:41:20 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Engineer Entry-Level (Starting Summer 2027)](https://jobright.ai/jobs/info/6a885b8e680f314a29d3b82c) | IFAB Engineering Partners Ltd. | Springfield, MA | 09/14/2026 21:00:10 | Sponsorship: Past Sponsorship |
-| 54 (Good) | [Electrical Engineer, Test Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa8267682e82a31997c4291) | RTX | Largo, FL | 09/14/2026 21:19:21 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa8708b3a9f0a4fe6f19526) | Salas O'Brien | Orlando, FL | 09/14/2026 22:09:15 | Sponsorship: Past Sponsorship |
-| 92 (Strong) | [New College Grad - HBM SoC Design Engineer/Architect](https://jobright.ai/jobs/info/6aa86fe7a77a53f5a1579702) | Micron Technology | Folsom, CA | 09/14/2026 22:06:31 | Sponsorship: Past Sponsorship |
