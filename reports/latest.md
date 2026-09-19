@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-19 14:50:25Z UTC
+Updated: 2026-09-19 17:47:54Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 52 (Good) | [Electrical Engineer, Battery (Falcon & Dragon)](https://boards.greenhouse.io/spacex/jobs/8825367002?gh_jid=8825367002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 09/19/2026 16:02:02 |  |
 | 91 (Strong) | [Entry Level- FPGA Engineer (Onsite- Aberdeen, Maryland)](https://jobright.ai/jobs/info/6aae3f5c3d96632d741b0b90) | Fairwinds Technologies | Aberdeen, MD | 09/18/2026 09:53:00 | Sponsorship: Past Sponsorship |
 | 67 (Good) | [Entry Level- Test Engineer (Onsite- Aberdeen Maryland)](https://jobright.ai/jobs/info/6aae3f313d96632d741b0b79) | Fairwinds Technologies | United States | 09/18/2026 09:19:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aac12b32e757fcb5c8b3907) | Harris Group | Portland, OR | 09/18/2026 06:03:29 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-09-19 14:50:25Z UTC
 | 42 (Possible) | [Product Engineer Job Details \| John Deere](https://jobright.ai/jobs/info/6aa631e2a77a53f5a15740b8) | John Deere | Coffeyville, KS | 09/14/2026 21:33:24 | Sponsorship: No |
 | 40 (Possible) | [Electrical Engineer (Entry)](https://jobright.ai/jobs/info/6aa89d0382e82a31997c6a9c) | Bayer | Chesterfield, MO | 09/15/2026 01:18:59 | Sponsorship: Past Sponsorship |
 | 35 (Possible) | [Design Engineer (New College Graduate)](https://jobright.ai/jobs/info/6aa8a91c4cb6b0e0b828e0ae) | Diodes Incorporated | Milpitas, CA | 09/10/2026 18:13:00 | Sponsorship: Past Sponsorship |
-| 55 (Good) | [2027 New College Graduates - Design Engineering](https://jobright.ai/jobs/info/6aa8ab1d17ddad6a8a47c774) | Silicon Labs | Austin, TX | 09/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
