@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-19 17:47:54Z UTC
+Updated: 2026-09-19 19:38:02Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 36 (Possible) | [Embedded Software Engineer - Entry Level](https://jobright.ai/jobs/info/6aae83c16956574eac8b8f72) | Dice | Boise, ID | 09/19/2026 12:44:49 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Power & Analog Hardware Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa53cb442411952ff9a7cb7) | Raytheon | Huntsville, AL | 09/19/2026 14:41:30 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Controls & Electrical Engineer I](https://jobright.ai/jobs/info/6a74b66ebb6ca93ae560b690) | Danaher | Hauppauge, NY | 09/19/2026 12:09:43 | Sponsorship: Past Sponsorship |
+| 53 (Good) | [Advanced Effector Guidance Systems Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aaea1733d96632d741b1334) | Raytheon | Tucson, AZ | 09/19/2026 14:51:31 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa4f5fc2ed333b4ea5c4ae4) | CommScope | Claremont, NC | 09/19/2026 16:08:20 | Sponsorship: Past Sponsorship |
+| 83 (Strong) | [Cell Modeling and Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6aaecbda0ebc8fb2313ed1cb) | NVIDIA AI | Santa Clara, CA | 08/29/2026 17:52:15 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Electrical Engineer, Battery (Falcon & Dragon)](https://boards.greenhouse.io/spacex/jobs/8825367002?gh_jid=8825367002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 09/19/2026 16:02:02 |  |
 | 91 (Strong) | [Entry Level- FPGA Engineer (Onsite- Aberdeen, Maryland)](https://jobright.ai/jobs/info/6aae3f5c3d96632d741b0b90) | Fairwinds Technologies | Aberdeen, MD | 09/18/2026 09:53:00 | Sponsorship: Past Sponsorship |
 | 67 (Good) | [Entry Level- Test Engineer (Onsite- Aberdeen Maryland)](https://jobright.ai/jobs/info/6aae3f313d96632d741b0b79) | Fairwinds Technologies | United States | 09/18/2026 09:19:00 | Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-09-19 17:47:54Z UTC
 | 37 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6a8c76c5581f2d7bfdfe3c0e) | LaBella Associates | Albany, NY; Poughkeepsie, NY | 09/15/2026 02:53:50 | Sponsorship: Not Sure |
 | 56 (Good) | [Application Validation Engineer](https://jobright.ai/jobs/info/6a6985cf436a9228dd005bba) | Supermicro | San Jose, CA | 09/15/2026 03:20:50 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer 1 Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6aa2002e2f936e4a53daf22d) | Westinghouse Electric Company | Rock Hill, SC | 09/15/2026 03:58:19 | U.S. citizenship language is present; Sponsorship: No |
-| 57 (Good) | [Jr Power Electronics Engineer](https://jobright.ai/jobs/info/6aa091cbdbc0e60e37e0e7b6) | ITT Inc. | Syracuse, NY | 09/15/2026 02:12:13 | Sponsorship: Not Sure |
-| 58 (Good) | [Vision Systems, Test Engineer I](https://jobright.ai/jobs/info/6aa8f38eeff87f571fc9812c) | RTX | Goleta, CA | 09/15/2026 02:19:52 | Security clearance language is present; Sponsorship: No |
-| 46 (Possible) | [Product Engineer Job Details \| John Deere](https://jobright.ai/jobs/info/6aa8c7ff6d0edc2d91b07a25) | John Deere | Fuquay-Varina, NC | 09/14/2026 21:33:24 | Sponsorship: No |
-| 42 (Possible) | [Product Engineer Job Details \| John Deere](https://jobright.ai/jobs/info/6aa631e2a77a53f5a15740b8) | John Deere | Coffeyville, KS | 09/14/2026 21:33:24 | Sponsorship: No |
-| 40 (Possible) | [Electrical Engineer (Entry)](https://jobright.ai/jobs/info/6aa89d0382e82a31997c6a9c) | Bayer | Chesterfield, MO | 09/15/2026 01:18:59 | Sponsorship: Past Sponsorship |
-| 35 (Possible) | [Design Engineer (New College Graduate)](https://jobright.ai/jobs/info/6aa8a91c4cb6b0e0b828e0ae) | Diodes Incorporated | Milpitas, CA | 09/10/2026 18:13:00 | Sponsorship: Past Sponsorship |
