@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-18 23:38:32Z UTC
+Updated: 2026-09-19 01:41:27Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 64 (Good) | [Firmware Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/5243033007?gh_jid=5243033007) | Anduril Industries | Atlanta, Georgia, United States; Costa Mesa, California, United States | 09/19/2026 00:13:35 | Security clearance language is present; Full-time status is inferred from the first-party posting |
+| 64 (Good) | [Firmware Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/4987908007?gh_jid=4987908007) | Anduril Industries | Costa Mesa, California, United States | 09/19/2026 00:08:41 | Security clearance language is present; Full-time status is inferred from the first-party posting |
+| 50 (Good) | [System Integration and Test Engineer - 2nd Shift](https://jobright.ai/jobs/info/6aadd6183d96632d741afef5) | ASML | San Diego, CA | 09/18/2026 17:23:52 | Sponsorship: No |
 | 72 (Strong) | [Entry-Level Electrical Hardware Engineer - FPGA, Networking & Cybersecurity](https://jobright.ai/jobs/info/6aadbe900ebc8fb2313eb47a) | Dice | Pittsfield, MA | 09/18/2026 22:43:28 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 88 (Strong) | [CPU Physical Design Engineer, San Diego](https://jobright.ai/jobs/info/6aadbe206956574eac8b76b4) | Qualcomm | San Diego, CA | 09/18/2026 22:41:36 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Early Career R&D Electrical Engineer - High-reliability Electronic Components, Onsite](https://jobright.ai/jobs/info/6aacb9dd636cddf7396f4c60) | Sandia National Laboratories | Albuquerque, NM | 09/18/2026 16:43:26 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-09-18 23:38:32Z UTC
 | 54 (Good) | [Electrical Engineer, Test Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa8267682e82a31997c4291) | RTX | Largo, FL | 09/14/2026 21:19:21 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aa8708b3a9f0a4fe6f19526) | Salas O'Brien | Orlando, FL | 09/14/2026 22:09:15 | Sponsorship: Past Sponsorship |
 | 92 (Strong) | [New College Grad - HBM SoC Design Engineer/Architect](https://jobright.ai/jobs/info/6aa86fe7a77a53f5a1579702) | Micron Technology | Folsom, CA | 09/14/2026 22:06:31 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Field Electrical Engineer](https://jobright.ai/jobs/info/6aa85bec654b2a9424cfc467) | Shermco Industries | Houston, TX | 09/14/2026 13:41:16 | Sponsorship: Not Sure |
-| 49 (Possible) | [Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer](https://jobright.ai/jobs/info/6aa847e982e82a31997c4edc) | Boeing | El Segundo, CA | 09/14/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 54 (Good) | [HW Test Development Engineer, Amazon LEO](https://jobright.ai/jobs/info/6aa838a83a9f0a4fe6f17e68) | Amazon | Redmond, WA | 09/14/2026 11:10:48 | Sponsorship: No |
