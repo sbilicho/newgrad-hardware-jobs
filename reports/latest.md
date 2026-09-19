@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-19 06:42:54Z UTC
+Updated: 2026-09-19 11:38:17Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 91 (Strong) | [Entry Level- FPGA Engineer (Onsite- Aberdeen, Maryland)](https://jobright.ai/jobs/info/6aae3f5c3d96632d741b0b90) | Fairwinds Technologies | Aberdeen, MD | 09/18/2026 09:53:00 | Sponsorship: Past Sponsorship |
+| 67 (Good) | [Entry Level- Test Engineer (Onsite- Aberdeen Maryland)](https://jobright.ai/jobs/info/6aae3f313d96632d741b0b79) | Fairwinds Technologies | United States | 09/18/2026 09:19:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aac12b32e757fcb5c8b3907) | Harris Group | Portland, OR | 09/18/2026 06:03:29 | Sponsorship: Past Sponsorship |
 | 57 (Good) | [Electrical Engineer](https://job-boards.greenhouse.io/astranis/jobs/4359278006) | Astranis | San Francisco; San Francisco, California, United States | 09/19/2026 04:21:11 | Full-time status is inferred from the first-party posting |
 | 47 (Possible) | [Senior Validation Engineer I](https://jobright.ai/jobs/info/6aad4d7a2e757fcb5c8b7952) | Takeda | Lexington, MA | 09/19/2026 04:53:12 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-09-19 06:42:54Z UTC
 | 40 (Possible) | [Electrical Engineer (Entry)](https://jobright.ai/jobs/info/6aa89d0382e82a31997c6a9c) | Bayer | Chesterfield, MO | 09/15/2026 01:18:59 | Sponsorship: Past Sponsorship |
 | 35 (Possible) | [Design Engineer (New College Graduate)](https://jobright.ai/jobs/info/6aa8a91c4cb6b0e0b828e0ae) | Diodes Incorporated | Milpitas, CA | 09/10/2026 18:13:00 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [2027 New College Graduates - Design Engineering](https://jobright.ai/jobs/info/6aa8ab1d17ddad6a8a47c774) | Silicon Labs | Austin, TX | 09/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Facilities Electrical Engineer, Entry](https://jobright.ai/jobs/info/6aa823c7930bff471a2a56d8) | Naval Nuclear Laboratory (FMP) | Idaho Falls, ID | 09/14/2026 22:41:20 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Electrical Engineer Entry-Level (Starting Summer 2027)](https://jobright.ai/jobs/info/6a885b8e680f314a29d3b82c) | IFAB Engineering Partners Ltd. | Springfield, MA | 09/14/2026 21:00:10 | Sponsorship: Past Sponsorship |
