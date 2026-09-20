@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-20 21:30:22Z UTC
+Updated: 2026-09-20 23:30:31Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 54 (Good) | [Electrical Test Engineer - Entry Level](https://jobright.ai/jobs/info/6ab06927d3af3856cd992fdd) | General Dynamics | Pittsfield, MA | 09/20/2026 18:46:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 95 (Strong) | [New College Grad - Engineer, ASIC Digital Design](https://jobright.ai/jobs/info/6ab062232e757fcb5c8bdcab) | Dice | Minneapolis, MN | 09/20/2026 22:45:55 | Sponsorship: Past Sponsorship |
 | 80 (Strong) | [Mixed Signal Design Verification Engineer](https://jobright.ai/jobs/info/6ab00e68dd960b415641885f) | Allegro MicroSystems | Manchester, NH | 09/20/2026 17:00:05 | Sponsorship: Past Sponsorship |
 | 80 (Strong) | [Mixed Signal Design Verification Engineer](https://jobright.ai/jobs/info/6ab00e762e757fcb5c8bd4ec) | Allegro MicroSystems | Manchester, NH | 09/20/2026 18:48:08 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Mechanical Integration & Test Engineer (Starshield)](https://jobright.ai/jobs/info/6a9b4adc2cdc5958f53ebef9) | SpaceX | Hawthorne, CA | 09/20/2026 09:33:27 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-09-20 21:30:22Z UTC
 | 47 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aa9ca8ceff87f571fc9b968) | West Coast Magnetics | Stockton, CA | 09/15/2026 15:45:32 | Sponsorship: Not Sure |
 | 83 (Strong) | [ASIC Design Engineer](https://jobright.ai/jobs/info/6a6b93caacb0a61f9dbc1a5d) | SK hynix memory solutions America Inc. | San Jose, CA | 09/15/2026 15:55:32 | Sponsorship: Not Sure |
 | 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa99ec809ae03adcacde2eb) | Rocket Lab | Long Beach, CA | 09/15/2026 19:38:48 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 51 (Good) | [Electrical Engineer, Space Emerging Talent](https://boards.greenhouse.io/andurilindustries/jobs/5236639007?gh_jid=5236639007) | Anduril Industries | Costa Mesa, California, United States | 09/15/2026 19:17:08 | Full-time status is inferred from the first-party posting |
-| 37 (Possible) | [Entry-Level Substation Electrical Engineer](https://jobright.ai/jobs/info/6aa966cb28e24cb38513a300) | WSP | Maitland, FL | 09/15/2026 15:39:55 | Sponsorship: Past Sponsorship |
