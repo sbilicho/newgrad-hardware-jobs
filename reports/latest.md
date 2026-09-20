@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-20 12:19:59Z UTC
+Updated: 2026-09-20 16:22:53Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 69 (Good) | [Circuit Design Engineer Associate- Level 1](https://jobright.ai/jobs/info/6aaf7a392e757fcb5c8bcb6e) | Lockheed Martin | Grand Prairie, TX | 09/20/2026 12:53:58 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 91 (Strong) | [Entry Level ASIC/FPGA Design Engineer – Space Electronics - MTV](https://jobright.ai/jobs/info/6aafde9e3dbb1f8967cf239a) | Boeing | Mountain View, CA | 09/20/2026 13:24:46 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a2821481dbd8437bebc8ea6) | The Chemours Company | New Johnsonville, TN | 09/20/2026 03:31:23 | Sponsorship: No |
 | 46 (Possible) | [Field Quality and Reliability Engineer - Mechanical Systems](https://jobright.ai/jobs/info/6a8dc4a0a5639a4810327674) | Rivian | Normal, IL | 09/20/2026 03:31:47 | Sponsorship: Not Sure |
 | 46 (Possible) | [Field Quality and Reliability Engineer - Mechanical Systems](https://jobright.ai/jobs/info/6a88a086d34f700f87fc9998) | Rivian | Normal, IL | 09/20/2026 03:31:47 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-09-20 12:19:59Z UTC
 | 51 (Good) | [Entry Level Electrical Reliability Engineer](https://jobright.ai/jobs/info/6aa990e009ae03adcacddaf2) | Olin | Charleston, TN | 09/15/2026 18:39:28 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6aa968433387a3d9b67d4f23) | Fresenius Kabi USA | Grand Island, NY | 09/15/2026 10:09:05 | Sponsorship: Not Sure |
 | 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6aa93d8910b1cd4f41604fa1) | Brightpath Associates LLC | Maryland State | 09/15/2026 12:43:53 | Sponsorship: Past Sponsorship |
-| 54 (Good) | [Associate Test Engineer](https://jobright.ai/jobs/info/6a96c7add13b4819f39dcf30) | SGS | Oklahoma City, OK | 09/15/2026 06:17:58 | Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa9316028e24cb3851392f9) | Scientific Research Corporation | Jacksonville, FL | 09/15/2026 11:52:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
