@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-21 21:34:09Z UTC
+Updated: 2026-09-21 22:34:37Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab1aa5cd2a93d5a97ebc2c7) | Leitner-Poma Of America | Grand Junction, CO | 09/21/2026 17:02:16 | Sponsorship: Past Sponsorship |
+| 86 (Strong) | [Physical Design Methodology CAD Engineer](https://jobright.ai/jobs/info/6ab1b04023005eee3545c0f3) | Apple | Austin, TX | 09/21/2026 22:31:28 | Sponsorship: Past Sponsorship |
 | 32 (Possible) | [VLSI Engineer II Graduate](https://jobright.ai/jobs/info/6ab19b58191d8c340dbdbd04) | Hewlett Packard Enterprise | Sunnyvale, CA | 09/21/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 60 (Good) | [System Validation Engineer](https://jobright.ai/jobs/info/6ab19a32191d8c340dbdbc4e) | Supermicro | San Jose, CA | 09/21/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Controls Engineer - Centralia](https://jobright.ai/jobs/info/6ab18fcff9692ca98b04a568) | Rogers Machinery Company, Inc. | Centralia, WA | 09/21/2026 13:13:03 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-09-21 21:34:09Z UTC
 | 40 (Possible) | [Electrical Engineer- Submarine RF, Sensor & Hardware Systems](https://jobright.ai/jobs/info/6aab01ed4be87a72913a2b22) | STC, an Arcfield Company | Middletown, RI | 09/16/2026 13:54:05 | Sponsorship: No |
 | 66 (Good) | [Firmware Engineer, Space (Emerging Talent)](https://boards.greenhouse.io/andurilindustries/jobs/5239596007?gh_jid=5239596007) | Anduril Industries | Costa Mesa, California, United States | 09/16/2026 18:30:31 | Security clearance language is present; Full-time status is inferred from the first-party posting |
 | 30 (Possible) | [December 2026 New Graduate Engineer, Software / GNC](https://jobright.ai/jobs/info/6a9831c2def18223c854de48) | Mach Industries | Huntington Beach, CA | 09/16/2026 15:25:25 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer (EE1)](https://jobright.ai/jobs/info/6aaad03df6bd9d2d17c19b2f) | NCS ENGINEERS | Phoenix, AZ | 09/16/2026 17:22:05 | Sponsorship: Past Sponsorship |
-| 68 (Good) | [Product Engineer - New College Graduate](https://jobright.ai/jobs/info/6aaadd0976707040fb082bd8) | Cirrus Logic | Austin, TX | 09/16/2026 18:16:41 | Sponsorship: Past Sponsorship |
