@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-21 01:38:52Z UTC
+Updated: 2026-09-21 07:16:42Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ab0d1acdd960b415641a190) | ByteDance | San Jose, CA | 09/21/2026 06:41:48 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ab0d6b92e757fcb5c8bee76) | Harris Group | Portland, OR | 09/17/2026 08:24:07 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Electrical Design Engineer I OR Electrical Design Engineer II - Oconee Nuclear Station](https://jobright.ai/jobs/info/6ab0b7ee2e757fcb5c8be49d) | Duke Energy Corporation | Seneca, SC | 09/21/2026 04:58:46 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Proving Ground Vehicle Test Development Engineer I Job Details \| Hyundai Motor Company](https://jobright.ai/jobs/info/6ab0b7203d96632d741b3bdf) | Hyundai America Technical Center, Inc. (HATCI) | California City, CA | 09/20/2026 21:48:32 | Sponsorship: No |
 | 54 (Good) | [Electrical Test Engineer - Entry Level](https://jobright.ai/jobs/info/6ab070492e757fcb5c8bdf3c) | General Dynamics Mission Systems | Massachusetts State | 09/20/2026 18:46:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 54 (Good) | [Electrical Test Engineer - Entry Level](https://jobright.ai/jobs/info/6ab06927d3af3856cd992fdd) | General Dynamics | Pittsfield, MA | 09/20/2026 18:46:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 95 (Strong) | [New College Grad - Engineer, ASIC Digital Design](https://jobright.ai/jobs/info/6ab062232e757fcb5c8bdcab) | Dice | Minneapolis, MN | 09/20/2026 22:45:55 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-09-21 01:38:52Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa9e3d310b1cd4f41608a0c) | Humphrey Products | Kalamazoo, MI | 09/16/2026 00:33:23 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6aa9e57728e24cb38513d17c) | Concord Engineering Group, Inc. | Bellevue, WA | 09/16/2026 00:40:23 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aa9e02509ae03adcacdfe9c) | Snap Inc. | Los Angeles, CA | 09/15/2026 17:17:41 | Sponsorship: Not Sure |
-| 47 (Possible) | [Recent College Graduate Validation Engineer](https://jobright.ai/jobs/info/6aa9cb3b3387a3d9b67d6f9a) | Valspec | Royersford, PA | 09/15/2026 20:32:48 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [Entry-Level Electrical Hardware Engineer FPGA, Networking & Cybersecurity](https://jobright.ai/jobs/info/6aa9dead6d0edc2d91b0c235) | General Dynamics Mission Systems | Pittsfield, MA | 09/15/2026 21:45:35 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aa9ca8ceff87f571fc9b968) | West Coast Magnetics | Stockton, CA | 09/15/2026 15:45:32 | Sponsorship: Not Sure |
-| 83 (Strong) | [ASIC Design Engineer](https://jobright.ai/jobs/info/6a6b93caacb0a61f9dbc1a5d) | SK hynix memory solutions America Inc. | San Jose, CA | 09/15/2026 15:55:32 | Sponsorship: Not Sure |
