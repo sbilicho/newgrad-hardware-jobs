@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-21 14:20:57Z UTC
+Updated: 2026-09-21 19:39:45Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab146baf9692ca98b048853) | Bi-Con Engineering | Derwent, OH | 09/21/2026 17:49:32 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Build For Growth Electrical Engineer I](https://jobright.ai/jobs/info/6ab184fd23005eee3545ae5d) | Amrize | Bloomsdale, MO | 09/21/2026 19:26:53 | Sponsorship: Past Sponsorship |
+| 73 (Strong) | [Post Silicon Validation Engineer – New College Graduate](https://jobright.ai/jobs/info/6ab168f823005eee3545a357) | Cirrus Logic | Austin, TX | 09/21/2026 19:25:16 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Embedded Software/Firmware Engineer (Entry Level) - SEAL - Smyrna, GA (Open Rank)](https://jobright.ai/jobs/info/6ab0ec5413894cd321222f60) | Georgia Tech Research Institute | Smyrna, GA | 09/21/2026 08:35:32 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6ab0fca65fb67bbec4bc12fc) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 09/21/2026 07:42:45 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ab139e7d43eb922ca0bd7b8) | RTX | Wilsonville, OR | 09/21/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-09-21 14:20:57Z UTC
 | 51 (Good) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6a97eae6c8ed473c5c76190d) | Textron | Cockeysville, MD | 09/16/2026 11:15:49 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Lead Electrical Engineer I](https://jobright.ai/jobs/info/6aaa7036f6bd9d2d17c17db8) | EnerSys | Commack, NY | 09/16/2026 10:32:22 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aaa8984c85610f4a48405d3) | Donohue & Associates, Inc. | Indianapolis, IN | 09/16/2026 12:20:20 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aaa80f34be87a729139ff43) | Donohue & Associates, Inc. | Indianapolis, IN | 09/16/2026 11:43:47 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [Entry-Level Electrical Hardware Engineer – FPGA, Networking & Cybersecurity](https://jobright.ai/jobs/info/6aaa0e083387a3d9b67d8e23) | General Dynamics | Pittsfield, MA | 09/15/2026 12:56:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Vision Systems Test Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa9e91c3387a3d9b67d7ddb) | RTX | Goleta, CA | 09/15/2026 20:19:39 | Security clearance language is present; Sponsorship: No |
