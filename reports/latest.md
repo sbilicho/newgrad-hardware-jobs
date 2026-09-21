@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-21 07:16:42Z UTC
+Updated: 2026-09-21 14:20:57Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 55 (Good) | [Embedded Software/Firmware Engineer (Entry Level) - SEAL - Smyrna, GA (Open Rank)](https://jobright.ai/jobs/info/6ab0ec5413894cd321222f60) | Georgia Tech Research Institute | Smyrna, GA | 09/21/2026 08:35:32 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6ab0fca65fb67bbec4bc12fc) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 09/21/2026 07:42:45 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ab139e7d43eb922ca0bd7b8) | RTX | Wilsonville, OR | 09/21/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab13befd43eb922ca0bd86b) | Newcomb & Boyd, LLP | Durham, NC | 09/21/2026 09:02:23 | Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Electrical Engineer I (SEA) (R5046)](https://jobright.ai/jobs/info/6ab10e6132552369083e0427) | Shield AI | Seattle, WA | 09/21/2026 11:00:49 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa56c87a77a53f5a1571007) | CRB | San Diego, CA | 09/21/2026 06:06:23 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ab0d1acdd960b415641a190) | ByteDance | San Jose, CA | 09/21/2026 06:41:48 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ab0d6b92e757fcb5c8bee76) | Harris Group | Portland, OR | 09/17/2026 08:24:07 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electrical Design Engineer I OR Electrical Design Engineer II - Oconee Nuclear Station](https://jobright.ai/jobs/info/6ab0b7ee2e757fcb5c8be49d) | Duke Energy Corporation | Seneca, SC | 09/21/2026 04:58:46 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-09-21 07:16:42Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aaa80f34be87a729139ff43) | Donohue & Associates, Inc. | Indianapolis, IN | 09/16/2026 11:43:47 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [Entry-Level Electrical Hardware Engineer – FPGA, Networking & Cybersecurity](https://jobright.ai/jobs/info/6aaa0e083387a3d9b67d8e23) | General Dynamics | Pittsfield, MA | 09/15/2026 12:56:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Vision Systems Test Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa9e91c3387a3d9b67d7ddb) | RTX | Goleta, CA | 09/15/2026 20:19:39 | Security clearance language is present; Sponsorship: No |
-| 63 (Good) | [Hardware Test Engineer](https://jobright.ai/jobs/info/6aa9c8f710b1cd4f41607e49) | Cisco | Carlsbad, CA | 09/15/2026 20:52:12 | Sponsorship: Not Sure |
-| 72 (Strong) | [Entry-Level Electrical Hardware Engineer – FPGA, Networking & Cybersecurity](https://jobright.ai/jobs/info/6aa9fa01eff87f571fc9cdc7) | General Dynamics Mission Systems | Pittsfield, MA | 09/15/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Hardware Engineer, Entry Level](https://jobright.ai/jobs/info/6aa9f79828e24cb38513d944) | BurnBot | South San Francisco, CA | 09/15/2026 17:04:30 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa9e3d310b1cd4f41608a0c) | Humphrey Products | Kalamazoo, MI | 09/16/2026 00:33:23 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6aa9e57728e24cb38513d17c) | Concord Engineering Group, Inc. | Bellevue, WA | 09/16/2026 00:40:23 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aa9e02509ae03adcacdfe9c) | Snap Inc. | Los Angeles, CA | 09/15/2026 17:17:41 | Sponsorship: Not Sure |
