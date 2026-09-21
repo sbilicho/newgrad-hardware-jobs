@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-21 20:37:59Z UTC
+Updated: 2026-09-21 21:34:09Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 32 (Possible) | [VLSI Engineer II Graduate](https://jobright.ai/jobs/info/6ab19b58191d8c340dbdbd04) | Hewlett Packard Enterprise | Sunnyvale, CA | 09/21/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 60 (Good) | [System Validation Engineer](https://jobright.ai/jobs/info/6ab19a32191d8c340dbdbc4e) | Supermicro | San Jose, CA | 09/21/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Controls Engineer - Centralia](https://jobright.ai/jobs/info/6ab18fcff9692ca98b04a568) | Rogers Machinery Company, Inc. | Centralia, WA | 09/21/2026 13:13:03 | Sponsorship: Not Sure |
+| 44 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ab1906ad2a93d5a97ebb733) | Samara Aerospace | San Francisco, CA | 09/21/2026 13:15:38 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab146baf9692ca98b048853) | Bi-Con Engineering | Derwent, OH | 09/21/2026 17:49:32 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Build For Growth Electrical Engineer I](https://jobright.ai/jobs/info/6ab184fd23005eee3545ae5d) | Amrize | Bloomsdale, MO | 09/21/2026 19:26:53 | Sponsorship: Past Sponsorship |
 | 73 (Strong) | [Post Silicon Validation Engineer – New College Graduate](https://jobright.ai/jobs/info/6ab168f823005eee3545a357) | Cirrus Logic | Austin, TX | 09/21/2026 19:25:16 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-09-21 20:37:59Z UTC
 | 30 (Possible) | [December 2026 New Graduate Engineer, Software / GNC](https://jobright.ai/jobs/info/6a9831c2def18223c854de48) | Mach Industries | Huntington Beach, CA | 09/16/2026 15:25:25 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer (EE1)](https://jobright.ai/jobs/info/6aaad03df6bd9d2d17c19b2f) | NCS ENGINEERS | Phoenix, AZ | 09/16/2026 17:22:05 | Sponsorship: Past Sponsorship |
 | 68 (Good) | [Product Engineer - New College Graduate](https://jobright.ai/jobs/info/6aaadd0976707040fb082bd8) | Cirrus Logic | Austin, TX | 09/16/2026 18:16:41 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Electrical Engineer I - Test](https://jobright.ai/jobs/info/6aaaa01440807b73bd390fa3) | RTX | Tucson, AZ | 09/16/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6a97eae6c8ed473c5c76190d) | Textron | Cockeysville, MD | 09/16/2026 11:15:49 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Lead Electrical Engineer I](https://jobright.ai/jobs/info/6aaa7036f6bd9d2d17c17db8) | EnerSys | Commack, NY | 09/16/2026 10:32:22 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aaa8984c85610f4a48405d3) | Donohue & Associates, Inc. | Indianapolis, IN | 09/16/2026 12:20:20 | Sponsorship: Past Sponsorship |
