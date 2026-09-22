@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-22 16:55:59Z UTC
+Updated: 2026-09-22 20:05:47Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 65 (Good) | [2027 Early Career Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007) | Anduril Industries | Costa Mesa, California, United States | 09/22/2026 18:27:15 |  |
+| 47 (Possible) | [Entry Level Failure Analysis Engineer](https://jobright.ai/jobs/info/6ab2dba21508734c1530c548) | Akkodis | Los Angeles, CA | 09/22/2026 19:48:50 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Antenna RF Electrical Design Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa8cfcaeff87f571fc97da0) | Raytheon | McKinney, TX | 09/22/2026 16:29:52 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab2d47f78c69ff506c40cb5) | SimpliSafe | Boston, MA | 09/22/2026 19:18:23 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6ab2cd171e4847ddae9168bd) | Haag, a Salas O'Brien Company | Atlanta, GA | 09/22/2026 18:46:47 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6ab2d1ec1e4847ddae916aa8) | Salas O'Brien | Atlanta, GA | 09/22/2026 19:07:24 | Sponsorship: Past Sponsorship |
+| 32 (Possible) | [Instrumentation & Controls Engineer 1 - Energy & Industrial](https://jobright.ai/jobs/info/6aa9695d6d0edc2d91b098a4) | Sargent & Lundy | Casper, WY | 09/22/2026 11:40:11 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab2af1f78c69ff506c3fd75) | Leitner-Poma Of America | Grand Junction, CO | 09/22/2026 11:15:41 | Sponsorship: Past Sponsorship |
 | 60 (Good) | [New College Grad - Product Test Engineer](https://jobright.ai/jobs/info/6aa814d7930bff471a2a5069) | Micron Technology | Boise, ID | 09/22/2026 09:28:17 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6ab28337326574570a0013d0) | Brightpath Associates LLC | Bethesda, MD | 09/22/2026 13:31:35 | Sponsorship: Past Sponsorship |
@@ -97,10 +104,3 @@ Updated: 2026-09-22 16:55:59Z UTC
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6aaba3c0c85610f4a4845023) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 09/17/2026 08:24:32 | Sponsorship: Past Sponsorship |
 | 64 (Good) | [Firmware Engineer](https://jobs.ashbyhq.com/etched/a735c757-7d39-47de-9329-77d6362b5547) | Etched | Austin | 05/12/2026 02:18:10 |  |
 | 48 (Possible) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6aab9acf455e4265cc3478c5) | General Dynamics | Pittsfield, MA | 09/17/2026 02:36:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aab8dbc8e1bf0f764af9bc8) | PAE | Portland, OR | 09/17/2026 06:50:36 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Assistant Electrical Engineer, Water - Municipal (Denver)](https://jobright.ai/jobs/info/6a99036283fc633357632c50) | Burns & McDonnell | Denver, CO | 09/16/2026 23:50:29 | Sponsorship: No |
-| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aab5548f6bd9d2d17c1c44f) | PAE | Culver City, CA | 09/17/2026 04:16:18 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aab5510c85610f4a484465a) | PAE | New York, NY | 09/16/2026 19:48:48 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aab5515c85610f4a484465b) | PAE | Boston, MA | 09/16/2026 19:48:53 | Sponsorship: Not Sure |
-| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aab554af6bd9d2d17c1c452) | PAE | Seattle, WA | 09/16/2026 19:49:46 | Sponsorship: Not Sure |
-| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aab556d8e1bf0f764af94ee) | PAE | San Francisco, CA | 09/16/2026 19:50:21 | Sponsorship: Past Sponsorship |
