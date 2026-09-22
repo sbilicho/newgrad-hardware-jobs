@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-22 06:44:30Z UTC
+Updated: 2026-09-22 12:06:02Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 85 (Strong) | [Design Verification (DV) Engineer - 2027 Grads](https://jobright.ai/jobs/info/6a95f30a4c22023a079371f5) | Hudson River Trading | New York, NY | 09/22/2026 10:54:10 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Mechanical Hardware Engineer I Graduate](https://jobright.ai/jobs/info/6ab1e3e2f9692ca98b04c1e1) | Hewlett Packard Enterprise | Sunnyvale, CA | 09/22/2026 04:36:14 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6a0b0a65a235d749afa810dd) | Leidos | Rockaway Township, NJ | 09/21/2026 20:16:27 | Sponsorship: No |
 | 45 (Possible) | [Test Engineer](https://jobright.ai/jobs/info/6a04bf07f811a0436960e042) | Leidos | Wharton, NJ | 09/21/2026 20:16:27 | Sponsorship: No |
 | 43 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab14f5ad2a93d5a97eb9bd0) | Trane Technologies | Clarksville, TN | 09/21/2026 20:18:14 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-09-22 06:44:30Z UTC
 | 37 (Possible) | [Submarine Power Plant Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6aa780ae82e82a31997c1fa8) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 09/16/2026 22:40:53 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Associate Electrical Engineer](https://jobright.ai/jobs/info/6a9880c711f73b6462c8ef77) | Ramboll | Los Angeles, CA; Valhalla, NY; Binghamton, NY; Syracuse, NY; Charlotte, NC | 09/16/2026 14:27:50 | Sponsorship: No |
 | 40 (Possible) | [Physical Electrical Engineer I](https://jobright.ai/jobs/info/6aaae44476707040fb082e5f) | Minnesota Power | Duluth, MN | 09/16/2026 18:47:32 | Sponsorship: Past Sponsorship |
-| 71 (Strong) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aab022ac85610f4a4843032) | Raytheon | McKinney, TX | 09/16/2026 21:20:06 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6aab0b668e1bf0f764af81e3) | Hurst Electric | Euless, TX | 09/16/2026 21:34:30 | Sponsorship: Past Sponsorship |
