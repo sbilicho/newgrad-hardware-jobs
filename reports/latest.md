@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-22 01:27:21Z UTC
+Updated: 2026-09-22 06:44:30Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 50 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6a0b0a65a235d749afa810dd) | Leidos | Rockaway Township, NJ | 09/21/2026 20:16:27 | Sponsorship: No |
+| 45 (Possible) | [Test Engineer](https://jobright.ai/jobs/info/6a04bf07f811a0436960e042) | Leidos | Wharton, NJ | 09/21/2026 20:16:27 | Sponsorship: No |
+| 43 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab14f5ad2a93d5a97eb9bd0) | Trane Technologies | Clarksville, TN | 09/21/2026 20:18:14 | Sponsorship: Past Sponsorship |
+| 57 (Good) | [Hardware Design Engineer](https://jobright.ai/jobs/info/6ab1d1cbf9692ca98b04bead) | Supermicro | San Jose, CA | 09/21/2026 20:49:36 | Sponsorship: Not Sure |
+| 46 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6ab191f2191d8c340dbdb7db) | Stryker | Portage, MI | 09/21/2026 21:05:12 | Sponsorship: Not Sure |
 | 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6ab1b2d6f9692ca98b04b65f) | CSL | Kankakee, IL | 09/21/2026 16:46:36 | Sponsorship: Not Sure |
 | 48 (Possible) | [ELECTRICAL ENGINEER I](https://jobright.ai/jobs/info/6ab1c3acd43eb922ca0c0fac) | SharkNinja France | Needham, MA | 09/21/2026 23:54:20 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab1aa5cd2a93d5a97ebc2c7) | Leitner-Poma Of America | Grand Junction, CO | 09/21/2026 17:02:16 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-09-22 01:27:21Z UTC
 | 40 (Possible) | [Physical Electrical Engineer I](https://jobright.ai/jobs/info/6aaae44476707040fb082e5f) | Minnesota Power | Duluth, MN | 09/16/2026 18:47:32 | Sponsorship: Past Sponsorship |
 | 71 (Strong) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aab022ac85610f4a4843032) | Raytheon | McKinney, TX | 09/16/2026 21:20:06 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6aab0b668e1bf0f764af81e3) | Hurst Electric | Euless, TX | 09/16/2026 21:34:30 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [Post-silicon Validation and Debug Engineer](https://jobright.ai/jobs/info/6aaaf2f576707040fb0833d2) | Intel | Hillsboro, OR | 09/16/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 55 (Good) | [Hardware Engineer I (Full Time) - United States](https://jobright.ai/jobs/info/6aaaf09376707040fb083332) | Cisco | San Jose, CA | 09/16/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 56 (Good) | [Hardware Validation Engineer, NPD Hardware](https://jobright.ai/jobs/info/6aaaf92f76707040fb083530) | Amazon | Cupertino, CA | 09/16/2026 13:16:47 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Physical Electrical Engineer I](https://jobright.ai/jobs/info/6aaafeb54be87a72913a2920) | ALLETE | Duluth, MN | 09/16/2026 13:40:21 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer- Submarine RF, Sensor & Hardware Systems](https://jobright.ai/jobs/info/6aab01ed4be87a72913a2b22) | STC, an Arcfield Company | Middletown, RI | 09/16/2026 13:54:05 | Sponsorship: No |
