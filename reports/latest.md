@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-21 22:34:37Z UTC
+Updated: 2026-09-22 01:27:21Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6ab1b2d6f9692ca98b04b65f) | CSL | Kankakee, IL | 09/21/2026 16:46:36 | Sponsorship: Not Sure |
+| 48 (Possible) | [ELECTRICAL ENGINEER I](https://jobright.ai/jobs/info/6ab1c3acd43eb922ca0c0fac) | SharkNinja France | Needham, MA | 09/21/2026 23:54:20 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab1aa5cd2a93d5a97ebc2c7) | Leitner-Poma Of America | Grand Junction, CO | 09/21/2026 17:02:16 | Sponsorship: Past Sponsorship |
 | 86 (Strong) | [Physical Design Methodology CAD Engineer](https://jobright.ai/jobs/info/6ab1b04023005eee3545c0f3) | Apple | Austin, TX | 09/21/2026 22:31:28 | Sponsorship: Past Sponsorship |
 | 32 (Possible) | [VLSI Engineer II Graduate](https://jobright.ai/jobs/info/6ab19b58191d8c340dbdbd04) | Hewlett Packard Enterprise | Sunnyvale, CA | 09/21/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-09-21 22:34:37Z UTC
 | 56 (Good) | [Hardware Validation Engineer, NPD Hardware](https://jobright.ai/jobs/info/6aaaf92f76707040fb083530) | Amazon | Cupertino, CA | 09/16/2026 13:16:47 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Physical Electrical Engineer I](https://jobright.ai/jobs/info/6aaafeb54be87a72913a2920) | ALLETE | Duluth, MN | 09/16/2026 13:40:21 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer- Submarine RF, Sensor & Hardware Systems](https://jobright.ai/jobs/info/6aab01ed4be87a72913a2b22) | STC, an Arcfield Company | Middletown, RI | 09/16/2026 13:54:05 | Sponsorship: No |
-| 66 (Good) | [Firmware Engineer, Space (Emerging Talent)](https://boards.greenhouse.io/andurilindustries/jobs/5239596007?gh_jid=5239596007) | Anduril Industries | Costa Mesa, California, United States | 09/16/2026 18:30:31 | Security clearance language is present; Full-time status is inferred from the first-party posting |
-| 30 (Possible) | [December 2026 New Graduate Engineer, Software / GNC](https://jobright.ai/jobs/info/6a9831c2def18223c854de48) | Mach Industries | Huntington Beach, CA | 09/16/2026 15:25:25 | Sponsorship: Past Sponsorship |
