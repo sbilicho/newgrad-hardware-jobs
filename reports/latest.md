@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-23 01:23:25Z UTC
+Updated: 2026-09-23 06:21:31Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 42 (Possible) | [Electrical Design Engineer I Job Details \| Murata Power Solutions, Inc.](https://jobright.ai/jobs/info/6ab35c6f5d482753f3e68b93) | Murata Power Solutions | Westborough, MA | 09/23/2026 04:58:23 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [RF Engineer](https://jobright.ai/jobs/info/6aa4cd4aa77a53f5a156e242) | Redwire | Longmont, CO | 09/22/2026 20:34:28 | Sponsorship: No |
+| 40 (Possible) | [Electrical Engineer 1 or 2](https://jobright.ai/jobs/info/6ab19a15191d8c340dbdbc39) | Northrop Grumman | Chandler, AZ | 09/22/2026 21:27:53 | Security clearance language is present; Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab3193930340229a323186e) | Inalfa Roof Systems Group | Acworth, GA | 09/23/2026 00:46:22 | Sponsorship: Past Sponsorship |
 | 61 (Good) | [Test Engineer I](https://jobright.ai/jobs/info/6ab2efb378c69ff506c414b0) | Hyve Solutions | Nevada, NV, United States | 09/22/2026 16:37:57 | Sponsorship: Not Sure |
 | 57 (Good) | [Test Engineer I](https://jobright.ai/jobs/info/6a506394f57ed168c3418bf8) | Hyve Solutions | Nevada, NV, United States | 09/22/2026 16:37:57 | Sponsorship: Not Sure |
@@ -101,6 +104,3 @@ Updated: 2026-09-23 01:23:25Z UTC
 | 59 (Good) | [PCB Design Engineer I](https://jobright.ai/jobs/info/6aac0d2a636cddf7396f1e45) | Powerus | Charlotte, NC | 09/17/2026 15:54:18 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 72 (Strong) | [ASIC FPGA Engineer – Entry Level](https://jobright.ai/jobs/info/6aac0e93636cddf7396f1ed3) | General Dynamics | Boise, ID | 09/17/2026 10:30:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 72 (Strong) | [ASIC FPGA Engineer Entry Level](https://jobright.ai/jobs/info/6aac0e5695c707f49dfef29c) | General Dynamics Mission Systems | Boise, ID | 09/17/2026 15:59:18 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6aa9433310b1cd4f41605178) | General Dynamics Mission Systems | Arizona State | 09/17/2026 09:51:27 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [Junior Post-Silicon Validation Engineer](https://jobright.ai/jobs/info/6aabefbf3d96632d741a8401) | Movellus Inc. | Ann Arbor, MI | 09/17/2026 13:48:47 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aabc3170d36a75ba5bb0f94) | Dice | East Hartford, CT | 09/17/2026 10:38:15 | Sponsorship: Past Sponsorship |
