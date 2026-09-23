@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-23 06:21:31Z UTC
+Updated: 2026-09-23 11:57:49Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Electrical/Hardware Engineer I](https://jobright.ai/jobs/info/6ab32eb730340229a3231c9e) | Hewlett Packard Enterprise | Spring, TX | 09/23/2026 03:37:12 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electrical Design Engineer I Job Details \| Murata Power Solutions, Inc.](https://jobright.ai/jobs/info/6ab35c6f5d482753f3e68b93) | Murata Power Solutions | Westborough, MA | 09/23/2026 04:58:23 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [RF Engineer](https://jobright.ai/jobs/info/6aa4cd4aa77a53f5a156e242) | Redwire | Longmont, CO | 09/22/2026 20:34:28 | Sponsorship: No |
 | 40 (Possible) | [Electrical Engineer 1 or 2](https://jobright.ai/jobs/info/6ab19a15191d8c340dbdbc39) | Northrop Grumman | Chandler, AZ | 09/22/2026 21:27:53 | Security clearance language is present; Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-09-23 06:21:31Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aac05693e3ce93970c7b26b) | JSG (Johnson Service Group, Inc.) | Cypress, CA | 09/16/2026 21:04:53 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [PCB Design Engineer I](https://jobright.ai/jobs/info/6aac0d2a636cddf7396f1e45) | Powerus | Charlotte, NC | 09/17/2026 15:54:18 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 72 (Strong) | [ASIC FPGA Engineer – Entry Level](https://jobright.ai/jobs/info/6aac0e93636cddf7396f1ed3) | General Dynamics | Boise, ID | 09/17/2026 10:30:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 72 (Strong) | [ASIC FPGA Engineer Entry Level](https://jobright.ai/jobs/info/6aac0e5695c707f49dfef29c) | General Dynamics Mission Systems | Boise, ID | 09/17/2026 15:59:18 | Security clearance language is present; Sponsorship: Past Sponsorship |
