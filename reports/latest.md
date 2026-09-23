@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-22 22:56:09Z UTC
+Updated: 2026-09-23 01:23:25Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab3193930340229a323186e) | Inalfa Roof Systems Group | Acworth, GA | 09/23/2026 00:46:22 | Sponsorship: Past Sponsorship |
+| 61 (Good) | [Test Engineer I](https://jobright.ai/jobs/info/6ab2efb378c69ff506c414b0) | Hyve Solutions | Nevada, NV, United States | 09/22/2026 16:37:57 | Sponsorship: Not Sure |
+| 57 (Good) | [Test Engineer I](https://jobright.ai/jobs/info/6a506394f57ed168c3418bf8) | Hyve Solutions | Nevada, NV, United States | 09/22/2026 16:37:57 | Sponsorship: Not Sure |
 | 65 (Good) | [2027 Early Career Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007) | Anduril Industries | Costa Mesa, California, United States | 09/22/2026 18:27:15 |  |
 | 47 (Possible) | [Entry Level Failure Analysis Engineer](https://jobright.ai/jobs/info/6ab2dba21508734c1530c548) | Akkodis | Los Angeles, CA | 09/22/2026 19:48:50 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Antenna RF Electrical Design Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa8cfcaeff87f571fc97da0) | Raytheon | McKinney, TX | 09/22/2026 16:29:52 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-09-22 22:56:09Z UTC
 | 40 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6aa9433310b1cd4f41605178) | General Dynamics Mission Systems | Arizona State | 09/17/2026 09:51:27 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [Junior Post-Silicon Validation Engineer](https://jobright.ai/jobs/info/6aabefbf3d96632d741a8401) | Movellus Inc. | Ann Arbor, MI | 09/17/2026 13:48:47 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aabc3170d36a75ba5bb0f94) | Dice | East Hartford, CT | 09/17/2026 10:38:15 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6aaba3c0c85610f4a4845023) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 09/17/2026 08:24:32 | Sponsorship: Past Sponsorship |
-| 64 (Good) | [Firmware Engineer](https://jobs.ashbyhq.com/etched/a735c757-7d39-47de-9329-77d6362b5547) | Etched | Austin | 05/12/2026 02:18:10 |  |
-| 48 (Possible) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6aab9acf455e4265cc3478c5) | General Dynamics | Pittsfield, MA | 09/17/2026 02:36:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
