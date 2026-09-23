@@ -1,9 +1,20 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-23 11:57:49Z UTC
+Updated: 2026-09-23 16:46:36Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 49 (Possible) | [Electrical Engineer I - Test Solutions](https://jobright.ai/jobs/info/6ab3e073d2f5fbd604be0158) | RTX | Tucson, AZ | 09/23/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 76 (Strong) | [Power & Analog Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aaa21cf10b1cd4f41609f36) | Raytheon | McKinney, TX | 09/23/2026 14:52:51 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I – Early Career (2026 Starts)](https://jobright.ai/jobs/info/6961c3a3e7ed9a5731ba9685) | Blue Origin | Greater Seattle Area | 09/23/2026 10:14:13 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Antenna Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aaa21e13387a3d9b67d9222) | Raytheon | Tucson, AZ | 09/23/2026 16:30:19 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6ab3dd790e0ae54eeea45186) | Brightpath Associates LLC | Bethesda, MD | 09/23/2026 14:08:57 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [Equipment Validation Engineer](https://jobright.ai/jobs/info/6ab3ebe655e9168cf5ea33dc) | Virtue America | United States | 09/23/2026 15:10:30 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Principal Eng Device Engineering, Silicon Phonics Compact Modeling (2027 New College Grad)](https://jobright.ai/jobs/info/6ab3f105d2f5fbd604be067d) | GlobalFoundries | Malta, NY | 09/23/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 57 (Good) | [Sustaining Test Engineer I](https://jobright.ai/jobs/info/6ab3e9faef911c35dffa21a9) | Benchmark | Winona, MN | 09/23/2026 08:02:18 | Sponsorship: Not Sure |
+| 48 (Possible) | [FPGA Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a97a338408304609c16dd4f) | RTX | McKinney, TX | 09/23/2026 08:13:32 | Security clearance language is present; Sponsorship: No |
+| 40 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6a5e00fe050c423c792ecedf) | CACI International Inc | Crane, IN | 09/23/2026 08:19:59 | U.S. citizenship language is present; Sponsorship: No |
+| 37 (Possible) | [Associate Engineer - Electrical Engineer](https://jobright.ai/jobs/info/6ab3efa4ef911c35dffa230f) | JEA | Jacksonville, FL | 09/23/2026 08:26:28 | Sponsorship: Not Sure |
 | 46 (Possible) | [Electrical/Hardware Engineer I](https://jobright.ai/jobs/info/6ab32eb730340229a3231c9e) | Hewlett Packard Enterprise | Spring, TX | 09/23/2026 03:37:12 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electrical Design Engineer I Job Details \| Murata Power Solutions, Inc.](https://jobright.ai/jobs/info/6ab35c6f5d482753f3e68b93) | Murata Power Solutions | Westborough, MA | 09/23/2026 04:58:23 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [RF Engineer](https://jobright.ai/jobs/info/6aa4cd4aa77a53f5a156e242) | Redwire | Longmont, CO | 09/22/2026 20:34:28 | Sponsorship: No |
@@ -93,14 +104,3 @@ Updated: 2026-09-23 11:57:49Z UTC
 | 42 (Possible) | [Associate Product Engineer](https://jobright.ai/jobs/info/6aac4aa195c707f49dff09ef) | Callaway Golf | Carlsbad, CA | 09/17/2026 16:48:41 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aac44973d96632d741aa1f8) | Ciorba Group, Inc. | Greater Chicago Area | 09/17/2026 19:50:47 | Sponsorship: Past Sponsorship |
 | 95 (Strong) | [New College Grad - Engineer, ASIC Digital Design](https://jobright.ai/jobs/info/6aac3cc13e3ce93970c7c7ea) | Micron Technology | Minneapolis, MN | 09/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 65 (Good) | [Entry-Level FPGA Design Engineer](https://jobright.ai/jobs/info/6aac396d3e3ce93970c7c6ee) | Space Dynamics Laboratory | North Logan, UT | 09/17/2026 19:03:09 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aab714d8e1bf0f764af98f8) | PAE | Denver, CO | 09/17/2026 04:49:17 | Sponsorship: Past Sponsorship |
-| 36 (Possible) | [Embedded Software Engineer – Entry Level](https://jobright.ai/jobs/info/6aac0ee9636cddf7396f1f0f) | General Dynamics | Boise, ID | 09/17/2026 10:30:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 36 (Possible) | [Embedded Software Engineer Entry Level](https://jobright.ai/jobs/info/6aac0e783d96632d741a8def) | General Dynamics Mission Systems | Boise, ID | 09/17/2026 15:59:52 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aac18493e3ce93970c7b9f0) | Twenty-Six Defense | Merrimack, NH | 09/17/2026 05:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aabf4d795c707f49dfeeacf) | Chaparral Boats Inc | Nashville, GA | 09/17/2026 09:08:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aac184295c707f49dfef6df) | Bowman Consulting | Westminster, CO | 09/17/2026 16:41:38 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6aac18ae3e3ce93970c7ba5d) | Affiliated Engineers, Inc. | Charlottesville, VA | 09/17/2026 16:43:26 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aac05693e3ce93970c7b26b) | JSG (Johnson Service Group, Inc.) | Cypress, CA | 09/16/2026 21:04:53 | Sponsorship: Past Sponsorship |
-| 59 (Good) | [PCB Design Engineer I](https://jobright.ai/jobs/info/6aac0d2a636cddf7396f1e45) | Powerus | Charlotte, NC | 09/17/2026 15:54:18 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 72 (Strong) | [ASIC FPGA Engineer – Entry Level](https://jobright.ai/jobs/info/6aac0e93636cddf7396f1ed3) | General Dynamics | Boise, ID | 09/17/2026 10:30:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
