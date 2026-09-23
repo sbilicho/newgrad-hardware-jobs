@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-23 16:46:36Z UTC
+Updated: 2026-09-23 19:53:52Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 48 (Possible) | [Electrical Engineer I (BOS)](https://jobright.ai/jobs/info/69e97275e0cd471b2f13d6b1) | Shield AI | Boston, MA | 09/23/2026 12:43:31 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 50 (Good) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6ab4036f0e0ae54eeea45f3e) | General Dynamics | Taunton, MA | 09/23/2026 11:36:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Sustaining Test Engineer I](https://jobright.ai/jobs/info/6a6314a432abf9182432cd55) | Benchmark | Rochester, MN | 09/23/2026 11:29:40 | Sponsorship: Not Sure |
+| 58 (Good) | [Software Engineer Embedded Systems I (Full Time) - United States](https://jobright.ai/jobs/info/6ab4049164816213f2d96a0b) | Cisco | San Jose, CA | 09/23/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Electronics Engineer - Entry level](https://jobright.ai/jobs/info/6ab4145bd2f5fbd604be1702) | Tata Technologies | Peoria, IL | 09/23/2026 18:03:07 | Sponsorship: Past Sponsorship |
+| 56 (Good) | [Controls & Validation Engineer (Entry level)](https://jobright.ai/jobs/info/6ab4181964816213f2d973f6) | Harvey Nash | Washington, IL | 09/23/2026 18:19:05 | Sponsorship: Past Sponsorship |
+| 81 (Strong) | [Design Verification Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ab4283655e9168cf5ea4c50) | GlobalFoundries | Richardson, TX | 09/23/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electrical Engineer I - Test Solutions](https://jobright.ai/jobs/info/6ab3e073d2f5fbd604be0158) | RTX | Tucson, AZ | 09/23/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 76 (Strong) | [Power & Analog Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aaa21cf10b1cd4f41609f36) | Raytheon | McKinney, TX | 09/23/2026 14:52:51 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I – Early Career (2026 Starts)](https://jobright.ai/jobs/info/6961c3a3e7ed9a5731ba9685) | Blue Origin | Greater Seattle Area | 09/23/2026 10:14:13 | Sponsorship: Past Sponsorship |
@@ -97,10 +104,3 @@ Updated: 2026-09-23 16:46:36Z UTC
 | 91 (Strong) | [Entry Level- FPGA Engineer (Onsite- Aberdeen, Maryland)](https://jobright.ai/jobs/info/6aad493b3d96632d741acf0f) | Fairwinds Technologies | Aberdeen, MD | 09/18/2026 09:53:00 | Sponsorship: Past Sponsorship |
 | 80 (Strong) | [FAST Lab – Entry Level FPGA Engineer (Fall 2026 hire)](https://jobright.ai/jobs/info/6aad3d983dbb1f8967cec6fb) | BAE Systems | Merrimack, NH | 09/18/2026 13:33:12 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 67 (Good) | [Entry Level- Test Engineer (Onsite- Aberdeen Maryland)](https://jobright.ai/jobs/info/6aad498b3d96632d741acf25) | Fairwinds Technologies | United States | 09/18/2026 09:19:00 | Sponsorship: Past Sponsorship |
-| 36 (Possible) | [Embedded Software Engineer – Entry Level](https://jobright.ai/jobs/info/6aac9d193dbb1f8967ceb2fb) | General Dynamics Mission Systems | Boise, ID | 09/17/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 50 (Good) | [Radar Systems Test Engineer I (Onsite)](https://jobright.ai/jobs/info/6aac7666636cddf7396f42e1) | RTX | El Segundo, CA | 09/17/2026 20:19:13 | Security clearance language is present; Sponsorship: No |
-| 51 (Good) | [Availability & Reliability Engineer](https://jobright.ai/jobs/info/6aac94f63e3ce93970c7df01) | GE Vernova | Greenville, SC | 09/17/2026 22:23:01 | Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer I-Power Systems](https://jobright.ai/jobs/info/6aac7cc13dbb1f8967cead60) | Affiliated Engineers, Inc. | Chapel Hill, NC | 09/17/2026 16:49:16 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Associate Product Engineer](https://jobright.ai/jobs/info/6aac4aa195c707f49dff09ef) | Callaway Golf | Carlsbad, CA | 09/17/2026 16:48:41 | Sponsorship: Not Sure |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aac44973d96632d741aa1f8) | Ciorba Group, Inc. | Greater Chicago Area | 09/17/2026 19:50:47 | Sponsorship: Past Sponsorship |
-| 95 (Strong) | [New College Grad - Engineer, ASIC Digital Design](https://jobright.ai/jobs/info/6aac3cc13e3ce93970c7c7ea) | Micron Technology | Minneapolis, MN | 09/17/2026 00:00:00 | Sponsorship: Past Sponsorship |
