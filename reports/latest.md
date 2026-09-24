@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-24 00:56:24Z UTC
+Updated: 2026-09-24 06:02:18Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 42 (Possible) | [Senior Electrical Design Engineer I (MEP)](https://jobright.ai/jobs/info/6ab48bac0e0ae54eeea48c87) | Interface Engineering, Inc. | Oakland, CA | 09/24/2026 02:32:12 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6ab48d587bd0813713317e18) | General Dynamics Mission Systems | Taunton, MA | 09/23/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Hardware Engineer I](https://jobright.ai/jobs/info/6ab4a5cd17d731fd2c0c59bc) | Panasonic Avionics Corporation | Irvine, CA | 09/23/2026 21:23:41 | Sponsorship: No |
 | 54 (Good) | [Electrical Test Engineer - Entry Level](https://jobright.ai/jobs/info/6ab456a5d2f5fbd604be3084) | Dice | Pittsfield, MA | 09/23/2026 22:45:57 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 75 (Strong) | [Graduate Firmware Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8841995002) | Graphcore | Austin, Texas, United States | 09/24/2026 00:28:01 | Full-time status is inferred from the first-party posting |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab41b957bd0813713315ca2) | Leonardo DRS | Bridgeton, MO | 09/23/2026 18:58:46 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-09-24 00:56:24Z UTC
 | 72 (Strong) | [Entry-Level Electrical Hardware Engineer - FPGA, Networking & Cybersecurity](https://jobright.ai/jobs/info/6aadbe900ebc8fb2313eb47a) | Dice | Pittsfield, MA | 09/18/2026 22:43:28 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 88 (Strong) | [CPU Physical Design Engineer, San Diego](https://jobright.ai/jobs/info/6aadbe206956574eac8b76b4) | Qualcomm | San Diego, CA | 09/18/2026 22:41:36 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Early Career R&D Electrical Engineer - High-reliability Electronic Components, Onsite](https://jobright.ai/jobs/info/6aacb9dd636cddf7396f4c60) | Sandia National Laboratories | Albuquerque, NM | 09/18/2026 16:43:26 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Senior Electrical Engineer I Job Details \| NEW YORK POWER AUTHORITY](https://jobright.ai/jobs/info/6aad6f070ebc8fb2313e980e) | New York Power Authority | Astoria, OR | 09/18/2026 17:04:07 | Sponsorship: Past Sponsorship |
-| 91 (Strong) | [Entry Level ASIC/FPGA Design Engineer – Space Electronics - MTV](https://jobright.ai/jobs/info/6aad78fc6956574eac8b5dd4) | Boeing | Mountain View, CA | 09/18/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Electrical Design Engineer (Entry-Level)](https://jobright.ai/jobs/info/6aad6a753d96632d741adb05) | Mulder Engineering Inc | Greater Minneapolis–St. Paul Area | 09/18/2026 16:44:37 | Sponsorship: Past Sponsorship |
