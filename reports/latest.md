@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-24 11:39:06Z UTC
+Updated: 2026-09-24 15:58:08Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Research Electrical Engineer I or II - National Security Institute](https://jobright.ai/jobs/info/6ab5464ad85922de20ce01c8) | Virginia Tech | Blacksburg, VA | 09/24/2026 13:46:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 90 (Strong) | [New College Grad - Mixed Signal Design Engineer, HBM](https://jobright.ai/jobs/info/6a58d941686b4755d1e0cba4) | Micron Technology | Richardson, TX | 09/24/2026 09:05:42 | Sponsorship: Past Sponsorship |
+| 54 (Good) | [Hardware Test Engineer I / II](https://jobright.ai/jobs/info/6ab3f3db64816213f2d962c0) | BAE Systems | Saint Inigoes, MD; Upper Jutland, Maryland, United States; St. Mary's County, Maryland, United States | 09/24/2026 07:34:33 | Sponsorship: No |
+| 51 (Good) | [Systems Integration/Test Engineer Asc - Entry Level](https://jobright.ai/jobs/info/6ab47a4764816213f2d99474) | Lockheed Martin | Sunnyvale, CA | 09/24/2026 12:54:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Senior Electrical Design Engineer I (MEP)](https://jobright.ai/jobs/info/6ab48bac0e0ae54eeea48c87) | Interface Engineering, Inc. | Oakland, CA | 09/24/2026 02:32:12 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6ab48d587bd0813713317e18) | General Dynamics Mission Systems | Taunton, MA | 09/23/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Hardware Engineer I](https://jobright.ai/jobs/info/6ab4a5cd17d731fd2c0c59bc) | Panasonic Avionics Corporation | Irvine, CA | 09/23/2026 21:23:41 | Sponsorship: No |
@@ -100,7 +104,3 @@ Updated: 2026-09-24 11:39:06Z UTC
 | 47 (Possible) | [Senior Validation Engineer I](https://jobright.ai/jobs/info/6aad4d7a2e757fcb5c8b7952) | Takeda | Lexington, MA | 09/19/2026 04:53:12 | Sponsorship: Past Sponsorship |
 | 64 (Good) | [Firmware Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/5243033007?gh_jid=5243033007) | Anduril Industries | Atlanta, Georgia, United States; Costa Mesa, California, United States | 09/19/2026 00:13:35 | Security clearance language is present; Full-time status is inferred from the first-party posting |
 | 64 (Good) | [Firmware Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/4987908007?gh_jid=4987908007) | Anduril Industries | Costa Mesa, California, United States | 09/19/2026 00:08:41 | Security clearance language is present; Full-time status is inferred from the first-party posting |
-| 50 (Good) | [System Integration and Test Engineer - 2nd Shift](https://jobright.ai/jobs/info/6aadd6183d96632d741afef5) | ASML | San Diego, CA | 09/18/2026 17:23:52 | Sponsorship: No |
-| 72 (Strong) | [Entry-Level Electrical Hardware Engineer - FPGA, Networking & Cybersecurity](https://jobright.ai/jobs/info/6aadbe900ebc8fb2313eb47a) | Dice | Pittsfield, MA | 09/18/2026 22:43:28 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 88 (Strong) | [CPU Physical Design Engineer, San Diego](https://jobright.ai/jobs/info/6aadbe206956574eac8b76b4) | Qualcomm | San Diego, CA | 09/18/2026 22:41:36 | Sponsorship: Past Sponsorship |
-| 55 (Good) | [Early Career R&D Electrical Engineer - High-reliability Electronic Components, Onsite](https://jobright.ai/jobs/info/6aacb9dd636cddf7396f4c60) | Sandia National Laboratories | Albuquerque, NM | 09/18/2026 16:43:26 | Security clearance language is present; Sponsorship: Past Sponsorship |
