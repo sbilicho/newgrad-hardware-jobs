@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-23 22:44:59Z UTC
+Updated: 2026-09-24 00:56:24Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 54 (Good) | [Electrical Test Engineer - Entry Level](https://jobright.ai/jobs/info/6ab456a5d2f5fbd604be3084) | Dice | Pittsfield, MA | 09/23/2026 22:45:57 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 75 (Strong) | [Graduate Firmware Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8841995002) | Graphcore | Austin, Texas, United States | 09/24/2026 00:28:01 | Full-time status is inferred from the first-party posting |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab41b957bd0813713315ca2) | Leonardo DRS | Bridgeton, MO | 09/23/2026 18:58:46 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 50 (Good) | [Test Engineer I - TeraWave](https://jobright.ai/jobs/info/6ab4327e64816213f2d97c55) | Blue Origin | Greater Seattle Area, United States; Denver, CO | 09/23/2026 16:11:57 | Sponsorship: No |
 | 48 (Possible) | [Electrical Engineer I (BOS)](https://jobright.ai/jobs/info/69e97275e0cd471b2f13d6b1) | Shield AI | Boston, MA | 09/23/2026 12:43:31 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 50 (Good) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6ab4036f0e0ae54eeea45f3e) | General Dynamics | Taunton, MA | 09/23/2026 11:36:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Sustaining Test Engineer I](https://jobright.ai/jobs/info/6a6314a432abf9182432cd55) | Benchmark | Rochester, MN | 09/23/2026 11:29:40 | Sponsorship: Not Sure |
@@ -100,7 +104,3 @@ Updated: 2026-09-23 22:44:59Z UTC
 | 37 (Possible) | [Senior Electrical Engineer I Job Details \| NEW YORK POWER AUTHORITY](https://jobright.ai/jobs/info/6aad6f070ebc8fb2313e980e) | New York Power Authority | Astoria, OR | 09/18/2026 17:04:07 | Sponsorship: Past Sponsorship |
 | 91 (Strong) | [Entry Level ASIC/FPGA Design Engineer – Space Electronics - MTV](https://jobright.ai/jobs/info/6aad78fc6956574eac8b5dd4) | Boeing | Mountain View, CA | 09/18/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electrical Design Engineer (Entry-Level)](https://jobright.ai/jobs/info/6aad6a753d96632d741adb05) | Mulder Engineering Inc | Greater Minneapolis–St. Paul Area | 09/18/2026 16:44:37 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aad59642e757fcb5c8b7ca3) | RFA Engineering | East Peoria, IL | 09/18/2026 15:31:48 | Sponsorship: Past Sponsorship |
-| 91 (Strong) | [Entry Level- FPGA Engineer (Onsite- Aberdeen, Maryland)](https://jobright.ai/jobs/info/6aad493b3d96632d741acf0f) | Fairwinds Technologies | Aberdeen, MD | 09/18/2026 09:53:00 | Sponsorship: Past Sponsorship |
-| 80 (Strong) | [FAST Lab – Entry Level FPGA Engineer (Fall 2026 hire)](https://jobright.ai/jobs/info/6aad3d983dbb1f8967cec6fb) | BAE Systems | Merrimack, NH | 09/18/2026 13:33:12 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 67 (Good) | [Entry Level- Test Engineer (Onsite- Aberdeen Maryland)](https://jobright.ai/jobs/info/6aad498b3d96632d741acf25) | Fairwinds Technologies | United States | 09/18/2026 09:19:00 | Sponsorship: Past Sponsorship |
