@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-25 20:38:55Z UTC
+Updated: 2026-09-25 23:37:49Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 43 (Possible) | [Digital Electronics Electrical Engineer I –Onsite](https://jobright.ai/jobs/info/6ab69cad9d4843569fe4e3bd) | RTX | Tewksbury, MA | 09/25/2026 21:19:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 92 (Strong) | [New College Grad - HBM SoC Design Engineer/Architect](https://jobright.ai/jobs/info/6ab6f03e39fd8792cb73cd15) | Micron Technology | Folsom, CA | 09/14/2026 22:05:33 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6ab6ec85ba1c25652c610a72) | Boeing | Hazelwood, MO | 09/25/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Associate Controls Engineer](https://jobright.ai/jobs/info/6ab6fc413a2ec87116e24ec6) | Molex | Little Falls, MN | 09/25/2026 15:57:05 | Sponsorship: Not Sure |
 | 56 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a99f2c190a313642c653b57) | CesiumAstro | Westminster, CO | 09/25/2026 14:49:53 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aac542e3d96632d741aa844) | Raytheon | Plano, TX | 09/25/2026 16:12:57 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab697da634ec6aa7c0d333c) | Freeport-McMoRan | Morenci, AZ | 09/25/2026 15:48:42 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-09-25 20:38:55Z UTC
 | 55 (Good) | [Embedded Software/Firmware Engineer (Entry Level) - SEAL - Smyrna, GA (Open Rank)](https://jobright.ai/jobs/info/6ab0ec5413894cd321222f60) | Georgia Tech Research Institute | Smyrna, GA | 09/21/2026 08:35:32 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6ab0fca65fb67bbec4bc12fc) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 09/21/2026 07:42:45 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ab139e7d43eb922ca0bd7b8) | RTX | Wilsonville, OR | 09/21/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab13befd43eb922ca0bd86b) | Newcomb & Boyd, LLP | Durham, NC | 09/21/2026 09:02:23 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer I (SEA) (R5046)](https://jobright.ai/jobs/info/6ab10e6132552369083e0427) | Shield AI | Seattle, WA | 09/21/2026 11:00:49 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa56c87a77a53f5a1571007) | CRB | San Diego, CA | 09/21/2026 06:06:23 | Sponsorship: Past Sponsorship |
-| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ab0d1acdd960b415641a190) | ByteDance | San Jose, CA | 09/21/2026 06:41:48 | Sponsorship: Past Sponsorship |
