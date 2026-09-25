@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-25 06:37:10Z UTC
+Updated: 2026-09-25 12:15:42Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 51 (Good) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6ab6207d4873fd3fd852ccd4) | Textron | Cockeysville, MD | 09/25/2026 07:19:25 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 68 (Good) | [Validation Engineer](https://jobright.ai/jobs/info/6ab593334873fd3fd852ac64) | Renesas Electronics | Johns Creek, GA | 09/24/2026 21:16:35 | Sponsorship: Past Sponsorship |
 | 69 (Good) | [Graduate - Validation Engineer](https://jobright.ai/jobs/info/6ab59948d85922de20ce2817) | Infineon Technologies | Andover, MA | 09/24/2026 21:42:32 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Controls Engineer](https://jobright.ai/jobs/info/6ab396b2762be1c53fc3632f) | Lincoln Electric | Bettendorf, IA | 09/24/2026 21:36:23 | Sponsorship: Not Sure |
@@ -103,4 +104,3 @@ Updated: 2026-09-25 06:37:10Z UTC
 | 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a2821481dbd8437bebc8ea6) | The Chemours Company | New Johnsonville, TN | 09/20/2026 03:31:23 | Sponsorship: No |
 | 46 (Possible) | [Field Quality and Reliability Engineer - Mechanical Systems](https://jobright.ai/jobs/info/6a8dc4a0a5639a4810327674) | Rivian | Normal, IL | 09/20/2026 03:31:47 | Sponsorship: Not Sure |
 | 46 (Possible) | [Field Quality and Reliability Engineer - Mechanical Systems](https://jobright.ai/jobs/info/6a88a086d34f700f87fc9998) | Rivian | Normal, IL | 09/20/2026 03:31:47 | Sponsorship: Not Sure |
-| 36 (Possible) | [Embedded Software Engineer - Entry Level](https://jobright.ai/jobs/info/6aae83c16956574eac8b8f72) | Dice | Boise, ID | 09/19/2026 12:44:49 | Security clearance language is present; Sponsorship: Past Sponsorship |
