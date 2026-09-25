@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-25 01:37:09Z UTC
+Updated: 2026-09-25 06:37:10Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 68 (Good) | [Validation Engineer](https://jobright.ai/jobs/info/6ab593334873fd3fd852ac64) | Renesas Electronics | Johns Creek, GA | 09/24/2026 21:16:35 | Sponsorship: Past Sponsorship |
+| 69 (Good) | [Graduate - Validation Engineer](https://jobright.ai/jobs/info/6ab59948d85922de20ce2817) | Infineon Technologies | Andover, MA | 09/24/2026 21:42:32 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Controls Engineer](https://jobright.ai/jobs/info/6ab396b2762be1c53fc3632f) | Lincoln Electric | Bettendorf, IA | 09/24/2026 21:36:23 | Sponsorship: Not Sure |
+| 37 (Possible) | [Entry-Level Automation & Controls Engineer](https://jobright.ai/jobs/info/6a5f6337f68dd368023e6505) | Maskine | Tempe, AZ | 09/24/2026 21:48:06 | Sponsorship: Not Sure |
 | 40 (Possible) | [RF Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aab1ea776707040fb0844f8) | Raytheon | Tucson, AZ | 09/24/2026 16:30:16 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6ab5969fd85922de20ce2761) | General Dynamics | Pittsfield, MA | 09/24/2026 21:31:11 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab5aa41634ec6aa7c0d0db7) | PCI Aviation, LLC | Warner Robins, GA | 09/24/2026 22:54:57 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-09-25 01:37:09Z UTC
 | 46 (Possible) | [Field Quality and Reliability Engineer - Mechanical Systems](https://jobright.ai/jobs/info/6a8dc4a0a5639a4810327674) | Rivian | Normal, IL | 09/20/2026 03:31:47 | Sponsorship: Not Sure |
 | 46 (Possible) | [Field Quality and Reliability Engineer - Mechanical Systems](https://jobright.ai/jobs/info/6a88a086d34f700f87fc9998) | Rivian | Normal, IL | 09/20/2026 03:31:47 | Sponsorship: Not Sure |
 | 36 (Possible) | [Embedded Software Engineer - Entry Level](https://jobright.ai/jobs/info/6aae83c16956574eac8b8f72) | Dice | Boise, ID | 09/19/2026 12:44:49 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Power & Analog Hardware Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa53cb442411952ff9a7cb7) | Raytheon | Huntsville, AL | 09/19/2026 14:41:30 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Controls & Electrical Engineer I](https://jobright.ai/jobs/info/6a74b66ebb6ca93ae560b690) | Danaher | Hauppauge, NY | 09/19/2026 12:09:43 | Sponsorship: Past Sponsorship |
-| 53 (Good) | [Advanced Effector Guidance Systems Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aaea1733d96632d741b1334) | Raytheon | Tucson, AZ | 09/19/2026 14:51:31 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa4f5fc2ed333b4ea5c4ae4) | CommScope | Claremont, NC | 09/19/2026 16:08:20 | Sponsorship: Past Sponsorship |
