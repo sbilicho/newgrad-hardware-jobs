@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-26 04:20:00Z UTC
+Updated: 2026-09-26 07:34:25Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Associate Controls Engineer](https://jobright.ai/jobs/info/6ab736c6d7fde2c08ec8b45e) | Molex | Little Falls, MN | 09/25/2026 22:00:00 | Sponsorship: Not Sure |
 | 45 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6ab732d2ba1c25652c611be8) | Boeing | Hazelwood, MO | 09/25/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Associate Electrical Engineer](https://jobright.ai/jobs/info/6ab714ef3a2ec87116e251df) | I.B. Abel, Inc. | York, PA | 09/25/2026 17:42:23 | Sponsorship: Not Sure |
 | 50 (Good) | [Development Test Engineer](https://jobright.ai/jobs/info/6aa58015930bff471a29eec9) | Impulse Space | Redondo Beach, CA | 09/25/2026 18:02:47 | Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-09-26 04:20:00Z UTC
 | 44 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ab1906ad2a93d5a97ebb733) | Samara Aerospace | San Francisco, CA | 09/21/2026 13:15:38 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab146baf9692ca98b048853) | Bi-Con Engineering | Derwent, OH | 09/21/2026 17:49:32 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Build For Growth Electrical Engineer I](https://jobright.ai/jobs/info/6ab184fd23005eee3545ae5d) | Amrize | Bloomsdale, MO | 09/21/2026 19:26:53 | Sponsorship: Past Sponsorship |
-| 73 (Strong) | [Post Silicon Validation Engineer – New College Graduate](https://jobright.ai/jobs/info/6ab168f823005eee3545a357) | Cirrus Logic | Austin, TX | 09/21/2026 19:25:16 | Sponsorship: Past Sponsorship |
