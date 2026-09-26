@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-26 12:28:15Z UTC
+Updated: 2026-09-26 16:45:07Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a9e77ac7cdb8543b877bcee) | Mead & Hunt | West Allis, WI | 09/26/2026 12:27:31 | Sponsorship: Past Sponsorship |
+| 71 (Strong) | [Power Management Systems Design and Verification Engineer](https://jobright.ai/jobs/info/6ab72a2f62bb1fbd451dd8af) | Qualcomm | San Diego, CA | 09/26/2026 07:04:14 | Sponsorship: Not Sure |
 | 37 (Possible) | [HOUSTON - Electrical Engineer, New Grad](https://jobright.ai/jobs/info/6a9b2e511388387060597014) | BGE, Inc. | Houston, TX | 09/26/2026 10:40:43 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ab15fc1191d8c340dbda3e6) | RTX | Bellevue, IA | 09/26/2026 03:17:37 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6a90a7382e254e06fb9f2393) | HEICO | Blacksburg, VA | 09/26/2026 03:25:49 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-09-26 12:28:15Z UTC
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab1aa5cd2a93d5a97ebc2c7) | Leitner-Poma Of America | Grand Junction, CO | 09/21/2026 17:02:16 | Sponsorship: Past Sponsorship |
 | 86 (Strong) | [Physical Design Methodology CAD Engineer](https://jobright.ai/jobs/info/6ab1b04023005eee3545c0f3) | Apple | Austin, TX | 09/21/2026 22:31:28 | Sponsorship: Past Sponsorship |
 | 32 (Possible) | [VLSI Engineer II Graduate](https://jobright.ai/jobs/info/6ab19b58191d8c340dbdbd04) | Hewlett Packard Enterprise | Sunnyvale, CA | 09/21/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 60 (Good) | [System Validation Engineer](https://jobright.ai/jobs/info/6ab19a32191d8c340dbdbc4e) | Supermicro | San Jose, CA | 09/21/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Controls Engineer - Centralia](https://jobright.ai/jobs/info/6ab18fcff9692ca98b04a568) | Rogers Machinery Company, Inc. | Centralia, WA | 09/21/2026 13:13:03 | Sponsorship: Not Sure |
