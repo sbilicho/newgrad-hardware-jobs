@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-25 23:37:49Z UTC
+Updated: 2026-09-26 02:00:56Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 50 (Good) | [Development Test Engineer](https://jobright.ai/jobs/info/6aa58015930bff471a29eec9) | Impulse Space | Redondo Beach, CA | 09/25/2026 18:02:47 | Sponsorship: No |
 | 43 (Possible) | [Digital Electronics Electrical Engineer I –Onsite](https://jobright.ai/jobs/info/6ab69cad9d4843569fe4e3bd) | RTX | Tewksbury, MA | 09/25/2026 21:19:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 92 (Strong) | [New College Grad - HBM SoC Design Engineer/Architect](https://jobright.ai/jobs/info/6ab6f03e39fd8792cb73cd15) | Micron Technology | Folsom, CA | 09/14/2026 22:05:33 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6ab6ec85ba1c25652c610a72) | Boeing | Hazelwood, MO | 09/25/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-09-25 23:37:49Z UTC
 | 73 (Strong) | [Post Silicon Validation Engineer – New College Graduate](https://jobright.ai/jobs/info/6ab168f823005eee3545a357) | Cirrus Logic | Austin, TX | 09/21/2026 19:25:16 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Embedded Software/Firmware Engineer (Entry Level) - SEAL - Smyrna, GA (Open Rank)](https://jobright.ai/jobs/info/6ab0ec5413894cd321222f60) | Georgia Tech Research Institute | Smyrna, GA | 09/21/2026 08:35:32 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6ab0fca65fb67bbec4bc12fc) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 09/21/2026 07:42:45 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ab139e7d43eb922ca0bd7b8) | RTX | Wilsonville, OR | 09/21/2026 00:00:00 | Sponsorship: Past Sponsorship |
