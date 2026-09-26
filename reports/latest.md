@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-26 07:34:25Z UTC
+Updated: 2026-09-26 12:28:15Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [HOUSTON - Electrical Engineer, New Grad](https://jobright.ai/jobs/info/6a9b2e511388387060597014) | BGE, Inc. | Houston, TX | 09/26/2026 10:40:43 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ab15fc1191d8c340dbda3e6) | RTX | Bellevue, IA | 09/26/2026 03:17:37 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6a90a7382e254e06fb9f2393) | HEICO | Blacksburg, VA | 09/26/2026 03:25:49 | Sponsorship: No |
 | 44 (Possible) | [Associate Controls Engineer](https://jobright.ai/jobs/info/6ab736c6d7fde2c08ec8b45e) | Molex | Little Falls, MN | 09/25/2026 22:00:00 | Sponsorship: Not Sure |
 | 45 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6ab732d2ba1c25652c611be8) | Boeing | Hazelwood, MO | 09/25/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Associate Electrical Engineer](https://jobright.ai/jobs/info/6ab714ef3a2ec87116e251df) | I.B. Abel, Inc. | York, PA | 09/25/2026 17:42:23 | Sponsorship: Not Sure |
@@ -101,6 +104,3 @@ Updated: 2026-09-26 07:34:25Z UTC
 | 32 (Possible) | [VLSI Engineer II Graduate](https://jobright.ai/jobs/info/6ab19b58191d8c340dbdbd04) | Hewlett Packard Enterprise | Sunnyvale, CA | 09/21/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 60 (Good) | [System Validation Engineer](https://jobright.ai/jobs/info/6ab19a32191d8c340dbdbc4e) | Supermicro | San Jose, CA | 09/21/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Controls Engineer - Centralia](https://jobright.ai/jobs/info/6ab18fcff9692ca98b04a568) | Rogers Machinery Company, Inc. | Centralia, WA | 09/21/2026 13:13:03 | Sponsorship: Not Sure |
-| 44 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ab1906ad2a93d5a97ebb733) | Samara Aerospace | San Francisco, CA | 09/21/2026 13:15:38 | Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab146baf9692ca98b048853) | Bi-Con Engineering | Derwent, OH | 09/21/2026 17:49:32 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Build For Growth Electrical Engineer I](https://jobright.ai/jobs/info/6ab184fd23005eee3545ae5d) | Amrize | Bloomsdale, MO | 09/21/2026 19:26:53 | Sponsorship: Past Sponsorship |
