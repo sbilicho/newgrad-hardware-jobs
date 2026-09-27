@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-27 15:47:21Z UTC
+Updated: 2026-09-27 19:21:12Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Sr. Electrical Engineer I - Product Development - I&R](https://jobright.ai/jobs/info/6ab5595dd85922de20ce0aa5) | Arthrex | United States | 09/27/2026 12:18:58 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Entry-Level Manufacturing Systems Electrical Engineer](https://jobright.ai/jobs/info/6ab961e362bb1fbd451e05cf) | Hader Solutions | Warroad, MN | 09/27/2026 18:35:15 | Sponsorship: Past Sponsorship |
+| 71 (Strong) | [Analog Design Engineer](https://jobright.ai/jobs/info/6ab74565ba1c25652c611e45) | OMNIVISION | Santa Clara, CA | 09/27/2026 10:21:22 | Sponsorship: Not Sure |
 | 58 (Good) | [Entry-Level Test Engineer](https://jobright.ai/jobs/info/6ab847f23a2ec87116e26e50) | Dice | Huntsville, AL | 09/26/2026 22:32:18 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Associate Electrical Engineer](https://jobright.ai/jobs/info/6aac1a4f3dbb1f8967ce8d48) | Harris Group | Portland, OR | 09/26/2026 15:15:26 | Sponsorship: Not Sure |
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a9e77ac7cdb8543b877bcee) | Mead & Hunt | West Allis, WI | 09/26/2026 12:27:31 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-09-27 15:47:21Z UTC
 | 43 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab14f5ad2a93d5a97eb9bd0) | Trane Technologies | Clarksville, TN | 09/21/2026 20:18:14 | Sponsorship: Past Sponsorship |
 | 57 (Good) | [Hardware Design Engineer](https://jobright.ai/jobs/info/6ab1d1cbf9692ca98b04bead) | Supermicro | San Jose, CA | 09/21/2026 20:49:36 | Sponsorship: Not Sure |
 | 46 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6ab191f2191d8c340dbdb7db) | Stryker | Portage, MI | 09/21/2026 21:05:12 | Sponsorship: Not Sure |
-| 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6ab1b2d6f9692ca98b04b65f) | CSL | Kankakee, IL | 09/21/2026 16:46:36 | Sponsorship: Not Sure |
-| 48 (Possible) | [ELECTRICAL ENGINEER I](https://jobright.ai/jobs/info/6ab1c3acd43eb922ca0c0fac) | SharkNinja France | Needham, MA | 09/21/2026 23:54:20 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab1aa5cd2a93d5a97ebc2c7) | Leitner-Poma Of America | Grand Junction, CO | 09/21/2026 17:02:16 | Sponsorship: Past Sponsorship |
