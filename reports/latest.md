@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-26 22:12:25Z UTC
+Updated: 2026-09-27 00:41:39Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 58 (Good) | [Entry-Level Test Engineer](https://jobright.ai/jobs/info/6ab847f23a2ec87116e26e50) | Dice | Huntsville, AL | 09/26/2026 22:32:18 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Associate Electrical Engineer](https://jobright.ai/jobs/info/6aac1a4f3dbb1f8967ce8d48) | Harris Group | Portland, OR | 09/26/2026 15:15:26 | Sponsorship: Not Sure |
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a9e77ac7cdb8543b877bcee) | Mead & Hunt | West Allis, WI | 09/26/2026 12:27:31 | Sponsorship: Past Sponsorship |
 | 71 (Strong) | [Power Management Systems Design and Verification Engineer](https://jobright.ai/jobs/info/6ab72a2f62bb1fbd451dd8af) | Qualcomm | San Diego, CA | 09/26/2026 07:04:14 | Sponsorship: Not Sure |
 | 37 (Possible) | [HOUSTON - Electrical Engineer, New Grad](https://jobright.ai/jobs/info/6a9b2e511388387060597014) | BGE, Inc. | Houston, TX | 09/26/2026 10:40:43 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-09-26 22:12:25Z UTC
 | 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6ab1b2d6f9692ca98b04b65f) | CSL | Kankakee, IL | 09/21/2026 16:46:36 | Sponsorship: Not Sure |
 | 48 (Possible) | [ELECTRICAL ENGINEER I](https://jobright.ai/jobs/info/6ab1c3acd43eb922ca0c0fac) | SharkNinja France | Needham, MA | 09/21/2026 23:54:20 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab1aa5cd2a93d5a97ebc2c7) | Leitner-Poma Of America | Grand Junction, CO | 09/21/2026 17:02:16 | Sponsorship: Past Sponsorship |
-| 86 (Strong) | [Physical Design Methodology CAD Engineer](https://jobright.ai/jobs/info/6ab1b04023005eee3545c0f3) | Apple | Austin, TX | 09/21/2026 22:31:28 | Sponsorship: Past Sponsorship |
-| 32 (Possible) | [VLSI Engineer II Graduate](https://jobright.ai/jobs/info/6ab19b58191d8c340dbdbd04) | Hewlett Packard Enterprise | Sunnyvale, CA | 09/21/2026 00:00:00 | Sponsorship: Past Sponsorship |
