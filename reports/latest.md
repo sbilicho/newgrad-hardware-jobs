@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-28 15:48:57Z UTC
+Updated: 2026-09-28 16:49:38Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6aba91b6d2914e9273eebee4) | General Dynamics Electric Boat | North Kingstown, RI | 09/28/2026 16:11:34 | Sponsorship: Past Sponsorship |
+| 56 (Good) | [Electrical Validation Engineer](https://jobright.ai/jobs/info/69d97dec9f97a42dc9c21dfe) | ZT Systems | Georgetown, TX | 09/28/2026 14:33:10 | Sponsorship: Past Sponsorship |
+| 31 (Possible) | [New College Grad - Module Hardware Engineer](https://jobright.ai/jobs/info/6aba838abe5f1e9325115d14) | Micron Technology | Boise, ID | 09/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 82 (Strong) | [ISP Silicon Validation Engineer](https://jobright.ai/jobs/info/6aba7a371acb8fc6f09bfc62) | Google | Mountain View, CA | 09/28/2026 14:31:19 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [2027 Associate Electrical Engineer / Electrical Engineer - Roy UT](https://jobright.ai/jobs/info/6aba6f61ee0b348be72997db) | Northrop Grumman | Roy, UT | 09/28/2026 06:45:05 | Security clearance language is present; Sponsorship: No |
 | 47 (Possible) | [Test Engineer (Elect/I&C)](https://jobright.ai/jobs/info/6a55fe9f21f64463ad3516db) | Westinghouse Electric Company | Bridgman, MI | 09/28/2026 03:58:18 | Sponsorship: Not Sure |
@@ -101,6 +104,3 @@ Updated: 2026-09-28 15:48:57Z UTC
 | 61 (Good) | [Test Engineer I](https://jobright.ai/jobs/info/6ab2efb378c69ff506c414b0) | Hyve Solutions | Nevada, NV, United States | 09/22/2026 16:37:57 | Sponsorship: Not Sure |
 | 57 (Good) | [Test Engineer I](https://jobright.ai/jobs/info/6a506394f57ed168c3418bf8) | Hyve Solutions | Nevada, NV, United States | 09/22/2026 16:37:57 | Sponsorship: Not Sure |
 | 65 (Good) | [2027 Early Career Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007) | Anduril Industries | Costa Mesa, California, United States | 09/22/2026 18:27:15 |  |
-| 47 (Possible) | [Entry Level Failure Analysis Engineer](https://jobright.ai/jobs/info/6ab2dba21508734c1530c548) | Akkodis | Los Angeles, CA | 09/22/2026 19:48:50 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Antenna RF Electrical Design Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa8cfcaeff87f571fc97da0) | Raytheon | McKinney, TX | 09/22/2026 16:29:52 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab2d47f78c69ff506c40cb5) | SimpliSafe | Boston, MA | 09/22/2026 19:18:23 | Sponsorship: Past Sponsorship |
