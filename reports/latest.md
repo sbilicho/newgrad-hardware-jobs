@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-28 13:49:22Z UTC
+Updated: 2026-09-28 14:49:34Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 82 (Strong) | [ISP Silicon Validation Engineer](https://jobright.ai/jobs/info/6aba7a371acb8fc6f09bfc62) | Google | Mountain View, CA | 09/28/2026 14:31:19 | Sponsorship: Past Sponsorship |
+| 43 (Possible) | [2027 Associate Electrical Engineer / Electrical Engineer - Roy UT](https://jobright.ai/jobs/info/6aba6f61ee0b348be72997db) | Northrop Grumman | Roy, UT | 09/28/2026 06:45:05 | Security clearance language is present; Sponsorship: No |
 | 47 (Possible) | [Test Engineer (Elect/I&C)](https://jobright.ai/jobs/info/6a55fe9f21f64463ad3516db) | Westinghouse Electric Company | Bridgman, MI | 09/28/2026 03:58:18 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a560847e9b77f668bd60c45) | Hargrove Engineers & Constructors | Chickasaw, AL | 09/28/2026 12:24:44 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Electrical Reliability Engineer](https://jobright.ai/jobs/info/6a4ead8b1544d7246c0d3c4c) | The Chemours Company | De Lisle, MS | 09/28/2026 03:03:21 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-09-28 13:49:22Z UTC
 | 47 (Possible) | [Entry Level Failure Analysis Engineer](https://jobright.ai/jobs/info/6ab2dba21508734c1530c548) | Akkodis | Los Angeles, CA | 09/22/2026 19:48:50 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Antenna RF Electrical Design Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa8cfcaeff87f571fc97da0) | Raytheon | McKinney, TX | 09/22/2026 16:29:52 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab2d47f78c69ff506c40cb5) | SimpliSafe | Boston, MA | 09/22/2026 19:18:23 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6ab2cd171e4847ddae9168bd) | Haag, a Salas O'Brien Company | Atlanta, GA | 09/22/2026 18:46:47 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6ab2d1ec1e4847ddae916aa8) | Salas O'Brien | Atlanta, GA | 09/22/2026 19:07:24 | Sponsorship: Past Sponsorship |
