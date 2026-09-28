@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-28 08:48:48Z UTC
+Updated: 2026-09-28 09:49:30Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 71 (Strong) | [Mixed Signal Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6aba2be253f24fb3b7fe8128) | NVIDIA | United States | 09/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer in Training](https://jobright.ai/jobs/info/6aa413faf3aa936e2cdaf9f9) | AE2S (Advanced Engineering and Environmental Services, LLC) | Maple Grove, MN; Woodbury, MN; Grand Forks, ND | 09/28/2026 00:54:51 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6aba1a2ceeb00e733cc0276d) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 09/28/2026 07:41:32 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Associate Controls Engineer](https://jobright.ai/jobs/info/6aba0aad39fd8792cb741a27) | Koch Engineered Solutions | Little Falls, MN | 09/27/2026 23:35:25 | Sponsorship: Not Sure |
 | 38 (Possible) | [New College Grad - Design Engineer](https://jobright.ai/jobs/info/6a5402728576ec69c0151b9c) | Micron Technology | San Jose, CA | 09/18/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-09-28 08:48:48Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab2af1f78c69ff506c3fd75) | Leitner-Poma Of America | Grand Junction, CO | 09/22/2026 11:15:41 | Sponsorship: Past Sponsorship |
 | 60 (Good) | [New College Grad - Product Test Engineer](https://jobright.ai/jobs/info/6aa814d7930bff471a2a5069) | Micron Technology | Boise, ID | 09/22/2026 09:28:17 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6ab28337326574570a0013d0) | Brightpath Associates LLC | Bethesda, MD | 09/22/2026 13:31:35 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ab2aa18326574570a002377) | MDP Engineering Group | Denver, CO | 09/22/2026 16:17:28 | Sponsorship: Past Sponsorship |
-| 85 (Strong) | [Design Verification (DV) Engineer - 2027 Grads](https://jobright.ai/jobs/info/6a95f30a4c22023a079371f5) | Hudson River Trading | New York, NY | 09/22/2026 10:54:10 | Sponsorship: Past Sponsorship |
