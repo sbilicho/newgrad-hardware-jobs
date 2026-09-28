@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-28 06:43:06Z UTC
+Updated: 2026-09-28 07:49:09Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6aba1a2ceeb00e733cc0276d) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 09/28/2026 07:41:32 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Associate Controls Engineer](https://jobright.ai/jobs/info/6aba0aad39fd8792cb741a27) | Koch Engineered Solutions | Little Falls, MN | 09/27/2026 23:35:25 | Sponsorship: Not Sure |
 | 38 (Possible) | [New College Grad - Design Engineer](https://jobright.ai/jobs/info/6a5402728576ec69c0151b9c) | Micron Technology | San Jose, CA | 09/18/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 82 (Strong) | [SoC Digital Verification Engineer, Multimedia Lab](https://jobright.ai/jobs/info/6a5826459f1f56462cf68ca4) | TikTok | San Jose, CA | 09/27/2026 19:28:48 | Sponsorship: Not Sure |
 | 45 (Possible) | [Associate Digital Hardware Engineer (Comms/TVI) Job Details \| Thales Defense & Security, Inc.](https://jobright.ai/jobs/info/6ab9f4ac3a2ec87116e29668) | Thales Defense & Security, Inc. | Clarksburg, MD | 09/27/2026 22:01:32 | U.S. citizenship language is present; Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-09-28 06:43:06Z UTC
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6ab28337326574570a0013d0) | Brightpath Associates LLC | Bethesda, MD | 09/22/2026 13:31:35 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ab2aa18326574570a002377) | MDP Engineering Group | Denver, CO | 09/22/2026 16:17:28 | Sponsorship: Past Sponsorship |
 | 85 (Strong) | [Design Verification (DV) Engineer - 2027 Grads](https://jobright.ai/jobs/info/6a95f30a4c22023a079371f5) | Hudson River Trading | New York, NY | 09/22/2026 10:54:10 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Mechanical Hardware Engineer I Graduate](https://jobright.ai/jobs/info/6ab1e3e2f9692ca98b04c1e1) | Hewlett Packard Enterprise | Sunnyvale, CA | 09/22/2026 04:36:14 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6a0b0a65a235d749afa810dd) | Leidos | Rockaway Township, NJ | 09/21/2026 20:16:27 | Sponsorship: No |
