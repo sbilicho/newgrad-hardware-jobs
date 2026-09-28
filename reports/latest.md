@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-28 22:04:27Z UTC
+Updated: 2026-09-28 23:04:17Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 55 (Good) | [Design Verification Engineer I](https://jobright.ai/jobs/info/6abad7987220f52e62ae8959) | Forj Medical | Saint Paul, MN | 09/28/2026 14:09:44 | Sponsorship: No |
+| 45 (Possible) | [Instrumentation and Controls Engineer](https://jobright.ai/jobs/info/6abab85c1acb8fc6f09c127b) | SSOE Group | Hillsboro, OR | 09/28/2026 14:32:23 | Sponsorship: Not Sure |
+| 46 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abada33be5f1e9325117c88) | Twenty-Six Defense Maritime | De Leon Springs, FL | 09/28/2026 21:20:51 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 51 (Good) | [Electrical Test Engineer I - TeraWave](https://jobright.ai/jobs/info/6abada7e3db4ca81fc7c4eea) | Blue Origin | Greater Seattle Area | 09/28/2026 22:52:13 | Sponsorship: Past Sponsorship |
+| 54 (Good) | [Entry Level Spacecraft Integration and Test Engineer - Millennium Space Systems](https://jobright.ai/jobs/info/6abadd303db4ca81fc7c4fdb) | Boeing | El Segundo, CA | 09/28/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abad0183db4ca81fc7c4a08) | TRC Companies, Inc. | Salina, NY | 09/28/2026 20:37:44 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a6be38857120971bf3a96bb) | Peraton Labs | Aberdeen, MD | 09/28/2026 21:02:50 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 82 (Strong) | [Mixed Signal IC Layout Engineer](https://job-boards.greenhouse.io/tenstorrent/jobs/5227711007) | Tenstorrent | Santa Clara, California, United States | 09/28/2026 19:29:12 | Full-time status is inferred from the first-party posting |
@@ -99,8 +104,3 @@ Updated: 2026-09-28 22:04:27Z UTC
 | 44 (Possible) | [Antenna Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aaa21e13387a3d9b67d9222) | Raytheon | Tucson, AZ | 09/23/2026 16:30:19 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6ab3dd790e0ae54eeea45186) | Brightpath Associates LLC | Bethesda, MD | 09/23/2026 14:08:57 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Equipment Validation Engineer](https://jobright.ai/jobs/info/6ab3ebe655e9168cf5ea33dc) | Virtue America | United States | 09/23/2026 15:10:30 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Principal Eng Device Engineering, Silicon Phonics Compact Modeling (2027 New College Grad)](https://jobright.ai/jobs/info/6ab3f105d2f5fbd604be067d) | GlobalFoundries | Malta, NY | 09/23/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 57 (Good) | [Sustaining Test Engineer I](https://jobright.ai/jobs/info/6ab3e9faef911c35dffa21a9) | Benchmark | Winona, MN | 09/23/2026 08:02:18 | Sponsorship: Not Sure |
-| 48 (Possible) | [FPGA Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a97a338408304609c16dd4f) | RTX | McKinney, TX | 09/23/2026 08:13:32 | Security clearance language is present; Sponsorship: No |
-| 40 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6a5e00fe050c423c792ecedf) | CACI International Inc | Crane, IN | 09/23/2026 08:19:59 | U.S. citizenship language is present; Sponsorship: No |
-| 37 (Possible) | [Associate Engineer - Electrical Engineer](https://jobright.ai/jobs/info/6ab3efa4ef911c35dffa230f) | JEA | Jacksonville, FL | 09/23/2026 08:26:28 | Sponsorship: Not Sure |
