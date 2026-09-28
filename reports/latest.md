@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-27 22:27:44Z UTC
+Updated: 2026-09-28 01:06:57Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 32 (Possible) | [Device Engineer, ULP CMOS (2027 New College Graduate)](https://jobright.ai/jobs/info/6ab9b4deba1c25652c614cef) | GlobalFoundries | Malta, NY | 09/27/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Sr. Electrical Engineer I - Product Development - I&R](https://jobright.ai/jobs/info/6ab5595dd85922de20ce0aa5) | Arthrex | United States | 09/27/2026 12:18:58 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry-Level Manufacturing Systems Electrical Engineer](https://jobright.ai/jobs/info/6ab961e362bb1fbd451e05cf) | Hader Solutions | Warroad, MN | 09/27/2026 18:35:15 | Sponsorship: Past Sponsorship |
 | 71 (Strong) | [Analog Design Engineer](https://jobright.ai/jobs/info/6ab74565ba1c25652c611e45) | OMNIVISION | Santa Clara, CA | 09/27/2026 10:21:22 | Sponsorship: Not Sure |
@@ -103,4 +104,3 @@ Updated: 2026-09-27 22:27:44Z UTC
 | 45 (Possible) | [Test Engineer](https://jobright.ai/jobs/info/6a04bf07f811a0436960e042) | Leidos | Wharton, NJ | 09/21/2026 20:16:27 | Sponsorship: No |
 | 43 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab14f5ad2a93d5a97eb9bd0) | Trane Technologies | Clarksville, TN | 09/21/2026 20:18:14 | Sponsorship: Past Sponsorship |
 | 57 (Good) | [Hardware Design Engineer](https://jobright.ai/jobs/info/6ab1d1cbf9692ca98b04bead) | Supermicro | San Jose, CA | 09/21/2026 20:49:36 | Sponsorship: Not Sure |
-| 46 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6ab191f2191d8c340dbdb7db) | Stryker | Portage, MI | 09/21/2026 21:05:12 | Sponsorship: Not Sure |
