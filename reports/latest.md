@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-28 11:49:48Z UTC
+Updated: 2026-09-28 12:49:16Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 47 (Possible) | [Test Engineer (Elect/I&C)](https://jobright.ai/jobs/info/6a55fe9f21f64463ad3516db) | Westinghouse Electric Company | Bridgman, MI | 09/28/2026 03:58:18 | Sponsorship: Not Sure |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a560847e9b77f668bd60c45) | Hargrove Engineers & Constructors | Chickasaw, AL | 09/28/2026 12:24:44 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Electrical Reliability Engineer](https://jobright.ai/jobs/info/6a4ead8b1544d7246c0d3c4c) | The Chemours Company | De Lisle, MS | 09/28/2026 03:03:21 | Sponsorship: No |
 | 45 (Possible) | [Flight Controls Hardware Engineer I (Onsite)](https://jobright.ai/jobs/info/6ab9c48fba1c25652c614df1) | RTX | Cedar Rapids, IA | 09/28/2026 02:20:01 | Sponsorship: No |
 | 71 (Strong) | [Mixed Signal Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6aba2be253f24fb3b7fe8128) | NVIDIA | United States | 09/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-09-28 11:49:48Z UTC
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab2d47f78c69ff506c40cb5) | SimpliSafe | Boston, MA | 09/22/2026 19:18:23 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6ab2cd171e4847ddae9168bd) | Haag, a Salas O'Brien Company | Atlanta, GA | 09/22/2026 18:46:47 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6ab2d1ec1e4847ddae916aa8) | Salas O'Brien | Atlanta, GA | 09/22/2026 19:07:24 | Sponsorship: Past Sponsorship |
-| 32 (Possible) | [Instrumentation & Controls Engineer 1 - Energy & Industrial](https://jobright.ai/jobs/info/6aa9695d6d0edc2d91b098a4) | Sargent & Lundy | Casper, WY | 09/22/2026 11:40:11 | Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab2af1f78c69ff506c3fd75) | Leitner-Poma Of America | Grand Junction, CO | 09/22/2026 11:15:41 | Sponsorship: Past Sponsorship |
