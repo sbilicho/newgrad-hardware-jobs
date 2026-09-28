@@ -1,9 +1,17 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-28 17:55:18Z UTC
+Updated: 2026-09-28 21:08:39Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abad0183db4ca81fc7c4a08) | TRC Companies, Inc. | Salina, NY | 09/28/2026 20:37:44 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a6be38857120971bf3a96bb) | Peraton Labs | Aberdeen, MD | 09/28/2026 21:02:50 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 82 (Strong) | [Mixed Signal IC Layout Engineer](https://job-boards.greenhouse.io/tenstorrent/jobs/5227711007) | Tenstorrent | Santa Clara, California, United States | 09/28/2026 19:29:12 | Full-time status is inferred from the first-party posting |
+| 36 (Possible) | [CMOS FEOL Reliability Principal Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6abac9d3d2914e9273eed41c) | GlobalFoundries | Malta, NY | 09/28/2026 20:37:25 | Sponsorship: Past Sponsorship |
+| 54 (Good) | [Entry Level Spacecraft Integration and Test Engineer - Millennium Space Systems](https://jobright.ai/jobs/info/6abac7927220f52e62ae827b) | Boeing | El Segundo, CA | 09/28/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 85 (Strong) | [ASIC Verification Engineer, Memory Management - New College Grad 2027](https://jobright.ai/jobs/info/6aba9e8f7220f52e62ae74d5) | NVIDIA | Durham, NC | 09/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 85 (Strong) | [ASIC Verification Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6aba9ef4ad8589219ef7e4fd) | NVIDIA | Austin, TX | 09/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 92 (Strong) | [ASIC Design Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6abac1d7ee0b348be729b4fe) | NVIDIA | Santa Clara, CA | 09/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6aba91b6d2914e9273eebee4) | General Dynamics Electric Boat | North Kingstown, RI | 09/28/2026 16:11:34 | Sponsorship: Past Sponsorship |
 | 56 (Good) | [Electrical Validation Engineer](https://jobright.ai/jobs/info/69d97dec9f97a42dc9c21dfe) | ZT Systems | Georgetown, TX | 09/28/2026 14:33:10 | Sponsorship: Past Sponsorship |
 | 31 (Possible) | [New College Grad - Module Hardware Engineer](https://jobright.ai/jobs/info/6aba838abe5f1e9325115d14) | Micron Technology | Boise, ID | 09/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -96,11 +104,3 @@ Updated: 2026-09-28 17:55:18Z UTC
 | 48 (Possible) | [FPGA Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a97a338408304609c16dd4f) | RTX | McKinney, TX | 09/23/2026 08:13:32 | Security clearance language is present; Sponsorship: No |
 | 40 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6a5e00fe050c423c792ecedf) | CACI International Inc | Crane, IN | 09/23/2026 08:19:59 | U.S. citizenship language is present; Sponsorship: No |
 | 37 (Possible) | [Associate Engineer - Electrical Engineer](https://jobright.ai/jobs/info/6ab3efa4ef911c35dffa230f) | JEA | Jacksonville, FL | 09/23/2026 08:26:28 | Sponsorship: Not Sure |
-| 46 (Possible) | [Electrical/Hardware Engineer I](https://jobright.ai/jobs/info/6ab32eb730340229a3231c9e) | Hewlett Packard Enterprise | Spring, TX | 09/23/2026 03:37:12 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Electrical Design Engineer I Job Details \| Murata Power Solutions, Inc.](https://jobright.ai/jobs/info/6ab35c6f5d482753f3e68b93) | Murata Power Solutions | Westborough, MA | 09/23/2026 04:58:23 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [RF Engineer](https://jobright.ai/jobs/info/6aa4cd4aa77a53f5a156e242) | Redwire | Longmont, CO | 09/22/2026 20:34:28 | Sponsorship: No |
-| 40 (Possible) | [Electrical Engineer 1 or 2](https://jobright.ai/jobs/info/6ab19a15191d8c340dbdbc39) | Northrop Grumman | Chandler, AZ | 09/22/2026 21:27:53 | Security clearance language is present; Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab3193930340229a323186e) | Inalfa Roof Systems Group | Acworth, GA | 09/23/2026 00:46:22 | Sponsorship: Past Sponsorship |
-| 61 (Good) | [Test Engineer I](https://jobright.ai/jobs/info/6ab2efb378c69ff506c414b0) | Hyve Solutions | Nevada, NV, United States | 09/22/2026 16:37:57 | Sponsorship: Not Sure |
-| 57 (Good) | [Test Engineer I](https://jobright.ai/jobs/info/6a506394f57ed168c3418bf8) | Hyve Solutions | Nevada, NV, United States | 09/22/2026 16:37:57 | Sponsorship: Not Sure |
-| 65 (Good) | [2027 Early Career Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007) | Anduril Industries | Costa Mesa, California, United States | 09/22/2026 18:27:15 |  |
