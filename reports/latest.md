@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-29 13:45:54Z UTC
+Updated: 2026-09-29 17:40:53Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abbf0e07119e56191cea30d) | Aditi Consulting | United States | 09/29/2026 17:09:52 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6abbf738d6acfd3dd29fb129) | Jacobs | Dallas, TX | 09/29/2026 15:35:09 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Entry Level Hardware Engineer - Electrical/Power/Firmware/RF (Hybrid)](https://jobright.ai/jobs/info/6abbef6f3217d1d13329bf18) | BAE Systems, Inc. | Nashua, NH | 09/29/2026 17:03:43 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Entry-Level Powertrain Test Engineer](https://jobright.ai/jobs/info/6abbd6f03217d1d13329b3a6) | Global Connect Technologies | Raymond, OH | 09/29/2026 15:19:12 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6abbe650a9a644f965688948) | Boeing | Hazelwood, MO | 09/29/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Assistant Electrical Engineer](https://jobright.ai/jobs/info/6abbad04de8f79e124276d80) | City of New York | Long Island City, NY | 09/29/2026 05:20:20 | Sponsorship: Not Sure |
 | 46 (Possible) | [Hardware Engineer, Onsite](https://jobright.ai/jobs/info/6abb25f6be5f1e9325119d34) | VinAudit.com Inc. | Kirkland, WA | 09/28/2026 19:44:06 | Sponsorship: Not Sure |
 | 46 (Possible) | [Hardware Engineer, Onsite](https://jobright.ai/jobs/info/6abb260e1acb8fc6f09c3f68) | AutoScale Ventures | Kirkland, WA | 09/28/2026 19:44:30 | Sponsorship: Not Sure |
@@ -99,8 +104,3 @@ Updated: 2026-09-29 13:45:54Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab41b957bd0813713315ca2) | Leonardo DRS | Bridgeton, MO | 09/23/2026 18:58:46 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 50 (Good) | [Test Engineer I - TeraWave](https://jobright.ai/jobs/info/6ab4327e64816213f2d97c55) | Blue Origin | Greater Seattle Area, United States; Denver, CO | 09/23/2026 16:11:57 | Sponsorship: No |
 | 48 (Possible) | [Electrical Engineer I (BOS)](https://jobright.ai/jobs/info/69e97275e0cd471b2f13d6b1) | Shield AI | Boston, MA | 09/23/2026 12:43:31 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 50 (Good) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6ab4036f0e0ae54eeea45f3e) | General Dynamics | Taunton, MA | 09/23/2026 11:36:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Sustaining Test Engineer I](https://jobright.ai/jobs/info/6a6314a432abf9182432cd55) | Benchmark | Rochester, MN | 09/23/2026 11:29:40 | Sponsorship: Not Sure |
-| 58 (Good) | [Software Engineer Embedded Systems I (Full Time) - United States](https://jobright.ai/jobs/info/6ab4049164816213f2d96a0b) | Cisco | San Jose, CA | 09/23/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Electronics Engineer - Entry level](https://jobright.ai/jobs/info/6ab4145bd2f5fbd604be1702) | Tata Technologies | Peoria, IL | 09/23/2026 18:03:07 | Sponsorship: Past Sponsorship |
-| 56 (Good) | [Controls & Validation Engineer (Entry level)](https://jobright.ai/jobs/info/6ab4181964816213f2d973f6) | Harvey Nash | Washington, IL | 09/23/2026 18:19:05 | Sponsorship: Past Sponsorship |
