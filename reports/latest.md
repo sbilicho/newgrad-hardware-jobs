@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-29 01:03:35Z UTC
+Updated: 2026-09-29 02:34:27Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Electrical Engineer I - Fluid Systems Division](https://jobright.ai/jobs/info/6abab237d2914e9273eecbeb) | Parker Hannifin | Irvine, CA | 09/29/2026 02:05:21 | Sponsorship: Past Sponsorship |
+| 88 (Strong) | [Processor ASIC RTL Design Engineer](https://jobright.ai/jobs/info/6abb1269be5f1e9325118924) | Qualcomm | San Diego, CA | 09/28/2026 18:20:41 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Test Engineer - Space Solar](https://jobright.ai/jobs/info/6a41465dd528ac2915f97427) | Starpath | Hawthorne, CA | 09/28/2026 15:52:14 | Sponsorship: No |
 | 40 (Possible) | [Wireless/RF Engineer I](https://jobright.ai/jobs/info/6abaf100ee0b348be729c57f) | Honeywell Aerospace | San Jose, CA | 09/28/2026 15:58:08 | Sponsorship: No |
 | 55 (Good) | [Design Verification Engineer I](https://jobright.ai/jobs/info/6abad7987220f52e62ae8959) | Forj Medical | Saint Paul, MN | 09/28/2026 14:09:44 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-09-29 01:03:35Z UTC
 | 81 (Strong) | [Design Verification Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ab4283655e9168cf5ea4c50) | GlobalFoundries | Richardson, TX | 09/23/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electrical Engineer I - Test Solutions](https://jobright.ai/jobs/info/6ab3e073d2f5fbd604be0158) | RTX | Tucson, AZ | 09/23/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 76 (Strong) | [Power & Analog Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aaa21cf10b1cd4f41609f36) | Raytheon | McKinney, TX | 09/23/2026 14:52:51 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I – Early Career (2026 Starts)](https://jobright.ai/jobs/info/6961c3a3e7ed9a5731ba9685) | Blue Origin | Greater Seattle Area | 09/23/2026 10:14:13 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Antenna Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aaa21e13387a3d9b67d9222) | Raytheon | Tucson, AZ | 09/23/2026 16:30:19 | Security clearance language is present; Sponsorship: Past Sponsorship |
