@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-29 03:34:25Z UTC
+Updated: 2026-09-29 04:33:44Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Hardware Engineer, Onsite](https://jobright.ai/jobs/info/6abb25f6be5f1e9325119d34) | VinAudit.com Inc. | Kirkland, WA | 09/28/2026 19:44:06 | Sponsorship: Not Sure |
+| 46 (Possible) | [Hardware Engineer, Onsite](https://jobright.ai/jobs/info/6abb260e1acb8fc6f09c3f68) | AutoScale Ventures | Kirkland, WA | 09/28/2026 19:44:30 | Sponsorship: Not Sure |
 | 44 (Possible) | [Electrical Engineer I - Fluid Systems Division](https://jobright.ai/jobs/info/6abab237d2914e9273eecbeb) | Parker Hannifin | Irvine, CA | 09/29/2026 02:05:21 | Sponsorship: Past Sponsorship |
 | 88 (Strong) | [Processor ASIC RTL Design Engineer](https://jobright.ai/jobs/info/6abb1269be5f1e9325118924) | Qualcomm | San Diego, CA | 09/28/2026 18:20:41 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Test Engineer - Space Solar](https://jobright.ai/jobs/info/6a41465dd528ac2915f97427) | Starpath | Hawthorne, CA | 09/28/2026 15:52:14 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-09-29 03:34:25Z UTC
 | 46 (Possible) | [Electronics Engineer - Entry level](https://jobright.ai/jobs/info/6ab4145bd2f5fbd604be1702) | Tata Technologies | Peoria, IL | 09/23/2026 18:03:07 | Sponsorship: Past Sponsorship |
 | 56 (Good) | [Controls & Validation Engineer (Entry level)](https://jobright.ai/jobs/info/6ab4181964816213f2d973f6) | Harvey Nash | Washington, IL | 09/23/2026 18:19:05 | Sponsorship: Past Sponsorship |
 | 81 (Strong) | [Design Verification Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ab4283655e9168cf5ea4c50) | GlobalFoundries | Richardson, TX | 09/23/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Electrical Engineer I - Test Solutions](https://jobright.ai/jobs/info/6ab3e073d2f5fbd604be0158) | RTX | Tucson, AZ | 09/23/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 76 (Strong) | [Power & Analog Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aaa21cf10b1cd4f41609f36) | Raytheon | McKinney, TX | 09/23/2026 14:52:51 | Security clearance language is present; Sponsorship: Past Sponsorship |
