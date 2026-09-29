@@ -1,9 +1,19 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-29 17:40:53Z UTC
+Updated: 2026-09-29 18:55:50Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 52 (Good) | [Electrical Engineer, Manufacturing Test - Electronic Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5252213007?gh_jid=5252213007) | Anduril Industries | Irvine, California, United States; Costa Mesa, California, United States | 09/29/2026 18:49:32 | Security clearance language is present; Full-time status is inferred from the first-party posting |
+| 40 (Possible) | [C5ISR Electrical Engineer I](https://jobright.ai/jobs/info/6abbfa7ba9a644f9656895c7) | BAE Systems | California, MD | 09/29/2026 17:50:51 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6abbf959b23c6fb2b81a4403) | Jacobs | Dallas, TX | 09/29/2026 15:43:13 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6abbfde8b23c6fb2b81a4664) | Peraton Labs | Aberdeen, MD | 09/29/2026 18:05:28 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 43 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6abc008592b2612ef0f8c4ca) | Tetra Tech | Englewood, CO | 09/29/2026 18:16:37 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [SWS Waterfront Electrical Engineer –Entry Level](https://jobright.ai/jobs/info/6abc0715b23c6fb2b81a4bd1) | General Dynamics Electric Boat | Groton, CT | 09/29/2026 18:44:37 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Entry Level Hardware Engineer - Electrical/Power/Firmware/RF (Hybrid)](https://jobright.ai/jobs/info/6abbfa7a3217d1d13329c4cc) | BAE Systems | Nashua, NH | 09/29/2026 17:50:50 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 55 (Good) | [Entry Level Semiconductor Test Engineer](https://jobright.ai/jobs/info/6abbfe293217d1d13329c6ad) | NXP Semiconductors | Chandler, AZ | 09/29/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 92 (Strong) | [New College Grad - HBM SoC Design Engineer/Architect](https://jobright.ai/jobs/info/6abbfe2ab23c6fb2b81a4698) | Micron Technology | Folsom, CA | 09/29/2026 18:06:34 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6aa9ff8109ae03adcace09f2) | Oldcastle BuildingEnvelope | York, PA | 09/29/2026 10:54:38 | Sponsorship: Not Sure |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abbf0e07119e56191cea30d) | Aditi Consulting | United States | 09/29/2026 17:09:52 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6abbf738d6acfd3dd29fb129) | Jacobs | Dallas, TX | 09/29/2026 15:35:09 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Entry Level Hardware Engineer - Electrical/Power/Firmware/RF (Hybrid)](https://jobright.ai/jobs/info/6abbef6f3217d1d13329bf18) | BAE Systems, Inc. | Nashua, NH | 09/29/2026 17:03:43 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -94,13 +104,3 @@ Updated: 2026-09-29 17:40:53Z UTC
 | 45 (Possible) | [GNC Hardware Engineer](https://jobright.ai/jobs/info/6ab5a4ec4873fd3fd852b467) | Muon Space | Mountain View, CA; San Jose, CA | 09/24/2026 17:17:27 | Sponsorship: No |
 | 40 (Possible) | [Research Electrical Engineer I or II - National Security Institute](https://jobright.ai/jobs/info/6ab5464ad85922de20ce01c8) | Virginia Tech | Blacksburg, VA | 09/24/2026 13:46:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 90 (Strong) | [New College Grad - Mixed Signal Design Engineer, HBM](https://jobright.ai/jobs/info/6a58d941686b4755d1e0cba4) | Micron Technology | Richardson, TX | 09/24/2026 09:05:42 | Sponsorship: Past Sponsorship |
-| 54 (Good) | [Hardware Test Engineer I / II](https://jobright.ai/jobs/info/6ab3f3db64816213f2d962c0) | BAE Systems | Saint Inigoes, MD; Upper Jutland, Maryland, United States; St. Mary's County, Maryland, United States | 09/24/2026 07:34:33 | Sponsorship: No |
-| 51 (Good) | [Systems Integration/Test Engineer Asc - Entry Level](https://jobright.ai/jobs/info/6ab47a4764816213f2d99474) | Lockheed Martin | Sunnyvale, CA | 09/24/2026 12:54:02 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Senior Electrical Design Engineer I (MEP)](https://jobright.ai/jobs/info/6ab48bac0e0ae54eeea48c87) | Interface Engineering, Inc. | Oakland, CA | 09/24/2026 02:32:12 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6ab48d587bd0813713317e18) | General Dynamics Mission Systems | Taunton, MA | 09/23/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Hardware Engineer I](https://jobright.ai/jobs/info/6ab4a5cd17d731fd2c0c59bc) | Panasonic Avionics Corporation | Irvine, CA | 09/23/2026 21:23:41 | Sponsorship: No |
-| 54 (Good) | [Electrical Test Engineer - Entry Level](https://jobright.ai/jobs/info/6ab456a5d2f5fbd604be3084) | Dice | Pittsfield, MA | 09/23/2026 22:45:57 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 75 (Strong) | [Graduate Firmware Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8841995002) | Graphcore | Austin, Texas, United States | 09/24/2026 00:28:01 | Full-time status is inferred from the first-party posting |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab41b957bd0813713315ca2) | Leonardo DRS | Bridgeton, MO | 09/23/2026 18:58:46 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 50 (Good) | [Test Engineer I - TeraWave](https://jobright.ai/jobs/info/6ab4327e64816213f2d97c55) | Blue Origin | Greater Seattle Area, United States; Denver, CO | 09/23/2026 16:11:57 | Sponsorship: No |
-| 48 (Possible) | [Electrical Engineer I (BOS)](https://jobright.ai/jobs/info/69e97275e0cd471b2f13d6b1) | Shield AI | Boston, MA | 09/23/2026 12:43:31 | Security clearance language is present; Sponsorship: Past Sponsorship |
