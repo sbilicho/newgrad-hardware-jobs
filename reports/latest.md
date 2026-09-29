@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-29 12:40:00Z UTC
+Updated: 2026-09-29 13:45:54Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Assistant Electrical Engineer](https://jobright.ai/jobs/info/6abbad04de8f79e124276d80) | City of New York | Long Island City, NY | 09/29/2026 05:20:20 | Sponsorship: Not Sure |
 | 46 (Possible) | [Hardware Engineer, Onsite](https://jobright.ai/jobs/info/6abb25f6be5f1e9325119d34) | VinAudit.com Inc. | Kirkland, WA | 09/28/2026 19:44:06 | Sponsorship: Not Sure |
 | 46 (Possible) | [Hardware Engineer, Onsite](https://jobright.ai/jobs/info/6abb260e1acb8fc6f09c3f68) | AutoScale Ventures | Kirkland, WA | 09/28/2026 19:44:30 | Sponsorship: Not Sure |
 | 44 (Possible) | [Electrical Engineer I - Fluid Systems Division](https://jobright.ai/jobs/info/6abab237d2914e9273eecbeb) | Parker Hannifin | Irvine, CA | 09/29/2026 02:05:21 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-09-29 12:40:00Z UTC
 | 58 (Good) | [Software Engineer Embedded Systems I (Full Time) - United States](https://jobright.ai/jobs/info/6ab4049164816213f2d96a0b) | Cisco | San Jose, CA | 09/23/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electronics Engineer - Entry level](https://jobright.ai/jobs/info/6ab4145bd2f5fbd604be1702) | Tata Technologies | Peoria, IL | 09/23/2026 18:03:07 | Sponsorship: Past Sponsorship |
 | 56 (Good) | [Controls & Validation Engineer (Entry level)](https://jobright.ai/jobs/info/6ab4181964816213f2d973f6) | Harvey Nash | Washington, IL | 09/23/2026 18:19:05 | Sponsorship: Past Sponsorship |
-| 81 (Strong) | [Design Verification Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ab4283655e9168cf5ea4c50) | GlobalFoundries | Richardson, TX | 09/23/2026 00:00:00 | Sponsorship: Past Sponsorship |
