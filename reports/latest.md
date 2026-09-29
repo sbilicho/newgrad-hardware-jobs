@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-28 23:04:17Z UTC
+Updated: 2026-09-29 00:04:20Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 50 (Good) | [Test Engineer - Space Solar](https://jobright.ai/jobs/info/6a41465dd528ac2915f97427) | Starpath | Hawthorne, CA | 09/28/2026 15:52:14 | Sponsorship: No |
+| 40 (Possible) | [Wireless/RF Engineer I](https://jobright.ai/jobs/info/6abaf100ee0b348be729c57f) | Honeywell Aerospace | San Jose, CA | 09/28/2026 15:58:08 | Sponsorship: No |
 | 55 (Good) | [Design Verification Engineer I](https://jobright.ai/jobs/info/6abad7987220f52e62ae8959) | Forj Medical | Saint Paul, MN | 09/28/2026 14:09:44 | Sponsorship: No |
 | 45 (Possible) | [Instrumentation and Controls Engineer](https://jobright.ai/jobs/info/6abab85c1acb8fc6f09c127b) | SSOE Group | Hillsboro, OR | 09/28/2026 14:32:23 | Sponsorship: Not Sure |
 | 46 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abada33be5f1e9325117c88) | Twenty-Six Defense Maritime | De Leon Springs, FL | 09/28/2026 21:20:51 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-09-28 23:04:17Z UTC
 | 76 (Strong) | [Power & Analog Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aaa21cf10b1cd4f41609f36) | Raytheon | McKinney, TX | 09/23/2026 14:52:51 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I – Early Career (2026 Starts)](https://jobright.ai/jobs/info/6961c3a3e7ed9a5731ba9685) | Blue Origin | Greater Seattle Area | 09/23/2026 10:14:13 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Antenna Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aaa21e13387a3d9b67d9222) | Raytheon | Tucson, AZ | 09/23/2026 16:30:19 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6ab3dd790e0ae54eeea45186) | Brightpath Associates LLC | Bethesda, MD | 09/23/2026 14:08:57 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [Equipment Validation Engineer](https://jobright.ai/jobs/info/6ab3ebe655e9168cf5ea33dc) | Virtue America | United States | 09/23/2026 15:10:30 | Sponsorship: Past Sponsorship |
