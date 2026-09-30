@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-30 02:49:32Z UTC
+Updated: 2026-09-30 03:49:21Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 72 (Strong) | [Firmware Engineer](https://jobs.ashbyhq.com/etched/8e280db7-f954-4467-b3ea-b9b4386d6632) | Etched | San Jose | 05/19/2026 03:00:40 |  |
+| 41 (Possible) | [Electrical Engineer I - Interconnection Engineer](https://jobright.ai/jobs/info/6abc2a863217d1d13329da5d) | CORE Electric Cooperative | Sedalia, CO | 09/29/2026 23:50:07 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [ARTC Entry Level Test Engineer](https://jobright.ai/jobs/info/6abc7e32bf15c0ae50138f9d) | TRAX International Corporation | Delta Junction, AK | 09/29/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 32 (Possible) | [Device Compact Modeling Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6abc5f42187b1378d873dc85) | GlobalFoundries | Malta, NY | 09/30/2026 02:37:48 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Entry Level Hardware Engineer - Electrical/Power/Firmware/RF (Hybrid)](https://jobright.ai/jobs/info/6abc6846fbb3359bcc7d1d25) | BAE Systems, Inc. | Nashua, NH | 09/29/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 49 (Possible) | [ARTC Entry Level Test Engineer](https://jobright.ai/jobs/info/6abc642a752643de1e5d7e3e) | TRAX International Corporation | Delta Junction, AK | 09/30/2026 01:21:46 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abc05e2d6acfd3dd29fb993) | Aditi Consulting | United States | 09/29/2026 18:39:30 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-09-30 02:49:32Z UTC
 | 40 (Possible) | [Design Application Engineer (2027 New College Grad)](https://jobright.ai/jobs/info/6ab6c8a062bb1fbd451dbd68) | GlobalFoundries | Santa Clara, CA | 09/25/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6ab6207d4873fd3fd852ccd4) | Textron | Cockeysville, MD | 09/25/2026 07:19:25 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 68 (Good) | [Validation Engineer](https://jobright.ai/jobs/info/6ab593334873fd3fd852ac64) | Renesas Electronics | Johns Creek, GA | 09/24/2026 21:16:35 | Sponsorship: Past Sponsorship |
-| 69 (Good) | [Graduate - Validation Engineer](https://jobright.ai/jobs/info/6ab59948d85922de20ce2817) | Infineon Technologies | Andover, MA | 09/24/2026 21:42:32 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Controls Engineer](https://jobright.ai/jobs/info/6ab396b2762be1c53fc3632f) | Lincoln Electric | Bettendorf, IA | 09/24/2026 21:36:23 | Sponsorship: Not Sure |
-| 37 (Possible) | [Entry-Level Automation & Controls Engineer](https://jobright.ai/jobs/info/6a5f6337f68dd368023e6505) | Maskine | Tempe, AZ | 09/24/2026 21:48:06 | Sponsorship: Not Sure |
-| 40 (Possible) | [RF Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aab1ea776707040fb0844f8) | Raytheon | Tucson, AZ | 09/24/2026 16:30:16 | Security clearance language is present; Sponsorship: Past Sponsorship |
