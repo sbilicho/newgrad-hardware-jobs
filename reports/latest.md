@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-30 12:49:28Z UTC
+Updated: 2026-09-30 13:49:17Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abd09e48ff3fb9b3bc6e1ec) | SoundOff Signal | Hudsonville, MI | 09/30/2026 07:51:41 | Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Digital ASIC Design Engineer](https://jobright.ai/jobs/info/6a8367491081a745e970ef66) | Qualcomm | San Diego, CA | 09/30/2026 03:57:24 | Sponsorship: Not Sure |
 | 37 (Possible) | [RF/Microwave Engineer I](https://jobright.ai/jobs/info/6a690db13b549b0b531d3954) | TTM Technologies | Syracuse, NY | 09/30/2026 02:25:27 | Sponsorship: No |
 | 60 (Good) | [System Validation Engineer](https://jobright.ai/jobs/info/6abce5d64ac55253f5d5a9cc) | Supermicro | San Jose, CA | 09/30/2026 10:35:02 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-09-30 12:49:28Z UTC
 | 42 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6ab6c1f09d4843569fe4f4db) | CNH | Sioux Falls, SD | 09/25/2026 18:48:16 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ab6ac47c6fe0dec811a60c8) | Jacobs | Philadelphia, PA | 09/25/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer- Entry Level](https://jobright.ai/jobs/info/6ab66c28c6fe0dec811a4b55) | NTH Consultants, Ltd. | Grand Rapids, MI | 09/25/2026 14:25:42 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ab6a4b7c6fe0dec811a5d40) | PowerStudies, Inc. | Seattle, WA | 09/25/2026 16:43:35 | Sponsorship: Past Sponsorship |
