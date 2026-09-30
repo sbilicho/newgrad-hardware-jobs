@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-30 14:54:16Z UTC
+Updated: 2026-09-30 18:04:49Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6abd2661372c01f6cd71e7db) | Consulting Engineering Services (CES) | Middletown, CT | 09/30/2026 15:10:25 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Antenna & Microwave Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa08934a2266b538d230fb1) | RTX | El Segundo, CA | 09/30/2026 14:28:38 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa0c7b83b5aa83237b0b004) | Pond & Company | Peachtree Corners, GA | 09/30/2026 14:15:48 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer in MEP](https://jobright.ai/jobs/info/6abd26b4372c01f6cd71e80d) | Consulting Engineering Services (CES) | Louisville, CO | 09/30/2026 15:11:48 | Sponsorship: Past Sponsorship |
+| 53 (Good) | [AEGS Pro Electrical Engineer I (On-Site)](https://jobright.ai/jobs/info/6ab2b30878c69ff506c40043) | Raytheon | Tucson, AZ | 09/30/2026 16:53:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6abd1d5e4ac55253f5d5b361) | DLR Group | Denver, CO | 09/30/2026 10:07:58 | Sponsorship: Not Sure |
 | 37 (Possible) | [Entry Level Electrical Engineer in MEP](https://jobright.ai/jobs/info/6abd1d8d064da25272dfb634) | Consulting Engineering Services (CES) | Concord, NH | 09/30/2026 14:32:45 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Associate Electrical Test Engineer](https://jobright.ai/jobs/info/6ab549a99d4843569fe48c75) | Boeing | Huntsville, AL | 09/30/2026 06:22:18 | Sponsorship: No |
 | 42 (Possible) | [Associate Product Engineer](https://jobright.ai/jobs/info/6aaa9a388e1bf0f764af5550) | VulcanForms Inc. | Devens, MA | 09/30/2026 06:51:08 | Sponsorship: Not Sure |
@@ -98,9 +104,3 @@ Updated: 2026-09-30 14:54:16Z UTC
 | 43 (Possible) | [Digital Electronics Electrical Engineer I –Onsite](https://jobright.ai/jobs/info/6ab69cad9d4843569fe4e3bd) | RTX | Tewksbury, MA | 09/25/2026 21:19:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 92 (Strong) | [New College Grad - HBM SoC Design Engineer/Architect](https://jobright.ai/jobs/info/6ab6f03e39fd8792cb73cd15) | Micron Technology | Folsom, CA | 09/14/2026 22:05:33 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6ab6ec85ba1c25652c610a72) | Boeing | Hazelwood, MO | 09/25/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Associate Controls Engineer](https://jobright.ai/jobs/info/6ab6fc413a2ec87116e24ec6) | Molex | Little Falls, MN | 09/25/2026 15:57:05 | Sponsorship: Not Sure |
-| 56 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a99f2c190a313642c653b57) | CesiumAstro | Westminster, CO | 09/25/2026 14:49:53 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aac542e3d96632d741aa844) | Raytheon | Plano, TX | 09/25/2026 16:12:57 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab697da634ec6aa7c0d333c) | Freeport-McMoRan | Morenci, AZ | 09/25/2026 15:48:42 | Sponsorship: Past Sponsorship |
-| 62 (Good) | [Digital Hardware Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a99f1ea040e5c3d07599d03) | RTX | McKinney, TX | 09/25/2026 16:38:45 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Substation Electrical Engineer I](https://jobright.ai/jobs/info/6ab6c344c6fe0dec811a6a3a) | Bowman Consulting | Raleigh, NC | 09/25/2026 18:53:56 | Sponsorship: Past Sponsorship |
