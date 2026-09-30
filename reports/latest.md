@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-30 13:49:17Z UTC
+Updated: 2026-09-30 14:54:16Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer in MEP](https://jobright.ai/jobs/info/6abd1d8d064da25272dfb634) | Consulting Engineering Services (CES) | Concord, NH | 09/30/2026 14:32:45 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Associate Electrical Test Engineer](https://jobright.ai/jobs/info/6ab549a99d4843569fe48c75) | Boeing | Huntsville, AL | 09/30/2026 06:22:18 | Sponsorship: No |
+| 42 (Possible) | [Associate Product Engineer](https://jobright.ai/jobs/info/6aaa9a388e1bf0f764af5550) | VulcanForms Inc. | Devens, MA | 09/30/2026 06:51:08 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abd09e48ff3fb9b3bc6e1ec) | SoundOff Signal | Hudsonville, MI | 09/30/2026 07:51:41 | Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Digital ASIC Design Engineer](https://jobright.ai/jobs/info/6a8367491081a745e970ef66) | Qualcomm | San Diego, CA | 09/30/2026 03:57:24 | Sponsorship: Not Sure |
 | 37 (Possible) | [RF/Microwave Engineer I](https://jobright.ai/jobs/info/6a690db13b549b0b531d3954) | TTM Technologies | Syracuse, NY | 09/30/2026 02:25:27 | Sponsorship: No |
@@ -101,6 +104,3 @@ Updated: 2026-09-30 13:49:17Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab697da634ec6aa7c0d333c) | Freeport-McMoRan | Morenci, AZ | 09/25/2026 15:48:42 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Digital Hardware Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a99f1ea040e5c3d07599d03) | RTX | McKinney, TX | 09/25/2026 16:38:45 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Substation Electrical Engineer I](https://jobright.ai/jobs/info/6ab6c344c6fe0dec811a6a3a) | Bowman Consulting | Raleigh, NC | 09/25/2026 18:53:56 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6ab6c1f09d4843569fe4f4db) | CNH | Sioux Falls, SD | 09/25/2026 18:48:16 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ab6ac47c6fe0dec811a60c8) | Jacobs | Philadelphia, PA | 09/25/2026 05:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer- Entry Level](https://jobright.ai/jobs/info/6ab66c28c6fe0dec811a4b55) | NTH Consultants, Ltd. | Grand Rapids, MI | 09/25/2026 14:25:42 | Sponsorship: Past Sponsorship |
