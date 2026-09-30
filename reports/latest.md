@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-30 09:49:16Z UTC
+Updated: 2026-09-30 10:49:28Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [RF/Microwave Engineer I](https://jobright.ai/jobs/info/6a690db13b549b0b531d3954) | TTM Technologies | Syracuse, NY | 09/30/2026 02:25:27 | Sponsorship: No |
+| 60 (Good) | [System Validation Engineer](https://jobright.ai/jobs/info/6abce5d64ac55253f5d5a9cc) | Supermicro | San Jose, CA | 09/30/2026 10:35:02 | Sponsorship: Past Sponsorship |
+| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6abce4e78ff3fb9b3bc6dcc9) | ByteDance | San Jose, CA | 09/30/2026 10:31:03 | Sponsorship: Past Sponsorship |
 | 60 (Good) | [System Validation Engineer](https://jobright.ai/jobs/info/6abccbca0e027c0f3b3929f7) | Wipro | Santa Clara, CA | 09/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Controls Engineer](https://jobright.ai/jobs/info/6abcbb314ac55253f5d5a4a5) | Corning Incorporated | Canton, NY | 09/30/2026 00:33:05 | Sponsorship: No |
 | 77 (Strong) | [FPGA/ASIC Engineer I (Onsite)](https://jobright.ai/jobs/info/6abc40247119e56191cec4d8) | RTX | Cedar Rapids, IA | 09/29/2026 20:19:45 | Security clearance language is present; Sponsorship: No |
@@ -101,6 +104,3 @@ Updated: 2026-09-30 09:49:16Z UTC
 | 37 (Possible) | [Electrical Engineer- Entry Level](https://jobright.ai/jobs/info/6ab66c28c6fe0dec811a4b55) | NTH Consultants, Ltd. | Grand Rapids, MI | 09/25/2026 14:25:42 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ab6a4b7c6fe0dec811a5d40) | PowerStudies, Inc. | Seattle, WA | 09/25/2026 16:43:35 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer Entry-Level](https://jobright.ai/jobs/info/6ab6aa4bb3db59402d1019ff) | Peter Basso Associates | Troy, MI | 09/25/2026 17:07:23 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Electrical Engineer - Board Design, Thunder](https://boards.greenhouse.io/andurilindustries/jobs/5235513007?gh_jid=5235513007) | Anduril Industries | Costa Mesa, California, United States | 09/25/2026 20:34:12 | Security clearance language is present |
-| 69 (Good) | [Graduate - Validation Engineer](https://jobright.ai/jobs/info/6ab5b2a19d4843569fe4bcbd) | Infineon Technologies | Andover, MA | 09/25/2026 12:57:43 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 52 (Good) | [Validation Engineer](https://jobright.ai/jobs/info/6ab68612b3db59402d100b0d) | Virtue America | United States | 09/25/2026 14:32:50 | Sponsorship: Past Sponsorship |
