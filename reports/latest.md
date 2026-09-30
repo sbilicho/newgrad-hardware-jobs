@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-30 19:04:21Z UTC
+Updated: 2026-09-30 20:04:59Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 47 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6aa3f7df422289703bd646c7) | Applied Medical | Rancho Santa Margarita, CA | 09/30/2026 15:26:27 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abd64350e027c0f3b39567b) | BAE Systems | Rockville, MD | 09/30/2026 19:34:13 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Controls Engineer I](https://jobright.ai/jobs/info/6abd682b372c01f6cd72053f) | Rockline Industries, people who make it right | Sheboygan, WI | 09/30/2026 19:51:07 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Flight Test Engineer](https://jobright.ai/jobs/info/6aaad8b08e1bf0f764af6e05) | Archer | Salinas, CA | 09/30/2026 11:20:07 | Sponsorship: Yes |
+| 87 (Strong) | [Analog Mixed-Signal Design Engineer](https://jobright.ai/jobs/info/6ab7456e3a2ec87116e25df7) | OMNIVISION | Santa Clara, CA | 09/30/2026 11:40:39 | Sponsorship: Past Sponsorship |
 | 32 (Possible) | [System Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6abd506fd9621c5b2838b84c) | NVIDIA | Santa Clara, CA | 09/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Digital Electrical Design Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa08954500b01124c779ac2) | RTX | Tucson, AZ | 09/30/2026 16:53:25 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [ELECTRICAL ENGINEER I](https://jobright.ai/jobs/info/6abd5060d9621c5b2838b83f) | Logistic Services International, Inc. | Jacksonville, FL | 09/30/2026 18:09:36 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-09-30 19:04:21Z UTC
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a9e77ac7cdb8543b877bcee) | Mead & Hunt | West Allis, WI | 09/26/2026 12:27:31 | Sponsorship: Past Sponsorship |
 | 71 (Strong) | [Power Management Systems Design and Verification Engineer](https://jobright.ai/jobs/info/6ab72a2f62bb1fbd451dd8af) | Qualcomm | San Diego, CA | 09/26/2026 07:04:14 | Sponsorship: Not Sure |
 | 37 (Possible) | [HOUSTON - Electrical Engineer, New Grad](https://jobright.ai/jobs/info/6a9b2e511388387060597014) | BGE, Inc. | Houston, TX | 09/26/2026 10:40:43 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ab15fc1191d8c340dbda3e6) | RTX | Bellevue, IA | 09/26/2026 03:17:37 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6a90a7382e254e06fb9f2393) | HEICO | Blacksburg, VA | 09/26/2026 03:25:49 | Sponsorship: No |
-| 44 (Possible) | [Associate Controls Engineer](https://jobright.ai/jobs/info/6ab736c6d7fde2c08ec8b45e) | Molex | Little Falls, MN | 09/25/2026 22:00:00 | Sponsorship: Not Sure |
-| 45 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6ab732d2ba1c25652c611be8) | Boeing | Hazelwood, MO | 09/25/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Associate Electrical Engineer](https://jobright.ai/jobs/info/6ab714ef3a2ec87116e251df) | I.B. Abel, Inc. | York, PA | 09/25/2026 17:42:23 | Sponsorship: Not Sure |
