@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-30 22:04:24Z UTC
+Updated: 2026-09-30 23:30:29Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 55 (Good) | [Entry Level Semiconductor Test Engineer](https://jobright.ai/jobs/info/6abd8f0d064da25272dfe5f2) | Dice | Chandler, AZ | 09/14/2026 22:36:39 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abd7d1e372c01f6cd720d09) | Arseal | Alpharetta, GA | 09/30/2026 16:13:00 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6aa3f7df422289703bd646c7) | Applied Medical | Rancho Santa Margarita, CA | 09/30/2026 15:26:27 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abd64350e027c0f3b39567b) | BAE Systems | Rockville, MD | 09/30/2026 19:34:13 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-09-30 22:04:24Z UTC
 | 58 (Good) | [Entry-Level Test Engineer](https://jobright.ai/jobs/info/6ab847f23a2ec87116e26e50) | Dice | Huntsville, AL | 09/26/2026 22:32:18 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Associate Electrical Engineer](https://jobright.ai/jobs/info/6aac1a4f3dbb1f8967ce8d48) | Harris Group | Portland, OR | 09/26/2026 15:15:26 | Sponsorship: Not Sure |
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a9e77ac7cdb8543b877bcee) | Mead & Hunt | West Allis, WI | 09/26/2026 12:27:31 | Sponsorship: Past Sponsorship |
-| 71 (Strong) | [Power Management Systems Design and Verification Engineer](https://jobright.ai/jobs/info/6ab72a2f62bb1fbd451dd8af) | Qualcomm | San Diego, CA | 09/26/2026 07:04:14 | Sponsorship: Not Sure |
