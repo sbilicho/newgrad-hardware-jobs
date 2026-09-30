@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-30 07:49:27Z UTC
+Updated: 2026-09-30 08:49:11Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 60 (Good) | [System Validation Engineer](https://jobright.ai/jobs/info/6abccbca0e027c0f3b3929f7) | Wipro | Santa Clara, CA | 09/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Controls Engineer](https://jobright.ai/jobs/info/6abcbb314ac55253f5d5a4a5) | Corning Incorporated | Canton, NY | 09/30/2026 00:33:05 | Sponsorship: No |
 | 77 (Strong) | [FPGA/ASIC Engineer I (Onsite)](https://jobright.ai/jobs/info/6abc40247119e56191cec4d8) | RTX | Cedar Rapids, IA | 09/29/2026 20:19:45 | Security clearance language is present; Sponsorship: No |
 | 72 (Strong) | [Firmware Engineer](https://jobs.ashbyhq.com/etched/8e280db7-f954-4467-b3ea-b9b4386d6632) | Etched | San Jose | 05/19/2026 03:00:40 |  |
 | 41 (Possible) | [Electrical Engineer I - Interconnection Engineer](https://jobright.ai/jobs/info/6abc2a863217d1d13329da5d) | CORE Electric Cooperative | Sedalia, CO | 09/29/2026 23:50:07 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-09-30 07:49:27Z UTC
 | 42 (Possible) | [Electrical Engineer - Board Design, Thunder](https://boards.greenhouse.io/andurilindustries/jobs/5235513007?gh_jid=5235513007) | Anduril Industries | Costa Mesa, California, United States | 09/25/2026 20:34:12 | Security clearance language is present |
 | 69 (Good) | [Graduate - Validation Engineer](https://jobright.ai/jobs/info/6ab5b2a19d4843569fe4bcbd) | Infineon Technologies | Andover, MA | 09/25/2026 12:57:43 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 52 (Good) | [Validation Engineer](https://jobright.ai/jobs/info/6ab68612b3db59402d100b0d) | Virtue America | United States | 09/25/2026 14:32:50 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Design Application Engineer (2027 New College Grad)](https://jobright.ai/jobs/info/6ab6c8a062bb1fbd451dbd68) | GlobalFoundries | Santa Clara, CA | 09/25/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6ab6207d4873fd3fd852ccd4) | Textron | Cockeysville, MD | 09/25/2026 07:19:25 | Security clearance language is present; Sponsorship: Past Sponsorship |
