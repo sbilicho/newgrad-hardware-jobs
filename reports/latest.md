@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-09-29 23:49:23Z UTC
+Updated: 2026-09-30 00:49:29Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abc05e2d6acfd3dd29fb993) | Aditi Consulting | United States | 09/29/2026 18:39:30 | Sponsorship: Past Sponsorship |
+| 62 (Good) | [R&D Reliability/Test Engineer - June 2027 Grads](https://jobright.ai/jobs/info/6abc324fa9a644f96568ae35) | Formlabs | Somerville, MA | 09/29/2026 21:49:03 | Sponsorship: Past Sponsorship |
+| 31 (Possible) | [Applied Machine Learning Engineer, AI for VLSI Design - New College Grad 2026](https://jobright.ai/jobs/info/6abc24c63217d1d13329d747) | NVIDIA | Santa Clara, CA | 09/29/2026 23:49:28 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Design Engineer I- Electronics Integration](https://jobright.ai/jobs/info/6abc145cd6acfd3dd29fbd8a) | Sub-Zero Group, Inc. | Madison, WI | 09/29/2026 19:41:16 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Reliability Engineer I - Sr Job Details \| Arkansas Electric Cooperative](https://jobright.ai/jobs/info/6abc22f43217d1d13329d60f) | Arkansas Electric Cooperative Corporation | Little Rock, AR | 09/29/2026 20:43:32 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6abc3069a9a644f96568adb9) | Sargent & Lundy | Richmond, VA | 09/29/2026 21:40:57 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-09-29 23:49:23Z UTC
 | 40 (Possible) | [RF Design Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aab1ea776707040fb0844f8) | Raytheon | Tucson, AZ | 09/24/2026 16:30:16 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6ab5969fd85922de20ce2761) | General Dynamics | Pittsfield, MA | 09/24/2026 21:31:11 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ab5aa41634ec6aa7c0d0db7) | PCI Aviation, LLC | Warner Robins, GA | 09/24/2026 22:54:57 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 58 (Good) | [Entry-Level Test Engineer](https://jobright.ai/jobs/info/6ab581e8b3db59402d0fd00b) | Leidos | Huntsville, AL | 09/24/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 64 (Good) | [NCG Hardware Validation Engineer](https://jobright.ai/jobs/info/6a7cc7d883621355407abdc2) | Everpure | Santa Clara, CA | 09/24/2026 13:25:10 | Sponsorship: Past Sponsorship |
-| 88 (Strong) | [CPU Physical Design Engineer](https://jobright.ai/jobs/info/6ab5ca38b3db59402d0fef8e) | Qualcomm | Austin, TX | 09/25/2026 01:11:20 | Sponsorship: Past Sponsorship |
