@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-01 16:34:54Z UTC
+Updated: 2026-10-01 17:57:12Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 48 (Possible) | [Receiver, Exciter & Processing Architecture Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ab43cb764816213f2d980bc) | Raytheon | Tewksbury, MA | 10/01/2026 13:58:19 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 52 (Good) | [Validation Engineer](https://jobright.ai/jobs/info/6abe8f0e064da25272e017c8) | Virtue America | United States | 10/01/2026 16:49:18 | Sponsorship: Past Sponsorship |
 | 34 (Possible) | [New College Grad - ENG, HIG HBM PSE Design Validation](https://jobright.ai/jobs/info/6abd3aaf8ff3fb9b3bc6f26c) | Micron Technology | Boise, ID | 10/01/2026 12:27:24 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abe5c178ff3fb9b3bc7351d) | S&C Electric Company | Chicago, IL | 10/01/2026 13:11:51 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [FPGA Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ab404927bd08137133151cd) | Raytheon | Fort Wayne, IN | 10/01/2026 14:04:36 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-10-01 16:34:54Z UTC
 | 43 (Possible) | [2027 Associate Electrical Engineer / Electrical Engineer - Roy UT](https://jobright.ai/jobs/info/6aba6f61ee0b348be72997db) | Northrop Grumman | Roy, UT | 09/28/2026 06:45:05 | Security clearance language is present; Sponsorship: No |
 | 47 (Possible) | [Test Engineer (Elect/I&C)](https://jobright.ai/jobs/info/6a55fe9f21f64463ad3516db) | Westinghouse Electric Company | Bridgman, MI | 09/28/2026 03:58:18 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a560847e9b77f668bd60c45) | Hargrove Engineers & Constructors | Chickasaw, AL | 09/28/2026 12:24:44 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [Electrical Reliability Engineer](https://jobright.ai/jobs/info/6a4ead8b1544d7246c0d3c4c) | The Chemours Company | De Lisle, MS | 09/28/2026 03:03:21 | Sponsorship: No |
-| 45 (Possible) | [Flight Controls Hardware Engineer I (Onsite)](https://jobright.ai/jobs/info/6ab9c48fba1c25652c614df1) | RTX | Cedar Rapids, IA | 09/28/2026 02:20:01 | Sponsorship: No |
