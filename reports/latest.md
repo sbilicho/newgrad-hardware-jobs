@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-01 17:57:12Z UTC
+Updated: 2026-10-01 20:55:42Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 68 (Good) | [Software Verification Engineer](https://jobright.ai/jobs/info/6abeaaaed9621c5b28390981) | System One | Greater Philadelphia | 10/01/2026 18:47:10 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Antenna RF Engineer, EW](https://boards.greenhouse.io/andurilindustries/jobs/5231092007?gh_jid=5231092007) | Anduril Industries | Costa Mesa, California, United States | 10/01/2026 19:29:06 | Security clearance language is present |
+| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6abec582372c01f6cd7258f9) | ByteDance | San Jose, CA | 10/01/2026 20:41:38 | Sponsorship: Past Sponsorship |
+| 92 (Strong) | [CPU Design & Verification Engineer — New College Grad](https://jobright.ai/jobs/info/6abe0ae3372c01f6cd722831) | NUVACORE | Orchard City, CO | 10/01/2026 07:25:23 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Receiver, Exciter & Processing Architecture Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ab43cb764816213f2d980bc) | Raytheon | Tewksbury, MA | 10/01/2026 13:58:19 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 52 (Good) | [Validation Engineer](https://jobright.ai/jobs/info/6abe8f0e064da25272e017c8) | Virtue America | United States | 10/01/2026 16:49:18 | Sponsorship: Past Sponsorship |
 | 34 (Possible) | [New College Grad - ENG, HIG HBM PSE Design Validation](https://jobright.ai/jobs/info/6abd3aaf8ff3fb9b3bc6f26c) | Micron Technology | Boise, ID | 10/01/2026 12:27:24 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-10-01 17:57:12Z UTC
 | 40 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6aba91b6d2914e9273eebee4) | General Dynamics Electric Boat | North Kingstown, RI | 09/28/2026 16:11:34 | Sponsorship: Past Sponsorship |
 | 56 (Good) | [Electrical Validation Engineer](https://jobright.ai/jobs/info/69d97dec9f97a42dc9c21dfe) | ZT Systems | Georgetown, TX | 09/28/2026 14:33:10 | Sponsorship: Past Sponsorship |
 | 31 (Possible) | [New College Grad - Module Hardware Engineer](https://jobright.ai/jobs/info/6aba838abe5f1e9325115d14) | Micron Technology | Boise, ID | 09/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 82 (Strong) | [ISP Silicon Validation Engineer](https://jobright.ai/jobs/info/6aba7a371acb8fc6f09bfc62) | Google | Mountain View, CA | 09/28/2026 14:31:19 | Sponsorship: Past Sponsorship |
-| 43 (Possible) | [2027 Associate Electrical Engineer / Electrical Engineer - Roy UT](https://jobright.ai/jobs/info/6aba6f61ee0b348be72997db) | Northrop Grumman | Roy, UT | 09/28/2026 06:45:05 | Security clearance language is present; Sponsorship: No |
-| 47 (Possible) | [Test Engineer (Elect/I&C)](https://jobright.ai/jobs/info/6a55fe9f21f64463ad3516db) | Westinghouse Electric Company | Bridgman, MI | 09/28/2026 03:58:18 | Sponsorship: Not Sure |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a560847e9b77f668bd60c45) | Hargrove Engineers & Constructors | Chickasaw, AL | 09/28/2026 12:24:44 | Sponsorship: Past Sponsorship |
