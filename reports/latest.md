@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-01 08:34:55Z UTC
+Updated: 2026-10-01 09:34:12Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Engineer I - Electrical Engineer (Legacy Program) Job Details \| APS](https://jobright.ai/jobs/info/6abe22db0e027c0f3b397dec) | Arizona Public Service - APS | Tonopah, AZ | 10/01/2026 09:07:39 | Sponsorship: Past Sponsorship |
+| 71 (Strong) | [New College Grad - EDA/CAD Engineer](https://jobright.ai/jobs/info/6abe2404064da25272dffdb7) | Micron Technology | San Jose, CA | 10/01/2026 09:12:36 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abe136d0e027c0f3b397bec) | Paragon Energy Solutions | Fort Worth, TX | 10/01/2026 08:01:49 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [2026 Associate/Electronics Engineer - Top Secret - Dulles VA](https://jobright.ai/jobs/info/6abc5144fbb3359bcc7d1596) | Northrop Grumman | Dulles, VA | 09/30/2026 21:50:22 | Sponsorship: No |
 | 40 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6abdf03b4ac55253f5d5f313) | Leidos | Oklahoma City, OK | 09/30/2026 22:31:39 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-10-01 08:34:55Z UTC
 | 82 (Strong) | [SoC Digital Verification Engineer, Multimedia Lab](https://jobright.ai/jobs/info/6a5826459f1f56462cf68ca4) | TikTok | San Jose, CA | 09/27/2026 19:28:48 | Sponsorship: Not Sure |
 | 45 (Possible) | [Associate Digital Hardware Engineer (Comms/TVI) Job Details \| Thales Defense & Security, Inc.](https://jobright.ai/jobs/info/6ab9f4ac3a2ec87116e29668) | Thales Defense & Security, Inc. | Clarksburg, MD | 09/27/2026 22:01:32 | U.S. citizenship language is present; Sponsorship: No |
 | 32 (Possible) | [Device Engineer, ULP CMOS (2027 New College Graduate)](https://jobright.ai/jobs/info/6ab9b4deba1c25652c614cef) | GlobalFoundries | Malta, NY | 09/27/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Sr. Electrical Engineer I - Product Development - I&R](https://jobright.ai/jobs/info/6ab5595dd85922de20ce0aa5) | Arthrex | United States | 09/27/2026 12:18:58 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry-Level Manufacturing Systems Electrical Engineer](https://jobright.ai/jobs/info/6ab961e362bb1fbd451e05cf) | Hader Solutions | Warroad, MN | 09/27/2026 18:35:15 | Sponsorship: Past Sponsorship |
