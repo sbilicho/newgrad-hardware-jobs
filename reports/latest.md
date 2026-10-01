@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-01 07:32:22Z UTC
+Updated: 2026-10-01 08:34:55Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abe136d0e027c0f3b397bec) | Paragon Energy Solutions | Fort Worth, TX | 10/01/2026 08:01:49 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [2026 Associate/Electronics Engineer - Top Secret - Dulles VA](https://jobright.ai/jobs/info/6abc5144fbb3359bcc7d1596) | Northrop Grumman | Dulles, VA | 09/30/2026 21:50:22 | Sponsorship: No |
 | 40 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6abdf03b4ac55253f5d5f313) | Leidos | Oklahoma City, OK | 09/30/2026 22:31:39 | Sponsorship: Not Sure |
 | 92 (Strong) | [CPU Design & Verification Engineer — New College Grad](https://jobright.ai/jobs/info/6abe0ad98ff3fb9b3bc72ae6) | NUVACORE | Santa Clara, CA | 10/01/2026 07:25:13 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-01 07:32:22Z UTC
 | 32 (Possible) | [Device Engineer, ULP CMOS (2027 New College Graduate)](https://jobright.ai/jobs/info/6ab9b4deba1c25652c614cef) | GlobalFoundries | Malta, NY | 09/27/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Sr. Electrical Engineer I - Product Development - I&R](https://jobright.ai/jobs/info/6ab5595dd85922de20ce0aa5) | Arthrex | United States | 09/27/2026 12:18:58 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry-Level Manufacturing Systems Electrical Engineer](https://jobright.ai/jobs/info/6ab961e362bb1fbd451e05cf) | Hader Solutions | Warroad, MN | 09/27/2026 18:35:15 | Sponsorship: Past Sponsorship |
-| 71 (Strong) | [Analog Design Engineer](https://jobright.ai/jobs/info/6ab74565ba1c25652c611e45) | OMNIVISION | Santa Clara, CA | 09/27/2026 10:21:22 | Sponsorship: Not Sure |
