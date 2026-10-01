@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-01 11:34:15Z UTC
+Updated: 2026-10-01 12:34:42Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 42 (Possible) | [Hardware Design Engineer](https://jobright.ai/jobs/info/6ab323e1326574570a004ff4) | Supermicro | San Jose, CA | 10/01/2026 03:59:58 | Sponsorship: Not Sure |
 | 54 (Good) | [Maintenance & Reliability Engineer](https://jobright.ai/jobs/info/6ab43a6f55e9168cf5ea525e) | Olin | Manitowoc, WI | 10/01/2026 03:30:43 | Sponsorship: No |
 | 37 (Possible) | [Associate Substation Protection and Controls Engineer](https://jobright.ai/jobs/info/6abd8820064da25272dfe341) | Leidos | Walled Lake, MI | 10/01/2026 02:16:35 | Sponsorship: Not Sure |
 | 37 (Possible) | [Engineer I - Electrical Engineer (Legacy Program) Job Details \| APS](https://jobright.ai/jobs/info/6abe22db0e027c0f3b397dec) | Arizona Public Service - APS | Tonopah, AZ | 10/01/2026 09:07:39 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-01 11:34:15Z UTC
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6aba1a2ceeb00e733cc0276d) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 09/28/2026 07:41:32 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Associate Controls Engineer](https://jobright.ai/jobs/info/6aba0aad39fd8792cb741a27) | Koch Engineered Solutions | Little Falls, MN | 09/27/2026 23:35:25 | Sponsorship: Not Sure |
 | 38 (Possible) | [New College Grad - Design Engineer](https://jobright.ai/jobs/info/6a5402728576ec69c0151b9c) | Micron Technology | San Jose, CA | 09/18/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 82 (Strong) | [SoC Digital Verification Engineer, Multimedia Lab](https://jobright.ai/jobs/info/6a5826459f1f56462cf68ca4) | TikTok | San Jose, CA | 09/27/2026 19:28:48 | Sponsorship: Not Sure |
