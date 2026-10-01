@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-01 12:34:42Z UTC
+Updated: 2026-10-01 16:34:54Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 34 (Possible) | [New College Grad - ENG, HIG HBM PSE Design Validation](https://jobright.ai/jobs/info/6abd3aaf8ff3fb9b3bc6f26c) | Micron Technology | Boise, ID | 10/01/2026 12:27:24 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abe5c178ff3fb9b3bc7351d) | S&C Electric Company | Chicago, IL | 10/01/2026 13:11:51 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [FPGA Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ab404927bd08137133151cd) | Raytheon | Fort Wayne, IN | 10/01/2026 14:04:36 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6abe20e58ff3fb9b3bc72d08) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 10/01/2026 08:59:17 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6abe6ea80e027c0f3b398991) | Sargent & Lundy | San Juan, PR | 10/01/2026 14:31:04 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Hardware Design Engineer](https://jobright.ai/jobs/info/6ab323e1326574570a004ff4) | Supermicro | San Jose, CA | 10/01/2026 03:59:58 | Sponsorship: Not Sure |
 | 54 (Good) | [Maintenance & Reliability Engineer](https://jobright.ai/jobs/info/6ab43a6f55e9168cf5ea525e) | Olin | Manitowoc, WI | 10/01/2026 03:30:43 | Sponsorship: No |
 | 37 (Possible) | [Associate Substation Protection and Controls Engineer](https://jobright.ai/jobs/info/6abd8820064da25272dfe341) | Leidos | Walled Lake, MI | 10/01/2026 02:16:35 | Sponsorship: Not Sure |
@@ -99,8 +104,3 @@ Updated: 2026-10-01 12:34:42Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a560847e9b77f668bd60c45) | Hargrove Engineers & Constructors | Chickasaw, AL | 09/28/2026 12:24:44 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Electrical Reliability Engineer](https://jobright.ai/jobs/info/6a4ead8b1544d7246c0d3c4c) | The Chemours Company | De Lisle, MS | 09/28/2026 03:03:21 | Sponsorship: No |
 | 45 (Possible) | [Flight Controls Hardware Engineer I (Onsite)](https://jobright.ai/jobs/info/6ab9c48fba1c25652c614df1) | RTX | Cedar Rapids, IA | 09/28/2026 02:20:01 | Sponsorship: No |
-| 71 (Strong) | [Mixed Signal Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6aba2be253f24fb3b7fe8128) | NVIDIA | United States | 09/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer in Training](https://jobright.ai/jobs/info/6aa413faf3aa936e2cdaf9f9) | AE2S (Advanced Engineering and Environmental Services, LLC) | Maple Grove, MN; Woodbury, MN; Grand Forks, ND | 09/28/2026 00:54:51 | Sponsorship: Not Sure |
-| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6aba1a2ceeb00e733cc0276d) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 09/28/2026 07:41:32 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Associate Controls Engineer](https://jobright.ai/jobs/info/6aba0aad39fd8792cb741a27) | Koch Engineered Solutions | Little Falls, MN | 09/27/2026 23:35:25 | Sponsorship: Not Sure |
-| 38 (Possible) | [New College Grad - Design Engineer](https://jobright.ai/jobs/info/6a5402728576ec69c0151b9c) | Micron Technology | San Jose, CA | 09/18/2026 00:00:00 | Sponsorship: Past Sponsorship |
