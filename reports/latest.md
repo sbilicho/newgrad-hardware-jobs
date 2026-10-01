@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-01 06:04:22Z UTC
+Updated: 2026-10-01 07:32:22Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 45 (Possible) | [2026 Associate/Electronics Engineer - Top Secret - Dulles VA](https://jobright.ai/jobs/info/6abc5144fbb3359bcc7d1596) | Northrop Grumman | Dulles, VA | 09/30/2026 21:50:22 | Sponsorship: No |
+| 40 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6abdf03b4ac55253f5d5f313) | Leidos | Oklahoma City, OK | 09/30/2026 22:31:39 | Sponsorship: Not Sure |
+| 92 (Strong) | [CPU Design & Verification Engineer — New College Grad](https://jobright.ai/jobs/info/6abe0ad98ff3fb9b3bc72ae6) | NUVACORE | Santa Clara, CA | 10/01/2026 07:25:13 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Entry Level Semiconductor Test Engineer](https://jobright.ai/jobs/info/6abd8f0d064da25272dfe5f2) | Dice | Chandler, AZ | 09/14/2026 22:36:39 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abd7d1e372c01f6cd720d09) | Arseal | Alpharetta, GA | 09/30/2026 16:13:00 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6aa3f7df422289703bd646c7) | Applied Medical | Rancho Santa Margarita, CA | 09/30/2026 15:26:27 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-10-01 06:04:22Z UTC
 | 46 (Possible) | [Sr. Electrical Engineer I - Product Development - I&R](https://jobright.ai/jobs/info/6ab5595dd85922de20ce0aa5) | Arthrex | United States | 09/27/2026 12:18:58 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry-Level Manufacturing Systems Electrical Engineer](https://jobright.ai/jobs/info/6ab961e362bb1fbd451e05cf) | Hader Solutions | Warroad, MN | 09/27/2026 18:35:15 | Sponsorship: Past Sponsorship |
 | 71 (Strong) | [Analog Design Engineer](https://jobright.ai/jobs/info/6ab74565ba1c25652c611e45) | OMNIVISION | Santa Clara, CA | 09/27/2026 10:21:22 | Sponsorship: Not Sure |
-| 58 (Good) | [Entry-Level Test Engineer](https://jobright.ai/jobs/info/6ab847f23a2ec87116e26e50) | Dice | Huntsville, AL | 09/26/2026 22:32:18 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Associate Electrical Engineer](https://jobright.ai/jobs/info/6aac1a4f3dbb1f8967ce8d48) | Harris Group | Portland, OR | 09/26/2026 15:15:26 | Sponsorship: Not Sure |
-| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a9e77ac7cdb8543b877bcee) | Mead & Hunt | West Allis, WI | 09/26/2026 12:27:31 | Sponsorship: Past Sponsorship |
