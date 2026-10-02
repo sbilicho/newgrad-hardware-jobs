@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-02 11:19:05Z UTC
+Updated: 2026-10-02 12:19:26Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 45 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a85cd314afae74a0834141c) | Eaton | Davenport, IA | 10/02/2026 03:13:45 | Sponsorship: No |
 | 59 (Good) | [Hardware Design Engineer](https://jobright.ai/jobs/info/6aa70f3942411952ff9aca4e) | Supermicro | San Jose, CA | 10/02/2026 10:18:00 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Hardware Design Engineer](https://jobright.ai/jobs/info/6ab34d6b5d482753f3e688dd) | Supermicro | San Jose, CA | 10/02/2026 03:18:00 | Sponsorship: Not Sure |
 | 47 (Possible) | [Test Engineer I - Offsite Validation](https://jobright.ai/jobs/info/6abf75ad064da25272e05225) | CNH | New Holland, PA | 10/02/2026 02:13:17 | Sponsorship: Not Sure |
@@ -103,4 +104,3 @@ Updated: 2026-10-02 11:19:05Z UTC
 | 49 (Possible) | [Entry Level Hardware Engineer - Electrical/Power/Firmware/RF (Hybrid)](https://jobright.ai/jobs/info/6abbef6f3217d1d13329bf18) | BAE Systems, Inc. | Nashua, NH | 09/29/2026 17:03:43 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Entry-Level Powertrain Test Engineer](https://jobright.ai/jobs/info/6abbd6f03217d1d13329b3a6) | Global Connect Technologies | Raymond, OH | 09/29/2026 15:19:12 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6abbe650a9a644f965688948) | Boeing | Hazelwood, MO | 09/29/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Assistant Electrical Engineer](https://jobright.ai/jobs/info/6abbad04de8f79e124276d80) | City of New York | Long Island City, NY | 09/29/2026 05:20:20 | Sponsorship: Not Sure |
