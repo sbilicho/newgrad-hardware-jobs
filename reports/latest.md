@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-02 01:00:54Z UTC
+Updated: 2026-10-02 03:37:09Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a9fe66a5b2d5633ef3bba7a) | ByteDance | San Jose, CA | 10/02/2026 00:01:17 | Sponsorship: Past Sponsorship |
+| 53 (Good) | [Electrical Engineer I - Effector Guidance Sections](https://jobright.ai/jobs/info/6abeb9b40e027c0f3b39a54b) | RTX | Tucson, AZ | 10/01/2026 21:45:44 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abe6ec9d9621c5b2838f243) | Tyonek Native Corp | Warner Robins, GA | 10/01/2026 23:37:51 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 30 (Possible) | [Entry Level Systems Engineer-Digital Signal Processing](https://jobright.ai/jobs/info/6abf15118ff3fb9b3bc77506) | Boeing | El Segundo, CA | 10/01/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Early Power Electronics Engineer](https://jobright.ai/jobs/info/6abed3c64ac55253f5d63152) | Apex | Los Angeles, CA | 10/01/2026 19:01:22 | Sponsorship: No |
+| 58 (Good) | [Test Engineer I - On-site](https://jobright.ai/jobs/info/6abeed984ac55253f5d63a16) | Medtronic | Jacksonville, FL | 10/01/2026 19:08:42 | Sponsorship: No |
 | 41 (Possible) | [Entry Level Computer & Electrical Engineer](https://jobright.ai/jobs/info/6abefe68372c01f6cd726c85) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 10/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [ELECTRICAL ENGINEER I](https://jobright.ai/jobs/info/6abecc84d9621c5b28391a42) | Paul Mueller Company | Springfield, MO | 10/01/2026 18:10:46 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Entry Level Thermal Hydraulic Test Engineer](https://jobright.ai/jobs/info/6abefdcc372c01f6cd726c0d) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 10/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-10-02 01:00:54Z UTC
 | 54 (Good) | [Entry Level Spacecraft Integration and Test Engineer - Millennium Space Systems](https://jobright.ai/jobs/info/6abadd303db4ca81fc7c4fdb) | Boeing | El Segundo, CA | 09/28/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abad0183db4ca81fc7c4a08) | TRC Companies, Inc. | Salina, NY | 09/28/2026 20:37:44 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a6be38857120971bf3a96bb) | Peraton Labs | Aberdeen, MD | 09/28/2026 21:02:50 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 82 (Strong) | [Mixed Signal IC Layout Engineer](https://job-boards.greenhouse.io/tenstorrent/jobs/5227711007) | Tenstorrent | Santa Clara, California, United States | 09/28/2026 19:29:12 | Full-time status is inferred from the first-party posting |
-| 36 (Possible) | [CMOS FEOL Reliability Principal Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6abac9d3d2914e9273eed41c) | GlobalFoundries | Malta, NY | 09/28/2026 20:37:25 | Sponsorship: Past Sponsorship |
-| 54 (Good) | [Entry Level Spacecraft Integration and Test Engineer - Millennium Space Systems](https://jobright.ai/jobs/info/6abac7927220f52e62ae827b) | Boeing | El Segundo, CA | 09/28/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 85 (Strong) | [ASIC Verification Engineer, Memory Management - New College Grad 2027](https://jobright.ai/jobs/info/6aba9e8f7220f52e62ae74d5) | NVIDIA | Durham, NC | 09/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 85 (Strong) | [ASIC Verification Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6aba9ef4ad8589219ef7e4fd) | NVIDIA | Austin, TX | 09/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 92 (Strong) | [ASIC Design Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6abac1d7ee0b348be729b4fe) | NVIDIA | Santa Clara, CA | 09/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
