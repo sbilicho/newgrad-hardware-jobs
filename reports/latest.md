@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-02 03:37:09Z UTC
+Updated: 2026-10-02 06:13:42Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Computer & Electrical Engineer](https://jobright.ai/jobs/info/6aa77c1342411952ff9ad0b5) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 10/02/2026 04:40:55 | Sponsorship: Past Sponsorship |
+| 97 (Strong) | [Early Career R&D Electronics Engineer - Digital IC Design, Onsite](https://jobright.ai/jobs/info/6abf33eed9621c5b28393337) | Sandia National Laboratories | Albuquerque, NM | 10/02/2026 04:32:46 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 63 (Good) | [Electrical Test Engineer I](https://jobright.ai/jobs/info/6abef30f064da25272e03d37) | RTX | Tucson, AZ | 10/01/2026 20:19:57 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6aa1e6cfef23570cae246c45) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 10/01/2026 21:40:55 | Sponsorship: No |
+| 51 (Good) | [Test Engineer 1](https://jobright.ai/jobs/info/6abf3684372c01f6cd727871) | NuScale Power | United States | 10/01/2026 21:43:48 | Sponsorship: No |
+| 40 (Possible) | [Associate Direction Finding (DF)/Antenna RF Engineer Job Details \| Thales Defense & Security, Inc.](https://jobright.ai/jobs/info/6abf3c24d9621c5b28393459) | Thales Defense & Security, Inc. | Germantown, MD | 10/01/2026 22:07:48 | U.S. citizenship language is present; Sponsorship: No |
 | 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a9fe66a5b2d5633ef3bba7a) | ByteDance | San Jose, CA | 10/02/2026 00:01:17 | Sponsorship: Past Sponsorship |
 | 53 (Good) | [Electrical Engineer I - Effector Guidance Sections](https://jobright.ai/jobs/info/6abeb9b40e027c0f3b39a54b) | RTX | Tucson, AZ | 10/01/2026 21:45:44 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abe6ec9d9621c5b2838f243) | Tyonek Native Corp | Warner Robins, GA | 10/01/2026 23:37:51 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-10-02 03:37:09Z UTC
 | 50 (Good) | [Test Engineer - Space Solar](https://jobright.ai/jobs/info/6a41465dd528ac2915f97427) | Starpath | Hawthorne, CA | 09/28/2026 15:52:14 | Sponsorship: No |
 | 40 (Possible) | [Wireless/RF Engineer I](https://jobright.ai/jobs/info/6abaf100ee0b348be729c57f) | Honeywell Aerospace | San Jose, CA | 09/28/2026 15:58:08 | Sponsorship: No |
 | 55 (Good) | [Design Verification Engineer I](https://jobright.ai/jobs/info/6abad7987220f52e62ae8959) | Forj Medical | Saint Paul, MN | 09/28/2026 14:09:44 | Sponsorship: No |
-| 45 (Possible) | [Instrumentation and Controls Engineer](https://jobright.ai/jobs/info/6abab85c1acb8fc6f09c127b) | SSOE Group | Hillsboro, OR | 09/28/2026 14:32:23 | Sponsorship: Not Sure |
-| 46 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abada33be5f1e9325117c88) | Twenty-Six Defense Maritime | De Leon Springs, FL | 09/28/2026 21:20:51 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 51 (Good) | [Electrical Test Engineer I - TeraWave](https://jobright.ai/jobs/info/6abada7e3db4ca81fc7c4eea) | Blue Origin | Greater Seattle Area | 09/28/2026 22:52:13 | Sponsorship: Past Sponsorship |
-| 54 (Good) | [Entry Level Spacecraft Integration and Test Engineer - Millennium Space Systems](https://jobright.ai/jobs/info/6abadd303db4ca81fc7c4fdb) | Boeing | El Segundo, CA | 09/28/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abad0183db4ca81fc7c4a08) | TRC Companies, Inc. | Salina, NY | 09/28/2026 20:37:44 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6a6be38857120971bf3a96bb) | Peraton Labs | Aberdeen, MD | 09/28/2026 21:02:50 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
