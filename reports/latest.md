@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-02 20:04:27Z UTC
+Updated: 2026-10-02 21:04:23Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 42 (Possible) | [ADAS Test Engineer](https://jobright.ai/jobs/info/6aac5e223e3ce93970c7d305) | American Honda Motor Company, Inc. | Raymond, OH | 10/02/2026 13:10:10 | Sponsorship: Not Sure |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac01a4b4ac55253f5d6798b) | Westinghouse Electric Company | Rock Hill, SC | 10/02/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac019df8ff3fb9b3bc7ab25) | University of Missouri-Columbia | Columbia, MO | 10/02/2026 20:53:51 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abfb5b4d9621c5b28394196) | Hargrove Engineers & Constructors | Greenville, SC | 10/02/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I/II (Utility System Planning)](https://jobright.ai/jobs/info/6abff9f7d9621c5b28395987) | Liberty | Joplin, MO | 10/02/2026 15:36:27 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6a0ca7cb4d9320363687a579) | ICON | Austin, TX | 10/02/2026 16:29:47 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-10-02 20:04:27Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6abbf959b23c6fb2b81a4403) | Jacobs | Dallas, TX | 09/29/2026 15:43:13 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6abbfde8b23c6fb2b81a4664) | Peraton Labs | Aberdeen, MD | 09/29/2026 18:05:28 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 43 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6abc008592b2612ef0f8c4ca) | Tetra Tech | Englewood, CO | 09/29/2026 18:16:37 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [SWS Waterfront Electrical Engineer –Entry Level](https://jobright.ai/jobs/info/6abc0715b23c6fb2b81a4bd1) | General Dynamics Electric Boat | Groton, CT | 09/29/2026 18:44:37 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Entry Level Hardware Engineer - Electrical/Power/Firmware/RF (Hybrid)](https://jobright.ai/jobs/info/6abbfa7a3217d1d13329c4cc) | BAE Systems | Nashua, NH | 09/29/2026 17:50:50 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 55 (Good) | [Entry Level Semiconductor Test Engineer](https://jobright.ai/jobs/info/6abbfe293217d1d13329c6ad) | NXP Semiconductors | Chandler, AZ | 09/29/2026 00:00:00 | Sponsorship: Past Sponsorship |
