@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-02 21:04:23Z UTC
+Updated: 2026-10-02 22:57:44Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac027de0e027c0f3b3a027d) | NELSON Worldwide | Birmingham, AL | 10/02/2026 21:53:34 | Sponsorship: Past Sponsorship |
+| 43 (Possible) | [2027 Electrical Engineer I (Marine) - New Orleans, LA](https://jobright.ai/jobs/info/6ac0224e8ff3fb9b3bc7aeb3) | Textron | New Orleans, LA | 10/02/2026 21:29:50 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [2027 Electrical Engineer I (Marine) - New Orleans, LA](https://jobright.ai/jobs/info/6ac02317064da25272e0807e) | Textron Aviation | New Orleans, LA | 10/02/2026 21:33:11 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Systems Test Engineer 1](https://jobright.ai/jobs/info/6abfe5d64ac55253f5d6659d) | United Launch Alliance (ULA) | Pueblo, CO | 10/02/2026 14:17:16 | Sponsorship: No |
+| 37 (Possible) | [Instrumentation & Controls Engineer – EIT](https://jobright.ai/jobs/info/6ac020308ff3fb9b3bc7adee) | Stantec | Denver, CO | 10/02/2026 14:20:48 | Sponsorship: Not Sure |
 | 42 (Possible) | [ADAS Test Engineer](https://jobright.ai/jobs/info/6aac5e223e3ce93970c7d305) | American Honda Motor Company, Inc. | Raymond, OH | 10/02/2026 13:10:10 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac01a4b4ac55253f5d6798b) | Westinghouse Electric Company | Rock Hill, SC | 10/02/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac019df8ff3fb9b3bc7ab25) | University of Missouri-Columbia | Columbia, MO | 10/02/2026 20:53:51 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-10-02 21:04:23Z UTC
 | 40 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6abc3069a9a644f96568adb9) | Sargent & Lundy | Richmond, VA | 09/29/2026 21:40:57 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6abbfb0ea9a644f965689618) | Boeing | Hazelwood, MO | 09/29/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 34 (Possible) | [AI GPU Power Architect - New College Grad 2026](https://jobright.ai/jobs/info/6ab7282962bb1fbd451dd831) | NVIDIA | Santa Clara, CA | 09/29/2026 16:51:52 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [Electrical Engineer, Manufacturing Test - Electronic Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5252213007?gh_jid=5252213007) | Anduril Industries | Irvine, California, United States; Costa Mesa, California, United States | 09/29/2026 18:49:32 | Security clearance language is present; Full-time status is inferred from the first-party posting |
-| 40 (Possible) | [C5ISR Electrical Engineer I](https://jobright.ai/jobs/info/6abbfa7ba9a644f9656895c7) | BAE Systems | California, MD | 09/29/2026 17:50:51 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6abbf959b23c6fb2b81a4403) | Jacobs | Dallas, TX | 09/29/2026 15:43:13 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6abbfde8b23c6fb2b81a4664) | Peraton Labs | Aberdeen, MD | 09/29/2026 18:05:28 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 43 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6abc008592b2612ef0f8c4ca) | Tetra Tech | Englewood, CO | 09/29/2026 18:16:37 | Sponsorship: Past Sponsorship |
