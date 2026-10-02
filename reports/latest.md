@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-02 13:19:31Z UTC
+Updated: 2026-10-02 19:00:42Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abfb5b4d9621c5b28394196) | Hargrove Engineers & Constructors | Greenville, SC | 10/02/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I/II (Utility System Planning)](https://jobright.ai/jobs/info/6abff9f7d9621c5b28395987) | Liberty | Joplin, MO | 10/02/2026 15:36:27 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6a0ca7cb4d9320363687a579) | ICON | Austin, TX | 10/02/2026 16:29:47 | Sponsorship: Past Sponsorship |
+| 56 (Good) | [Circuit Design Engineer - Level 1](https://jobright.ai/jobs/info/6abea3908ff3fb9b3bc74d33) | Lockheed Martin | Sunnyvale, CA | 10/02/2026 13:34:36 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 86 (Strong) | [Design Verification Engineer](https://jobright.ai/jobs/info/6aa3f0c0422289703bd643ca) | Intel | Santa Clara, CA | 10/02/2026 11:53:41 | Sponsorship: Past Sponsorship |
+| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6abffb06372c01f6cd729e8e) | ByteDance | San Jose, CA | 10/02/2026 18:42:14 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Electrical Design Engineer, Data Center Design Engineering](https://jobright.ai/jobs/info/6aa39cb65c11cce360365276) | Amazon | Austin, TX; Seattle, WA; Herndon, VA | 10/02/2026 10:24:14 | Sponsorship: Not Sure |
 | 45 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a85cd314afae74a0834141c) | Eaton | Davenport, IA | 10/02/2026 03:13:45 | Sponsorship: No |
 | 59 (Good) | [Hardware Design Engineer](https://jobright.ai/jobs/info/6aa70f3942411952ff9aca4e) | Supermicro | San Jose, CA | 10/02/2026 10:18:00 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Hardware Design Engineer](https://jobright.ai/jobs/info/6ab34d6b5d482753f3e688dd) | Supermicro | San Jose, CA | 10/02/2026 03:18:00 | Sponsorship: Not Sure |
@@ -97,10 +104,3 @@ Updated: 2026-10-02 13:19:31Z UTC
 | 37 (Possible) | [SWS Waterfront Electrical Engineer –Entry Level](https://jobright.ai/jobs/info/6abc0715b23c6fb2b81a4bd1) | General Dynamics Electric Boat | Groton, CT | 09/29/2026 18:44:37 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Entry Level Hardware Engineer - Electrical/Power/Firmware/RF (Hybrid)](https://jobright.ai/jobs/info/6abbfa7a3217d1d13329c4cc) | BAE Systems | Nashua, NH | 09/29/2026 17:50:50 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 55 (Good) | [Entry Level Semiconductor Test Engineer](https://jobright.ai/jobs/info/6abbfe293217d1d13329c6ad) | NXP Semiconductors | Chandler, AZ | 09/29/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 92 (Strong) | [New College Grad - HBM SoC Design Engineer/Architect](https://jobright.ai/jobs/info/6abbfe2ab23c6fb2b81a4698) | Micron Technology | Folsom, CA | 09/29/2026 18:06:34 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6aa9ff8109ae03adcace09f2) | Oldcastle BuildingEnvelope | York, PA | 09/29/2026 10:54:38 | Sponsorship: Not Sure |
-| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abbf0e07119e56191cea30d) | Aditi Consulting | United States | 09/29/2026 17:09:52 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6abbf738d6acfd3dd29fb129) | Jacobs | Dallas, TX | 09/29/2026 15:35:09 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Entry Level Hardware Engineer - Electrical/Power/Firmware/RF (Hybrid)](https://jobright.ai/jobs/info/6abbef6f3217d1d13329bf18) | BAE Systems, Inc. | Nashua, NH | 09/29/2026 17:03:43 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Entry-Level Powertrain Test Engineer](https://jobright.ai/jobs/info/6abbd6f03217d1d13329b3a6) | Global Connect Technologies | Raymond, OH | 09/29/2026 15:19:12 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6abbe650a9a644f965688948) | Boeing | Hazelwood, MO | 09/29/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
