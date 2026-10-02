@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-02 22:57:44Z UTC
+Updated: 2026-10-02 23:49:16Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer I-III](https://jobright.ai/jobs/info/6ac03f014ac55253f5d685d0) | North Carolina Department of Agriculture and Consumer Services | Denton, TX | 10/02/2026 23:32:17 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Mechanical Test Engineer I](https://jobright.ai/jobs/info/6abfdc48372c01f6cd7290e8) | RTX | Tucson, AZ | 10/02/2026 14:19:33 | Security clearance language is present; Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac027de0e027c0f3b3a027d) | NELSON Worldwide | Birmingham, AL | 10/02/2026 21:53:34 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [2027 Electrical Engineer I (Marine) - New Orleans, LA](https://jobright.ai/jobs/info/6ac0224e8ff3fb9b3bc7aeb3) | Textron | New Orleans, LA | 10/02/2026 21:29:50 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [2027 Electrical Engineer I (Marine) - New Orleans, LA](https://jobright.ai/jobs/info/6ac02317064da25272e0807e) | Textron Aviation | New Orleans, LA | 10/02/2026 21:33:11 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-10-02 22:57:44Z UTC
 | 30 (Possible) | [Design Engineer I- Electronics Integration](https://jobright.ai/jobs/info/6abc145cd6acfd3dd29fbd8a) | Sub-Zero Group, Inc. | Madison, WI | 09/29/2026 19:41:16 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Reliability Engineer I - Sr Job Details \| Arkansas Electric Cooperative](https://jobright.ai/jobs/info/6abc22f43217d1d13329d60f) | Arkansas Electric Cooperative Corporation | Little Rock, AR | 09/29/2026 20:43:32 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6abc3069a9a644f96568adb9) | Sargent & Lundy | Richmond, VA | 09/29/2026 21:40:57 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6abbfb0ea9a644f965689618) | Boeing | Hazelwood, MO | 09/29/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 34 (Possible) | [AI GPU Power Architect - New College Grad 2026](https://jobright.ai/jobs/info/6ab7282962bb1fbd451dd831) | NVIDIA | Santa Clara, CA | 09/29/2026 16:51:52 | Sponsorship: Past Sponsorship |
