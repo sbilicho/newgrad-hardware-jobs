@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-02 10:19:24Z UTC
+Updated: 2026-10-02 11:19:05Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 59 (Good) | [Hardware Design Engineer](https://jobright.ai/jobs/info/6aa70f3942411952ff9aca4e) | Supermicro | San Jose, CA | 10/02/2026 10:18:00 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Hardware Design Engineer](https://jobright.ai/jobs/info/6ab34d6b5d482753f3e688dd) | Supermicro | San Jose, CA | 10/02/2026 03:18:00 | Sponsorship: Not Sure |
 | 47 (Possible) | [Test Engineer I - Offsite Validation](https://jobright.ai/jobs/info/6abf75ad064da25272e05225) | CNH | New Holland, PA | 10/02/2026 02:13:17 | Sponsorship: Not Sure |
 | 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6a845d6e7b33d722762557bf) | Eaton | Arden, NC | 10/02/2026 02:39:06 | Sponsorship: No |
 | 33 (Possible) | [New College Grad - Product Yield Enhancement Engineer, HBM](https://jobright.ai/jobs/info/6abf755f8ff3fb9b3bc781eb) | Micron Technology | Boise, ID | 10/02/2026 09:11:59 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-10-02 10:19:24Z UTC
 | 47 (Possible) | [Entry-Level Powertrain Test Engineer](https://jobright.ai/jobs/info/6abbd6f03217d1d13329b3a6) | Global Connect Technologies | Raymond, OH | 09/29/2026 15:19:12 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6abbe650a9a644f965688948) | Boeing | Hazelwood, MO | 09/29/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Assistant Electrical Engineer](https://jobright.ai/jobs/info/6abbad04de8f79e124276d80) | City of New York | Long Island City, NY | 09/29/2026 05:20:20 | Sponsorship: Not Sure |
-| 46 (Possible) | [Hardware Engineer, Onsite](https://jobright.ai/jobs/info/6abb25f6be5f1e9325119d34) | VinAudit.com Inc. | Kirkland, WA | 09/28/2026 19:44:06 | Sponsorship: Not Sure |
-| 46 (Possible) | [Hardware Engineer, Onsite](https://jobright.ai/jobs/info/6abb260e1acb8fc6f09c3f68) | AutoScale Ventures | Kirkland, WA | 09/28/2026 19:44:30 | Sponsorship: Not Sure |
