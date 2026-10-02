@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-02 06:13:42Z UTC
+Updated: 2026-10-02 07:19:18Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 32 (Possible) | [GE Vernova Cyber UX Controls Engineer-1](https://jobright.ai/jobs/info/6abf150b0e027c0f3b39c688) | GE Vernova | Longmont, CO; Greenville, SC; Roanoke, VA; Schenectady, NY | 10/01/2026 22:23:04 | Sponsorship: No |
+| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6abf4d3b064da25272e04c69) | Hydromenta Systems | United States | 10/01/2026 23:20:43 | Sponsorship: Not Sure |
 | 37 (Possible) | [Entry Level Computer & Electrical Engineer](https://jobright.ai/jobs/info/6aa77c1342411952ff9ad0b5) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 10/02/2026 04:40:55 | Sponsorship: Past Sponsorship |
 | 97 (Strong) | [Early Career R&D Electronics Engineer - Digital IC Design, Onsite](https://jobright.ai/jobs/info/6abf33eed9621c5b28393337) | Sandia National Laboratories | Albuquerque, NM | 10/02/2026 04:32:46 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 63 (Good) | [Electrical Test Engineer I](https://jobright.ai/jobs/info/6abef30f064da25272e03d37) | RTX | Tucson, AZ | 10/01/2026 20:19:57 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-10-02 06:13:42Z UTC
 | 44 (Possible) | [Electrical Engineer I - Fluid Systems Division](https://jobright.ai/jobs/info/6abab237d2914e9273eecbeb) | Parker Hannifin | Irvine, CA | 09/29/2026 02:05:21 | Sponsorship: Past Sponsorship |
 | 88 (Strong) | [Processor ASIC RTL Design Engineer](https://jobright.ai/jobs/info/6abb1269be5f1e9325118924) | Qualcomm | San Diego, CA | 09/28/2026 18:20:41 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Test Engineer - Space Solar](https://jobright.ai/jobs/info/6a41465dd528ac2915f97427) | Starpath | Hawthorne, CA | 09/28/2026 15:52:14 | Sponsorship: No |
-| 40 (Possible) | [Wireless/RF Engineer I](https://jobright.ai/jobs/info/6abaf100ee0b348be729c57f) | Honeywell Aerospace | San Jose, CA | 09/28/2026 15:58:08 | Sponsorship: No |
-| 55 (Good) | [Design Verification Engineer I](https://jobright.ai/jobs/info/6abad7987220f52e62ae8959) | Forj Medical | Saint Paul, MN | 09/28/2026 14:09:44 | Sponsorship: No |
