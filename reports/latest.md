@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-01 20:55:42Z UTC
+Updated: 2026-10-02 01:00:54Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Entry Level Computer & Electrical Engineer](https://jobright.ai/jobs/info/6abefe68372c01f6cd726c85) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 10/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 43 (Possible) | [ELECTRICAL ENGINEER I](https://jobright.ai/jobs/info/6abecc84d9621c5b28391a42) | Paul Mueller Company | Springfield, MO | 10/01/2026 18:10:46 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Entry Level Thermal Hydraulic Test Engineer](https://jobright.ai/jobs/info/6abefdcc372c01f6cd726c0d) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 10/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 68 (Good) | [Software Verification Engineer](https://jobright.ai/jobs/info/6abeaaaed9621c5b28390981) | System One | Greater Philadelphia | 10/01/2026 18:47:10 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Antenna RF Engineer, EW](https://boards.greenhouse.io/andurilindustries/jobs/5231092007?gh_jid=5231092007) | Anduril Industries | Costa Mesa, California, United States | 10/01/2026 19:29:06 | Security clearance language is present |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6abec582372c01f6cd7258f9) | ByteDance | San Jose, CA | 10/01/2026 20:41:38 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-10-01 20:55:42Z UTC
 | 85 (Strong) | [ASIC Verification Engineer, Memory Management - New College Grad 2027](https://jobright.ai/jobs/info/6aba9e8f7220f52e62ae74d5) | NVIDIA | Durham, NC | 09/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 85 (Strong) | [ASIC Verification Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6aba9ef4ad8589219ef7e4fd) | NVIDIA | Austin, TX | 09/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 92 (Strong) | [ASIC Design Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6abac1d7ee0b348be729b4fe) | NVIDIA | Santa Clara, CA | 09/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6aba91b6d2914e9273eebee4) | General Dynamics Electric Boat | North Kingstown, RI | 09/28/2026 16:11:34 | Sponsorship: Past Sponsorship |
-| 56 (Good) | [Electrical Validation Engineer](https://jobright.ai/jobs/info/69d97dec9f97a42dc9c21dfe) | ZT Systems | Georgetown, TX | 09/28/2026 14:33:10 | Sponsorship: Past Sponsorship |
-| 31 (Possible) | [New College Grad - Module Hardware Engineer](https://jobright.ai/jobs/info/6aba838abe5f1e9325115d14) | Micron Technology | Boise, ID | 09/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
