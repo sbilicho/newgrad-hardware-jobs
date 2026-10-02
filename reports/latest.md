@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-02 08:19:20Z UTC
+Updated: 2026-10-02 09:19:25Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 33 (Possible) | [New College Grad - Product Yield Enhancement Engineer, HBM](https://jobright.ai/jobs/info/6abf755f8ff3fb9b3bc781eb) | Micron Technology | Boise, ID | 10/02/2026 09:11:59 | Sponsorship: Past Sponsorship |
 | 32 (Possible) | [GE Vernova Cyber UX Controls Engineer-1](https://jobright.ai/jobs/info/6abf150b0e027c0f3b39c688) | GE Vernova | Longmont, CO; Greenville, SC; Roanoke, VA; Schenectady, NY | 10/01/2026 22:23:04 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6abf4d3b064da25272e04c69) | Hydromenta Systems | United States | 10/01/2026 23:20:43 | Sponsorship: Not Sure |
 | 37 (Possible) | [Entry Level Computer & Electrical Engineer](https://jobright.ai/jobs/info/6aa77c1342411952ff9ad0b5) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 10/02/2026 04:40:55 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-02 08:19:20Z UTC
 | 46 (Possible) | [Hardware Engineer, Onsite](https://jobright.ai/jobs/info/6abb260e1acb8fc6f09c3f68) | AutoScale Ventures | Kirkland, WA | 09/28/2026 19:44:30 | Sponsorship: Not Sure |
 | 44 (Possible) | [Electrical Engineer I - Fluid Systems Division](https://jobright.ai/jobs/info/6abab237d2914e9273eecbeb) | Parker Hannifin | Irvine, CA | 09/29/2026 02:05:21 | Sponsorship: Past Sponsorship |
 | 88 (Strong) | [Processor ASIC RTL Design Engineer](https://jobright.ai/jobs/info/6abb1269be5f1e9325118924) | Qualcomm | San Diego, CA | 09/28/2026 18:20:41 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Test Engineer - Space Solar](https://jobright.ai/jobs/info/6a41465dd528ac2915f97427) | Starpath | Hawthorne, CA | 09/28/2026 15:52:14 | Sponsorship: No |
