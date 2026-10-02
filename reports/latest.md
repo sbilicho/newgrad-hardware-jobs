@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-02 09:19:25Z UTC
+Updated: 2026-10-02 10:19:24Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 47 (Possible) | [Test Engineer I - Offsite Validation](https://jobright.ai/jobs/info/6abf75ad064da25272e05225) | CNH | New Holland, PA | 10/02/2026 02:13:17 | Sponsorship: Not Sure |
+| 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6a845d6e7b33d722762557bf) | Eaton | Arden, NC | 10/02/2026 02:39:06 | Sponsorship: No |
 | 33 (Possible) | [New College Grad - Product Yield Enhancement Engineer, HBM](https://jobright.ai/jobs/info/6abf755f8ff3fb9b3bc781eb) | Micron Technology | Boise, ID | 10/02/2026 09:11:59 | Sponsorship: Past Sponsorship |
 | 32 (Possible) | [GE Vernova Cyber UX Controls Engineer-1](https://jobright.ai/jobs/info/6abf150b0e027c0f3b39c688) | GE Vernova | Longmont, CO; Greenville, SC; Roanoke, VA; Schenectady, NY | 10/01/2026 22:23:04 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6abf4d3b064da25272e04c69) | Hydromenta Systems | United States | 10/01/2026 23:20:43 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-10-02 09:19:25Z UTC
 | 37 (Possible) | [Assistant Electrical Engineer](https://jobright.ai/jobs/info/6abbad04de8f79e124276d80) | City of New York | Long Island City, NY | 09/29/2026 05:20:20 | Sponsorship: Not Sure |
 | 46 (Possible) | [Hardware Engineer, Onsite](https://jobright.ai/jobs/info/6abb25f6be5f1e9325119d34) | VinAudit.com Inc. | Kirkland, WA | 09/28/2026 19:44:06 | Sponsorship: Not Sure |
 | 46 (Possible) | [Hardware Engineer, Onsite](https://jobright.ai/jobs/info/6abb260e1acb8fc6f09c3f68) | AutoScale Ventures | Kirkland, WA | 09/28/2026 19:44:30 | Sponsorship: Not Sure |
-| 44 (Possible) | [Electrical Engineer I - Fluid Systems Division](https://jobright.ai/jobs/info/6abab237d2914e9273eecbeb) | Parker Hannifin | Irvine, CA | 09/29/2026 02:05:21 | Sponsorship: Past Sponsorship |
-| 88 (Strong) | [Processor ASIC RTL Design Engineer](https://jobright.ai/jobs/info/6abb1269be5f1e9325118924) | Qualcomm | San Diego, CA | 09/28/2026 18:20:41 | Sponsorship: Past Sponsorship |
