@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-03 05:18:46Z UTC
+Updated: 2026-10-03 06:46:36Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 50 (Good) | [Systems Test Engineer 1 Job Details \| United Launch Alliance](https://jobright.ai/jobs/info/6ac08e238ff3fb9b3bc7c5ca) | United Launch Alliance (ULA) | Pueblo, CO | 10/02/2026 22:09:55 | Sponsorship: Not Sure |
 | 49 (Possible) | [2027 Electrical Engineer I (Marine) - New Orleans, LA](https://jobright.ai/jobs/info/6ac0586f0e027c0f3b3a0dc9) | Louisiana Economic Development | New Orleans, LA | 10/03/2026 01:20:47 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry-Level Manufacturing Systems Electrical Engineer](https://jobright.ai/jobs/info/6ac05988064da25272e08d03) | Bluegrass Stream | Warroad, MN | 10/03/2026 01:25:28 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Satellite Test Engineer, Amazon Leo](https://jobright.ai/jobs/info/6abff38d064da25272e06e33) | Amazon | Redmond, WA | 10/02/2026 17:00:48 | Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-10-03 05:18:46Z UTC
 | 49 (Possible) | [ARTC Entry Level Test Engineer](https://jobright.ai/jobs/info/6abc642a752643de1e5d7e3e) | TRAX International Corporation | Delta Junction, AK | 09/30/2026 01:21:46 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abc05e2d6acfd3dd29fb993) | Aditi Consulting | United States | 09/29/2026 18:39:30 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [R&D Reliability/Test Engineer - June 2027 Grads](https://jobright.ai/jobs/info/6abc324fa9a644f96568ae35) | Formlabs | Somerville, MA | 09/29/2026 21:49:03 | Sponsorship: Past Sponsorship |
-| 31 (Possible) | [Applied Machine Learning Engineer, AI for VLSI Design - New College Grad 2026](https://jobright.ai/jobs/info/6abc24c63217d1d13329d747) | NVIDIA | Santa Clara, CA | 09/29/2026 23:49:28 | Sponsorship: Past Sponsorship |
