@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-03 19:33:46Z UTC
+Updated: 2026-10-03 22:26:02Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Controls Engineer](https://jobright.ai/jobs/info/6ac15593d9621c5b28398fd0) | All World Machinery Supply | Roscoe, IL | 10/03/2026 12:20:51 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac13201064da25272e0a4a5) | Freeport-McMoRan | Safford, AZ | 10/03/2026 16:49:05 | Sponsorship: Past Sponsorship |
 | 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6ac14c940e027c0f3b3a27f4) | ByteDance | San Jose, CA | 10/03/2026 18:42:28 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ac14c68372c01f6cd72d3a2) | ByteDance | San Jose, CA | 10/03/2026 18:41:44 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-03 19:33:46Z UTC
 | 60 (Good) | [System Validation Engineer](https://jobright.ai/jobs/info/6abccbca0e027c0f3b3929f7) | Wipro | Santa Clara, CA | 09/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Controls Engineer](https://jobright.ai/jobs/info/6abcbb314ac55253f5d5a4a5) | Corning Incorporated | Canton, NY | 09/30/2026 00:33:05 | Sponsorship: No |
 | 77 (Strong) | [FPGA/ASIC Engineer I (Onsite)](https://jobright.ai/jobs/info/6abc40247119e56191cec4d8) | RTX | Cedar Rapids, IA | 09/29/2026 20:19:45 | Security clearance language is present; Sponsorship: No |
-| 72 (Strong) | [Firmware Engineer](https://jobs.ashbyhq.com/etched/8e280db7-f954-4467-b3ea-b9b4386d6632) | Etched | San Jose | 05/19/2026 03:00:40 |  |
