@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-03 12:44:53Z UTC
+Updated: 2026-10-03 16:48:09Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Engineer- Electrical Engineer Functional Safety](https://jobright.ai/jobs/info/6a638a648d53603449602c8d) | UL Solutions | Northbrook, IL | 10/03/2026 08:06:32 | Sponsorship: Not Sure |
+| 50 (Good) | [Systems Test Engineer, IBCS-M](https://jobright.ai/jobs/info/6ac101910e027c0f3b3a21f8) | Anduril Industries | Costa Mesa, CA | 10/03/2026 08:21:27 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ac0e1c5064da25272e09d97) | Horizon Lane | Los Angeles, CA | 10/03/2026 04:06:45 | Sponsorship: Not Sure |
 | 50 (Good) | [Systems Test Engineer 1 Job Details \| United Launch Alliance](https://jobright.ai/jobs/info/6ac08e238ff3fb9b3bc7c5ca) | United Launch Alliance (ULA) | Pueblo, CO | 10/02/2026 22:09:55 | Sponsorship: Not Sure |
 | 49 (Possible) | [2027 Electrical Engineer I (Marine) - New Orleans, LA](https://jobright.ai/jobs/info/6ac0586f0e027c0f3b3a0dc9) | Louisiana Economic Development | New Orleans, LA | 10/03/2026 01:20:47 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-10-03 12:44:53Z UTC
 | 49 (Possible) | [ARTC Entry Level Test Engineer](https://jobright.ai/jobs/info/6abc7e32bf15c0ae50138f9d) | TRAX International Corporation | Delta Junction, AK | 09/29/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 32 (Possible) | [Device Compact Modeling Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6abc5f42187b1378d873dc85) | GlobalFoundries | Malta, NY | 09/30/2026 02:37:48 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Entry Level Hardware Engineer - Electrical/Power/Firmware/RF (Hybrid)](https://jobright.ai/jobs/info/6abc6846fbb3359bcc7d1d25) | BAE Systems, Inc. | Nashua, NH | 09/29/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 49 (Possible) | [ARTC Entry Level Test Engineer](https://jobright.ai/jobs/info/6abc642a752643de1e5d7e3e) | TRAX International Corporation | Delta Junction, AK | 09/30/2026 01:21:46 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abc05e2d6acfd3dd29fb993) | Aditi Consulting | United States | 09/29/2026 18:39:30 | Sponsorship: Past Sponsorship |
