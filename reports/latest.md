@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-03 00:49:14Z UTC
+Updated: 2026-10-03 01:49:25Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 49 (Possible) | [2027 Electrical Engineer I (Marine) - New Orleans, LA](https://jobright.ai/jobs/info/6ac0586f0e027c0f3b3a0dc9) | Louisiana Economic Development | New Orleans, LA | 10/03/2026 01:20:47 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Entry-Level Manufacturing Systems Electrical Engineer](https://jobright.ai/jobs/info/6ac05988064da25272e08d03) | Bluegrass Stream | Warroad, MN | 10/03/2026 01:25:28 | Sponsorship: Past Sponsorship |
+| 54 (Good) | [Satellite Test Engineer, Amazon Leo](https://jobright.ai/jobs/info/6abff38d064da25272e06e33) | Amazon | Redmond, WA | 10/02/2026 17:00:48 | Sponsorship: No |
 | 41 (Possible) | [Electrical Engineer I-III](https://jobright.ai/jobs/info/6ac03f014ac55253f5d685d0) | North Carolina Department of Agriculture and Consumer Services | Denton, TX | 10/02/2026 23:32:17 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Mechanical Test Engineer I](https://jobright.ai/jobs/info/6abfdc48372c01f6cd7290e8) | RTX | Tucson, AZ | 10/02/2026 14:19:33 | Security clearance language is present; Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac027de0e027c0f3b3a027d) | NELSON Worldwide | Birmingham, AL | 10/02/2026 21:53:34 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-10-03 00:49:14Z UTC
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abc05e2d6acfd3dd29fb993) | Aditi Consulting | United States | 09/29/2026 18:39:30 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [R&D Reliability/Test Engineer - June 2027 Grads](https://jobright.ai/jobs/info/6abc324fa9a644f96568ae35) | Formlabs | Somerville, MA | 09/29/2026 21:49:03 | Sponsorship: Past Sponsorship |
 | 31 (Possible) | [Applied Machine Learning Engineer, AI for VLSI Design - New College Grad 2026](https://jobright.ai/jobs/info/6abc24c63217d1d13329d747) | NVIDIA | Santa Clara, CA | 09/29/2026 23:49:28 | Sponsorship: Past Sponsorship |
-| 30 (Possible) | [Design Engineer I- Electronics Integration](https://jobright.ai/jobs/info/6abc145cd6acfd3dd29fbd8a) | Sub-Zero Group, Inc. | Madison, WI | 09/29/2026 19:41:16 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [Reliability Engineer I - Sr Job Details \| Arkansas Electric Cooperative](https://jobright.ai/jobs/info/6abc22f43217d1d13329d60f) | Arkansas Electric Cooperative Corporation | Little Rock, AR | 09/29/2026 20:43:32 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6abc3069a9a644f96568adb9) | Sargent & Lundy | Richmond, VA | 09/29/2026 21:40:57 | Sponsorship: Past Sponsorship |
