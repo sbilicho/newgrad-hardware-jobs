@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-03 07:37:51Z UTC
+Updated: 2026-10-03 12:44:53Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ac0e1c5064da25272e09d97) | Horizon Lane | Los Angeles, CA | 10/03/2026 04:06:45 | Sponsorship: Not Sure |
 | 50 (Good) | [Systems Test Engineer 1 Job Details \| United Launch Alliance](https://jobright.ai/jobs/info/6ac08e238ff3fb9b3bc7c5ca) | United Launch Alliance (ULA) | Pueblo, CO | 10/02/2026 22:09:55 | Sponsorship: Not Sure |
 | 49 (Possible) | [2027 Electrical Engineer I (Marine) - New Orleans, LA](https://jobright.ai/jobs/info/6ac0586f0e027c0f3b3a0dc9) | Louisiana Economic Development | New Orleans, LA | 10/03/2026 01:20:47 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry-Level Manufacturing Systems Electrical Engineer](https://jobright.ai/jobs/info/6ac05988064da25272e08d03) | Bluegrass Stream | Warroad, MN | 10/03/2026 01:25:28 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-03 07:37:51Z UTC
 | 49 (Possible) | [Entry Level Hardware Engineer - Electrical/Power/Firmware/RF (Hybrid)](https://jobright.ai/jobs/info/6abc6846fbb3359bcc7d1d25) | BAE Systems, Inc. | Nashua, NH | 09/29/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 49 (Possible) | [ARTC Entry Level Test Engineer](https://jobright.ai/jobs/info/6abc642a752643de1e5d7e3e) | TRAX International Corporation | Delta Junction, AK | 09/30/2026 01:21:46 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abc05e2d6acfd3dd29fb993) | Aditi Consulting | United States | 09/29/2026 18:39:30 | Sponsorship: Past Sponsorship |
-| 62 (Good) | [R&D Reliability/Test Engineer - June 2027 Grads](https://jobright.ai/jobs/info/6abc324fa9a644f96568ae35) | Formlabs | Somerville, MA | 09/29/2026 21:49:03 | Sponsorship: Past Sponsorship |
