@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-04 14:11:01Z UTC
+Updated: 2026-10-04 18:13:31Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer [Wilton]](https://jobright.ai/jobs/info/6ac270bd064da25272e0c0cd) | Altieri | Wilton, CT | 08/15/2026 17:23:13 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Hardware Engineer I - ACM](https://jobright.ai/jobs/info/6abbf39bd6acfd3dd29faed0) | Medtronic | Lafayette, CO | 10/03/2026 19:52:07 | Sponsorship: No |
 | 47 (Possible) | [Uptime Engineering Product Engineer Job Details \| PACCAR](https://jobright.ai/jobs/info/6ac1d9bad9621c5b28399a07) | Kenworth Truck Co. | Kirkland, WA | 10/03/2026 21:44:42 | Sponsorship: Not Sure |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ac19c3d064da25272e0ab14) | ByteDance | San Jose, CA | 10/03/2026 01:12:02 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-04 14:11:01Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abd09e48ff3fb9b3bc6e1ec) | SoundOff Signal | Hudsonville, MI | 09/30/2026 07:51:41 | Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Digital ASIC Design Engineer](https://jobright.ai/jobs/info/6a8367491081a745e970ef66) | Qualcomm | San Diego, CA | 09/30/2026 03:57:24 | Sponsorship: Not Sure |
 | 37 (Possible) | [RF/Microwave Engineer I](https://jobright.ai/jobs/info/6a690db13b549b0b531d3954) | TTM Technologies | Syracuse, NY | 09/30/2026 02:25:27 | Sponsorship: No |
-| 60 (Good) | [System Validation Engineer](https://jobright.ai/jobs/info/6abce5d64ac55253f5d5a9cc) | Supermicro | San Jose, CA | 09/30/2026 10:35:02 | Sponsorship: Past Sponsorship |
