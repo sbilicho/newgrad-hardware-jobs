@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-03 22:26:02Z UTC
+Updated: 2026-10-04 01:57:33Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ac19c3d064da25272e0ab14) | ByteDance | San Jose, CA | 10/03/2026 01:12:02 | Sponsorship: Past Sponsorship |
+| 51 (Good) | [Production Test Engineer, Leo Propulsion Production Test Team](https://jobright.ai/jobs/info/6ac19967d9621c5b28399312) | Amazon | Redmond, WA | 10/03/2026 17:10:15 | Sponsorship: No |
 | 37 (Possible) | [Controls Engineer](https://jobright.ai/jobs/info/6ac15593d9621c5b28398fd0) | All World Machinery Supply | Roscoe, IL | 10/03/2026 12:20:51 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac13201064da25272e0a4a5) | Freeport-McMoRan | Safford, AZ | 10/03/2026 16:49:05 | Sponsorship: Past Sponsorship |
 | 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6ac14c940e027c0f3b3a27f4) | ByteDance | San Jose, CA | 10/03/2026 18:42:28 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-10-03 22:26:02Z UTC
 | 60 (Good) | [System Validation Engineer](https://jobright.ai/jobs/info/6abce5d64ac55253f5d5a9cc) | Supermicro | San Jose, CA | 09/30/2026 10:35:02 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6abce4e78ff3fb9b3bc6dcc9) | ByteDance | San Jose, CA | 09/30/2026 10:31:03 | Sponsorship: Past Sponsorship |
 | 60 (Good) | [System Validation Engineer](https://jobright.ai/jobs/info/6abccbca0e027c0f3b3929f7) | Wipro | Santa Clara, CA | 09/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Controls Engineer](https://jobright.ai/jobs/info/6abcbb314ac55253f5d5a4a5) | Corning Incorporated | Canton, NY | 09/30/2026 00:33:05 | Sponsorship: No |
-| 77 (Strong) | [FPGA/ASIC Engineer I (Onsite)](https://jobright.ai/jobs/info/6abc40247119e56191cec4d8) | RTX | Cedar Rapids, IA | 09/29/2026 20:19:45 | Security clearance language is present; Sponsorship: No |
