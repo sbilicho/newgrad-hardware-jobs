@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-04 01:57:33Z UTC
+Updated: 2026-10-04 08:18:15Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 50 (Good) | [Hardware Engineer I - ACM](https://jobright.ai/jobs/info/6abbf39bd6acfd3dd29faed0) | Medtronic | Lafayette, CO | 10/03/2026 19:52:07 | Sponsorship: No |
+| 47 (Possible) | [Uptime Engineering Product Engineer Job Details \| PACCAR](https://jobright.ai/jobs/info/6ac1d9bad9621c5b28399a07) | Kenworth Truck Co. | Kirkland, WA | 10/03/2026 21:44:42 | Sponsorship: Not Sure |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ac19c3d064da25272e0ab14) | ByteDance | San Jose, CA | 10/03/2026 01:12:02 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Production Test Engineer, Leo Propulsion Production Test Team](https://jobright.ai/jobs/info/6ac19967d9621c5b28399312) | Amazon | Redmond, WA | 10/03/2026 17:10:15 | Sponsorship: No |
 | 37 (Possible) | [Controls Engineer](https://jobright.ai/jobs/info/6ac15593d9621c5b28398fd0) | All World Machinery Supply | Roscoe, IL | 10/03/2026 12:20:51 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-10-04 01:57:33Z UTC
 | 79 (Strong) | [Digital ASIC Design Engineer](https://jobright.ai/jobs/info/6a8367491081a745e970ef66) | Qualcomm | San Diego, CA | 09/30/2026 03:57:24 | Sponsorship: Not Sure |
 | 37 (Possible) | [RF/Microwave Engineer I](https://jobright.ai/jobs/info/6a690db13b549b0b531d3954) | TTM Technologies | Syracuse, NY | 09/30/2026 02:25:27 | Sponsorship: No |
 | 60 (Good) | [System Validation Engineer](https://jobright.ai/jobs/info/6abce5d64ac55253f5d5a9cc) | Supermicro | San Jose, CA | 09/30/2026 10:35:02 | Sponsorship: Past Sponsorship |
-| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6abce4e78ff3fb9b3bc6dcc9) | ByteDance | San Jose, CA | 09/30/2026 10:31:03 | Sponsorship: Past Sponsorship |
-| 60 (Good) | [System Validation Engineer](https://jobright.ai/jobs/info/6abccbca0e027c0f3b3929f7) | Wipro | Santa Clara, CA | 09/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
