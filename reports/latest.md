@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-04 18:13:31Z UTC
+Updated: 2026-10-04 21:37:23Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 53 (Good) | [Power Electronics Engineer, Satellites (Starlink)](https://boards.greenhouse.io/spacex/jobs/8788378002?gh_jid=8788378002) | SpaceX | Redmond, WA; Redmond, WA, United States | 10/04/2026 21:23:44 |  |
+| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ac29dd9372c01f6cd72fefa) | ByteDance | San Jose, CA | 10/04/2026 18:41:29 | Sponsorship: Past Sponsorship |
+| 82 (Strong) | [SoC Digital Verification Engineer, Multimedia Lab](https://jobright.ai/jobs/info/6a21fe9b902d19201c7bb9a0) | TikTok | San Jose, CA | 10/04/2026 11:33:02 | Sponsorship: Not Sure |
+| 32 (Possible) | [Controls Engineer I (CA)](https://jobright.ai/jobs/info/6ac2bb8f064da25272e0d4c2) | Enterprise Automation, A Tetra Tech Company | Irvine, CA | 10/04/2026 13:48:15 | Sponsorship: Not Sure |
 | 37 (Possible) | [Entry Level Electrical Engineer [Wilton]](https://jobright.ai/jobs/info/6ac270bd064da25272e0c0cd) | Altieri | Wilton, CT | 08/15/2026 17:23:13 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Hardware Engineer I - ACM](https://jobright.ai/jobs/info/6abbf39bd6acfd3dd29faed0) | Medtronic | Lafayette, CO | 10/03/2026 19:52:07 | Sponsorship: No |
 | 47 (Possible) | [Uptime Engineering Product Engineer Job Details \| PACCAR](https://jobright.ai/jobs/info/6ac1d9bad9621c5b28399a07) | Kenworth Truck Co. | Kirkland, WA | 10/03/2026 21:44:42 | Sponsorship: Not Sure |
@@ -100,7 +104,3 @@ Updated: 2026-10-04 18:13:31Z UTC
 | 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6abd1d5e4ac55253f5d5b361) | DLR Group | Denver, CO | 09/30/2026 10:07:58 | Sponsorship: Not Sure |
 | 37 (Possible) | [Entry Level Electrical Engineer in MEP](https://jobright.ai/jobs/info/6abd1d8d064da25272dfb634) | Consulting Engineering Services (CES) | Concord, NH | 09/30/2026 14:32:45 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Associate Electrical Test Engineer](https://jobright.ai/jobs/info/6ab549a99d4843569fe48c75) | Boeing | Huntsville, AL | 09/30/2026 06:22:18 | Sponsorship: No |
-| 42 (Possible) | [Associate Product Engineer](https://jobright.ai/jobs/info/6aaa9a388e1bf0f764af5550) | VulcanForms Inc. | Devens, MA | 09/30/2026 06:51:08 | Sponsorship: Not Sure |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abd09e48ff3fb9b3bc6e1ec) | SoundOff Signal | Hudsonville, MI | 09/30/2026 07:51:41 | Sponsorship: Past Sponsorship |
-| 79 (Strong) | [Digital ASIC Design Engineer](https://jobright.ai/jobs/info/6a8367491081a745e970ef66) | Qualcomm | San Diego, CA | 09/30/2026 03:57:24 | Sponsorship: Not Sure |
-| 37 (Possible) | [RF/Microwave Engineer I](https://jobright.ai/jobs/info/6a690db13b549b0b531d3954) | TTM Technologies | Syracuse, NY | 09/30/2026 02:25:27 | Sponsorship: No |
