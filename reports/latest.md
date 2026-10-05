@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-05 19:05:11Z UTC
+Updated: 2026-10-05 21:16:05Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 52 (Good) | [Validation Engineer](https://jobright.ai/jobs/info/6ac4002c064da25272e108cc) | Virtue America | United States | 10/05/2026 19:53:16 | Sponsorship: Past Sponsorship |
+| 59 (Good) | [Junior Silicon Validation Engineer](https://jobright.ai/jobs/info/6ac40422d9621c5b2839f173) | Reveille Technologies,Inc | Chandler, AZ | 10/05/2026 20:10:10 | Sponsorship: Past Sponsorship |
+| 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6ac40b8b0e027c0f3b3a8e97) | ByteDance | San Jose, CA | 10/05/2026 20:41:47 | Sponsorship: Past Sponsorship |
+| 38 (Possible) | [Power Electronics Engineer, Consumer Hardware & Gateways (Starlink)](https://boards.greenhouse.io/spacex/jobs/8855894002?gh_jid=8855894002) | SpaceX | Bastrop, TX; Bastrop, TX, United States | 10/05/2026 19:50:11 |  |
+| 54 (Good) | [Component Test Engineer (I-III)](https://jobright.ai/jobs/info/6ac3f8d50e027c0f3b3a8744) | True Anomaly | Long Beach, CA | 10/05/2026 12:21:57 | Sponsorship: No |
+| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ac3fdb64ac55253f5d70383) | BeamSphere | Los Angeles, CA | 10/05/2026 12:42:46 | Sponsorship: Not Sure |
 | 52 (Good) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6ac3d6ad372c01f6cd7326ab) | RTX | Aguadilla, PR | 10/05/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac3f20a0e027c0f3b3a85a2) | Rocket Lab | Pasadena, CA | 10/05/2026 18:55:28 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Entry-Level Heating Product Engineer](https://jobright.ai/jobs/info/6ac3e983372c01f6cd732d2f) | HTS Engineering - Heat Transfer Solutions | Peabody, MA | 10/05/2026 04:00:00 | Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-10-05 19:05:11Z UTC
 | 92 (Strong) | [CPU Design & Verification Engineer — New College Grad](https://jobright.ai/jobs/info/6abe0ad98ff3fb9b3bc72ae6) | NUVACORE | Santa Clara, CA | 10/01/2026 07:25:13 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Entry Level Semiconductor Test Engineer](https://jobright.ai/jobs/info/6abd8f0d064da25272dfe5f2) | Dice | Chandler, AZ | 09/14/2026 22:36:39 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abd7d1e372c01f6cd720d09) | Arseal | Alpharetta, GA | 09/30/2026 16:13:00 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6aa3f7df422289703bd646c7) | Applied Medical | Rancho Santa Margarita, CA | 09/30/2026 15:26:27 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abd64350e027c0f3b39567b) | BAE Systems | Rockville, MD | 09/30/2026 19:34:13 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Controls Engineer I](https://jobright.ai/jobs/info/6abd682b372c01f6cd72053f) | Rockline Industries, people who make it right | Sheboygan, WI | 09/30/2026 19:51:07 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Flight Test Engineer](https://jobright.ai/jobs/info/6aaad8b08e1bf0f764af6e05) | Archer | Salinas, CA | 09/30/2026 11:20:07 | Sponsorship: Yes |
-| 87 (Strong) | [Analog Mixed-Signal Design Engineer](https://jobright.ai/jobs/info/6ab7456e3a2ec87116e25df7) | OMNIVISION | Santa Clara, CA | 09/30/2026 11:40:39 | Sponsorship: Past Sponsorship |
-| 32 (Possible) | [System Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6abd506fd9621c5b2838b84c) | NVIDIA | Santa Clara, CA | 09/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
