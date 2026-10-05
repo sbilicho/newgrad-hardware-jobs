@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-05 21:16:05Z UTC
+Updated: 2026-10-05 22:19:19Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 50 (Good) | [Power Electronics Test Engineer I - Onsite](https://jobright.ai/jobs/info/6ac3f413d9621c5b2839ecb4) | RTX | McKinney, TX | 10/05/2026 21:19:25 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 49 (Possible) | [RF Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac3db87064da25272e0fcff) | RTX | Tucson, AZ | 10/05/2026 21:32:19 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 52 (Good) | [Validation Engineer](https://jobright.ai/jobs/info/6ac4002c064da25272e108cc) | Virtue America | United States | 10/05/2026 19:53:16 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Junior Silicon Validation Engineer](https://jobright.ai/jobs/info/6ac40422d9621c5b2839f173) | Reveille Technologies,Inc | Chandler, AZ | 10/05/2026 20:10:10 | Sponsorship: Past Sponsorship |
 | 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6ac40b8b0e027c0f3b3a8e97) | ByteDance | San Jose, CA | 10/05/2026 20:41:47 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-10-05 21:16:05Z UTC
 | 45 (Possible) | [2026 Associate/Electronics Engineer - Top Secret - Dulles VA](https://jobright.ai/jobs/info/6abc5144fbb3359bcc7d1596) | Northrop Grumman | Dulles, VA | 09/30/2026 21:50:22 | Sponsorship: No |
 | 40 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6abdf03b4ac55253f5d5f313) | Leidos | Oklahoma City, OK | 09/30/2026 22:31:39 | Sponsorship: Not Sure |
 | 92 (Strong) | [CPU Design & Verification Engineer — New College Grad](https://jobright.ai/jobs/info/6abe0ad98ff3fb9b3bc72ae6) | NUVACORE | Santa Clara, CA | 10/01/2026 07:25:13 | Sponsorship: Past Sponsorship |
-| 55 (Good) | [Entry Level Semiconductor Test Engineer](https://jobright.ai/jobs/info/6abd8f0d064da25272dfe5f2) | Dice | Chandler, AZ | 09/14/2026 22:36:39 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abd7d1e372c01f6cd720d09) | Arseal | Alpharetta, GA | 09/30/2026 16:13:00 | Sponsorship: Past Sponsorship |
