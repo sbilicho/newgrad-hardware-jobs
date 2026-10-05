@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-05 05:52:10Z UTC
+Updated: 2026-10-05 13:40:39Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac3a467d9621c5b2839d0f2) | CRB | Rockville, MD | 10/05/2026 13:21:43 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6ac357148ff3fb9b3bc80e3d) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 10/05/2026 07:51:48 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6ac39f85372c01f6cd7314a9) | General Dynamics | McLeansville, NC | 10/05/2026 13:00:53 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 35 (Possible) | [New College Grad - Semiconductor Design Engineer, DRAM Products Group](https://jobright.ai/jobs/info/6ac2ed6b372c01f6cd7305fe) | Micron Technology | Boise, ID | 10/04/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Hardware Engineer I - Graduate](https://jobright.ai/jobs/info/6ac2fddc0e027c0f3b3a5c06) | Hewlett Packard Enterprise | Chippewa Falls, WI | 10/05/2026 04:37:27 | Sponsorship: Past Sponsorship |
 | 53 (Good) | [Power Electronics Engineer, Satellites (Starlink)](https://boards.greenhouse.io/spacex/jobs/8788378002?gh_jid=8788378002) | SpaceX | Redmond, WA; Redmond, WA, United States | 10/04/2026 21:23:44 |  |
@@ -101,6 +104,3 @@ Updated: 2026-10-05 05:52:10Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6abd2661372c01f6cd71e7db) | Consulting Engineering Services (CES) | Middletown, CT | 09/30/2026 15:10:25 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Antenna & Microwave Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa08934a2266b538d230fb1) | RTX | El Segundo, CA | 09/30/2026 14:28:38 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa0c7b83b5aa83237b0b004) | Pond & Company | Peachtree Corners, GA | 09/30/2026 14:15:48 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer in MEP](https://jobright.ai/jobs/info/6abd26b4372c01f6cd71e80d) | Consulting Engineering Services (CES) | Louisville, CO | 09/30/2026 15:11:48 | Sponsorship: Past Sponsorship |
-| 53 (Good) | [AEGS Pro Electrical Engineer I (On-Site)](https://jobright.ai/jobs/info/6ab2b30878c69ff506c40043) | Raytheon | Tucson, AZ | 09/30/2026 16:53:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6abd1d5e4ac55253f5d5b361) | DLR Group | Denver, CO | 09/30/2026 10:07:58 | Sponsorship: Not Sure |
