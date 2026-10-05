@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-05 22:19:19Z UTC
+Updated: 2026-10-05 23:20:02Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 38 (Possible) | [Electronic Engineer I](https://jobright.ai/jobs/info/6ac01c6a064da25272e07dbc) | Advanced Energy | Fort Collins, CO | 10/05/2026 22:31:40 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Energy Storage-Electrical Engineer I and II](https://jobright.ai/jobs/info/6ac42e43064da25272e119fb) | Mortenson | Minneapolis, MN | 10/05/2026 23:09:55 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6ac0fb8e064da25272e09fa9) | Westinghouse Electric Company | Rock Hill, SC | 10/05/2026 14:51:35 | Sponsorship: Not Sure |
 | 50 (Good) | [Power Electronics Test Engineer I - Onsite](https://jobright.ai/jobs/info/6ac3f413d9621c5b2839ecb4) | RTX | McKinney, TX | 10/05/2026 21:19:25 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 49 (Possible) | [RF Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac3db87064da25272e0fcff) | RTX | Tucson, AZ | 10/05/2026 21:32:19 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 52 (Good) | [Validation Engineer](https://jobright.ai/jobs/info/6ac4002c064da25272e108cc) | Virtue America | United States | 10/05/2026 19:53:16 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-10-05 22:19:19Z UTC
 | 37 (Possible) | [Engineer I - Electrical Engineer (Legacy Program) Job Details \| APS](https://jobright.ai/jobs/info/6abe22db0e027c0f3b397dec) | Arizona Public Service - APS | Tonopah, AZ | 10/01/2026 09:07:39 | Sponsorship: Past Sponsorship |
 | 71 (Strong) | [New College Grad - EDA/CAD Engineer](https://jobright.ai/jobs/info/6abe2404064da25272dffdb7) | Micron Technology | San Jose, CA | 10/01/2026 09:12:36 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abe136d0e027c0f3b397bec) | Paragon Energy Solutions | Fort Worth, TX | 10/01/2026 08:01:49 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [2026 Associate/Electronics Engineer - Top Secret - Dulles VA](https://jobright.ai/jobs/info/6abc5144fbb3359bcc7d1596) | Northrop Grumman | Dulles, VA | 09/30/2026 21:50:22 | Sponsorship: No |
-| 40 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6abdf03b4ac55253f5d5f313) | Leidos | Oklahoma City, OK | 09/30/2026 22:31:39 | Sponsorship: Not Sure |
-| 92 (Strong) | [CPU Design & Verification Engineer — New College Grad](https://jobright.ai/jobs/info/6abe0ad98ff3fb9b3bc72ae6) | NUVACORE | Santa Clara, CA | 10/01/2026 07:25:13 | Sponsorship: Past Sponsorship |
