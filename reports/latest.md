@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-05 00:11:12Z UTC
+Updated: 2026-10-05 05:52:10Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 35 (Possible) | [New College Grad - Semiconductor Design Engineer, DRAM Products Group](https://jobright.ai/jobs/info/6ac2ed6b372c01f6cd7305fe) | Micron Technology | Boise, ID | 10/04/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Electrical Hardware Engineer I - Graduate](https://jobright.ai/jobs/info/6ac2fddc0e027c0f3b3a5c06) | Hewlett Packard Enterprise | Chippewa Falls, WI | 10/05/2026 04:37:27 | Sponsorship: Past Sponsorship |
 | 53 (Good) | [Power Electronics Engineer, Satellites (Starlink)](https://boards.greenhouse.io/spacex/jobs/8788378002?gh_jid=8788378002) | SpaceX | Redmond, WA; Redmond, WA, United States | 10/04/2026 21:23:44 |  |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ac29dd9372c01f6cd72fefa) | ByteDance | San Jose, CA | 10/04/2026 18:41:29 | Sponsorship: Past Sponsorship |
 | 82 (Strong) | [SoC Digital Verification Engineer, Multimedia Lab](https://jobright.ai/jobs/info/6a21fe9b902d19201c7bb9a0) | TikTok | San Jose, CA | 10/04/2026 11:33:02 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-10-05 00:11:12Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer in MEP](https://jobright.ai/jobs/info/6abd26b4372c01f6cd71e80d) | Consulting Engineering Services (CES) | Louisville, CO | 09/30/2026 15:11:48 | Sponsorship: Past Sponsorship |
 | 53 (Good) | [AEGS Pro Electrical Engineer I (On-Site)](https://jobright.ai/jobs/info/6ab2b30878c69ff506c40043) | Raytheon | Tucson, AZ | 09/30/2026 16:53:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6abd1d5e4ac55253f5d5b361) | DLR Group | Denver, CO | 09/30/2026 10:07:58 | Sponsorship: Not Sure |
-| 37 (Possible) | [Entry Level Electrical Engineer in MEP](https://jobright.ai/jobs/info/6abd1d8d064da25272dfb634) | Consulting Engineering Services (CES) | Concord, NH | 09/30/2026 14:32:45 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Associate Electrical Test Engineer](https://jobright.ai/jobs/info/6ab549a99d4843569fe48c75) | Boeing | Huntsville, AL | 09/30/2026 06:22:18 | Sponsorship: No |
