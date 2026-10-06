@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-06 08:12:39Z UTC
+Updated: 2026-10-06 15:17:23Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6ac50d5c8ff3fb9b3bc87467) | REV Group, Inc | Charlotte, MI | 10/06/2026 15:01:48 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Flight Test Engineer - Test Conductor (Associate or Experienced)](https://jobright.ai/jobs/info/6abac79ed2914e9273eed33c) | Boeing | Berkeley, MO | 10/06/2026 07:37:43 | Security clearance language is present; Sponsorship: No |
+| 44 (Possible) | [Structural Test Engineer (Associate, Experienced, or Senior)](https://jobright.ai/jobs/info/6ac3fa238ff3fb9b3bc83432) | Boeing | Tukwila, WA | 10/06/2026 07:37:47 | Security clearance language is present; Sponsorship: No |
 | 37 (Possible) | [Controls Engineer Job Details \| Lincoln Electric](https://jobright.ai/jobs/info/6ac48292d9621c5b283a17f6) | Lincoln Electric | Bettendorf, IA | 10/05/2026 22:09:38 | Sponsorship: Not Sure |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac421bb8ff3fb9b3bc84393) | Sierra Nevada Corporation | Sparks, NV | 10/06/2026 00:38:20 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6ac443b6064da25272e123c4) | Haag, a Salas O'Brien Company | Bloomington, MN | 10/06/2026 00:41:26 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-10-06 08:12:39Z UTC
 | 34 (Possible) | [New College Grad - ENG, HIG HBM PSE Design Validation](https://jobright.ai/jobs/info/6abd3aaf8ff3fb9b3bc6f26c) | Micron Technology | Boise, ID | 10/01/2026 12:27:24 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abe5c178ff3fb9b3bc7351d) | S&C Electric Company | Chicago, IL | 10/01/2026 13:11:51 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [FPGA Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ab404927bd08137133151cd) | Raytheon | Fort Wayne, IN | 10/01/2026 14:04:36 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6abe20e58ff3fb9b3bc72d08) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 10/01/2026 08:59:17 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6abe6ea80e027c0f3b398991) | Sargent & Lundy | San Juan, PR | 10/01/2026 14:31:04 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Hardware Design Engineer](https://jobright.ai/jobs/info/6ab323e1326574570a004ff4) | Supermicro | San Jose, CA | 10/01/2026 03:59:58 | Sponsorship: Not Sure |
