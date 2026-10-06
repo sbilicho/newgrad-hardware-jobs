@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-06 02:14:14Z UTC
+Updated: 2026-10-06 08:12:39Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Controls Engineer Job Details \| Lincoln Electric](https://jobright.ai/jobs/info/6ac48292d9621c5b283a17f6) | Lincoln Electric | Bettendorf, IA | 10/05/2026 22:09:38 | Sponsorship: Not Sure |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac421bb8ff3fb9b3bc84393) | Sierra Nevada Corporation | Sparks, NV | 10/06/2026 00:38:20 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6ac443b6064da25272e123c4) | Haag, a Salas O'Brien Company | Bloomington, MN | 10/06/2026 00:41:26 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6ac4357a4ac55253f5d716ec) | Salas O'Brien | Bloomington, MN | 10/05/2026 23:40:42 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-06 02:14:14Z UTC
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6abe20e58ff3fb9b3bc72d08) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 10/01/2026 08:59:17 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6abe6ea80e027c0f3b398991) | Sargent & Lundy | San Juan, PR | 10/01/2026 14:31:04 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Hardware Design Engineer](https://jobright.ai/jobs/info/6ab323e1326574570a004ff4) | Supermicro | San Jose, CA | 10/01/2026 03:59:58 | Sponsorship: Not Sure |
-| 54 (Good) | [Maintenance & Reliability Engineer](https://jobright.ai/jobs/info/6ab43a6f55e9168cf5ea525e) | Olin | Manitowoc, WI | 10/01/2026 03:30:43 | Sponsorship: No |
