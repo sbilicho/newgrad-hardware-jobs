@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-05 23:20:02Z UTC
+Updated: 2026-10-06 00:18:45Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6ac4357a4ac55253f5d716ec) | Salas O'Brien | Bloomington, MN | 10/05/2026 23:40:42 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [Electrical Engineer, Hardware Platform, 2+ years of experience](https://boards.greenhouse.io/andurilindustries/jobs/5257400007?gh_jid=5257400007) | Anduril Industries | Costa Mesa, California, United States | 10/05/2026 23:28:13 | Security clearance language is present; Full-time status is inferred from the first-party posting |
 | 38 (Possible) | [Electronic Engineer I](https://jobright.ai/jobs/info/6ac01c6a064da25272e07dbc) | Advanced Energy | Fort Collins, CO | 10/05/2026 22:31:40 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Energy Storage-Electrical Engineer I and II](https://jobright.ai/jobs/info/6ac42e43064da25272e119fb) | Mortenson | Minneapolis, MN | 10/05/2026 23:09:55 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6ac0fb8e064da25272e09fa9) | Westinghouse Electric Company | Rock Hill, SC | 10/05/2026 14:51:35 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-10-05 23:20:02Z UTC
 | 54 (Good) | [Maintenance & Reliability Engineer](https://jobright.ai/jobs/info/6ab43a6f55e9168cf5ea525e) | Olin | Manitowoc, WI | 10/01/2026 03:30:43 | Sponsorship: No |
 | 37 (Possible) | [Associate Substation Protection and Controls Engineer](https://jobright.ai/jobs/info/6abd8820064da25272dfe341) | Leidos | Walled Lake, MI | 10/01/2026 02:16:35 | Sponsorship: Not Sure |
 | 37 (Possible) | [Engineer I - Electrical Engineer (Legacy Program) Job Details \| APS](https://jobright.ai/jobs/info/6abe22db0e027c0f3b397dec) | Arizona Public Service - APS | Tonopah, AZ | 10/01/2026 09:07:39 | Sponsorship: Past Sponsorship |
-| 71 (Strong) | [New College Grad - EDA/CAD Engineer](https://jobright.ai/jobs/info/6abe2404064da25272dffdb7) | Micron Technology | San Jose, CA | 10/01/2026 09:12:36 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abe136d0e027c0f3b397bec) | Paragon Energy Solutions | Fort Worth, TX | 10/01/2026 08:01:49 | Sponsorship: Past Sponsorship |
