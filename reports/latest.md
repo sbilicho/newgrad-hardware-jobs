@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-06 18:40:20Z UTC
+Updated: 2026-10-06 20:25:22Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa0365c500b01124c7775c5) | Syska Hennessy Group | Hamilton Township, NJ | 10/06/2026 17:18:17 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac541010e027c0f3b3adc37) | CRB | Denver, CO | 10/06/2026 18:42:09 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [HWIL Electrical Engineer I](https://jobright.ai/jobs/info/6ac41e30d9621c5b2839fbfe) | RTX | Tucson, AZ | 10/06/2026 15:18:41 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac532198ff3fb9b3bc8836e) | BAE Systems | Rockville, MD | 10/06/2026 17:38:33 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer (Level 1)](https://jobright.ai/jobs/info/6ac53dc3d9621c5b283a4070) | IDD Aerospace Corporation | Redmond, WA | 10/06/2026 18:28:19 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-10-06 18:40:20Z UTC
 | 58 (Good) | [Test Engineer I - On-site](https://jobright.ai/jobs/info/6abeed984ac55253f5d63a16) | Medtronic | Jacksonville, FL | 10/01/2026 19:08:42 | Sponsorship: No |
 | 41 (Possible) | [Entry Level Computer & Electrical Engineer](https://jobright.ai/jobs/info/6abefe68372c01f6cd726c85) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 10/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [ELECTRICAL ENGINEER I](https://jobright.ai/jobs/info/6abecc84d9621c5b28391a42) | Paul Mueller Company | Springfield, MO | 10/01/2026 18:10:46 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Entry Level Thermal Hydraulic Test Engineer](https://jobright.ai/jobs/info/6abefdcc372c01f6cd726c0d) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 10/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 68 (Good) | [Software Verification Engineer](https://jobright.ai/jobs/info/6abeaaaed9621c5b28390981) | System One | Greater Philadelphia | 10/01/2026 18:47:10 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
