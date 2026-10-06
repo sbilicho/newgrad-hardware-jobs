@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-06 20:25:22Z UTC
+Updated: 2026-10-06 22:57:55Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6ac55cff0e027c0f3b3ae99b) | ByteDance | San Jose, CA | 10/06/2026 20:41:35 | Sponsorship: Past Sponsorship |
+| 63 (Good) | [Electrical Test Engineer I](https://jobright.ai/jobs/info/6ac53eee372c01f6cd738710) | RTX | Andover, MA | 10/06/2026 21:19:20 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 49 (Possible) | [RF / Microwave Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac53eee4ac55253f5d75658) | RTX | McKinney, TX | 10/06/2026 21:19:31 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 49 (Possible) | [VLSI Design Engineer](https://jobright.ai/jobs/info/6ac565e40e027c0f3b3aedc4) | MaximaTek | Austin, TX | 10/06/2026 21:19:32 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry-Level)](https://jobright.ai/jobs/info/6ac55ff00e027c0f3b3aeb52) | Smiths Group plc | Pasadena, TX | 10/06/2026 20:54:08 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ac526ce4ac55253f5d74d29) | RTX | Tucson, AZ | 10/06/2026 14:19:42 | Security clearance language is present; Sponsorship: No |
+| 41 (Possible) | [Electrical Engineer (hybrid)](https://jobright.ai/jobs/info/6ac56c0a0e027c0f3b3aef32) | Cisco | Milpitas, CA; San Jose, CA; Austin, TX; Durham, NC | 10/06/2026 14:51:57 | Sponsorship: Not Sure |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa0365c500b01124c7775c5) | Syska Hennessy Group | Hamilton Township, NJ | 10/06/2026 17:18:17 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac541010e027c0f3b3adc37) | CRB | Denver, CO | 10/06/2026 18:42:09 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [HWIL Electrical Engineer I](https://jobright.ai/jobs/info/6ac41e30d9621c5b2839fbfe) | RTX | Tucson, AZ | 10/06/2026 15:18:41 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -97,10 +104,3 @@ Updated: 2026-10-06 20:25:22Z UTC
 | 51 (Good) | [Test Engineer 1](https://jobright.ai/jobs/info/6abf3684372c01f6cd727871) | NuScale Power | United States | 10/01/2026 21:43:48 | Sponsorship: No |
 | 40 (Possible) | [Associate Direction Finding (DF)/Antenna RF Engineer Job Details \| Thales Defense & Security, Inc.](https://jobright.ai/jobs/info/6abf3c24d9621c5b28393459) | Thales Defense & Security, Inc. | Germantown, MD | 10/01/2026 22:07:48 | U.S. citizenship language is present; Sponsorship: No |
 | 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a9fe66a5b2d5633ef3bba7a) | ByteDance | San Jose, CA | 10/02/2026 00:01:17 | Sponsorship: Past Sponsorship |
-| 53 (Good) | [Electrical Engineer I - Effector Guidance Sections](https://jobright.ai/jobs/info/6abeb9b40e027c0f3b39a54b) | RTX | Tucson, AZ | 10/01/2026 21:45:44 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6abe6ec9d9621c5b2838f243) | Tyonek Native Corp | Warner Robins, GA | 10/01/2026 23:37:51 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 30 (Possible) | [Entry Level Systems Engineer-Digital Signal Processing](https://jobright.ai/jobs/info/6abf15118ff3fb9b3bc77506) | Boeing | El Segundo, CA | 10/01/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Early Power Electronics Engineer](https://jobright.ai/jobs/info/6abed3c64ac55253f5d63152) | Apex | Los Angeles, CA | 10/01/2026 19:01:22 | Sponsorship: No |
-| 58 (Good) | [Test Engineer I - On-site](https://jobright.ai/jobs/info/6abeed984ac55253f5d63a16) | Medtronic | Jacksonville, FL | 10/01/2026 19:08:42 | Sponsorship: No |
-| 41 (Possible) | [Entry Level Computer & Electrical Engineer](https://jobright.ai/jobs/info/6abefe68372c01f6cd726c85) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 10/01/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 43 (Possible) | [ELECTRICAL ENGINEER I](https://jobright.ai/jobs/info/6abecc84d9621c5b28391a42) | Paul Mueller Company | Springfield, MO | 10/01/2026 18:10:46 | Sponsorship: Past Sponsorship |
