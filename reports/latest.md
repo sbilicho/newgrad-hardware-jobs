@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-07 00:49:25Z UTC
+Updated: 2026-10-07 01:49:29Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 51 (Good) | [Hardware Reliability Engineer](https://jobright.ai/jobs/info/6a3d1aa28bfad862bc99bce2) | Amperesand | Reno, NV; San Francisco, CA | 10/06/2026 17:22:20 | Sponsorship: Not Sure |
 | 60 (Good) | [High Speed SerDes Validation Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ac559a24ac55253f5d76252) | NVIDIA | Santa Clara, CA | 10/06/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6ac55cff0e027c0f3b3ae99b) | ByteDance | San Jose, CA | 10/06/2026 20:41:35 | Sponsorship: Past Sponsorship |
 | 63 (Good) | [Electrical Test Engineer I](https://jobright.ai/jobs/info/6ac53eee372c01f6cd738710) | RTX | Andover, MA | 10/06/2026 21:19:20 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-07 00:49:25Z UTC
 | 63 (Good) | [Electrical Test Engineer I](https://jobright.ai/jobs/info/6abef30f064da25272e03d37) | RTX | Tucson, AZ | 10/01/2026 20:19:57 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6aa1e6cfef23570cae246c45) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 10/01/2026 21:40:55 | Sponsorship: No |
 | 51 (Good) | [Test Engineer 1](https://jobright.ai/jobs/info/6abf3684372c01f6cd727871) | NuScale Power | United States | 10/01/2026 21:43:48 | Sponsorship: No |
-| 40 (Possible) | [Associate Direction Finding (DF)/Antenna RF Engineer Job Details \| Thales Defense & Security, Inc.](https://jobright.ai/jobs/info/6abf3c24d9621c5b28393459) | Thales Defense & Security, Inc. | Germantown, MD | 10/01/2026 22:07:48 | U.S. citizenship language is present; Sponsorship: No |
