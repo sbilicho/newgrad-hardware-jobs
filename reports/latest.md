@@ -1,9 +1,17 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-07 12:42:58Z UTC
+Updated: 2026-10-07 19:06:49Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 71 (Strong) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6abb263dbe5f1e9325119d3d) | RTX | McKinney, TX | 10/07/2026 16:06:19 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 43 (Possible) | [Substation Electrical Engineer (Entry-level)](https://jobright.ai/jobs/info/6ac68ca7064da25272e1af81) | M&S Engineering | Spring Branch, TX | 10/07/2026 18:17:11 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ac68eaa4ac55253f5d7ac78) | Salas O'Brien | Moore, OK | 10/07/2026 18:25:46 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ac691180e027c0f3b3b31b7) | Haag, a Salas O'Brien Company | Moore, OK | 10/07/2026 18:36:08 | Sponsorship: Past Sponsorship |
+| 88 (Strong) | [Design-for-Test (DFT) Engineer — ASIC Backend – (Associate, Experienced, or Lead)](https://jobright.ai/jobs/info/6ac53d404ac55253f5d755b7) | Boeing | El Segundo, CA | 10/07/2026 15:48:27 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 30 (Possible) | [Hardware Digital Engineer 1](https://jobright.ai/jobs/info/6ac6582e064da25272e19ec7) | Emerson | Austin, TX | 10/07/2026 16:51:47 | Sponsorship: Past Sponsorship |
+| 87 (Strong) | [ASIC/FPGA Design and Verification Engineer – Space Electronics - MTV (Associate, Experienced, or Lead)](https://jobright.ai/jobs/info/6ac5978f372c01f6cd73a64f) | Boeing | Mountain View, CA | 10/07/2026 16:38:44 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 32 (Possible) | [System Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ac692ecd9621c5b283a9955) | NVIDIA | Santa Clara, CA | 10/07/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Substation Electrical Engineer](https://jobright.ai/jobs/info/6abbe3393217d1d13329b6ff) | WSP in the U.S. | Maitland, FL | 10/07/2026 12:17:45 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry-Level)](https://jobright.ai/jobs/info/6ac60175d9621c5b283a7411) | John Crane | Pasadena, TX | 10/06/2026 16:05:05 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [Associate Design Verification Engineer](https://jobright.ai/jobs/info/6ac5db8e0e027c0f3b3b0a13) | Analog Devices | Dallas, TX | 10/07/2026 00:00:00 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
@@ -96,11 +104,3 @@ Updated: 2026-10-07 12:42:58Z UTC
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6abffb06372c01f6cd729e8e) | ByteDance | San Jose, CA | 10/02/2026 18:42:14 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electrical Design Engineer, Data Center Design Engineering](https://jobright.ai/jobs/info/6aa39cb65c11cce360365276) | Amazon | Austin, TX; Seattle, WA; Herndon, VA | 10/02/2026 10:24:14 | Sponsorship: Not Sure |
 | 45 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a85cd314afae74a0834141c) | Eaton | Davenport, IA | 10/02/2026 03:13:45 | Sponsorship: No |
-| 59 (Good) | [Hardware Design Engineer](https://jobright.ai/jobs/info/6aa70f3942411952ff9aca4e) | Supermicro | San Jose, CA | 10/02/2026 10:18:00 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Hardware Design Engineer](https://jobright.ai/jobs/info/6ab34d6b5d482753f3e688dd) | Supermicro | San Jose, CA | 10/02/2026 03:18:00 | Sponsorship: Not Sure |
-| 47 (Possible) | [Test Engineer I - Offsite Validation](https://jobright.ai/jobs/info/6abf75ad064da25272e05225) | CNH | New Holland, PA | 10/02/2026 02:13:17 | Sponsorship: Not Sure |
-| 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6a845d6e7b33d722762557bf) | Eaton | Arden, NC | 10/02/2026 02:39:06 | Sponsorship: No |
-| 33 (Possible) | [New College Grad - Product Yield Enhancement Engineer, HBM](https://jobright.ai/jobs/info/6abf755f8ff3fb9b3bc781eb) | Micron Technology | Boise, ID | 10/02/2026 09:11:59 | Sponsorship: Past Sponsorship |
-| 32 (Possible) | [GE Vernova Cyber UX Controls Engineer-1](https://jobright.ai/jobs/info/6abf150b0e027c0f3b39c688) | GE Vernova | Longmont, CO; Greenville, SC; Roanoke, VA; Schenectady, NY | 10/01/2026 22:23:04 | Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6abf4d3b064da25272e04c69) | Hydromenta Systems | United States | 10/01/2026 23:20:43 | Sponsorship: Not Sure |
-| 37 (Possible) | [Entry Level Computer & Electrical Engineer](https://jobright.ai/jobs/info/6aa77c1342411952ff9ad0b5) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 10/02/2026 04:40:55 | Sponsorship: Past Sponsorship |
