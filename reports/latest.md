@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-08 02:55:42Z UTC
+Updated: 2026-10-08 04:18:32Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Electrical Engineer I (C&DH or EPS)](https://jobright.ai/jobs/info/6ac6cce90e027c0f3b3b48a7) | Sierra Space | Centennial, CO | 10/07/2026 23:01:57 | Sponsorship: Past Sponsorship |
+| 53 (Good) | [RF/ Microwave Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac6de80d9621c5b283ab13a) | RTX | Marlborough, MA | 10/07/2026 20:19:44 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 48 (Possible) | [RF / Microwave Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac6de7f0e027c0f3b3b4b32) | RTX | Tewksbury, MA; Andover, MA | 10/07/2026 20:19:52 | Security clearance language is present; Sponsorship: No |
 | 43 (Possible) | [Substation Electrical Engineer (Entry-level)](https://jobright.ai/jobs/info/6ac6e5788ff3fb9b3bc8f7f5) | Sherwood Surveying & S.U.E. | Spring Branch, TX | 10/07/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 92 (Strong) | [CPU Design & Verification Engineer — New College Grad](https://jobright.ai/jobs/info/6ac6fbc1d9621c5b283ab63d) | NUVACORE | Austin, TX | 10/08/2026 02:11:13 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Controls Engineer I (Nights)](https://jobright.ai/jobs/info/6aa090b6500b01124c779d63) | Baxter International Inc. | Marion, NC | 10/07/2026 18:34:13 | Sponsorship: No |
@@ -101,6 +104,3 @@ Updated: 2026-10-08 02:55:42Z UTC
 | 43 (Possible) | [2027 Electrical Engineer I (Marine) - New Orleans, LA](https://jobright.ai/jobs/info/6ac0224e8ff3fb9b3bc7aeb3) | Textron | New Orleans, LA | 10/02/2026 21:29:50 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [2027 Electrical Engineer I (Marine) - New Orleans, LA](https://jobright.ai/jobs/info/6ac02317064da25272e0807e) | Textron Aviation | New Orleans, LA | 10/02/2026 21:33:11 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Systems Test Engineer 1](https://jobright.ai/jobs/info/6abfe5d64ac55253f5d6659d) | United Launch Alliance (ULA) | Pueblo, CO | 10/02/2026 14:17:16 | Sponsorship: No |
-| 37 (Possible) | [Instrumentation & Controls Engineer – EIT](https://jobright.ai/jobs/info/6ac020308ff3fb9b3bc7adee) | Stantec | Denver, CO | 10/02/2026 14:20:48 | Sponsorship: Not Sure |
-| 42 (Possible) | [ADAS Test Engineer](https://jobright.ai/jobs/info/6aac5e223e3ce93970c7d305) | American Honda Motor Company, Inc. | Raymond, OH | 10/02/2026 13:10:10 | Sponsorship: Not Sure |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac01a4b4ac55253f5d6798b) | Westinghouse Electric Company | Rock Hill, SC | 10/02/2026 00:00:00 | Sponsorship: Past Sponsorship |
