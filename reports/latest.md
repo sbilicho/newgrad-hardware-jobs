@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-08 10:17:37Z UTC
+Updated: 2026-10-08 17:28:00Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 43 (Possible) | [Electrical Engineer I - Production Support](https://jobright.ai/jobs/info/6ac7d221fe8f33a85d4fd643) | Raycap | Kearny, NJ | 10/08/2026 11:32:00 | Sponsorship: Past Sponsorship |
+| 43 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6ac7c1e70e573df8adc73ffc) | Tetra Tech | Billings, MT | 10/08/2026 16:16:39 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Electrical Engineer (Nuclear Energy)](https://jobright.ai/jobs/info/6ac7b964fe8f33a85d4fcc6a) | GD Barri & Associates, Inc. | Tonopah, AZ | 10/08/2026 15:40:20 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac7cfcbfcdafb60c6a45e44) | United Engines | Oklahoma City, OK | 10/08/2026 17:15:55 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer I - Test](https://jobright.ai/jobs/info/6ac4ee9dd9621c5b283a24fd) | RTX | Tucson, AZ | 10/08/2026 09:44:58 | Security clearance language is present; Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6ac74bd80e027c0f3b3b5d2b) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 10/08/2026 07:52:56 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac6ccdb372c01f6cd73f4bb) | Sierra Space | Louisville, CO | 10/07/2026 23:14:31 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - Entry Level Job Details \| REV Group, Inc.](https://jobright.ai/jobs/info/6ac759eff93c2e91aeb1fe6f) | REV Group, Inc | Charlotte, MI | 10/08/2026 08:53:03 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-10-08 10:17:37Z UTC
 | 50 (Good) | [Systems Test Engineer, IBCS-M](https://jobright.ai/jobs/info/6ac101910e027c0f3b3a21f8) | Anduril Industries | Costa Mesa, CA | 10/03/2026 08:21:27 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ac0e1c5064da25272e09d97) | Horizon Lane | Los Angeles, CA | 10/03/2026 04:06:45 | Sponsorship: Not Sure |
 | 50 (Good) | [Systems Test Engineer 1 Job Details \| United Launch Alliance](https://jobright.ai/jobs/info/6ac08e238ff3fb9b3bc7c5ca) | United Launch Alliance (ULA) | Pueblo, CO | 10/02/2026 22:09:55 | Sponsorship: Not Sure |
-| 49 (Possible) | [2027 Electrical Engineer I (Marine) - New Orleans, LA](https://jobright.ai/jobs/info/6ac0586f0e027c0f3b3a0dc9) | Louisiana Economic Development | New Orleans, LA | 10/03/2026 01:20:47 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry-Level Manufacturing Systems Electrical Engineer](https://jobright.ai/jobs/info/6ac05988064da25272e08d03) | Bluegrass Stream | Warroad, MN | 10/03/2026 01:25:28 | Sponsorship: Past Sponsorship |
-| 54 (Good) | [Satellite Test Engineer, Amazon Leo](https://jobright.ai/jobs/info/6abff38d064da25272e06e33) | Amazon | Redmond, WA | 10/02/2026 17:00:48 | Sponsorship: No |
-| 41 (Possible) | [Electrical Engineer I-III](https://jobright.ai/jobs/info/6ac03f014ac55253f5d685d0) | North Carolina Department of Agriculture and Consumer Services | Denton, TX | 10/02/2026 23:32:17 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Mechanical Test Engineer I](https://jobright.ai/jobs/info/6abfdc48372c01f6cd7290e8) | RTX | Tucson, AZ | 10/02/2026 14:19:33 | Security clearance language is present; Sponsorship: No |
