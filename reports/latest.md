@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-08 20:31:39Z UTC
+Updated: 2026-10-08 21:34:32Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ac7ed670e573df8adc751e3) | Pelican Energy Consultants, LLC | Covington, LA | 10/08/2026 14:11:00 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6ac7b3fe44d6e65604a03c49) | TTM Technologies | Farmingdale, NY | 10/08/2026 18:56:07 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac7d3550e573df8adc7484f) | Kirby | Oklahoma City, OK | 10/08/2026 20:25:06 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac805a0a444ac5d36f8744a) | Honeywell Technologies | Arvada, CO | 10/08/2026 21:05:36 | Sponsorship: Past Sponsorship |
+| 51 (Good) | [Signal Integrity Engineer (New Grad)](https://jobright.ai/jobs/info/6ac7ddd0fe8f33a85d4fdbe4) | Amphenol | Valley Green, PA | 10/08/2026 18:15:44 | Sponsorship: Past Sponsorship |
+| 54 (Good) | [Entry-Level Electrical Hardware Design Engineer](https://jobright.ai/jobs/info/6ac7fd3bfe8f33a85d4fe5bd) | Leidos | Huntsville, AL | 10/08/2026 00:00:00 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Systems Test Engineer I](https://jobright.ai/jobs/info/6ac7ffe7a444ac5d36f870fe) | Boston Scientific | Maple Grove, MN | 10/08/2026 13:41:11 | Sponsorship: No |
 | 44 (Possible) | [Automation & Controls Engineer I / Monday through Friday 6:00pm - 3:00am / $67,000-$80,000 plus 15% differential](https://jobright.ai/jobs/info/6ac7dc0151a1b3e4219ef091) | Revision Military | Essex Junction, VT | 10/08/2026 11:08:01 | Sponsorship: No |
 | 79 (Strong) | [Design Verification Engineer](https://jobright.ai/jobs/info/6ac7e13afe8f33a85d4fdd03) | Apple | Cupertino, CA | 10/08/2026 11:30:18 | Sponsorship: Not Sure |
 | 46 (Possible) | [Product Engineer I](https://jobright.ai/jobs/info/6ac7e867a444ac5d36f86932) | Humanscale | Piscataway, NJ | 10/08/2026 12:00:55 | Sponsorship: Not Sure |
@@ -97,10 +104,3 @@ Updated: 2026-10-08 20:31:39Z UTC
 | 50 (Good) | [Hardware Engineer I - ACM](https://jobright.ai/jobs/info/6abbf39bd6acfd3dd29faed0) | Medtronic | Lafayette, CO | 10/03/2026 19:52:07 | Sponsorship: No |
 | 47 (Possible) | [Uptime Engineering Product Engineer Job Details \| PACCAR](https://jobright.ai/jobs/info/6ac1d9bad9621c5b28399a07) | Kenworth Truck Co. | Kirkland, WA | 10/03/2026 21:44:42 | Sponsorship: Not Sure |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ac19c3d064da25272e0ab14) | ByteDance | San Jose, CA | 10/03/2026 01:12:02 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [Production Test Engineer, Leo Propulsion Production Test Team](https://jobright.ai/jobs/info/6ac19967d9621c5b28399312) | Amazon | Redmond, WA | 10/03/2026 17:10:15 | Sponsorship: No |
-| 37 (Possible) | [Controls Engineer](https://jobright.ai/jobs/info/6ac15593d9621c5b28398fd0) | All World Machinery Supply | Roscoe, IL | 10/03/2026 12:20:51 | Sponsorship: Not Sure |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac13201064da25272e0a4a5) | Freeport-McMoRan | Safford, AZ | 10/03/2026 16:49:05 | Sponsorship: Past Sponsorship |
-| 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6ac14c940e027c0f3b3a27f4) | ByteDance | San Jose, CA | 10/03/2026 18:42:28 | Sponsorship: Past Sponsorship |
-| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ac14c68372c01f6cd72d3a2) | ByteDance | San Jose, CA | 10/03/2026 18:41:44 | Sponsorship: Past Sponsorship |
-| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ac14c64064da25272e0a6c2) | ByteDance | San Jose, CA | 10/03/2026 18:41:40 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Engineer- Electrical Engineer Functional Safety](https://jobright.ai/jobs/info/6a638a648d53603449602c8d) | UL Solutions | Northbrook, IL | 10/03/2026 08:06:32 | Sponsorship: Not Sure |
