@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-08 21:34:32Z UTC
+Updated: 2026-10-08 22:34:32Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac7c55cfcdafb60c6a459ac) | AV | Petaluma, CA | 10/08/2026 21:43:00 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6ac817550e573df8adc76078) | Sargent & Lundy | Farmington Hills, MI | 10/08/2026 22:21:09 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Analog & Power Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac8021da444ac5d36f87284) | RTX | McKinney, TX; Tucson, AZ | 10/08/2026 14:19:51 | Security clearance language is present; Sponsorship: No |
+| 44 (Possible) | [Analog & Power Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac7fec6fe8f33a85d4fe682) | RTX | Marlborough, MA | 10/08/2026 14:19:57 | Security clearance language is present; Sponsorship: No |
+| 45 (Possible) | [Display Electrical Engineer 1](https://jobright.ai/jobs/info/6ac7fecaa444ac5d36f87020) | RTX | Cedar Rapids, IA | 10/08/2026 14:20:02 | Sponsorship: No |
+| 44 (Possible) | [Analog & Power Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac80228fe8f33a85d4fe8e3) | RTX | Tewksbury, MA | 10/08/2026 14:20:05 | Security clearance language is present; Sponsorship: No |
+| 49 (Possible) | [RF / Microwave Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac7fecc44d6e65604a057e7) | RTX | El Segundo, CA | 10/08/2026 14:33:40 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ac7ed670e573df8adc751e3) | Pelican Energy Consultants, LLC | Covington, LA | 10/08/2026 14:11:00 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6ac7b3fe44d6e65604a03c49) | TTM Technologies | Farmingdale, NY | 10/08/2026 18:56:07 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac7d3550e573df8adc7484f) | Kirby | Oklahoma City, OK | 10/08/2026 20:25:06 | Sponsorship: Past Sponsorship |
@@ -97,10 +104,3 @@ Updated: 2026-10-08 21:34:32Z UTC
 | 35 (Possible) | [New College Grad - Semiconductor Design Engineer, DRAM Products Group](https://jobright.ai/jobs/info/6ac2ed6b372c01f6cd7305fe) | Micron Technology | Boise, ID | 10/04/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Hardware Engineer I - Graduate](https://jobright.ai/jobs/info/6ac2fddc0e027c0f3b3a5c06) | Hewlett Packard Enterprise | Chippewa Falls, WI | 10/05/2026 04:37:27 | Sponsorship: Past Sponsorship |
 | 53 (Good) | [Power Electronics Engineer, Satellites (Starlink)](https://boards.greenhouse.io/spacex/jobs/8788378002?gh_jid=8788378002) | SpaceX | Redmond, WA; Redmond, WA, United States | 10/04/2026 21:23:44 |  |
-| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ac29dd9372c01f6cd72fefa) | ByteDance | San Jose, CA | 10/04/2026 18:41:29 | Sponsorship: Past Sponsorship |
-| 82 (Strong) | [SoC Digital Verification Engineer, Multimedia Lab](https://jobright.ai/jobs/info/6a21fe9b902d19201c7bb9a0) | TikTok | San Jose, CA | 10/04/2026 11:33:02 | Sponsorship: Not Sure |
-| 32 (Possible) | [Controls Engineer I (CA)](https://jobright.ai/jobs/info/6ac2bb8f064da25272e0d4c2) | Enterprise Automation, A Tetra Tech Company | Irvine, CA | 10/04/2026 13:48:15 | Sponsorship: Not Sure |
-| 37 (Possible) | [Entry Level Electrical Engineer [Wilton]](https://jobright.ai/jobs/info/6ac270bd064da25272e0c0cd) | Altieri | Wilton, CT | 08/15/2026 17:23:13 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Hardware Engineer I - ACM](https://jobright.ai/jobs/info/6abbf39bd6acfd3dd29faed0) | Medtronic | Lafayette, CO | 10/03/2026 19:52:07 | Sponsorship: No |
-| 47 (Possible) | [Uptime Engineering Product Engineer Job Details \| PACCAR](https://jobright.ai/jobs/info/6ac1d9bad9621c5b28399a07) | Kenworth Truck Co. | Kirkland, WA | 10/03/2026 21:44:42 | Sponsorship: Not Sure |
-| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ac19c3d064da25272e0ab14) | ByteDance | San Jose, CA | 10/03/2026 01:12:02 | Sponsorship: Past Sponsorship |
