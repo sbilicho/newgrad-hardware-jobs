@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-08 17:28:00Z UTC
+Updated: 2026-10-08 20:31:39Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Automation & Controls Engineer I / Monday through Friday 6:00pm - 3:00am / $67,000-$80,000 plus 15% differential](https://jobright.ai/jobs/info/6ac7dc0151a1b3e4219ef091) | Revision Military | Essex Junction, VT | 10/08/2026 11:08:01 | Sponsorship: No |
+| 79 (Strong) | [Design Verification Engineer](https://jobright.ai/jobs/info/6ac7e13afe8f33a85d4fdd03) | Apple | Cupertino, CA | 10/08/2026 11:30:18 | Sponsorship: Not Sure |
+| 46 (Possible) | [Product Engineer I](https://jobright.ai/jobs/info/6ac7e867a444ac5d36f86932) | Humanscale | Piscataway, NJ | 10/08/2026 12:00:55 | Sponsorship: Not Sure |
 | 43 (Possible) | [Electrical Engineer I - Production Support](https://jobright.ai/jobs/info/6ac7d221fe8f33a85d4fd643) | Raycap | Kearny, NJ | 10/08/2026 11:32:00 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6ac7c1e70e573df8adc73ffc) | Tetra Tech | Billings, MT | 10/08/2026 16:16:39 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer (Nuclear Energy)](https://jobright.ai/jobs/info/6ac7b964fe8f33a85d4fcc6a) | GD Barri & Associates, Inc. | Tonopah, AZ | 10/08/2026 15:40:20 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-10-08 17:28:00Z UTC
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ac14c68372c01f6cd72d3a2) | ByteDance | San Jose, CA | 10/03/2026 18:41:44 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ac14c64064da25272e0a6c2) | ByteDance | San Jose, CA | 10/03/2026 18:41:40 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Engineer- Electrical Engineer Functional Safety](https://jobright.ai/jobs/info/6a638a648d53603449602c8d) | UL Solutions | Northbrook, IL | 10/03/2026 08:06:32 | Sponsorship: Not Sure |
-| 50 (Good) | [Systems Test Engineer, IBCS-M](https://jobright.ai/jobs/info/6ac101910e027c0f3b3a21f8) | Anduril Industries | Costa Mesa, CA | 10/03/2026 08:21:27 | Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ac0e1c5064da25272e09d97) | Horizon Lane | Los Angeles, CA | 10/03/2026 04:06:45 | Sponsorship: Not Sure |
-| 50 (Good) | [Systems Test Engineer 1 Job Details \| United Launch Alliance](https://jobright.ai/jobs/info/6ac08e238ff3fb9b3bc7c5ca) | United Launch Alliance (ULA) | Pueblo, CO | 10/02/2026 22:09:55 | Sponsorship: Not Sure |
