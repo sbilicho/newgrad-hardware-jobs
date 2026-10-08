@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-08 22:34:32Z UTC
+Updated: 2026-10-08 23:34:28Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 50 (Good) | [Associate Test Engineer Level 1 (AHT)](https://jobright.ai/jobs/info/6ac8151da444ac5d36f8781c) | Northrop Grumman | Los Angeles, CA | 10/08/2026 15:11:41 | Sponsorship: No |
 | 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac7c55cfcdafb60c6a459ac) | AV | Petaluma, CA | 10/08/2026 21:43:00 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6ac817550e573df8adc76078) | Sargent & Lundy | Farmington Hills, MI | 10/08/2026 22:21:09 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Analog & Power Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac8021da444ac5d36f87284) | RTX | McKinney, TX; Tucson, AZ | 10/08/2026 14:19:51 | Security clearance language is present; Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-10-08 22:34:32Z UTC
 | 40 (Possible) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6ac39f85372c01f6cd7314a9) | General Dynamics | McLeansville, NC | 10/05/2026 13:00:53 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 35 (Possible) | [New College Grad - Semiconductor Design Engineer, DRAM Products Group](https://jobright.ai/jobs/info/6ac2ed6b372c01f6cd7305fe) | Micron Technology | Boise, ID | 10/04/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Hardware Engineer I - Graduate](https://jobright.ai/jobs/info/6ac2fddc0e027c0f3b3a5c06) | Hewlett Packard Enterprise | Chippewa Falls, WI | 10/05/2026 04:37:27 | Sponsorship: Past Sponsorship |
-| 53 (Good) | [Power Electronics Engineer, Satellites (Starlink)](https://boards.greenhouse.io/spacex/jobs/8788378002?gh_jid=8788378002) | SpaceX | Redmond, WA; Redmond, WA, United States | 10/04/2026 21:23:44 |  |
