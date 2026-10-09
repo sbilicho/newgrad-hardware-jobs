@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-09 00:34:36Z UTC
+Updated: 2026-10-09 01:34:17Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 50 (Good) | [Electromagnetic Effects (EMI/EMC) Test Engineer, Amazon Leo](https://jobright.ai/jobs/info/6ac7f8ae51a1b3e4219ef9a5) | Amazon | Redmond, WA | 10/08/2026 17:01:28 | Sponsorship: No |
 | 50 (Good) | [Associate Test Engineer Level 1 (AHT)](https://jobright.ai/jobs/info/6ac8151da444ac5d36f8781c) | Northrop Grumman | Los Angeles, CA | 10/08/2026 15:11:41 | Sponsorship: No |
 | 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac7c55cfcdafb60c6a459ac) | AV | Petaluma, CA | 10/08/2026 21:43:00 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6ac817550e573df8adc76078) | Sargent & Lundy | Farmington Hills, MI | 10/08/2026 22:21:09 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-09 00:34:36Z UTC
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6ac357148ff3fb9b3bc80e3d) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 10/05/2026 07:51:48 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6ac39f85372c01f6cd7314a9) | General Dynamics | McLeansville, NC | 10/05/2026 13:00:53 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 35 (Possible) | [New College Grad - Semiconductor Design Engineer, DRAM Products Group](https://jobright.ai/jobs/info/6ac2ed6b372c01f6cd7305fe) | Micron Technology | Boise, ID | 10/04/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Electrical Hardware Engineer I - Graduate](https://jobright.ai/jobs/info/6ac2fddc0e027c0f3b3a5c06) | Hewlett Packard Enterprise | Chippewa Falls, WI | 10/05/2026 04:37:27 | Sponsorship: Past Sponsorship |
