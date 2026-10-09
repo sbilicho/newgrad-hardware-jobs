@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-09 16:33:11Z UTC
+Updated: 2026-10-09 21:15:09Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 72 (Strong) | [Hardware Design Validation Engineer - Memory Subsystem - New College Grad 2026](https://jobright.ai/jobs/info/6ac925f5fe8f33a85d502783) | NVIDIA | Santa Clara, CA | 09/30/2026 17:35:33 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a5e8a71270e3033b045e9f0) | Accelevation | Miamisburg, OH | 10/09/2026 18:49:38 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6ac95369d4a5a03707411ecd) | John Crane | Port Arthur, TX | 10/05/2026 13:40:33 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [[Entry Level] Korean Bilingual QA / Test Engineer - Mobile Software, AI, 5G Field & Product Quality Testing (261001-2)](https://jobright.ai/jobs/info/6ac9180c6355f8776ff175fb) | JND Inc. | Dallas, TX | 10/09/2026 16:36:28 | Sponsorship: Explicit |
+| 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aa3cd783a768473c936971b) | Kaukauna Utilities | Kaukauna, WI | 10/09/2026 12:21:26 | Sponsorship: Not Sure |
+| 50 (Good) | [Associate Research and Development (R&D) Test Engineer](https://jobright.ai/jobs/info/6a549841e726ec56126aabaf) | Motorola Solutions | Los Angeles, CA; Irvine, CA | 10/09/2026 12:35:27 | Sponsorship: No |
 | 51 (Good) | [Power Electronics Engineer I (Onsite)](https://jobright.ai/jobs/info/6ac8f867c3a8af9c54a0861f) | Collins Aerospace | Cedar Rapids, IA | 10/09/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac876496355f8776ff151d1) | Scientific Research Corporation | Jacksonville, FL | 10/09/2026 05:06:17 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 51 (Good) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6ac89d09d4a5a0370740ed2c) | Textron | Cockeysville, MD | 10/09/2026 07:51:37 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-10-09 16:33:11Z UTC
 | 49 (Possible) | [RF Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac3db87064da25272e0fcff) | RTX | Tucson, AZ | 10/05/2026 21:32:19 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 52 (Good) | [Validation Engineer](https://jobright.ai/jobs/info/6ac4002c064da25272e108cc) | Virtue America | United States | 10/05/2026 19:53:16 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Junior Silicon Validation Engineer](https://jobright.ai/jobs/info/6ac40422d9621c5b2839f173) | Reveille Technologies,Inc | Chandler, AZ | 10/05/2026 20:10:10 | Sponsorship: Past Sponsorship |
-| 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6ac40b8b0e027c0f3b3a8e97) | ByteDance | San Jose, CA | 10/05/2026 20:41:47 | Sponsorship: Past Sponsorship |
-| 38 (Possible) | [Power Electronics Engineer, Consumer Hardware & Gateways (Starlink)](https://boards.greenhouse.io/spacex/jobs/8855894002?gh_jid=8855894002) | SpaceX | Bastrop, TX; Bastrop, TX, United States | 10/05/2026 19:50:11 |  |
-| 54 (Good) | [Component Test Engineer (I-III)](https://jobright.ai/jobs/info/6ac3f8d50e027c0f3b3a8744) | True Anomaly | Long Beach, CA | 10/05/2026 12:21:57 | Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ac3fdb64ac55253f5d70383) | BeamSphere | Los Angeles, CA | 10/05/2026 12:42:46 | Sponsorship: Not Sure |
-| 52 (Good) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6ac3d6ad372c01f6cd7326ab) | RTX | Aguadilla, PR | 10/05/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac3f20a0e027c0f3b3a85a2) | Rocket Lab | Pasadena, CA | 10/05/2026 18:55:28 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
