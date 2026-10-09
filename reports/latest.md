@@ -1,9 +1,17 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-09 09:29:58Z UTC
+Updated: 2026-10-09 16:33:11Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 51 (Good) | [Power Electronics Engineer I (Onsite)](https://jobright.ai/jobs/info/6ac8f867c3a8af9c54a0861f) | Collins Aerospace | Cedar Rapids, IA | 10/09/2026 05:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac876496355f8776ff151d1) | Scientific Research Corporation | Jacksonville, FL | 10/09/2026 05:06:17 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 51 (Good) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6ac89d09d4a5a0370740ed2c) | Textron | Cockeysville, MD | 10/09/2026 07:51:37 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 51 (Good) | [Power Electronics Engineer I (Onsite)](https://jobright.ai/jobs/info/6ac87196d4a5a0370740e607) | RTX | Cedar Rapids, IA | 10/09/2026 09:20:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer (entry level) Job Details \| Lake Superior Consulting](https://jobright.ai/jobs/info/6ac8e4f4fe8f33a85d50135c) | Lake Superior Consulting | Duluth, MN | 10/09/2026 12:58:28 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Submarine Power Plant Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6ac870f9fcdafb60c6a48724) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 10/09/2026 04:55:06 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Entry Level Site Reliability Engineer - Tucson-AZ](https://jobright.ai/jobs/info/6ac8e0dcaf788e6ad3b58c34) | Dice | Tucson, AZ | 08/31/2026 12:39:49 | Sponsorship: Past Sponsorship |
+| 74 (Strong) | [Design Manual Publishing & Ground Rule Validation Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ac90ec9fcdafb60c6a4a8d5) | GlobalFoundries | Essex Junction, VT | 10/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Electromagnetic Effects (EMI/EMC) Test Engineer, Amazon Leo](https://jobright.ai/jobs/info/6ac7f8ae51a1b3e4219ef9a5) | Amazon | Redmond, WA | 10/08/2026 17:01:28 | Sponsorship: No |
 | 50 (Good) | [Associate Test Engineer Level 1 (AHT)](https://jobright.ai/jobs/info/6ac8151da444ac5d36f8781c) | Northrop Grumman | Los Angeles, CA | 10/08/2026 15:11:41 | Sponsorship: No |
 | 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac7c55cfcdafb60c6a459ac) | AV | Petaluma, CA | 10/08/2026 21:43:00 | Sponsorship: Past Sponsorship |
@@ -96,11 +104,3 @@ Updated: 2026-10-09 09:29:58Z UTC
 | 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ac3fdb64ac55253f5d70383) | BeamSphere | Los Angeles, CA | 10/05/2026 12:42:46 | Sponsorship: Not Sure |
 | 52 (Good) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6ac3d6ad372c01f6cd7326ab) | RTX | Aguadilla, PR | 10/05/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac3f20a0e027c0f3b3a85a2) | Rocket Lab | Pasadena, CA | 10/05/2026 18:55:28 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Entry-Level Heating Product Engineer](https://jobright.ai/jobs/info/6ac3e983372c01f6cd732d2f) | HTS Engineering - Heat Transfer Solutions | Peabody, MA | 10/05/2026 04:00:00 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6ac3d342372c01f6cd732525) | Smiths Group plc | Port Arthur, TX | 10/05/2026 16:41:38 | Sponsorship: Past Sponsorship |
-| 73 (Strong) | [PMU Silicon Validation Engineer](https://jobright.ai/jobs/info/6ac3ecc00e027c0f3b3a835c) | Apple | Cupertino, CA | 10/05/2026 18:30:24 | Sponsorship: Past Sponsorship |
-| 62 (Good) | [Post-Fab Test Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ab53426c6fe0dec8119fbb3) | GlobalFoundries | Essex Junction, VT | 10/05/2026 14:58:35 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac3a467d9621c5b2839d0f2) | CRB | Rockville, MD | 10/05/2026 13:21:43 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6ac357148ff3fb9b3bc80e3d) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 10/05/2026 07:51:48 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer – Entry Level](https://jobright.ai/jobs/info/6ac39f85372c01f6cd7314a9) | General Dynamics | McLeansville, NC | 10/05/2026 13:00:53 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 35 (Possible) | [New College Grad - Semiconductor Design Engineer, DRAM Products Group](https://jobright.ai/jobs/info/6ac2ed6b372c01f6cd7305fe) | Micron Technology | Boise, ID | 10/04/2026 00:00:00 | Sponsorship: Past Sponsorship |
