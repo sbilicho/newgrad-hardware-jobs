@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-10 07:01:18Z UTC
+Updated: 2026-10-10 13:36:05Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Test Development Engineer](https://jobright.ai/jobs/info/6a51c9a178e364789ca5ccd8) | ZOLL Medical Corporation | Deerfield, WI | 10/10/2026 04:52:17 | Sponsorship: Not Sure |
 | 49 (Possible) | [Electrical Engineer I - Computing Products (Onsite)](https://jobright.ai/jobs/info/6ac95316fcdafb60c6a4bf14) | RTX | Cedar Rapids, IA | 10/09/2026 21:19:36 | Sponsorship: Explicit |
 | 49 (Possible) | [Test Solutions Electrical Engineer I](https://jobright.ai/jobs/info/6ac92046fcdafb60c6a4ae9d) | RTX | Tewksbury, MA | 10/09/2026 21:19:20 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac96fe8c3a8af9c54a0ac41) | Georgia Institute of Technology | Atlanta, GA | 10/09/2026 22:51:20 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-10 07:01:18Z UTC
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac421bb8ff3fb9b3bc84393) | Sierra Nevada Corporation | Sparks, NV | 10/06/2026 00:38:20 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6ac443b6064da25272e123c4) | Haag, a Salas O'Brien Company | Bloomington, MN | 10/06/2026 00:41:26 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6ac4357a4ac55253f5d716ec) | Salas O'Brien | Bloomington, MN | 10/05/2026 23:40:42 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [Electrical Engineer, Hardware Platform, 2+ years of experience](https://boards.greenhouse.io/andurilindustries/jobs/5257400007?gh_jid=5257400007) | Anduril Industries | Costa Mesa, California, United States | 10/05/2026 23:28:13 | Security clearance language is present; Full-time status is inferred from the first-party posting |
