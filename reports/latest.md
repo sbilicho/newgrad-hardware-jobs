@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-10 13:36:05Z UTC
+Updated: 2026-10-10 18:01:09Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer Jr. (Data Centers)](https://jobright.ai/jobs/info/6ab7c10a81e327c4bf203935) | Jacobs | United States | 10/10/2026 08:54:47 | Sponsorship: Not Sure |
+| 50 (Good) | [Mechanical Test Engineer](https://jobright.ai/jobs/info/6aca6894a56e5406e57bb273) | General Atomics Aeronautical Systems | Poway, CA | 10/10/2026 09:32:20 | Sponsorship: No |
 | 46 (Possible) | [Test Development Engineer](https://jobright.ai/jobs/info/6a51c9a178e364789ca5ccd8) | ZOLL Medical Corporation | Deerfield, WI | 10/10/2026 04:52:17 | Sponsorship: Not Sure |
 | 49 (Possible) | [Electrical Engineer I - Computing Products (Onsite)](https://jobright.ai/jobs/info/6ac95316fcdafb60c6a4bf14) | RTX | Cedar Rapids, IA | 10/09/2026 21:19:36 | Sponsorship: Explicit |
 | 49 (Possible) | [Test Solutions Electrical Engineer I](https://jobright.ai/jobs/info/6ac92046fcdafb60c6a4ae9d) | RTX | Tewksbury, MA | 10/09/2026 21:19:20 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-10-10 13:36:05Z UTC
 | 44 (Possible) | [Structural Test Engineer (Associate, Experienced, or Senior)](https://jobright.ai/jobs/info/6ac3fa238ff3fb9b3bc83432) | Boeing | Tukwila, WA | 10/06/2026 07:37:47 | Security clearance language is present; Sponsorship: No |
 | 37 (Possible) | [Controls Engineer Job Details \| Lincoln Electric](https://jobright.ai/jobs/info/6ac48292d9621c5b283a17f6) | Lincoln Electric | Bettendorf, IA | 10/05/2026 22:09:38 | Sponsorship: Not Sure |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac421bb8ff3fb9b3bc84393) | Sierra Nevada Corporation | Sparks, NV | 10/06/2026 00:38:20 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6ac443b6064da25272e123c4) | Haag, a Salas O'Brien Company | Bloomington, MN | 10/06/2026 00:41:26 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6ac4357a4ac55253f5d716ec) | Salas O'Brien | Bloomington, MN | 10/05/2026 23:40:42 | Sponsorship: Past Sponsorship |
