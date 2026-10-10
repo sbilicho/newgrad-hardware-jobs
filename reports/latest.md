@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-09 21:15:09Z UTC
+Updated: 2026-10-10 01:00:05Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 49 (Possible) | [Electrical Engineer I - Computing Products (Onsite)](https://jobright.ai/jobs/info/6ac95316fcdafb60c6a4bf14) | RTX | Cedar Rapids, IA | 10/09/2026 21:19:36 | Sponsorship: Explicit |
+| 49 (Possible) | [Test Solutions Electrical Engineer I](https://jobright.ai/jobs/info/6ac92046fcdafb60c6a4ae9d) | RTX | Tewksbury, MA | 10/09/2026 21:19:20 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac96fe8c3a8af9c54a0ac41) | Georgia Institute of Technology | Atlanta, GA | 10/09/2026 22:51:20 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I OR Electrical Engineer II - Instrumentation & Control Design](https://jobright.ai/jobs/info/6ac97279af788e6ad3b5b89d) | Duke Energy Corporation | Hartsville, SC | 10/09/2026 22:58:34 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer - Data Centers](https://jobright.ai/jobs/info/6ac95e0cfcdafb60c6a4c2a8) | Jacobs | Columbus, OH | 10/09/2026 05:00:00 | Sponsorship: Past Sponsorship |
+| 62 (Good) | [Hardware Verification Engineer (Solon)](https://jobright.ai/jobs/info/6ac97ba0d4a5a03707412843) | Tektronix | Solon, OH | 10/09/2026 23:41:20 | Sponsorship: Past Sponsorship |
+| 88 (Strong) | [ASIC Clocks Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ac97e04d4a5a037074128be) | NVIDIA | Santa Clara, CA | 10/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [Hardware Design Validation Engineer - Memory Subsystem - New College Grad 2026](https://jobright.ai/jobs/info/6ac925f5fe8f33a85d502783) | NVIDIA | Santa Clara, CA | 09/30/2026 17:35:33 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a5e8a71270e3033b045e9f0) | Accelevation | Miamisburg, OH | 10/09/2026 18:49:38 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6ac95369d4a5a03707411ecd) | John Crane | Port Arthur, TX | 10/05/2026 13:40:33 | Sponsorship: Past Sponsorship |
@@ -97,10 +104,3 @@ Updated: 2026-10-09 21:15:09Z UTC
 | 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6ac443b6064da25272e123c4) | Haag, a Salas O'Brien Company | Bloomington, MN | 10/06/2026 00:41:26 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6ac4357a4ac55253f5d716ec) | Salas O'Brien | Bloomington, MN | 10/05/2026 23:40:42 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Electrical Engineer, Hardware Platform, 2+ years of experience](https://boards.greenhouse.io/andurilindustries/jobs/5257400007?gh_jid=5257400007) | Anduril Industries | Costa Mesa, California, United States | 10/05/2026 23:28:13 | Security clearance language is present; Full-time status is inferred from the first-party posting |
-| 38 (Possible) | [Electronic Engineer I](https://jobright.ai/jobs/info/6ac01c6a064da25272e07dbc) | Advanced Energy | Fort Collins, CO | 10/05/2026 22:31:40 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Energy Storage-Electrical Engineer I and II](https://jobright.ai/jobs/info/6ac42e43064da25272e119fb) | Mortenson | Minneapolis, MN | 10/05/2026 23:09:55 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6ac0fb8e064da25272e09fa9) | Westinghouse Electric Company | Rock Hill, SC | 10/05/2026 14:51:35 | Sponsorship: Not Sure |
-| 50 (Good) | [Power Electronics Test Engineer I - Onsite](https://jobright.ai/jobs/info/6ac3f413d9621c5b2839ecb4) | RTX | McKinney, TX | 10/05/2026 21:19:25 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 49 (Possible) | [RF Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac3db87064da25272e0fcff) | RTX | Tucson, AZ | 10/05/2026 21:32:19 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 52 (Good) | [Validation Engineer](https://jobright.ai/jobs/info/6ac4002c064da25272e108cc) | Virtue America | United States | 10/05/2026 19:53:16 | Sponsorship: Past Sponsorship |
-| 59 (Good) | [Junior Silicon Validation Engineer](https://jobright.ai/jobs/info/6ac40422d9621c5b2839f173) | Reveille Technologies,Inc | Chandler, AZ | 10/05/2026 20:10:10 | Sponsorship: Past Sponsorship |
