@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-11 06:25:10Z UTC
+Updated: 2026-10-11 13:20:15Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Controls & Electrical Engineer I](https://jobright.ai/jobs/info/6acb6aee3c831dc4086bd2c6) | Cytiva | Hauppauge, NY | 10/11/2026 03:54:38 | Sponsorship: Past Sponsorship |
+| 88 (Strong) | [SOC Design Verification Engineer](https://jobright.ai/jobs/info/6ac6d501064da25272e1ca2d) | Qualcomm | San Diego, CA | 10/11/2026 04:50:40 | Sponsorship: Not Sure |
+| 50 (Good) | [Junior Propulsion Component Test Engineer](https://jobright.ai/jobs/info/6a5838d772fe7a7b98dcd7b1) | Amca | El Segundo, CA | 10/11/2026 05:02:46 | Sponsorship: No |
+| 60 (Good) | [#Digital Hardware Engineer](https://jobright.ai/jobs/info/6ac5756f064da25272e170e8) | Qualcomm | Boulder, CO; San Diego, CA | 10/11/2026 05:04:22 | Sponsorship: No |
 | 54 (Good) | [Entry-Level Electrical Hardware Design Engineer](https://jobright.ai/jobs/info/6acb1144d113c967e3c7877e) | Dice | Huntsville, AL | 10/11/2026 04:32:04 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6acab940002e496d4beec5fa) | BAE Systems, Inc. | Merrimack, NH | 10/10/2026 15:46:37 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Hardware Verification Engineer (Solon)](https://jobright.ai/jobs/info/6ac93c66fcdafb60c6a4b82f) | Ralliant | Solon, OH | 10/09/2026 19:11:34 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-10-11 06:25:10Z UTC
 | 44 (Possible) | [HWIL Electrical Engineer I](https://jobright.ai/jobs/info/6ac41e30d9621c5b2839fbfe) | RTX | Tucson, AZ | 10/06/2026 15:18:41 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac532198ff3fb9b3bc8836e) | BAE Systems | Rockville, MD | 10/06/2026 17:38:33 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer (Level 1)](https://jobright.ai/jobs/info/6ac53dc3d9621c5b283a4070) | IDD Aerospace Corporation | Redmond, WA | 10/06/2026 18:28:19 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6ac523f2372c01f6cd737c89) | Rev | Charlotte, MI | 10/06/2026 05:00:00 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Controls Electrical Design Engineer - H2K (32448)](https://jobright.ai/jobs/info/6ac526800e027c0f3b3ad279) | UCC Environmental | Libertyville, IL | 10/06/2026 16:49:04 | Sponsorship: Past Sponsorship |
-| 92 (Strong) | [CPU Design & Verification Engineer — New College Grad](https://jobright.ai/jobs/info/6ac5364f0e027c0f3b3ad878) | NUVACORE | Austin, TX | 10/06/2026 17:56:31 | Sponsorship: Past Sponsorship |
-| 82 (Strong) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ac53049064da25272e155ad) | NVIDIA | Santa Clara, CA | 07/02/2026 17:30:36 | Sponsorship: Past Sponsorship |
