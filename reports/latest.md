@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-11 18:18:57Z UTC
+Updated: 2026-10-11 22:17:31Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 53 (Good) | [Advanced Effector Guidance Systems Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a91d301d18f75674827a5e8) | RTX | Tucson, AZ | 10/11/2026 16:12:29 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer (Entry Level) - Malta, NY](https://jobright.ai/jobs/info/6acbf7bea56e5406e57bce3e) | Hallam-ICS | Malta, NY | 10/11/2026 20:55:26 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a52699b8a74e077472f46bc) | Valdes Architecture & Engineering | Lombard, IL | 10/11/2026 20:23:19 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Controls Engineer I](https://jobright.ai/jobs/info/6ab436f47bd0813713316531) | Forge Nano, Inc. | Thornton, CO | 10/11/2026 11:08:51 | Sponsorship: Not Sure |
 | 37 (Possible) | [Controls & Electrical Engineer I](https://jobright.ai/jobs/info/6acb6aee3c831dc4086bd2c6) | Cytiva | Hauppauge, NY | 10/11/2026 03:54:38 | Sponsorship: Past Sponsorship |
 | 88 (Strong) | [SOC Design Verification Engineer](https://jobright.ai/jobs/info/6ac6d501064da25272e1ca2d) | Qualcomm | San Diego, CA | 10/11/2026 04:50:40 | Sponsorship: Not Sure |
 | 50 (Good) | [Junior Propulsion Component Test Engineer](https://jobright.ai/jobs/info/6a5838d772fe7a7b98dcd7b1) | Amca | El Segundo, CA | 10/11/2026 05:02:46 | Sponsorship: No |
@@ -100,7 +104,3 @@ Updated: 2026-10-11 18:18:57Z UTC
 | 47 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ac526ce4ac55253f5d74d29) | RTX | Tucson, AZ | 10/06/2026 14:19:42 | Security clearance language is present; Sponsorship: No |
 | 41 (Possible) | [Electrical Engineer (hybrid)](https://jobright.ai/jobs/info/6ac56c0a0e027c0f3b3aef32) | Cisco | Milpitas, CA; San Jose, CA; Austin, TX; Durham, NC | 10/06/2026 14:51:57 | Sponsorship: Not Sure |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa0365c500b01124c7775c5) | Syska Hennessy Group | Hamilton Township, NJ | 10/06/2026 17:18:17 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac541010e027c0f3b3adc37) | CRB | Denver, CO | 10/06/2026 18:42:09 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [HWIL Electrical Engineer I](https://jobright.ai/jobs/info/6ac41e30d9621c5b2839fbfe) | RTX | Tucson, AZ | 10/06/2026 15:18:41 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac532198ff3fb9b3bc8836e) | BAE Systems | Rockville, MD | 10/06/2026 17:38:33 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer (Level 1)](https://jobright.ai/jobs/info/6ac53dc3d9621c5b283a4070) | IDD Aerospace Corporation | Redmond, WA | 10/06/2026 18:28:19 | Sponsorship: Past Sponsorship |
