@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-11 00:30:32Z UTC
+Updated: 2026-10-11 06:25:10Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 54 (Good) | [Entry-Level Electrical Hardware Design Engineer](https://jobright.ai/jobs/info/6acb1144d113c967e3c7877e) | Dice | Huntsville, AL | 10/11/2026 04:32:04 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6acab940002e496d4beec5fa) | BAE Systems, Inc. | Merrimack, NH | 10/10/2026 15:46:37 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Hardware Verification Engineer (Solon)](https://jobright.ai/jobs/info/6ac93c66fcdafb60c6a4b82f) | Ralliant | Solon, OH | 10/09/2026 19:11:34 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry-Level)](https://jobright.ai/jobs/info/6aca6fe8e7a1d9333210b912) | John Crane | Pasadena, TX | 10/06/2026 16:05:05 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-11 00:30:32Z UTC
 | 42 (Possible) | [Controls Electrical Design Engineer - H2K (32448)](https://jobright.ai/jobs/info/6ac526800e027c0f3b3ad279) | UCC Environmental | Libertyville, IL | 10/06/2026 16:49:04 | Sponsorship: Past Sponsorship |
 | 92 (Strong) | [CPU Design & Verification Engineer — New College Grad](https://jobright.ai/jobs/info/6ac5364f0e027c0f3b3ad878) | NUVACORE | Austin, TX | 10/06/2026 17:56:31 | Sponsorship: Past Sponsorship |
 | 82 (Strong) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ac53049064da25272e155ad) | NVIDIA | Santa Clara, CA | 07/02/2026 17:30:36 | Sponsorship: Past Sponsorship |
-| 92 (Strong) | [CPU Design & Verification Engineer — New College Grad](https://jobright.ai/jobs/info/6ac5368b4ac55253f5d7536e) | NUVACORE | Santa Clara, CA | 10/06/2026 17:57:31 | Sponsorship: Past Sponsorship |
