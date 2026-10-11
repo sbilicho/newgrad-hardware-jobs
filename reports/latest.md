@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-10 21:37:49Z UTC
+Updated: 2026-10-11 00:30:32Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6acab940002e496d4beec5fa) | BAE Systems, Inc. | Merrimack, NH | 10/10/2026 15:46:37 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Hardware Verification Engineer (Solon)](https://jobright.ai/jobs/info/6ac93c66fcdafb60c6a4b82f) | Ralliant | Solon, OH | 10/09/2026 19:11:34 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry-Level)](https://jobright.ai/jobs/info/6aca6fe8e7a1d9333210b912) | John Crane | Pasadena, TX | 10/06/2026 16:05:05 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Failure Analysis Engineer I (Full-Time) United States](https://jobright.ai/jobs/info/6ab4153364816213f2d97299) | Cisco | Maynard, MA | 10/10/2026 13:27:25 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-10 21:37:49Z UTC
 | 92 (Strong) | [CPU Design & Verification Engineer — New College Grad](https://jobright.ai/jobs/info/6ac5364f0e027c0f3b3ad878) | NUVACORE | Austin, TX | 10/06/2026 17:56:31 | Sponsorship: Past Sponsorship |
 | 82 (Strong) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ac53049064da25272e155ad) | NVIDIA | Santa Clara, CA | 07/02/2026 17:30:36 | Sponsorship: Past Sponsorship |
 | 92 (Strong) | [CPU Design & Verification Engineer — New College Grad](https://jobright.ai/jobs/info/6ac5368b4ac55253f5d7536e) | NUVACORE | Santa Clara, CA | 10/06/2026 17:57:31 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6ac50d5c8ff3fb9b3bc87467) | REV Group, Inc | Charlotte, MI | 10/06/2026 15:01:48 | Sponsorship: Past Sponsorship |
