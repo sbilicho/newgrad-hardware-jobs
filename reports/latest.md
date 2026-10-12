@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-12 01:26:17Z UTC
+Updated: 2026-10-12 07:55:17Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 48 (Possible) | [Hardware Embedded Engineer](https://jobright.ai/jobs/info/6acc633ca56e5406e57bd843) | Raydar | San Francisco, CA | 10/12/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 53 (Good) | [Advanced Effector Guidance Systems Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a91d301d18f75674827a5e8) | RTX | Tucson, AZ | 10/11/2026 16:12:29 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer (Entry Level) - Malta, NY](https://jobright.ai/jobs/info/6acbf7bea56e5406e57bce3e) | Hallam-ICS | Malta, NY | 10/11/2026 20:55:26 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a52699b8a74e077472f46bc) | Valdes Architecture & Engineering | Lombard, IL | 10/11/2026 20:23:19 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-12 01:26:17Z UTC
 | 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry-Level)](https://jobright.ai/jobs/info/6ac55ff00e027c0f3b3aeb52) | Smiths Group plc | Pasadena, TX | 10/06/2026 20:54:08 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ac526ce4ac55253f5d74d29) | RTX | Tucson, AZ | 10/06/2026 14:19:42 | Security clearance language is present; Sponsorship: No |
 | 41 (Possible) | [Electrical Engineer (hybrid)](https://jobright.ai/jobs/info/6ac56c0a0e027c0f3b3aef32) | Cisco | Milpitas, CA; San Jose, CA; Austin, TX; Durham, NC | 10/06/2026 14:51:57 | Sponsorship: Not Sure |
-| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aa0365c500b01124c7775c5) | Syska Hennessy Group | Hamilton Township, NJ | 10/06/2026 17:18:17 | Sponsorship: Past Sponsorship |
