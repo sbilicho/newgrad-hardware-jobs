@@ -1,9 +1,18 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-12 07:55:17Z UTC
+Updated: 2026-10-12 17:33:58Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6acc8f863c831dc4086bec22) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 10/12/2026 07:43:02 | Sponsorship: Past Sponsorship |
+| 51 (Good) | [Reliability Engineer I - Sr Job Details \| Arkansas Electric Cooperative](https://jobright.ai/jobs/info/6accd87b3c831dc4086bf501) | Arkansas Electric Cooperative Corporation | Little Rock, AR | 10/12/2026 12:54:19 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [Entry-Level – Researcher – Power Electronics & Energy Conversion Systems](https://jobright.ai/jobs/info/6accffdee7a1d9333210f6f7) | General Motors | Warren, MI | 10/12/2026 15:50:26 | Sponsorship: Past Sponsorship |
+| 43 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6acd18373c831dc4086c07a3) | Zachry Group | Omaha, NE | 10/12/2026 17:26:15 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Computer & Electrical Engineer](https://jobright.ai/jobs/info/6ac87105fe8f33a85d4ffe19) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 10/11/2026 11:34:40 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer- Entry Level](https://jobright.ai/jobs/info/6acce1a2e7a1d9333210ee8e) | NTH Consultants, Ltd. | Grand Rapids, MI | 10/12/2026 08:23:37 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6accbc64ddd23cce28a0f3d9) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 10/12/2026 10:54:28 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer (Entry Level – EIT)](https://jobright.ai/jobs/info/6accef46e7a1d9333210f1c0) | LBE, Inc. | Moncks Corner, SC | 10/12/2026 14:31:34 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6acd01e2002e496d4bef0018) | Sargent & Lundy | Chattanooga, TN | 10/12/2026 15:50:58 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Hardware Embedded Engineer](https://jobright.ai/jobs/info/6acc633ca56e5406e57bd843) | Raydar | San Francisco, CA | 10/12/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 53 (Good) | [Advanced Effector Guidance Systems Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a91d301d18f75674827a5e8) | RTX | Tucson, AZ | 10/11/2026 16:12:29 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer (Entry Level) - Malta, NY](https://jobright.ai/jobs/info/6acbf7bea56e5406e57bce3e) | Hallam-ICS | Malta, NY | 10/11/2026 20:55:26 | Sponsorship: Past Sponsorship |
@@ -95,12 +104,3 @@ Updated: 2026-10-12 07:55:17Z UTC
 | 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry-Level)](https://jobright.ai/jobs/info/6ac60175d9621c5b283a7411) | John Crane | Pasadena, TX | 10/06/2026 16:05:05 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [Associate Design Verification Engineer](https://jobright.ai/jobs/info/6ac5db8e0e027c0f3b3b0a13) | Analog Devices | Dallas, TX | 10/07/2026 00:00:00 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 50 (Good) | [Electrical Engineer 1 (Onsite)](https://jobright.ai/jobs/info/6ac58730d9621c5b283a5cd2) | RTX | Marlborough, MA | 10/06/2026 20:19:33 | Security clearance language is present; Sponsorship: No |
-| 51 (Good) | [Hardware Reliability Engineer](https://jobright.ai/jobs/info/6a3d1aa28bfad862bc99bce2) | Amperesand | Reno, NV; San Francisco, CA | 10/06/2026 17:22:20 | Sponsorship: Not Sure |
-| 60 (Good) | [High Speed SerDes Validation Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ac559a24ac55253f5d76252) | NVIDIA | Santa Clara, CA | 10/06/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6ac55cff0e027c0f3b3ae99b) | ByteDance | San Jose, CA | 10/06/2026 20:41:35 | Sponsorship: Past Sponsorship |
-| 63 (Good) | [Electrical Test Engineer I](https://jobright.ai/jobs/info/6ac53eee372c01f6cd738710) | RTX | Andover, MA | 10/06/2026 21:19:20 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 49 (Possible) | [RF / Microwave Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac53eee4ac55253f5d75658) | RTX | McKinney, TX | 10/06/2026 21:19:31 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 49 (Possible) | [VLSI Design Engineer](https://jobright.ai/jobs/info/6ac565e40e027c0f3b3aedc4) | MaximaTek | Austin, TX | 10/06/2026 21:19:32 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry-Level)](https://jobright.ai/jobs/info/6ac55ff00e027c0f3b3aeb52) | Smiths Group plc | Pasadena, TX | 10/06/2026 20:54:08 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ac526ce4ac55253f5d74d29) | RTX | Tucson, AZ | 10/06/2026 14:19:42 | Security clearance language is present; Sponsorship: No |
-| 41 (Possible) | [Electrical Engineer (hybrid)](https://jobright.ai/jobs/info/6ac56c0a0e027c0f3b3aef32) | Cisco | Milpitas, CA; San Jose, CA; Austin, TX; Durham, NC | 10/06/2026 14:51:57 | Sponsorship: Not Sure |
