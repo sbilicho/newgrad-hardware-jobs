@@ -1,9 +1,17 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-12 17:33:58Z UTC
+Updated: 2026-10-12 23:46:28Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6acd2741a56e5406e57bff54) | Cintas | Florence, SC | 10/12/2026 18:30:25 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6acd1d5fddd23cce28a10b40) | Star Catcher | Jacksonville, FL | 10/12/2026 17:48:15 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Power Electronics - Component Development Engineer (Junior Level)](https://jobright.ai/jobs/info/6acd2e493c831dc4086c104a) | SEGULA Technologies | Auburn Hills, MI | 10/12/2026 20:17:57 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6acd0fbdd113c967e3c7bedb) | RTX | Forest, MS | 10/12/2026 21:19:42 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I or II - BLUvera Manufacturing](https://jobright.ai/jobs/info/6acd2141e7a1d93332110366) | Mortenson | Saint Paul, MN | 10/12/2026 21:37:01 | Sponsorship: Past Sponsorship |
+| 79 (Strong) | [Analog Mixed Signal Engineer](https://jobright.ai/jobs/info/6acd4186a56e5406e57c06a5) | Astera Labs | San Jose, CA | 10/12/2026 20:22:30 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6ac3d33b064da25272e0f97a) | Smiths Group plc | Port Arthur, TX | 10/05/2026 16:41:31 | Sponsorship: Past Sponsorship |
+| 76 (Strong) | [Research Scientist, Electronic Design Automation - New College Grad 2026](https://jobright.ai/jobs/info/6a2098534bdf8a5a96bd1d37) | NVIDIA | Santa Clara, CA | 10/12/2026 15:41:33 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6acc8f863c831dc4086bec22) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 10/12/2026 07:43:02 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Reliability Engineer I - Sr Job Details \| Arkansas Electric Cooperative](https://jobright.ai/jobs/info/6accd87b3c831dc4086bf501) | Arkansas Electric Cooperative Corporation | Little Rock, AR | 10/12/2026 12:54:19 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Entry-Level – Researcher – Power Electronics & Energy Conversion Systems](https://jobright.ai/jobs/info/6accffdee7a1d9333210f6f7) | General Motors | Warren, MI | 10/12/2026 15:50:26 | Sponsorship: Past Sponsorship |
@@ -96,11 +104,3 @@ Updated: 2026-10-12 17:33:58Z UTC
 | 43 (Possible) | [Substation Electrical Engineer (Entry-level)](https://jobright.ai/jobs/info/6ac68ca7064da25272e1af81) | M&S Engineering | Spring Branch, TX | 10/07/2026 18:17:11 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ac68eaa4ac55253f5d7ac78) | Salas O'Brien | Moore, OK | 10/07/2026 18:25:46 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ac691180e027c0f3b3b31b7) | Haag, a Salas O'Brien Company | Moore, OK | 10/07/2026 18:36:08 | Sponsorship: Past Sponsorship |
-| 88 (Strong) | [Design-for-Test (DFT) Engineer — ASIC Backend – (Associate, Experienced, or Lead)](https://jobright.ai/jobs/info/6ac53d404ac55253f5d755b7) | Boeing | El Segundo, CA | 10/07/2026 15:48:27 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 30 (Possible) | [Hardware Digital Engineer 1](https://jobright.ai/jobs/info/6ac6582e064da25272e19ec7) | Emerson | Austin, TX | 10/07/2026 16:51:47 | Sponsorship: Past Sponsorship |
-| 87 (Strong) | [ASIC/FPGA Design and Verification Engineer – Space Electronics - MTV (Associate, Experienced, or Lead)](https://jobright.ai/jobs/info/6ac5978f372c01f6cd73a64f) | Boeing | Mountain View, CA | 10/07/2026 16:38:44 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 32 (Possible) | [System Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ac692ecd9621c5b283a9955) | NVIDIA | Santa Clara, CA | 10/07/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Substation Electrical Engineer](https://jobright.ai/jobs/info/6abbe3393217d1d13329b6ff) | WSP in the U.S. | Maitland, FL | 10/07/2026 12:17:45 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry-Level)](https://jobright.ai/jobs/info/6ac60175d9621c5b283a7411) | John Crane | Pasadena, TX | 10/06/2026 16:05:05 | Sponsorship: Past Sponsorship |
-| 89 (Strong) | [Associate Design Verification Engineer](https://jobright.ai/jobs/info/6ac5db8e0e027c0f3b3b0a13) | Analog Devices | Dallas, TX | 10/07/2026 00:00:00 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 50 (Good) | [Electrical Engineer 1 (Onsite)](https://jobright.ai/jobs/info/6ac58730d9621c5b283a5cd2) | RTX | Marlborough, MA | 10/06/2026 20:19:33 | Security clearance language is present; Sponsorship: No |
