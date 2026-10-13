@@ -1,9 +1,19 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-13 18:33:12Z UTC
+Updated: 2026-10-13 23:07:27Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 59 (Good) | [Hardware Verification Engineer, New College Graduate,](https://jobright.ai/jobs/info/6acea6624391691a335adf81) | Teradyne | North Reading, MA | 10/13/2026 05:00:00 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Electronics Hardware Engineer I](https://jobright.ai/jobs/info/6ace44e7680c80c8753bbb2f) | Accelevation | Sterling, VA | 10/13/2026 15:28:35 | Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Electrical Engineer (I, II, or III)](https://jobright.ai/jobs/info/6aceac16ba99f15ef41264cb) | Space Tango | Lexington, KY | 10/13/2026 16:40:39 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ace9a6fba99f15ef4125e92) | Interstates | United States | 10/13/2026 20:54:07 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Electrical Engineer I - Test](https://jobright.ai/jobs/info/6ace4fe5680c80c8753bbeb7) | RTX | Tucson, AZ | 10/13/2026 21:19:53 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aac9db0636cddf7396f49ab) | Affiliated Engineers, Inc. | Houston, TX | 10/13/2026 22:26:25 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6aceb5cdba99f15ef41268d9) | Legence | Long Beach, CA | 10/13/2026 10:00:00 | Sponsorship: Past Sponsorship |
+| 51 (Good) | [Entry-Level Systems Test Engineer](https://jobright.ai/jobs/info/6acea22970e50ec1b37f1140) | Torch Technologies, Inc. | Huntsville, AL | 10/13/2026 22:58:17 | Sponsorship: Past Sponsorship |
+| 62 (Good) | [R&D Reliability/Test Engineer - June 2027 Grads](https://jobright.ai/jobs/info/6abc324f92b2612ef0f8d9ce) | Formlabs | Boston, MA | 10/13/2026 21:53:55 | Sponsorship: Past Sponsorship |
+| 59 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA)](https://jobright.ai/jobs/info/6ace9b6d70e50ec1b37f0e95) | Teradyne | North Reading, MA | 10/13/2026 19:22:34 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6ace689c680c80c8753bc832) | Peraton | Aberdeen, MD | 10/13/2026 17:21:32 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6ace3e67ba99f15ef4123a6d) | Virtue America | United States | 10/13/2026 14:21:27 | Sponsorship: Past Sponsorship |
 | 63 (Good) | [Systems Verification Engineer](https://jobright.ai/jobs/info/6ace6b214391691a335ac723) | Starkey México | Eden Prairie, MN | 10/13/2026 17:32:17 | Sponsorship: Past Sponsorship |
@@ -94,13 +104,3 @@ Updated: 2026-10-13 18:33:12Z UTC
 | 43 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6ac7c1e70e573df8adc73ffc) | Tetra Tech | Billings, MT | 10/08/2026 16:16:39 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer (Nuclear Energy)](https://jobright.ai/jobs/info/6ac7b964fe8f33a85d4fcc6a) | GD Barri & Associates, Inc. | Tonopah, AZ | 10/08/2026 15:40:20 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac7cfcbfcdafb60c6a45e44) | United Engines | Oklahoma City, OK | 10/08/2026 17:15:55 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer I - Test](https://jobright.ai/jobs/info/6ac4ee9dd9621c5b283a24fd) | RTX | Tucson, AZ | 10/08/2026 09:44:58 | Security clearance language is present; Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6ac74bd80e027c0f3b3b5d2b) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 10/08/2026 07:52:56 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac6ccdb372c01f6cd73f4bb) | Sierra Space | Louisville, CO | 10/07/2026 23:14:31 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - Entry Level Job Details \| REV Group, Inc.](https://jobright.ai/jobs/info/6ac759eff93c2e91aeb1fe6f) | REV Group, Inc | Charlotte, MI | 10/08/2026 08:53:03 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Product Applications Engineer NCG (Sco 1)](https://jobright.ai/jobs/info/6ac745820e027c0f3b3b5c46) | Astera Labs | San Jose, CA | 10/08/2026 07:25:54 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer I (C&DH or EPS)](https://jobright.ai/jobs/info/6ac6cce90e027c0f3b3b48a7) | Sierra Space | Centennial, CO | 10/07/2026 23:01:57 | Sponsorship: Past Sponsorship |
-| 53 (Good) | [RF/ Microwave Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac6de80d9621c5b283ab13a) | RTX | Marlborough, MA | 10/07/2026 20:19:44 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 48 (Possible) | [RF / Microwave Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac6de7f0e027c0f3b3b4b32) | RTX | Tewksbury, MA; Andover, MA | 10/07/2026 20:19:52 | Security clearance language is present; Sponsorship: No |
-| 43 (Possible) | [Substation Electrical Engineer (Entry-level)](https://jobright.ai/jobs/info/6ac6e5788ff3fb9b3bc8f7f5) | Sherwood Surveying & S.U.E. | Spring Branch, TX | 10/07/2026 05:00:00 | Sponsorship: Past Sponsorship |
-| 92 (Strong) | [CPU Design & Verification Engineer — New College Grad](https://jobright.ai/jobs/info/6ac6fbc1d9621c5b283ab63d) | NUVACORE | Austin, TX | 10/08/2026 02:11:13 | Sponsorship: Past Sponsorship |
