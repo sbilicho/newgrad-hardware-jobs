@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-13 03:58:54Z UTC
+Updated: 2026-10-13 11:43:08Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 47 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6acdcfe67705704984400428) | Applied Medical | Rancho Santa Margarita, CA | 10/13/2026 03:29:42 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Hardware Engineer 1](https://jobright.ai/jobs/info/6acd97dfe7a1d933321122b5) | Dexcom | San Diego, CA | 10/13/2026 08:10:43 | Sponsorship: Past Sponsorship |
+| 59 (Good) | [Associate FPGA Engineer](https://jobright.ai/jobs/info/6ab1795cd2a93d5a97ebae95) | Moog Inc. | Buffalo, NY | 10/13/2026 02:23:33 | Sponsorship: No |
 | 40 (Possible) | [Entry level Electrical Engineer - Advanced Facilities - Summer 2027](https://jobright.ai/jobs/info/6acda84177057049843ffd25) | Jacobs | Greenville, SC | 10/12/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 83 (Strong) | [Analog/Mixed Signal System Test Engineer](https://jobright.ai/jobs/info/6acd7864002e496d4bef2602) | Astera Labs | San Jose, CA | 10/13/2026 00:16:36 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6acd2741a56e5406e57bff54) | Cintas | Florence, SC | 10/12/2026 18:30:25 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-10-13 03:58:54Z UTC
 | 37 (Possible) | [ELECTRICAL ENGINEER I](https://jobright.ai/jobs/info/6ac6cbcc4ac55253f5d7c435) | Triangle Package Machinery Co. | Chicago, IL | 10/07/2026 22:46:36 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer I (C&DH/GNC Hardware)](https://jobright.ai/jobs/info/6ac6cce74ac55253f5d7c4b5) | Sierra Space | Centennial, CO | 10/07/2026 22:51:19 | Sponsorship: Past Sponsorship |
 | 64 (Good) | [2027 Semiconductor Test Research Associate](https://jobright.ai/jobs/info/6ac69632372c01f6cd73e0b2) | The Aerospace Corporation | El Segundo, CA | 10/07/2026 19:16:57 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 81 (Strong) | [FPGA Engineer (New Grad Summer 2027)](https://jobright.ai/jobs/info/6ac6c1efd9621c5b283aa952) | Freeform | Hawthorne, CA | 10/07/2026 22:04:31 | Sponsorship: Past Sponsorship |
-| 71 (Strong) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6abb263dbe5f1e9325119d3d) | RTX | McKinney, TX | 10/07/2026 16:06:19 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 43 (Possible) | [Substation Electrical Engineer (Entry-level)](https://jobright.ai/jobs/info/6ac68ca7064da25272e1af81) | M&S Engineering | Spring Branch, TX | 10/07/2026 18:17:11 | Sponsorship: Past Sponsorship |
