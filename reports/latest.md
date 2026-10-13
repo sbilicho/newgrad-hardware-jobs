@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-13 11:43:08Z UTC
+Updated: 2026-10-13 18:33:12Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6ace689c680c80c8753bc832) | Peraton | Aberdeen, MD | 10/13/2026 17:21:32 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6ace3e67ba99f15ef4123a6d) | Virtue America | United States | 10/13/2026 14:21:27 | Sponsorship: Past Sponsorship |
+| 63 (Good) | [Systems Verification Engineer](https://jobright.ai/jobs/info/6ace6b214391691a335ac723) | Starkey México | Eden Prairie, MN | 10/13/2026 17:32:17 | Sponsorship: Past Sponsorship |
+| 89 (Strong) | [ASIC Engineer, Performance Architecture and Modeling (University Grad)](https://jobright.ai/jobs/info/6ace7300a0453f9ba6248a98) | Meta | Sunnyvale, CA | 10/13/2026 18:05:52 | Sponsorship: Past Sponsorship |
+| 97 (Strong) | [AMS Digital Design Engineer NCG](https://jobright.ai/jobs/info/6ace76f74f3229123da3c21b) | Astera Labs | San Jose, CA | 10/13/2026 18:22:47 | Sponsorship: Past Sponsorship |
+| 88 (Strong) | [Entry Level ASIC/FPGA Design Verification Engineer](https://jobright.ai/jobs/info/6ace7462a0453f9ba6248b2f) | Boeing | El Segundo, CA | 10/13/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6acdcfe67705704984400428) | Applied Medical | Rancho Santa Margarita, CA | 10/13/2026 03:29:42 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Hardware Engineer 1](https://jobright.ai/jobs/info/6acd97dfe7a1d933321122b5) | Dexcom | San Diego, CA | 10/13/2026 08:10:43 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Associate FPGA Engineer](https://jobright.ai/jobs/info/6ab1795cd2a93d5a97ebae95) | Moog Inc. | Buffalo, NY | 10/13/2026 02:23:33 | Sponsorship: No |
@@ -98,9 +104,3 @@ Updated: 2026-10-13 11:43:08Z UTC
 | 48 (Possible) | [RF / Microwave Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac6de7f0e027c0f3b3b4b32) | RTX | Tewksbury, MA; Andover, MA | 10/07/2026 20:19:52 | Security clearance language is present; Sponsorship: No |
 | 43 (Possible) | [Substation Electrical Engineer (Entry-level)](https://jobright.ai/jobs/info/6ac6e5788ff3fb9b3bc8f7f5) | Sherwood Surveying & S.U.E. | Spring Branch, TX | 10/07/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 92 (Strong) | [CPU Design & Verification Engineer — New College Grad](https://jobright.ai/jobs/info/6ac6fbc1d9621c5b283ab63d) | NUVACORE | Austin, TX | 10/08/2026 02:11:13 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Controls Engineer I (Nights)](https://jobright.ai/jobs/info/6aa090b6500b01124c779d63) | Baxter International Inc. | Marion, NC | 10/07/2026 18:34:13 | Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac6a5358ff3fb9b3bc8e566) | CRB | Kansas City, MO | 10/07/2026 20:01:57 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6ac6c4f34ac55253f5d7c012) | MP Design Group | Biloxi, MS | 10/07/2026 22:17:23 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [ELECTRICAL ENGINEER I](https://jobright.ai/jobs/info/6ac6cbcc4ac55253f5d7c435) | Triangle Package Machinery Co. | Chicago, IL | 10/07/2026 22:46:36 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer I (C&DH/GNC Hardware)](https://jobright.ai/jobs/info/6ac6cce74ac55253f5d7c4b5) | Sierra Space | Centennial, CO | 10/07/2026 22:51:19 | Sponsorship: Past Sponsorship |
-| 64 (Good) | [2027 Semiconductor Test Research Associate](https://jobright.ai/jobs/info/6ac69632372c01f6cd73e0b2) | The Aerospace Corporation | El Segundo, CA | 10/07/2026 19:16:57 | Security clearance language is present; Sponsorship: Past Sponsorship |
