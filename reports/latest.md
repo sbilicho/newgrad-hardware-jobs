@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-12 23:46:28Z UTC
+Updated: 2026-10-13 03:58:54Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Entry level Electrical Engineer - Advanced Facilities - Summer 2027](https://jobright.ai/jobs/info/6acda84177057049843ffd25) | Jacobs | Greenville, SC | 10/12/2026 05:00:00 | Sponsorship: Past Sponsorship |
+| 83 (Strong) | [Analog/Mixed Signal System Test Engineer](https://jobright.ai/jobs/info/6acd7864002e496d4bef2602) | Astera Labs | San Jose, CA | 10/13/2026 00:16:36 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6acd2741a56e5406e57bff54) | Cintas | Florence, SC | 10/12/2026 18:30:25 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6acd1d5fddd23cce28a10b40) | Star Catcher | Jacksonville, FL | 10/12/2026 17:48:15 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Power Electronics - Component Development Engineer (Junior Level)](https://jobright.ai/jobs/info/6acd2e493c831dc4086c104a) | SEGULA Technologies | Auburn Hills, MI | 10/12/2026 20:17:57 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-10-12 23:46:28Z UTC
 | 81 (Strong) | [FPGA Engineer (New Grad Summer 2027)](https://jobright.ai/jobs/info/6ac6c1efd9621c5b283aa952) | Freeform | Hawthorne, CA | 10/07/2026 22:04:31 | Sponsorship: Past Sponsorship |
 | 71 (Strong) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6abb263dbe5f1e9325119d3d) | RTX | McKinney, TX | 10/07/2026 16:06:19 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 43 (Possible) | [Substation Electrical Engineer (Entry-level)](https://jobright.ai/jobs/info/6ac68ca7064da25272e1af81) | M&S Engineering | Spring Branch, TX | 10/07/2026 18:17:11 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ac68eaa4ac55253f5d7ac78) | Salas O'Brien | Moore, OK | 10/07/2026 18:25:46 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ac691180e027c0f3b3b31b7) | Haag, a Salas O'Brien Company | Moore, OK | 10/07/2026 18:36:08 | Sponsorship: Past Sponsorship |
