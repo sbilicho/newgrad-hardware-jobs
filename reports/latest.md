@@ -1,9 +1,17 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-14 17:57:39Z UTC
+Updated: 2026-10-14 21:34:11Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 75 (Strong) | [Electrical Engineer – ASIC Test & Validation](https://jobright.ai/jobs/info/6acfc964fe7a9bd5a6b99fe6) | Avicena Tech | Sunnyvale, CA | 10/14/2026 16:26:17 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [Hardware Design Engineer 1 (SILICON DESIGN ENGINEER)](https://jobright.ai/jobs/info/6acfed8478d51ae69ce08f69) | Sunrise Systems, Inc. | Santa Clara, CA | 10/14/2026 19:00:10 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer / Sales Engineer - Machinery Industry](https://jobright.ai/jobs/info/6acfd42812303667b98a083f) | Activ8 Recruitment & Solutions | Florence, KY | 10/14/2026 19:12:40 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6acfe55a2cc4e9d17e90b015) | Zone 5 Technologies | San Luis Obispo, CA | 10/14/2026 20:26:02 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Facilities Electrical Engineer I - Early Career](https://jobright.ai/jobs/info/6acfebdf12303667b98a1158) | Seagate Technology | Bloomington, MN | 10/14/2026 21:19:35 | Sponsorship: Past Sponsorship |
+| 73 (Strong) | [Wireless RTL Design Engineer](https://jobright.ai/jobs/info/6acfe668fe7a9bd5a6b9a916) | Apple | Irvine, CA; San Diego, CA; Sunnyvale, CA | 10/14/2026 13:30:32 | Sponsorship: Not Sure |
+| 55 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6acf9148c0dd9da253cf33ec) | Motorola Solutions | Greater Chicago Area | 10/14/2026 19:56:20 | Sponsorship: Past Sponsorship |
+| 92 (Strong) | [Digital Design Engineer (New Grad / Entry-Level) – ASIC Design Services](https://jobright.ai/jobs/info/6acfcf5d2cc4e9d17e90a9ba) | VeriSilicon Holdings Co., Ltd. | San Jose, CA | 10/14/2026 18:52:13 | Sponsorship: Past Sponsorship |
 | 82 (Strong) | [CPU Validation Engineer](https://jobright.ai/jobs/info/6acfbec3c9f40bec907fdcc3) | Intel | Austin, TX | 10/14/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6acf933efe7a9bd5a6b98b89) | CRB | Denver, CO | 10/14/2026 14:35:42 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6acfbe9912303667b989fe88) | P2S | Long Beach, CA | 10/14/2026 10:00:00 | Sponsorship: Past Sponsorship |
@@ -96,11 +104,3 @@ Updated: 2026-10-14 17:57:39Z UTC
 | 46 (Possible) | [Entry Level Site Reliability Engineer - Tucson-AZ](https://jobright.ai/jobs/info/6ac8e0dcaf788e6ad3b58c34) | Dice | Tucson, AZ | 08/31/2026 12:39:49 | Sponsorship: Past Sponsorship |
 | 74 (Strong) | [Design Manual Publishing & Ground Rule Validation Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ac90ec9fcdafb60c6a4a8d5) | GlobalFoundries | Essex Junction, VT | 10/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Electromagnetic Effects (EMI/EMC) Test Engineer, Amazon Leo](https://jobright.ai/jobs/info/6ac7f8ae51a1b3e4219ef9a5) | Amazon | Redmond, WA | 10/08/2026 17:01:28 | Sponsorship: No |
-| 50 (Good) | [Associate Test Engineer Level 1 (AHT)](https://jobright.ai/jobs/info/6ac8151da444ac5d36f8781c) | Northrop Grumman | Los Angeles, CA | 10/08/2026 15:11:41 | Sponsorship: No |
-| 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac7c55cfcdafb60c6a459ac) | AV | Petaluma, CA | 10/08/2026 21:43:00 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6ac817550e573df8adc76078) | Sargent & Lundy | Farmington Hills, MI | 10/08/2026 22:21:09 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Analog & Power Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac8021da444ac5d36f87284) | RTX | McKinney, TX; Tucson, AZ | 10/08/2026 14:19:51 | Security clearance language is present; Sponsorship: No |
-| 44 (Possible) | [Analog & Power Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac7fec6fe8f33a85d4fe682) | RTX | Marlborough, MA | 10/08/2026 14:19:57 | Security clearance language is present; Sponsorship: No |
-| 45 (Possible) | [Display Electrical Engineer 1](https://jobright.ai/jobs/info/6ac7fecaa444ac5d36f87020) | RTX | Cedar Rapids, IA | 10/08/2026 14:20:02 | Sponsorship: No |
-| 44 (Possible) | [Analog & Power Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac80228fe8f33a85d4fe8e3) | RTX | Tewksbury, MA | 10/08/2026 14:20:05 | Security clearance language is present; Sponsorship: No |
-| 49 (Possible) | [RF / Microwave Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac7fecc44d6e65604a057e7) | RTX | El Segundo, CA | 10/08/2026 14:33:40 | Security clearance language is present; Sponsorship: Past Sponsorship |
