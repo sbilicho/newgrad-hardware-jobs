@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-14 01:54:57Z UTC
+Updated: 2026-10-14 07:17:03Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 48 (Possible) | [Software Engineer - Embedded Systems (Entry Level)](https://jobright.ai/jobs/info/6ab4468bef911c35dffa45f6) | Battelle | Columbus, OH | 09/14/2026 02:25:14 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I - Test Equipment Maintenance](https://jobright.ai/jobs/info/6ace4fe4bb78de94580d552a) | RTX | Andover, MA | 10/13/2026 21:22:17 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 56 (Good) | [Electronics Engineer I, Power Design](https://jobright.ai/jobs/info/6aceeeb84391691a335af16f) | Micro Control Company | Arden Hills, MN | 10/14/2026 02:53:44 | Sponsorship: Past Sponsorship |
+| 35 (Possible) | [Design Engineer (New College Graduate)](https://jobright.ai/jobs/info/6acef5bfbb78de94580d8b01) | Diodes Incorporated | Milpitas, CA | 09/11/2026 00:52:35 | Sponsorship: Past Sponsorship |
 | 81 (Strong) | [ASIC Engineer, Design (University Grad)](https://jobright.ai/jobs/info/6acec7544f3229123da3e0e2) | Meta | Austin, TX | 10/09/2026 00:05:14 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [Low Power ASIC Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6acecc2c4f3229123da3e1eb) | NVIDIA | Santa Clara, CA | 10/12/2026 00:25:56 | Sponsorship: Past Sponsorship |
 | 88 (Strong) | [Entry Level ASIC/FPGA Design Verification Engineer](https://jobright.ai/jobs/info/6ace8ba24f3229123da3cd6b) | Boeing | El Segundo, CA | 10/13/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-10-14 01:54:57Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac7d3550e573df8adc7484f) | Kirby | Oklahoma City, OK | 10/08/2026 20:25:06 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac805a0a444ac5d36f8744a) | Honeywell Technologies | Arvada, CO | 10/08/2026 21:05:36 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Signal Integrity Engineer (New Grad)](https://jobright.ai/jobs/info/6ac7ddd0fe8f33a85d4fdbe4) | Amphenol | Valley Green, PA | 10/08/2026 18:15:44 | Sponsorship: Past Sponsorship |
-| 54 (Good) | [Entry-Level Electrical Hardware Design Engineer](https://jobright.ai/jobs/info/6ac7fd3bfe8f33a85d4fe5bd) | Leidos | Huntsville, AL | 10/08/2026 00:00:00 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Systems Test Engineer I](https://jobright.ai/jobs/info/6ac7ffe7a444ac5d36f870fe) | Boston Scientific | Maple Grove, MN | 10/08/2026 13:41:11 | Sponsorship: No |
-| 44 (Possible) | [Automation & Controls Engineer I / Monday through Friday 6:00pm - 3:00am / $67,000-$80,000 plus 15% differential](https://jobright.ai/jobs/info/6ac7dc0151a1b3e4219ef091) | Revision Military | Essex Junction, VT | 10/08/2026 11:08:01 | Sponsorship: No |
-| 79 (Strong) | [Design Verification Engineer](https://jobright.ai/jobs/info/6ac7e13afe8f33a85d4fdd03) | Apple | Cupertino, CA | 10/08/2026 11:30:18 | Sponsorship: Not Sure |
