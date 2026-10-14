@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-14 12:57:46Z UTC
+Updated: 2026-10-14 17:57:39Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 82 (Strong) | [CPU Validation Engineer](https://jobright.ai/jobs/info/6acfbec3c9f40bec907fdcc3) | Intel | Austin, TX | 10/14/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6acf933efe7a9bd5a6b98b89) | CRB | Denver, CO | 10/14/2026 14:35:42 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6acfbe9912303667b989fe88) | P2S | Long Beach, CA | 10/14/2026 10:00:00 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Validation Engineer I](https://jobright.ai/jobs/info/6acfaabefe7a9bd5a6b993c8) | Alcami Corporation | Pepperell, MA | 10/14/2026 09:15:58 | Sponsorship: Not Sure |
+| 50 (Good) | [Integration & Test Engineer I](https://jobright.ai/jobs/info/6acfae89fe7a9bd5a6b994cc) | Rocket Lab | Long Beach, CA | 10/14/2026 09:32:09 | U.S. citizenship language is present; Sponsorship: No |
 | 48 (Possible) | [Software Engineer - Embedded Systems (Entry Level)](https://jobright.ai/jobs/info/6ab4468bef911c35dffa45f6) | Battelle | Columbus, OH | 09/14/2026 02:25:14 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I - Test Equipment Maintenance](https://jobright.ai/jobs/info/6ace4fe4bb78de94580d552a) | RTX | Andover, MA | 10/13/2026 21:22:17 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 56 (Good) | [Electronics Engineer I, Power Design](https://jobright.ai/jobs/info/6aceeeb84391691a335af16f) | Micro Control Company | Arden Hills, MN | 10/14/2026 02:53:44 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-10-14 12:57:46Z UTC
 | 45 (Possible) | [Display Electrical Engineer 1](https://jobright.ai/jobs/info/6ac7fecaa444ac5d36f87020) | RTX | Cedar Rapids, IA | 10/08/2026 14:20:02 | Sponsorship: No |
 | 44 (Possible) | [Analog & Power Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac80228fe8f33a85d4fe8e3) | RTX | Tewksbury, MA | 10/08/2026 14:20:05 | Security clearance language is present; Sponsorship: No |
 | 49 (Possible) | [RF / Microwave Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac7fecc44d6e65604a057e7) | RTX | El Segundo, CA | 10/08/2026 14:33:40 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ac7ed670e573df8adc751e3) | Pelican Energy Consultants, LLC | Covington, LA | 10/08/2026 14:11:00 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6ac7b3fe44d6e65604a03c49) | TTM Technologies | Farmingdale, NY | 10/08/2026 18:56:07 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac7d3550e573df8adc7484f) | Kirby | Oklahoma City, OK | 10/08/2026 20:25:06 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac805a0a444ac5d36f8744a) | Honeywell Technologies | Arvada, CO | 10/08/2026 21:05:36 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [Signal Integrity Engineer (New Grad)](https://jobright.ai/jobs/info/6ac7ddd0fe8f33a85d4fdbe4) | Amphenol | Valley Green, PA | 10/08/2026 18:15:44 | Sponsorship: Past Sponsorship |
