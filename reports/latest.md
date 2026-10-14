@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-13 23:07:27Z UTC
+Updated: 2026-10-14 01:54:57Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 81 (Strong) | [ASIC Engineer, Design (University Grad)](https://jobright.ai/jobs/info/6acec7544f3229123da3e0e2) | Meta | Austin, TX | 10/09/2026 00:05:14 | Sponsorship: Past Sponsorship |
+| 89 (Strong) | [Low Power ASIC Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6acecc2c4f3229123da3e1eb) | NVIDIA | Santa Clara, CA | 10/12/2026 00:25:56 | Sponsorship: Past Sponsorship |
+| 88 (Strong) | [Entry Level ASIC/FPGA Design Verification Engineer](https://jobright.ai/jobs/info/6ace8ba24f3229123da3cd6b) | Boeing | El Segundo, CA | 10/13/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 69 (Good) | [SRAM Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6acecc33bb78de94580d8299) | NVIDIA | Santa Clara, CA | 10/12/2026 00:25:47 | Sponsorship: Past Sponsorship |
+| 81 (Strong) | [ASIC Verification Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6aced82c70e50ec1b37f1f64) | NVIDIA | Santa Clara, CA | 10/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Hardware Verification Engineer, New College Graduate,](https://jobright.ai/jobs/info/6acea6624391691a335adf81) | Teradyne | North Reading, MA | 10/13/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electronics Hardware Engineer I](https://jobright.ai/jobs/info/6ace44e7680c80c8753bbb2f) | Accelevation | Sterling, VA | 10/13/2026 15:28:35 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer (I, II, or III)](https://jobright.ai/jobs/info/6aceac16ba99f15ef41264cb) | Space Tango | Lexington, KY | 10/13/2026 16:40:39 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-10-13 23:07:27Z UTC
 | 47 (Possible) | [Systems Test Engineer I](https://jobright.ai/jobs/info/6ac7ffe7a444ac5d36f870fe) | Boston Scientific | Maple Grove, MN | 10/08/2026 13:41:11 | Sponsorship: No |
 | 44 (Possible) | [Automation & Controls Engineer I / Monday through Friday 6:00pm - 3:00am / $67,000-$80,000 plus 15% differential](https://jobright.ai/jobs/info/6ac7dc0151a1b3e4219ef091) | Revision Military | Essex Junction, VT | 10/08/2026 11:08:01 | Sponsorship: No |
 | 79 (Strong) | [Design Verification Engineer](https://jobright.ai/jobs/info/6ac7e13afe8f33a85d4fdd03) | Apple | Cupertino, CA | 10/08/2026 11:30:18 | Sponsorship: Not Sure |
-| 46 (Possible) | [Product Engineer I](https://jobright.ai/jobs/info/6ac7e867a444ac5d36f86932) | Humanscale | Piscataway, NJ | 10/08/2026 12:00:55 | Sponsorship: Not Sure |
-| 43 (Possible) | [Electrical Engineer I - Production Support](https://jobright.ai/jobs/info/6ac7d221fe8f33a85d4fd643) | Raycap | Kearny, NJ | 10/08/2026 11:32:00 | Sponsorship: Past Sponsorship |
-| 43 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6ac7c1e70e573df8adc73ffc) | Tetra Tech | Billings, MT | 10/08/2026 16:16:39 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Electrical Engineer (Nuclear Energy)](https://jobright.ai/jobs/info/6ac7b964fe8f33a85d4fcc6a) | GD Barri & Associates, Inc. | Tonopah, AZ | 10/08/2026 15:40:20 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac7cfcbfcdafb60c6a45e44) | United Engines | Oklahoma City, OK | 10/08/2026 17:15:55 | Sponsorship: Past Sponsorship |
