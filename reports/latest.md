@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-15 04:33:12Z UTC
+Updated: 2026-10-15 09:24:30Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Electrical Hardware Engineer I - 0T1011](https://jobright.ai/jobs/info/6ad046211db1f75ea469f9e7) | Hewlett Packard Enterprise | Sunnyvale, CA | 10/15/2026 04:37:37 | Sponsorship: Past Sponsorship |
+| 32 (Possible) | [VLSI Engineer I - 0T1191](https://jobright.ai/jobs/info/6ad036702cc4e9d17e90c736) | Hewlett Packard Enterprise | Sunnyvale, CA | 10/15/2026 04:36:59 | Sponsorship: Past Sponsorship |
+| 34 (Possible) | [AI GPU Power Architect - New College Grad 2026](https://jobright.ai/jobs/info/6aa5d62ea77a53f5a15721a9) | NVIDIA | Santa Clara, CA | 10/15/2026 00:28:02 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Controls Engineer I (Nights),](https://jobright.ai/jobs/info/6ad083b7c8ae22bb47ef6f3c) | Baxter International Inc. | Marion, NC | 10/15/2026 00:41:43 | Sponsorship: No |
 | 67 (Good) | [Early Career R&D Embedded Firmware & Hardware Engineer, Onsite](https://jobright.ai/jobs/info/6ad047fafe4980b99fedc031) | Sandia National Laboratories | Albuquerque, NM | 10/14/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I - (Onsite)](https://jobright.ai/jobs/info/6acfdfb8c9f40bec907fe89a) | RTX | Tucson, AZ | 10/14/2026 22:30:10 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6ad03aecc9f40bec908003a3) | P2S | Long Beach, CA | 10/14/2026 10:00:00 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-10-15 04:33:12Z UTC
 | 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6ac95369d4a5a03707411ecd) | John Crane | Port Arthur, TX | 10/05/2026 13:40:33 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [[Entry Level] Korean Bilingual QA / Test Engineer - Mobile Software, AI, 5G Field & Product Quality Testing (261001-2)](https://jobright.ai/jobs/info/6ac9180c6355f8776ff175fb) | JND Inc. | Dallas, TX | 10/09/2026 16:36:28 | Sponsorship: Explicit |
 | 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aa3cd783a768473c936971b) | Kaukauna Utilities | Kaukauna, WI | 10/09/2026 12:21:26 | Sponsorship: Not Sure |
-| 50 (Good) | [Associate Research and Development (R&D) Test Engineer](https://jobright.ai/jobs/info/6a549841e726ec56126aabaf) | Motorola Solutions | Los Angeles, CA; Irvine, CA | 10/09/2026 12:35:27 | Sponsorship: No |
-| 51 (Good) | [Power Electronics Engineer I (Onsite)](https://jobright.ai/jobs/info/6ac8f867c3a8af9c54a0861f) | Collins Aerospace | Cedar Rapids, IA | 10/09/2026 05:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac876496355f8776ff151d1) | Scientific Research Corporation | Jacksonville, FL | 10/09/2026 05:06:17 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 51 (Good) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6ac89d09d4a5a0370740ed2c) | Textron | Cockeysville, MD | 10/09/2026 07:51:37 | Security clearance language is present; Sponsorship: Past Sponsorship |
