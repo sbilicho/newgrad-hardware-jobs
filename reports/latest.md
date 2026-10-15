@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-15 18:30:51Z UTC
+Updated: 2026-10-15 21:46:00Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6ad0cee818608b6f36f7f0f4) | New York Power Authority | Astoria, OR | 10/15/2026 19:40:55 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6ad143da3d3a5aa909b39323) | Salas O'Brien | Oakland, CA | 10/15/2026 21:21:30 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Electrical Engineer - New Graduate (University of Washington)](https://jobright.ai/jobs/info/6ad145deae21edea94fd4fe1) | LITEON Careers - U.S. | Seattle, WA | 10/15/2026 21:30:06 | Sponsorship: Past Sponsorship |
+| 55 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6accc59addd23cce28a0f44a) | Leonardo DRS | Melbourne, FL | 10/15/2026 19:01:58 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 68 (Good) | [Validation Engineer](https://jobright.ai/jobs/info/6ad134a5256e49282e6536c8) | Renesas Electronics | Duluth, GA | 10/15/2026 20:16:37 | Sponsorship: Past Sponsorship |
+| 81 (Strong) | [Microarchitecture and Design Engineer - AI SoC](https://jobright.ai/jobs/info/6ad12959e2d41540d4a6eb9e) | Intel | Santa Clara, CA | 10/15/2026 20:13:59 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ad0f009ae21edea94fd2166) | Salas O'Brien | Richmond, VA | 10/15/2026 15:00:58 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ad0e6423d3a5aa909b36139) | Haag, a Salas O'Brien Company | New York, NY | 10/15/2026 14:42:10 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad0e3d8a4f99fef8193ff1b) | CRB | Kansas City, MO | 10/15/2026 14:31:51 | Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-10-15 18:30:51Z UTC
 | 60 (Good) | [#Digital Hardware Engineer](https://jobright.ai/jobs/info/6ac5756f064da25272e170e8) | Qualcomm | Boulder, CO; San Diego, CA | 10/11/2026 05:04:22 | Sponsorship: No |
 | 54 (Good) | [Entry-Level Electrical Hardware Design Engineer](https://jobright.ai/jobs/info/6acb1144d113c967e3c7877e) | Dice | Huntsville, AL | 10/11/2026 04:32:04 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6acab940002e496d4beec5fa) | BAE Systems, Inc. | Merrimack, NH | 10/10/2026 15:46:37 | Sponsorship: Past Sponsorship |
-| 62 (Good) | [Hardware Verification Engineer (Solon)](https://jobright.ai/jobs/info/6ac93c66fcdafb60c6a4b82f) | Ralliant | Solon, OH | 10/09/2026 19:11:34 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry-Level)](https://jobright.ai/jobs/info/6aca6fe8e7a1d9333210b912) | John Crane | Pasadena, TX | 10/06/2026 16:05:05 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [Failure Analysis Engineer I (Full-Time) United States](https://jobright.ai/jobs/info/6ab4153364816213f2d97299) | Cisco | Maynard, MA | 10/10/2026 13:27:25 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aca928cd113c967e3c77df4) | BAE Systems | Merrimack, NH | 10/10/2026 12:31:24 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer Jr. (Data Centers)](https://jobright.ai/jobs/info/6ab7c10a81e327c4bf203935) | Jacobs | United States | 10/10/2026 08:54:47 | Sponsorship: Not Sure |
-| 50 (Good) | [Mechanical Test Engineer](https://jobright.ai/jobs/info/6aca6894a56e5406e57bb273) | General Atomics Aeronautical Systems | Poway, CA | 10/10/2026 09:32:20 | Sponsorship: No |
