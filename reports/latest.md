@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-15 00:06:03Z UTC
+Updated: 2026-10-15 04:33:12Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 67 (Good) | [Early Career R&D Embedded Firmware & Hardware Engineer, Onsite](https://jobright.ai/jobs/info/6ad047fafe4980b99fedc031) | Sandia National Laboratories | Albuquerque, NM | 10/14/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I - (Onsite)](https://jobright.ai/jobs/info/6acfdfb8c9f40bec907fe89a) | RTX | Tucson, AZ | 10/14/2026 22:30:10 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6ad03aecc9f40bec908003a3) | P2S | Long Beach, CA | 10/14/2026 10:00:00 | Sponsorship: Past Sponsorship |
+| 59 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA)](https://jobright.ai/jobs/info/6ad02616c9f40bec907ffe60) | Teradyne | North Reading, MA | 10/14/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Site Reliability Engineer I (Full Time) — United States](https://jobright.ai/jobs/info/6acfffbdfe7a9bd5a6b9b270) | Cisco | San Jose, CA | 10/14/2026 22:18:37 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad00f4cfe7a9bd5a6b9b80b) | Safran | Brea, CA | 10/14/2026 20:24:51 | Sponsorship: Past Sponsorship |
 | 75 (Strong) | [Electrical Engineer – ASIC Test & Validation](https://jobright.ai/jobs/info/6acfc964fe7a9bd5a6b99fe6) | Avicena Tech | Sunnyvale, CA | 10/14/2026 16:26:17 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-10-15 00:06:03Z UTC
 | 51 (Good) | [Power Electronics Engineer I (Onsite)](https://jobright.ai/jobs/info/6ac8f867c3a8af9c54a0861f) | Collins Aerospace | Cedar Rapids, IA | 10/09/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac876496355f8776ff151d1) | Scientific Research Corporation | Jacksonville, FL | 10/09/2026 05:06:17 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 51 (Good) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6ac89d09d4a5a0370740ed2c) | Textron | Cockeysville, MD | 10/09/2026 07:51:37 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 51 (Good) | [Power Electronics Engineer I (Onsite)](https://jobright.ai/jobs/info/6ac87196d4a5a0370740e607) | RTX | Cedar Rapids, IA | 10/09/2026 09:20:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer (entry level) Job Details \| Lake Superior Consulting](https://jobright.ai/jobs/info/6ac8e4f4fe8f33a85d50135c) | Lake Superior Consulting | Duluth, MN | 10/09/2026 12:58:28 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Submarine Power Plant Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6ac870f9fcdafb60c6a48724) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 10/09/2026 04:55:06 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Entry Level Site Reliability Engineer - Tucson-AZ](https://jobright.ai/jobs/info/6ac8e0dcaf788e6ad3b58c34) | Dice | Tucson, AZ | 08/31/2026 12:39:49 | Sponsorship: Past Sponsorship |
