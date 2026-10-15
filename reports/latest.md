@@ -1,9 +1,17 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-15 14:19:33Z UTC
+Updated: 2026-10-15 18:30:51Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ad0f009ae21edea94fd2166) | Salas O'Brien | Richmond, VA | 10/15/2026 15:00:58 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ad0e6423d3a5aa909b36139) | Haag, a Salas O'Brien Company | New York, NY | 10/15/2026 14:42:10 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad0e3d8a4f99fef8193ff1b) | CRB | Kansas City, MO | 10/15/2026 14:31:51 | Sponsorship: Past Sponsorship |
+| 58 (Good) | [Production Hardware - Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aab1e72f6bd9d2d17c1b998) | Raytheon | Tucson, AZ | 10/15/2026 16:26:22 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ad0fc9aae21edea94fd267f) | Haag, a Salas O'Brien Company | Richmond, VA | 10/15/2026 16:17:30 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I - (30)](https://jobright.ai/jobs/info/6ad116b718608b6f36f814c8) | Beardsley Architects + Engineers | Auburn, NY | 10/15/2026 18:08:55 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6ad0f9aee2d41540d4a6ce15) | Cummins Inc. | Whitakers, NC | 10/15/2026 16:05:02 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer - Kiewit Industrial & Water Engineering Job Details \| Kiewit](https://jobright.ai/jobs/info/6ad107cfa4f99fef8194134b) | Kiewit | Lone Tree, CO | 10/15/2026 10:05:19 | Sponsorship: Not Sure |
 | 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ab43aaad2f5fbd604be242c) | RTX | Cedar Rapids, IA | 10/15/2026 09:39:04 | Sponsorship: Past Sponsorship |
 | 32 (Possible) | [Senior Electrical Engineer I - Marine Operations](https://jobright.ai/jobs/info/6ad0cfe8e2d41540d4a6bcd0) | Rocket Lab | Middle River, MD | 10/15/2026 13:06:48 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6ad083d9c8ae22bb47ef6f40) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 10/15/2026 07:42:17 | Sponsorship: Past Sponsorship |
@@ -96,11 +104,3 @@ Updated: 2026-10-15 14:19:33Z UTC
 | 44 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6aca928cd113c967e3c77df4) | BAE Systems | Merrimack, NH | 10/10/2026 12:31:24 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer Jr. (Data Centers)](https://jobright.ai/jobs/info/6ab7c10a81e327c4bf203935) | Jacobs | United States | 10/10/2026 08:54:47 | Sponsorship: Not Sure |
 | 50 (Good) | [Mechanical Test Engineer](https://jobright.ai/jobs/info/6aca6894a56e5406e57bb273) | General Atomics Aeronautical Systems | Poway, CA | 10/10/2026 09:32:20 | Sponsorship: No |
-| 46 (Possible) | [Test Development Engineer](https://jobright.ai/jobs/info/6a51c9a178e364789ca5ccd8) | ZOLL Medical Corporation | Deerfield, WI | 10/10/2026 04:52:17 | Sponsorship: Not Sure |
-| 49 (Possible) | [Electrical Engineer I - Computing Products (Onsite)](https://jobright.ai/jobs/info/6ac95316fcdafb60c6a4bf14) | RTX | Cedar Rapids, IA | 10/09/2026 21:19:36 | Sponsorship: Explicit |
-| 49 (Possible) | [Test Solutions Electrical Engineer I](https://jobright.ai/jobs/info/6ac92046fcdafb60c6a4ae9d) | RTX | Tewksbury, MA | 10/09/2026 21:19:20 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ac96fe8c3a8af9c54a0ac41) | Georgia Institute of Technology | Atlanta, GA | 10/09/2026 22:51:20 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I OR Electrical Engineer II - Instrumentation & Control Design](https://jobright.ai/jobs/info/6ac97279af788e6ad3b5b89d) | Duke Energy Corporation | Hartsville, SC | 10/09/2026 22:58:34 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer - Data Centers](https://jobright.ai/jobs/info/6ac95e0cfcdafb60c6a4c2a8) | Jacobs | Columbus, OH | 10/09/2026 05:00:00 | Sponsorship: Past Sponsorship |
-| 62 (Good) | [Hardware Verification Engineer (Solon)](https://jobright.ai/jobs/info/6ac97ba0d4a5a03707412843) | Tektronix | Solon, OH | 10/09/2026 23:41:20 | Sponsorship: Past Sponsorship |
-| 88 (Strong) | [ASIC Clocks Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ac97e04d4a5a037074128be) | NVIDIA | Santa Clara, CA | 10/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
