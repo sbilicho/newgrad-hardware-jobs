@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-14 21:34:11Z UTC
+Updated: 2026-10-15 00:06:03Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 50 (Good) | [Site Reliability Engineer I (Full Time) — United States](https://jobright.ai/jobs/info/6acfffbdfe7a9bd5a6b9b270) | Cisco | San Jose, CA | 10/14/2026 22:18:37 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad00f4cfe7a9bd5a6b9b80b) | Safran | Brea, CA | 10/14/2026 20:24:51 | Sponsorship: Past Sponsorship |
 | 75 (Strong) | [Electrical Engineer – ASIC Test & Validation](https://jobright.ai/jobs/info/6acfc964fe7a9bd5a6b99fe6) | Avicena Tech | Sunnyvale, CA | 10/14/2026 16:26:17 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [Hardware Design Engineer 1 (SILICON DESIGN ENGINEER)](https://jobright.ai/jobs/info/6acfed8478d51ae69ce08f69) | Sunrise Systems, Inc. | Santa Clara, CA | 10/14/2026 19:00:10 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer / Sales Engineer - Machinery Industry](https://jobright.ai/jobs/info/6acfd42812303667b98a083f) | Activ8 Recruitment & Solutions | Florence, KY | 10/14/2026 19:12:40 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-10-14 21:34:11Z UTC
 | 37 (Possible) | [Electrical Engineer (entry level) Job Details \| Lake Superior Consulting](https://jobright.ai/jobs/info/6ac8e4f4fe8f33a85d50135c) | Lake Superior Consulting | Duluth, MN | 10/09/2026 12:58:28 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Submarine Power Plant Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6ac870f9fcdafb60c6a48724) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 10/09/2026 04:55:06 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Entry Level Site Reliability Engineer - Tucson-AZ](https://jobright.ai/jobs/info/6ac8e0dcaf788e6ad3b58c34) | Dice | Tucson, AZ | 08/31/2026 12:39:49 | Sponsorship: Past Sponsorship |
-| 74 (Strong) | [Design Manual Publishing & Ground Rule Validation Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ac90ec9fcdafb60c6a4a8d5) | GlobalFoundries | Essex Junction, VT | 10/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Electromagnetic Effects (EMI/EMC) Test Engineer, Amazon Leo](https://jobright.ai/jobs/info/6ac7f8ae51a1b3e4219ef9a5) | Amazon | Redmond, WA | 10/08/2026 17:01:28 | Sponsorship: No |
