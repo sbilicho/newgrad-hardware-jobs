@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-15 21:46:00Z UTC
+Updated: 2026-10-15 23:56:40Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Electrical Hardware Engineer I - 0T1011](https://jobright.ai/jobs/info/6ad130ffe2d41540d4a6ee38) | Hewlett Packard Enterprise | Westford, MA | 10/15/2026 23:01:24 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer - Facilities (Entry Level)](https://jobright.ai/jobs/info/6ad1555de2d41540d4a700b9) | General Dynamics Electric Boat | Groton, CT | 10/15/2026 22:36:13 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6ad150c8256e49282e6545d9) | Haag, a Salas O'Brien Company | Oakland, CA | 10/15/2026 22:16:40 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [Firmware Engineer - New Graduate (University of Washington)](https://jobright.ai/jobs/info/6ad14e27e2d41540d4a6fd1a) | LITEON Careers - U.S. | Seattle, WA | 10/15/2026 23:25:32 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6ad0cee818608b6f36f7f0f4) | New York Power Authority | Astoria, OR | 10/15/2026 19:40:55 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6ad143da3d3a5aa909b39323) | Salas O'Brien | Oakland, CA | 10/15/2026 21:21:30 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer - New Graduate (University of Washington)](https://jobright.ai/jobs/info/6ad145deae21edea94fd4fe1) | LITEON Careers - U.S. | Seattle, WA | 10/15/2026 21:30:06 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-10-15 21:46:00Z UTC
 | 49 (Possible) | [Controls Engineer I](https://jobright.ai/jobs/info/6ab436f47bd0813713316531) | Forge Nano, Inc. | Thornton, CO | 10/11/2026 11:08:51 | Sponsorship: Not Sure |
 | 37 (Possible) | [Controls & Electrical Engineer I](https://jobright.ai/jobs/info/6acb6aee3c831dc4086bd2c6) | Cytiva | Hauppauge, NY | 10/11/2026 03:54:38 | Sponsorship: Past Sponsorship |
 | 88 (Strong) | [SOC Design Verification Engineer](https://jobright.ai/jobs/info/6ac6d501064da25272e1ca2d) | Qualcomm | San Diego, CA | 10/11/2026 04:50:40 | Sponsorship: Not Sure |
-| 50 (Good) | [Junior Propulsion Component Test Engineer](https://jobright.ai/jobs/info/6a5838d772fe7a7b98dcd7b1) | Amca | El Segundo, CA | 10/11/2026 05:02:46 | Sponsorship: No |
-| 60 (Good) | [#Digital Hardware Engineer](https://jobright.ai/jobs/info/6ac5756f064da25272e170e8) | Qualcomm | Boulder, CO; San Diego, CA | 10/11/2026 05:04:22 | Sponsorship: No |
-| 54 (Good) | [Entry-Level Electrical Hardware Design Engineer](https://jobright.ai/jobs/info/6acb1144d113c967e3c7877e) | Dice | Huntsville, AL | 10/11/2026 04:32:04 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6acab940002e496d4beec5fa) | BAE Systems, Inc. | Merrimack, NH | 10/10/2026 15:46:37 | Sponsorship: Past Sponsorship |
