@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-15 09:24:30Z UTC
+Updated: 2026-10-15 14:19:33Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ab43aaad2f5fbd604be242c) | RTX | Cedar Rapids, IA | 10/15/2026 09:39:04 | Sponsorship: Past Sponsorship |
+| 32 (Possible) | [Senior Electrical Engineer I - Marine Operations](https://jobright.ai/jobs/info/6ad0cfe8e2d41540d4a6bcd0) | Rocket Lab | Middle River, MD | 10/15/2026 13:06:48 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6ad083d9c8ae22bb47ef6f40) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 10/15/2026 07:42:17 | Sponsorship: Past Sponsorship |
+| 64 (Good) | [New College Grad - Embedded Firmware Engineer](https://jobright.ai/jobs/info/6acfdb0f12303667b98a09ed) | Micron Technology | Boise, ID | 10/15/2026 12:26:57 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer, Maritime](https://boards.greenhouse.io/andurilindustries/jobs/5266303007?gh_jid=5266303007) | Anduril Industries | Boston, Massachusetts, United States; Quincy, Massachusetts, United States | 10/15/2026 11:41:28 | Security clearance language is present |
 | 46 (Possible) | [Electrical Hardware Engineer I - 0T1011](https://jobright.ai/jobs/info/6ad046211db1f75ea469f9e7) | Hewlett Packard Enterprise | Sunnyvale, CA | 10/15/2026 04:37:37 | Sponsorship: Past Sponsorship |
 | 32 (Possible) | [VLSI Engineer I - 0T1191](https://jobright.ai/jobs/info/6ad036702cc4e9d17e90c736) | Hewlett Packard Enterprise | Sunnyvale, CA | 10/15/2026 04:36:59 | Sponsorship: Past Sponsorship |
 | 34 (Possible) | [AI GPU Power Architect - New College Grad 2026](https://jobright.ai/jobs/info/6aa5d62ea77a53f5a15721a9) | NVIDIA | Santa Clara, CA | 10/15/2026 00:28:02 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-10-15 09:24:30Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer - Data Centers](https://jobright.ai/jobs/info/6ac95e0cfcdafb60c6a4c2a8) | Jacobs | Columbus, OH | 10/09/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Hardware Verification Engineer (Solon)](https://jobright.ai/jobs/info/6ac97ba0d4a5a03707412843) | Tektronix | Solon, OH | 10/09/2026 23:41:20 | Sponsorship: Past Sponsorship |
 | 88 (Strong) | [ASIC Clocks Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ac97e04d4a5a037074128be) | NVIDIA | Santa Clara, CA | 10/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [Hardware Design Validation Engineer - Memory Subsystem - New College Grad 2026](https://jobright.ai/jobs/info/6ac925f5fe8f33a85d502783) | NVIDIA | Santa Clara, CA | 09/30/2026 17:35:33 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a5e8a71270e3033b045e9f0) | Accelevation | Miamisburg, OH | 10/09/2026 18:49:38 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6ac95369d4a5a03707411ecd) | John Crane | Port Arthur, TX | 10/05/2026 13:40:33 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [[Entry Level] Korean Bilingual QA / Test Engineer - Mobile Software, AI, 5G Field & Product Quality Testing (261001-2)](https://jobright.ai/jobs/info/6ac9180c6355f8776ff175fb) | JND Inc. | Dallas, TX | 10/09/2026 16:36:28 | Sponsorship: Explicit |
-| 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aa3cd783a768473c936971b) | Kaukauna Utilities | Kaukauna, WI | 10/09/2026 12:21:26 | Sponsorship: Not Sure |
