@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-16 19:38:58Z UTC
+Updated: 2026-10-16 20:55:56Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 45 (Possible) | [Electrical Engineer I,  Manufacturing and Test (63911)](https://jobright.ai/jobs/info/6ad28dd883ada13a9da067eb) | Reading Bakery Systems | Sinking Spring, PA | 10/16/2026 20:49:28 | Sponsorship: Past Sponsorship |
+| 65 (Good) | [Electrical Engineer I - FPGA Designer (58060)](https://jobright.ai/jobs/info/6ad28e8f5290d4375c453b11) | Applied Technical Services, LLC | Colorado Springs, CO | 10/16/2026 20:52:31 | Sponsorship: Past Sponsorship |
+| 88 (Strong) | [Digital IC Design Engineer](https://jobright.ai/jobs/info/6ac01199d9621c5b283961e4) | indie.inc | Aliso Viejo, CA | 10/16/2026 20:41:46 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [NVH Test Engineer](https://jobright.ai/jobs/info/6ad280a95290d4375c45367f) | CNH | Racine, WI | 10/16/2026 12:53:13 | Sponsorship: Not Sure |
 | 41 (Possible) | [Entry-Level Electrical Engineer (Power System Studies) - Hybrid \| Pittsburgh Area](https://jobright.ai/jobs/info/6ad26e97810010ec72f5804e) | Pioneer Power Group | Wexford, PA | 10/16/2026 18:36:07 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6a8573d6d34f700f87fbcd82) | Atkore | Harvey, IL; Merrillville, IN; Hobart, IN | 10/16/2026 11:20:09 | Sponsorship: No |
 | 62 (Good) | [Silicon Photonics Test Development Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ad25399c4290cef1412a2a7) | GlobalFoundries | Essex Junction, VT | 10/16/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-10-16 19:38:58Z UTC
 | 40 (Possible) | [Entry level Electrical Engineer - Advanced Facilities - Summer 2027](https://jobright.ai/jobs/info/6acda84177057049843ffd25) | Jacobs | Greenville, SC | 10/12/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 83 (Strong) | [Analog/Mixed Signal System Test Engineer](https://jobright.ai/jobs/info/6acd7864002e496d4bef2602) | Astera Labs | San Jose, CA | 10/13/2026 00:16:36 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6acd2741a56e5406e57bff54) | Cintas | Florence, SC | 10/12/2026 18:30:25 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6acd1d5fddd23cce28a10b40) | Star Catcher | Jacksonville, FL | 10/12/2026 17:48:15 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Power Electronics - Component Development Engineer (Junior Level)](https://jobright.ai/jobs/info/6acd2e493c831dc4086c104a) | SEGULA Technologies | Auburn Hills, MI | 10/12/2026 20:17:57 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6acd0fbdd113c967e3c7bedb) | RTX | Forest, MS | 10/12/2026 21:19:42 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I or II - BLUvera Manufacturing](https://jobright.ai/jobs/info/6acd2141e7a1d93332110366) | Mortenson | Saint Paul, MN | 10/12/2026 21:37:01 | Sponsorship: Past Sponsorship |
