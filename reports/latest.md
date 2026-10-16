@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-16 10:04:55Z UTC
+Updated: 2026-10-16 11:04:20Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Electrical Engineer I - Test Engineering (Onsite)](https://jobright.ai/jobs/info/6ad1911ec24514d0596cd17c) | RTX | Melbourne, FL | 10/16/2026 09:19:54 | Sponsorship: Past Sponsorship |
+| 51 (Good) | [Entry-Level Systems Test Engineer](https://jobright.ai/jobs/info/6ad1ffd127c58afafbb2fed3) | Dice | Huntsville, AL | 10/16/2026 10:43:29 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6ad1e1849e2fdc1ecc1c3fb4) | ETHOS Consulting Engineers | Denver, CO | 10/16/2026 08:34:12 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ad19c94c50216c4e1b6b079) | Jacobs | Honolulu, HI | 10/15/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Hardware Engineer I - 0T1011](https://jobright.ai/jobs/info/6ad130ffe2d41540d4a6ee38) | Hewlett Packard Enterprise | Westford, MA | 10/15/2026 23:01:24 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-10-16 10:04:55Z UTC
 | 48 (Possible) | [Hardware Embedded Engineer](https://jobright.ai/jobs/info/6acc633ca56e5406e57bd843) | Raydar | San Francisco, CA | 10/12/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 53 (Good) | [Advanced Effector Guidance Systems Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a91d301d18f75674827a5e8) | RTX | Tucson, AZ | 10/11/2026 16:12:29 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer (Entry Level) - Malta, NY](https://jobright.ai/jobs/info/6acbf7bea56e5406e57bce3e) | Hallam-ICS | Malta, NY | 10/11/2026 20:55:26 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a52699b8a74e077472f46bc) | Valdes Architecture & Engineering | Lombard, IL | 10/11/2026 20:23:19 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Controls Engineer I](https://jobright.ai/jobs/info/6ab436f47bd0813713316531) | Forge Nano, Inc. | Thornton, CO | 10/11/2026 11:08:51 | Sponsorship: Not Sure |
