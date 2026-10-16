@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-16 13:57:36Z UTC
+Updated: 2026-10-16 16:32:59Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Electrical Engineer I - Test Engineering (Onsite)](https://jobright.ai/jobs/info/6ad233d1f04335fc70ed3733) | Collins Aerospace | Melbourne, FL | 10/16/2026 05:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Collierville, TN - Electrical Engineer (I,II,III,IV)](https://jobright.ai/jobs/info/6ad24646c4290cef14129a58) | DDS Companies | Collierville, TN | 10/16/2026 13:42:40 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Analog & Power Design Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6accfaed3c831dc4086bfe49) | RTX | Marlborough, MA | 10/16/2026 14:54:21 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 62 (Good) | [Silicon Photonics Test Development Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ad24f78c4290cef14129fa8) | GlobalFoundries | Essex Junction, VT | 10/16/2026 16:23:20 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Collierville, TN - Electrical Engineer (I,II,III,IV)](https://jobright.ai/jobs/info/6ad2150225289a0b3bf54003) | Artera Services | Collierville, TN | 10/16/2026 12:13:54 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Associate Electrical Engineer](https://jobright.ai/jobs/info/6ad207d3c4290cef14127eca) | Tech Verses | United States | 10/16/2026 04:17:39 | Sponsorship: Not Sure |
 | 60 (Good) | [Mechanical Hardware Test & Validation Engineer (All Levels)](https://jobright.ai/jobs/info/6ab59958634ec6aa7c0d0576) | ALSO. | Palo Alto, CA | 10/16/2026 04:11:55 | Sponsorship: Not Sure |
@@ -100,7 +104,3 @@ Updated: 2026-10-16 13:57:36Z UTC
 | 52 (Good) | [Entry-Level – Researcher – Power Electronics & Energy Conversion Systems](https://jobright.ai/jobs/info/6accffdee7a1d9333210f6f7) | General Motors | Warren, MI | 10/12/2026 15:50:26 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6acd18373c831dc4086c07a3) | Zachry Group | Omaha, NE | 10/12/2026 17:26:15 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Computer & Electrical Engineer](https://jobright.ai/jobs/info/6ac87105fe8f33a85d4ffe19) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 10/11/2026 11:34:40 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer- Entry Level](https://jobright.ai/jobs/info/6acce1a2e7a1d9333210ee8e) | NTH Consultants, Ltd. | Grand Rapids, MI | 10/12/2026 08:23:37 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6accbc64ddd23cce28a0f3d9) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 10/12/2026 10:54:28 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer (Entry Level – EIT)](https://jobright.ai/jobs/info/6accef46e7a1d9333210f1c0) | LBE, Inc. | Moncks Corner, SC | 10/12/2026 14:31:34 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6acd01e2002e496d4bef0018) | Sargent & Lundy | Chattanooga, TN | 10/12/2026 15:50:58 | Sponsorship: Past Sponsorship |
