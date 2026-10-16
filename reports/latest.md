@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-16 18:34:25Z UTC
+Updated: 2026-10-16 19:38:58Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Entry-Level Electrical Engineer (Power System Studies) - Hybrid \| Pittsburgh Area](https://jobright.ai/jobs/info/6ad26e97810010ec72f5804e) | Pioneer Power Group | Wexford, PA | 10/16/2026 18:36:07 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6a8573d6d34f700f87fbcd82) | Atkore | Harvey, IL; Merrillville, IN; Hobart, IN | 10/16/2026 11:20:09 | Sponsorship: No |
 | 62 (Good) | [Silicon Photonics Test Development Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ad25399c4290cef1412a2a7) | GlobalFoundries | Essex Junction, VT | 10/16/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6ad21eeb25289a0b3bf543a5) | Moog Inc. | Blacksburg, VA | 10/16/2026 08:45:53 | Sponsorship: Not Sure |
 | 40 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6acd48b6ddd23cce28a11a24) | RTX | Plano, TX; McKinney, TX | 10/16/2026 08:47:18 | Security clearance language is present; Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-10-16 18:34:25Z UTC
 | 45 (Possible) | [Power Electronics - Component Development Engineer (Junior Level)](https://jobright.ai/jobs/info/6acd2e493c831dc4086c104a) | SEGULA Technologies | Auburn Hills, MI | 10/12/2026 20:17:57 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6acd0fbdd113c967e3c7bedb) | RTX | Forest, MS | 10/12/2026 21:19:42 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I or II - BLUvera Manufacturing](https://jobright.ai/jobs/info/6acd2141e7a1d93332110366) | Mortenson | Saint Paul, MN | 10/12/2026 21:37:01 | Sponsorship: Past Sponsorship |
-| 79 (Strong) | [Analog Mixed Signal Engineer](https://jobright.ai/jobs/info/6acd4186a56e5406e57c06a5) | Astera Labs | San Jose, CA | 10/12/2026 20:22:30 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Customer Reliability Engineer or Technical Specialist (Entry Level)](https://jobright.ai/jobs/info/6ac3d33b064da25272e0f97a) | Smiths Group plc | Port Arthur, TX | 10/05/2026 16:41:31 | Sponsorship: Past Sponsorship |
