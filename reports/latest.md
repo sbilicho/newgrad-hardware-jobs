@@ -1,9 +1,18 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-16 20:55:56Z UTC
+Updated: 2026-10-16 23:23:48Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 59 (Good) | [Electrical Engineer I - FPGA Designer](https://jobright.ai/jobs/info/6ad29353c4290cef1412bb61) | Radiation Test Solutions, Inc. | Colorado Springs, CO | 10/16/2026 21:12:51 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I, Life Cycle Engineering](https://jobright.ai/jobs/info/6ad299f25290d4375c4542eb) | General Dynamics - Bath Iron Works | Brunswick, ME | 10/16/2026 21:41:06 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Entry Level Electrical Engineer – Class of 2026/2027](https://jobright.ai/jobs/info/6ad2a2c25290d4375c454489) | Amphenol FCi | Santa Clara, CA | 10/16/2026 22:18:42 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Entry Level Electrical Engineer – Class of 2026/2027](https://jobright.ai/jobs/info/6ad2a202c4290cef1412c2c4) | Amphenol | Santa Clara, CA | 10/16/2026 22:15:30 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Entry Level Electrical Engineer – Class of 2026/2027](https://jobright.ai/jobs/info/6ad2a2c3c4290cef1412c2e6) | Amphenol TCS | Santa Clara, CA | 10/16/2026 22:18:43 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Entry Level Electrical Engineer – Class of 2026/2027](https://jobright.ai/jobs/info/6ad2aec75290d4375c454882) | Amphenol Communications Solutions | Santa Clara, CA | 10/16/2026 23:09:59 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6ad29c8e810010ec72f5938a) | Virtue America | United States | 10/16/2026 21:52:14 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Hardware Engineer III (Full-Time) - United States](https://jobright.ai/jobs/info/6ad29e9e83ada13a9da070a0) | Cisco | San Jose, CA | 10/16/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 61 (Good) | [New College Grad - Electrical Design Engineer](https://jobright.ai/jobs/info/6ad2acc525289a0b3bf5838c) | Coulter Services | Boise, ID | 10/16/2026 20:01:08 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer I,  Manufacturing and Test (63911)](https://jobright.ai/jobs/info/6ad28dd883ada13a9da067eb) | Reading Bakery Systems | Sinking Spring, PA | 10/16/2026 20:49:28 | Sponsorship: Past Sponsorship |
 | 65 (Good) | [Electrical Engineer I - FPGA Designer (58060)](https://jobright.ai/jobs/info/6ad28e8f5290d4375c453b11) | Applied Technical Services, LLC | Colorado Springs, CO | 10/16/2026 20:52:31 | Sponsorship: Past Sponsorship |
 | 88 (Strong) | [Digital IC Design Engineer](https://jobright.ai/jobs/info/6ac01199d9621c5b283961e4) | indie.inc | Aliso Viejo, CA | 10/16/2026 20:41:46 | Sponsorship: Past Sponsorship |
@@ -95,12 +104,3 @@ Updated: 2026-10-16 20:55:56Z UTC
 | 41 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6ace689c680c80c8753bc832) | Peraton | Aberdeen, MD | 10/13/2026 17:21:32 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6ace3e67ba99f15ef4123a6d) | Virtue America | United States | 10/13/2026 14:21:27 | Sponsorship: Past Sponsorship |
 | 63 (Good) | [Systems Verification Engineer](https://jobright.ai/jobs/info/6ace6b214391691a335ac723) | Starkey México | Eden Prairie, MN | 10/13/2026 17:32:17 | Sponsorship: Past Sponsorship |
-| 89 (Strong) | [ASIC Engineer, Performance Architecture and Modeling (University Grad)](https://jobright.ai/jobs/info/6ace7300a0453f9ba6248a98) | Meta | Sunnyvale, CA | 10/13/2026 18:05:52 | Sponsorship: Past Sponsorship |
-| 97 (Strong) | [AMS Digital Design Engineer NCG](https://jobright.ai/jobs/info/6ace76f74f3229123da3c21b) | Astera Labs | San Jose, CA | 10/13/2026 18:22:47 | Sponsorship: Past Sponsorship |
-| 88 (Strong) | [Entry Level ASIC/FPGA Design Verification Engineer](https://jobright.ai/jobs/info/6ace7462a0453f9ba6248b2f) | Boeing | El Segundo, CA | 10/13/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6acdcfe67705704984400428) | Applied Medical | Rancho Santa Margarita, CA | 10/13/2026 03:29:42 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Hardware Engineer 1](https://jobright.ai/jobs/info/6acd97dfe7a1d933321122b5) | Dexcom | San Diego, CA | 10/13/2026 08:10:43 | Sponsorship: Past Sponsorship |
-| 59 (Good) | [Associate FPGA Engineer](https://jobright.ai/jobs/info/6ab1795cd2a93d5a97ebae95) | Moog Inc. | Buffalo, NY | 10/13/2026 02:23:33 | Sponsorship: No |
-| 40 (Possible) | [Entry level Electrical Engineer - Advanced Facilities - Summer 2027](https://jobright.ai/jobs/info/6acda84177057049843ffd25) | Jacobs | Greenville, SC | 10/12/2026 05:00:00 | Sponsorship: Past Sponsorship |
-| 83 (Strong) | [Analog/Mixed Signal System Test Engineer](https://jobright.ai/jobs/info/6acd7864002e496d4bef2602) | Astera Labs | San Jose, CA | 10/13/2026 00:16:36 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6acd2741a56e5406e57bff54) | Cintas | Florence, SC | 10/12/2026 18:30:25 | Sponsorship: Past Sponsorship |
