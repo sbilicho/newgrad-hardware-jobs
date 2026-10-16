@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-15 23:56:40Z UTC
+Updated: 2026-10-16 04:15:05Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ad19c94c50216c4e1b6b079) | Jacobs | Honolulu, HI | 10/15/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Hardware Engineer I - 0T1011](https://jobright.ai/jobs/info/6ad130ffe2d41540d4a6ee38) | Hewlett Packard Enterprise | Westford, MA | 10/15/2026 23:01:24 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - Facilities (Entry Level)](https://jobright.ai/jobs/info/6ad1555de2d41540d4a700b9) | General Dynamics Electric Boat | Groton, CT | 10/15/2026 22:36:13 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6ad150c8256e49282e6545d9) | Haag, a Salas O'Brien Company | Oakland, CA | 10/15/2026 22:16:40 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-15 23:56:40Z UTC
 | 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a52699b8a74e077472f46bc) | Valdes Architecture & Engineering | Lombard, IL | 10/11/2026 20:23:19 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Controls Engineer I](https://jobright.ai/jobs/info/6ab436f47bd0813713316531) | Forge Nano, Inc. | Thornton, CO | 10/11/2026 11:08:51 | Sponsorship: Not Sure |
 | 37 (Possible) | [Controls & Electrical Engineer I](https://jobright.ai/jobs/info/6acb6aee3c831dc4086bd2c6) | Cytiva | Hauppauge, NY | 10/11/2026 03:54:38 | Sponsorship: Past Sponsorship |
-| 88 (Strong) | [SOC Design Verification Engineer](https://jobright.ai/jobs/info/6ac6d501064da25272e1ca2d) | Qualcomm | San Diego, CA | 10/11/2026 04:50:40 | Sponsorship: Not Sure |
