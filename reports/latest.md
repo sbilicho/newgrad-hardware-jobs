@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-16 04:15:05Z UTC
+Updated: 2026-10-16 09:07:18Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6ad1e1849e2fdc1ecc1c3fb4) | ETHOS Consulting Engineers | Denver, CO | 10/16/2026 08:34:12 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ad19c94c50216c4e1b6b079) | Jacobs | Honolulu, HI | 10/15/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Hardware Engineer I - 0T1011](https://jobright.ai/jobs/info/6ad130ffe2d41540d4a6ee38) | Hewlett Packard Enterprise | Westford, MA | 10/15/2026 23:01:24 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - Facilities (Entry Level)](https://jobright.ai/jobs/info/6ad1555de2d41540d4a700b9) | General Dynamics Electric Boat | Groton, CT | 10/15/2026 22:36:13 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-16 04:15:05Z UTC
 | 37 (Possible) | [Electrical Engineer (Entry Level) - Malta, NY](https://jobright.ai/jobs/info/6acbf7bea56e5406e57bce3e) | Hallam-ICS | Malta, NY | 10/11/2026 20:55:26 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6a52699b8a74e077472f46bc) | Valdes Architecture & Engineering | Lombard, IL | 10/11/2026 20:23:19 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Controls Engineer I](https://jobright.ai/jobs/info/6ab436f47bd0813713316531) | Forge Nano, Inc. | Thornton, CO | 10/11/2026 11:08:51 | Sponsorship: Not Sure |
-| 37 (Possible) | [Controls & Electrical Engineer I](https://jobright.ai/jobs/info/6acb6aee3c831dc4086bd2c6) | Cytiva | Hauppauge, NY | 10/11/2026 03:54:38 | Sponsorship: Past Sponsorship |
