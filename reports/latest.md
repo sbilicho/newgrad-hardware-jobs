@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-16 12:04:39Z UTC
+Updated: 2026-10-16 13:04:46Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Collierville, TN - Electrical Engineer (I,II,III,IV)](https://jobright.ai/jobs/info/6ad2150225289a0b3bf54003) | Artera Services | Collierville, TN | 10/16/2026 12:13:54 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Associate Electrical Engineer](https://jobright.ai/jobs/info/6ad207d3c4290cef14127eca) | Tech Verses | United States | 10/16/2026 04:17:39 | Sponsorship: Not Sure |
 | 60 (Good) | [Mechanical Hardware Test & Validation Engineer (All Levels)](https://jobright.ai/jobs/info/6ab59958634ec6aa7c0d0576) | ALSO. | Palo Alto, CA | 10/16/2026 04:11:55 | Sponsorship: Not Sure |
 | 40 (Possible) | [Electrical Engineer I - Test Engineering (Onsite)](https://jobright.ai/jobs/info/6ad1911ec24514d0596cd17c) | RTX | Melbourne, FL | 10/16/2026 09:19:54 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Entry-Level Systems Test Engineer](https://jobright.ai/jobs/info/6ad1ffd127c58afafbb2fed3) | Dice | Huntsville, AL | 10/16/2026 10:43:29 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-10-16 12:04:39Z UTC
 | 37 (Possible) | [Entry Level Computer & Electrical Engineer Electrical](https://jobright.ai/jobs/info/6accbc64ddd23cce28a0f3d9) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 10/12/2026 10:54:28 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer (Entry Level – EIT)](https://jobright.ai/jobs/info/6accef46e7a1d9333210f1c0) | LBE, Inc. | Moncks Corner, SC | 10/12/2026 14:31:34 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6acd01e2002e496d4bef0018) | Sargent & Lundy | Chattanooga, TN | 10/12/2026 15:50:58 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Hardware Embedded Engineer](https://jobright.ai/jobs/info/6acc633ca56e5406e57bd843) | Raydar | San Francisco, CA | 10/12/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 53 (Good) | [Advanced Effector Guidance Systems Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6a91d301d18f75674827a5e8) | RTX | Tucson, AZ | 10/11/2026 16:12:29 | Security clearance language is present; Sponsorship: Past Sponsorship |
