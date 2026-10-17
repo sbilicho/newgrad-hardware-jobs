@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-16 23:23:48Z UTC
+Updated: 2026-10-17 01:25:56Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 50 (Good) | [Electrical Test Engineer I - Lunar Permanence](https://jobright.ai/jobs/info/6ad27b85f04335fc70ed5d13) | Blue Origin | Space Coast, Florida | 10/17/2026 01:14:30 | Sponsorship: Past Sponsorship |
+| 62 (Good) | [Signal Integrity Systems Engineer (Entry level to Senior)](https://jobright.ai/jobs/info/6ad2ccaf810010ec72f59e0a) | Molex | Lisle, IL | 10/17/2026 01:17:35 | Sponsorship: Past Sponsorship |
+| 61 (Good) | [Circuit Design Engineer](https://jobright.ai/jobs/info/6ad27a49810010ec72f584fb) | Intel | Folsom, CA | 10/16/2026 21:25:22 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Junior Electrical Engineer at DCS Corp](https://jobright.ai/jobs/info/6ad2afedf04335fc70ed707b) | Berkeley Industrial Engineering & Operations Research | Indianapolis, IN | 10/16/2026 16:14:53 | Sponsorship: No |
 | 59 (Good) | [Electrical Engineer I - FPGA Designer](https://jobright.ai/jobs/info/6ad29353c4290cef1412bb61) | Radiation Test Solutions, Inc. | Colorado Springs, CO | 10/16/2026 21:12:51 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I, Life Cycle Engineering](https://jobright.ai/jobs/info/6ad299f25290d4375c4542eb) | General Dynamics - Bath Iron Works | Brunswick, ME | 10/16/2026 21:41:06 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical Engineer – Class of 2026/2027](https://jobright.ai/jobs/info/6ad2a2c25290d4375c454489) | Amphenol FCi | Santa Clara, CA | 10/16/2026 22:18:42 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-10-16 23:23:48Z UTC
 | 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6aceb5cdba99f15ef41268d9) | Legence | Long Beach, CA | 10/13/2026 10:00:00 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Entry-Level Systems Test Engineer](https://jobright.ai/jobs/info/6acea22970e50ec1b37f1140) | Torch Technologies, Inc. | Huntsville, AL | 10/13/2026 22:58:17 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [R&D Reliability/Test Engineer - June 2027 Grads](https://jobright.ai/jobs/info/6abc324f92b2612ef0f8d9ce) | Formlabs | Boston, MA | 10/13/2026 21:53:55 | Sponsorship: Past Sponsorship |
-| 59 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA)](https://jobright.ai/jobs/info/6ace9b6d70e50ec1b37f0e95) | Teradyne | North Reading, MA | 10/13/2026 19:22:34 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6ace689c680c80c8753bc832) | Peraton | Aberdeen, MD | 10/13/2026 17:21:32 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6ace3e67ba99f15ef4123a6d) | Virtue America | United States | 10/13/2026 14:21:27 | Sponsorship: Past Sponsorship |
-| 63 (Good) | [Systems Verification Engineer](https://jobright.ai/jobs/info/6ace6b214391691a335ac723) | Starkey México | Eden Prairie, MN | 10/13/2026 17:32:17 | Sponsorship: Past Sponsorship |
