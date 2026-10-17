@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-17 10:35:41Z UTC
+Updated: 2026-10-17 13:38:58Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 82 (Strong) | [GSoC Design Verification Engineer](https://jobright.ai/jobs/info/6ab4300ed2f5fbd604be1fe9) | Qualcomm | San Diego, CA | 10/17/2026 10:47:57 | Sponsorship: Past Sponsorship |
+| 59 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6a0e872d80bf0430c762d4ee) | KLA | Ann Arbor, MI | 10/17/2026 05:07:20 | Sponsorship: Not Sure |
+| 66 (Good) | [Integration & Test Engineer (Electrical Systems), Omen](https://jobright.ai/jobs/info/6ab69fb54873fd3fd852e24b) | Anduril Industries | Costa Mesa, CA | 10/17/2026 05:26:37 | Sponsorship: No |
+| 57 (Good) | [Product Engineer I](https://jobright.ai/jobs/info/6ac92bb3c3a8af9c54a09707) | Benchmark | Rochester, MN | 10/17/2026 05:30:42 | Sponsorship: Not Sure |
 | 35 (Possible) | [Electronic and Electrical Design and Analysis Engineer (Associate or Mid-Level)](https://jobright.ai/jobs/info/6ad2790f810010ec72f5848f) | Boeing | Dover, DE | 10/17/2026 06:14:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer 1](https://jobright.ai/jobs/info/6a7def150cd4a0703257c977) | Bartell Machinery Systems | Rome, NY | 10/17/2026 02:07:35 | Sponsorship: No |
 | 41 (Possible) | [Mechanical or Electrical Engineer I/II - Monticello, MN](https://jobright.ai/jobs/info/6ad26fc583ada13a9da05dac) | Xcel Energy | Monticello, MN | 10/17/2026 02:04:09 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-10-17 10:35:41Z UTC
 | 69 (Good) | [SRAM Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6acecc33bb78de94580d8299) | NVIDIA | Santa Clara, CA | 10/12/2026 00:25:47 | Sponsorship: Past Sponsorship |
 | 81 (Strong) | [ASIC Verification Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6aced82c70e50ec1b37f1f64) | NVIDIA | Santa Clara, CA | 10/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Hardware Verification Engineer, New College Graduate,](https://jobright.ai/jobs/info/6acea6624391691a335adf81) | Teradyne | North Reading, MA | 10/13/2026 05:00:00 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Electronics Hardware Engineer I](https://jobright.ai/jobs/info/6ace44e7680c80c8753bbb2f) | Accelevation | Sterling, VA | 10/13/2026 15:28:35 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer (I, II, or III)](https://jobright.ai/jobs/info/6aceac16ba99f15ef41264cb) | Space Tango | Lexington, KY | 10/13/2026 16:40:39 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ace9a6fba99f15ef4125e92) | Interstates | United States | 10/13/2026 20:54:07 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Electrical Engineer I - Test](https://jobright.ai/jobs/info/6ace4fe5680c80c8753bbeb7) | RTX | Tucson, AZ | 10/13/2026 21:19:53 | Security clearance language is present; Sponsorship: Past Sponsorship |
