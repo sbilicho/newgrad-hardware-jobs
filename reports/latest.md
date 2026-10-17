@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-17 16:58:40Z UTC
+Updated: 2026-10-17 19:20:23Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7f3f6dad9ff00c26bad3ea) | Smith Seckman Reid, Inc. | Nashville, TN | 10/17/2026 18:34:42 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [Digital Electronics Electrical Engineer I –Onsite](https://jobright.ai/jobs/info/6ac91cc7c3a8af9c54a092f2) | Raytheon | Tewksbury, MA | 10/17/2026 14:58:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electronics Engineer - E2](https://jobright.ai/jobs/info/6aabeca03e3ce93970c7ab56) | Lockheed Martin | Littleton, CO | 10/17/2026 08:44:35 | Sponsorship: No |
 | 45 (Possible) | [Hardware Engineer - E2](https://jobright.ai/jobs/info/6abc3349d6acfd3dd29fcb82) | Lockheed Martin | Boulder, CO | 10/17/2026 08:57:32 | Security clearance language is present; Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-10-17 16:58:40Z UTC
 | 35 (Possible) | [Design Engineer (New College Graduate)](https://jobright.ai/jobs/info/6acef5bfbb78de94580d8b01) | Diodes Incorporated | Milpitas, CA | 09/11/2026 00:52:35 | Sponsorship: Past Sponsorship |
 | 81 (Strong) | [ASIC Engineer, Design (University Grad)](https://jobright.ai/jobs/info/6acec7544f3229123da3e0e2) | Meta | Austin, TX | 10/09/2026 00:05:14 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [Low Power ASIC Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6acecc2c4f3229123da3e1eb) | NVIDIA | Santa Clara, CA | 10/12/2026 00:25:56 | Sponsorship: Past Sponsorship |
-| 88 (Strong) | [Entry Level ASIC/FPGA Design Verification Engineer](https://jobright.ai/jobs/info/6ace8ba24f3229123da3cd6b) | Boeing | El Segundo, CA | 10/13/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
