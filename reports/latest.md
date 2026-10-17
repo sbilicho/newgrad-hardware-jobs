@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-17 01:25:56Z UTC
+Updated: 2026-10-17 06:01:53Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Mechanical or Electrical Engineer I/II - Monticello, MN](https://jobright.ai/jobs/info/6ad26fc583ada13a9da05dac) | Xcel Energy | Monticello, MN | 10/17/2026 02:04:09 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Entry Level Electrical Engineer - Class of 2026/2027](https://jobright.ai/jobs/info/6ad3078383ada13a9da08b8a) | Amphenol | Santa Clara, CA | 10/16/2026 14:32:30 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Electrical Test Engineer I - Lunar Permanence](https://jobright.ai/jobs/info/6ad27b85f04335fc70ed5d13) | Blue Origin | Space Coast, Florida | 10/17/2026 01:14:30 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Signal Integrity Systems Engineer (Entry level to Senior)](https://jobright.ai/jobs/info/6ad2ccaf810010ec72f59e0a) | Molex | Lisle, IL | 10/17/2026 01:17:35 | Sponsorship: Past Sponsorship |
 | 61 (Good) | [Circuit Design Engineer](https://jobright.ai/jobs/info/6ad27a49810010ec72f584fb) | Intel | Folsom, CA | 10/16/2026 21:25:22 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-10-17 01:25:56Z UTC
 | 49 (Possible) | [Electrical Engineer I - Test](https://jobright.ai/jobs/info/6ace4fe5680c80c8753bbeb7) | RTX | Tucson, AZ | 10/13/2026 21:19:53 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aac9db0636cddf7396f49ab) | Affiliated Engineers, Inc. | Houston, TX | 10/13/2026 22:26:25 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6aceb5cdba99f15ef41268d9) | Legence | Long Beach, CA | 10/13/2026 10:00:00 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [Entry-Level Systems Test Engineer](https://jobright.ai/jobs/info/6acea22970e50ec1b37f1140) | Torch Technologies, Inc. | Huntsville, AL | 10/13/2026 22:58:17 | Sponsorship: Past Sponsorship |
-| 62 (Good) | [R&D Reliability/Test Engineer - June 2027 Grads](https://jobright.ai/jobs/info/6abc324f92b2612ef0f8d9ce) | Formlabs | Boston, MA | 10/13/2026 21:53:55 | Sponsorship: Past Sponsorship |
