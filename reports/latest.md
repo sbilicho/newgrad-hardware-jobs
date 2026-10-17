@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-17 06:01:53Z UTC
+Updated: 2026-10-17 10:35:41Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 35 (Possible) | [Electronic and Electrical Design and Analysis Engineer (Associate or Mid-Level)](https://jobright.ai/jobs/info/6ad2790f810010ec72f5848f) | Boeing | Dover, DE | 10/17/2026 06:14:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer 1](https://jobright.ai/jobs/info/6a7def150cd4a0703257c977) | Bartell Machinery Systems | Rome, NY | 10/17/2026 02:07:35 | Sponsorship: No |
 | 41 (Possible) | [Mechanical or Electrical Engineer I/II - Monticello, MN](https://jobright.ai/jobs/info/6ad26fc583ada13a9da05dac) | Xcel Energy | Monticello, MN | 10/17/2026 02:04:09 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical Engineer - Class of 2026/2027](https://jobright.ai/jobs/info/6ad3078383ada13a9da08b8a) | Amphenol | Santa Clara, CA | 10/16/2026 14:32:30 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Electrical Test Engineer I - Lunar Permanence](https://jobright.ai/jobs/info/6ad27b85f04335fc70ed5d13) | Blue Origin | Space Coast, Florida | 10/17/2026 01:14:30 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-10-17 06:01:53Z UTC
 | 48 (Possible) | [Electrical Engineer (I, II, or III)](https://jobright.ai/jobs/info/6aceac16ba99f15ef41264cb) | Space Tango | Lexington, KY | 10/13/2026 16:40:39 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ace9a6fba99f15ef4125e92) | Interstates | United States | 10/13/2026 20:54:07 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electrical Engineer I - Test](https://jobright.ai/jobs/info/6ace4fe5680c80c8753bbeb7) | RTX | Tucson, AZ | 10/13/2026 21:19:53 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aac9db0636cddf7396f49ab) | Affiliated Engineers, Inc. | Houston, TX | 10/13/2026 22:26:25 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6aceb5cdba99f15ef41268d9) | Legence | Long Beach, CA | 10/13/2026 10:00:00 | Sponsorship: Past Sponsorship |
