@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-18 01:28:09Z UTC
+Updated: 2026-10-18 06:31:41Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6ad432f5ebd52f378af8d5c1) | AECOM | Los Angeles, CA | 10/18/2026 02:28:59 | Sponsorship: Past Sponsorship |
 | 35 (Possible) | [Design Engineer (New College Graduate), 5195](https://jobright.ai/jobs/info/6ad41f1825289a0b3bf5c5b9) | Diodes Incorporated | Milpitas, CA | 10/17/2026 09:03:20 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aac8a712e757fcb5c8b5de5) | Carrier | Fort Wayne, IN | 10/17/2026 13:12:40 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7f3f6dad9ff00c26bad3ea) | Smith Seckman Reid, Inc. | Nashville, TN | 10/17/2026 18:34:42 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-18 01:28:09Z UTC
 | 48 (Possible) | [Software Engineer - Embedded Systems (Entry Level)](https://jobright.ai/jobs/info/6ab4468bef911c35dffa45f6) | Battelle | Columbus, OH | 09/14/2026 02:25:14 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I - Test Equipment Maintenance](https://jobright.ai/jobs/info/6ace4fe4bb78de94580d552a) | RTX | Andover, MA | 10/13/2026 21:22:17 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 56 (Good) | [Electronics Engineer I, Power Design](https://jobright.ai/jobs/info/6aceeeb84391691a335af16f) | Micro Control Company | Arden Hills, MN | 10/14/2026 02:53:44 | Sponsorship: Past Sponsorship |
-| 35 (Possible) | [Design Engineer (New College Graduate)](https://jobright.ai/jobs/info/6acef5bfbb78de94580d8b01) | Diodes Incorporated | Milpitas, CA | 09/11/2026 00:52:35 | Sponsorship: Past Sponsorship |
