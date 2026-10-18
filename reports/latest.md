@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-18 17:52:32Z UTC
+Updated: 2026-10-18 20:08:28Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 65 (Good) | [Analog Design Engineer](https://jobright.ai/jobs/info/6a5a3787856af468ab007460) | OMNIVISION | Irvine, CA | 10/18/2026 10:26:17 | Sponsorship: Not Sure |
 | 50 (Good) | [RF Engineer and Antenna Systems](https://jobright.ai/jobs/info/6aafc3006956574eac8ba3f4) | ITERRA | United States | 10/18/2026 05:19:38 | Sponsorship: No |
 | 62 (Good) | [Signal Integrity Systems Engineer (Entry level to Senior)](https://jobright.ai/jobs/info/6ad4873ef04335fc70edbc1b) | Koch Engineered Solutions | Lisle, IL | 10/18/2026 01:45:50 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6ad432f5ebd52f378af8d5c1) | AECOM | Los Angeles, CA | 10/18/2026 02:28:59 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-18 17:52:32Z UTC
 | 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6acfbe9912303667b989fe88) | P2S | Long Beach, CA | 10/14/2026 10:00:00 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Validation Engineer I](https://jobright.ai/jobs/info/6acfaabefe7a9bd5a6b993c8) | Alcami Corporation | Pepperell, MA | 10/14/2026 09:15:58 | Sponsorship: Not Sure |
 | 50 (Good) | [Integration & Test Engineer I](https://jobright.ai/jobs/info/6acfae89fe7a9bd5a6b994cc) | Rocket Lab | Long Beach, CA | 10/14/2026 09:32:09 | U.S. citizenship language is present; Sponsorship: No |
-| 48 (Possible) | [Software Engineer - Embedded Systems (Entry Level)](https://jobright.ai/jobs/info/6ab4468bef911c35dffa45f6) | Battelle | Columbus, OH | 09/14/2026 02:25:14 | Security clearance language is present; Sponsorship: Past Sponsorship |
