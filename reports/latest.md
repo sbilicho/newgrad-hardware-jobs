@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-18 22:29:06Z UTC
+Updated: 2026-10-19 00:28:51Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Controls Engineer I (Seattle, WA)](https://jobright.ai/jobs/info/6ad54ce283ada13a9da0dec9) | Enterprise Automation, A Tetra Tech Company | Irvine, CA | 10/18/2026 15:49:06 | Sponsorship: Not Sure |
 | 65 (Good) | [Analog Design Engineer](https://jobright.ai/jobs/info/6a5a3787856af468ab007460) | OMNIVISION | Irvine, CA | 10/18/2026 10:26:17 | Sponsorship: Not Sure |
 | 50 (Good) | [RF Engineer and Antenna Systems](https://jobright.ai/jobs/info/6aafc3006956574eac8ba3f4) | ITERRA | United States | 10/18/2026 05:19:38 | Sponsorship: No |
 | 62 (Good) | [Signal Integrity Systems Engineer (Entry level to Senior)](https://jobright.ai/jobs/info/6ad4873ef04335fc70edbc1b) | Koch Engineered Solutions | Lisle, IL | 10/18/2026 01:45:50 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-18 22:29:06Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6acf933efe7a9bd5a6b98b89) | CRB | Denver, CO | 10/14/2026 14:35:42 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6acfbe9912303667b989fe88) | P2S | Long Beach, CA | 10/14/2026 10:00:00 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Validation Engineer I](https://jobright.ai/jobs/info/6acfaabefe7a9bd5a6b993c8) | Alcami Corporation | Pepperell, MA | 10/14/2026 09:15:58 | Sponsorship: Not Sure |
-| 50 (Good) | [Integration & Test Engineer I](https://jobright.ai/jobs/info/6acfae89fe7a9bd5a6b994cc) | Rocket Lab | Long Beach, CA | 10/14/2026 09:32:09 | U.S. citizenship language is present; Sponsorship: No |
