@@ -1,9 +1,17 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-19 10:58:56Z UTC
+Updated: 2026-10-19 17:27:50Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 62 (Good) | [Embedded Firmware Engineer, Hardware Bring-up & Controls](https://jobs.ashbyhq.com/voyant-photonics/ceb6f734-a027-48f9-89f7-5e9ea95e9fd8) | Voyant Photonics | New York Office (HQ) | 10/19/2026 14:01:54 |  |
+| 35 (Possible) | [Electronic and Electrical Design and Analysis Engineer (Associate or Mid-Level)](https://jobright.ai/jobs/info/6ad61f5067bec1d0d9c6b43b) | Boeing | Dover, DE | 10/19/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I-III](https://jobright.ai/jobs/info/6ad637e6950ef68d51837253) | Modular Power & Data | United States | 10/19/2026 10:29:55 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Submarine Power Plant Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6ad1738618608b6f36f8426c) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [Equipment Validation Engineer](https://jobright.ai/jobs/info/6ad61b9f950ef68d51836239) | Virtue America | Minnesota State | 10/19/2026 13:31:11 | Sponsorship: Past Sponsorship |
+| 81 (Strong) | [Entry Level DFT Design Engineer](https://jobright.ai/jobs/info/6ad64e46e4b94611ab83d271) | NXP Semiconductors | Austin, TX | 10/19/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Entry Level Test Engineer - M&W](https://jobright.ai/jobs/info/6ad62e2954bbabbab06f5281) | TRAX International Corporation | Yuma, AZ | 10/19/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 72 (Strong) | [New College Grad - Engineer - HBM Design for Test (DFT)](https://jobright.ai/jobs/info/6ad6148e67bec1d0d9c6b01a) | Micron Technology | Richardson, TX | 10/19/2026 13:01:02 | Sponsorship: Past Sponsorship |
 | 82 (Strong) | [Analog Mixed Signal Firmware Engineer](https://jobright.ai/jobs/info/6ad5f402e4b94611ab839960) | Dice | Cupertino, CA | 10/19/2026 10:42:10 | Sponsorship: Past Sponsorship |
 | 32 (Possible) | [VLSI Engineer I -](https://jobright.ai/jobs/info/6ad57b00810010ec72f60611) | Hewlett Packard Enterprise | Roseville, CA | 10/18/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Entry Level Electrical Design Engineer (University of Michigan 2026)](https://jobright.ai/jobs/info/6ad5c26c950ef68d51830d64) | DMC Engineering | Chicago, IL | 10/19/2026 07:10:36 | Sponsorship: Past Sponsorship |
@@ -96,11 +104,3 @@ Updated: 2026-10-19 10:58:56Z UTC
 | 59 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA)](https://jobright.ai/jobs/info/6ad02616c9f40bec907ffe60) | Teradyne | North Reading, MA | 10/14/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Site Reliability Engineer I (Full Time) — United States](https://jobright.ai/jobs/info/6acfffbdfe7a9bd5a6b9b270) | Cisco | San Jose, CA | 10/14/2026 22:18:37 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad00f4cfe7a9bd5a6b9b80b) | Safran | Brea, CA | 10/14/2026 20:24:51 | Sponsorship: Past Sponsorship |
-| 75 (Strong) | [Electrical Engineer – ASIC Test & Validation](https://jobright.ai/jobs/info/6acfc964fe7a9bd5a6b99fe6) | Avicena Tech | Sunnyvale, CA | 10/14/2026 16:26:17 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [Hardware Design Engineer 1 (SILICON DESIGN ENGINEER)](https://jobright.ai/jobs/info/6acfed8478d51ae69ce08f69) | Sunrise Systems, Inc. | Santa Clara, CA | 10/14/2026 19:00:10 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer / Sales Engineer - Machinery Industry](https://jobright.ai/jobs/info/6acfd42812303667b98a083f) | Activ8 Recruitment & Solutions | Florence, KY | 10/14/2026 19:12:40 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6acfe55a2cc4e9d17e90b015) | Zone 5 Technologies | San Luis Obispo, CA | 10/14/2026 20:26:02 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Facilities Electrical Engineer I - Early Career](https://jobright.ai/jobs/info/6acfebdf12303667b98a1158) | Seagate Technology | Bloomington, MN | 10/14/2026 21:19:35 | Sponsorship: Past Sponsorship |
-| 73 (Strong) | [Wireless RTL Design Engineer](https://jobright.ai/jobs/info/6acfe668fe7a9bd5a6b9a916) | Apple | Irvine, CA; San Diego, CA; Sunnyvale, CA | 10/14/2026 13:30:32 | Sponsorship: Not Sure |
-| 55 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6acf9148c0dd9da253cf33ec) | Motorola Solutions | Greater Chicago Area | 10/14/2026 19:56:20 | Sponsorship: Past Sponsorship |
-| 92 (Strong) | [Digital Design Engineer (New Grad / Entry-Level) – ASIC Design Services](https://jobright.ai/jobs/info/6acfcf5d2cc4e9d17e90a9ba) | VeriSilicon Holdings Co., Ltd. | San Jose, CA | 10/14/2026 18:52:13 | Sponsorship: Past Sponsorship |
