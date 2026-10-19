@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-19 17:27:50Z UTC
+Updated: 2026-10-19 21:44:09Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I (Distribution Standards)](https://jobright.ai/jobs/info/6ad66906e4b94611ab83e712) | Liberty | Joplin, MO | 10/19/2026 19:01:26 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Entry Level Electrical Engineer -  #26-26510](https://jobright.ai/jobs/info/6ad68c2d950ef68d5183b304) | US Tech Solutions | Tempe, AZ | 10/19/2026 21:31:25 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Entry level Electrical Engineer](https://jobright.ai/jobs/info/6ad68c4054bbabbab06f984b) | HireTalent | Mankato, MN | 10/19/2026 21:31:44 | Sponsorship: Past Sponsorship |
+| 56 (Good) | [Electrical Validation Engineer](https://jobright.ai/jobs/info/6a543709d007ee02d95fe118) | ZT Systems | Georgetown, TX | 10/19/2026 14:38:32 | Sponsorship: Past Sponsorship |
+| 79 (Strong) | [Design-for-Test (DFT) Engineer – High-Performance CPU (New Grad)](https://jobright.ai/jobs/info/6ad68b4b54bbabbab06f97e0) | MediaTek | Austin, TX | 10/19/2026 21:27:39 | Sponsorship: Past Sponsorship |
+| 53 (Good) | [Power Electronics Engineer I](https://jobright.ai/jobs/info/6ad6584767bec1d0d9c6dd18) | NASA Jet Propulsion Laboratory | Pasadena, CA | 10/19/2026 12:44:37 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Embedded Firmware Engineer, Hardware Bring-up & Controls](https://jobs.ashbyhq.com/voyant-photonics/ceb6f734-a027-48f9-89f7-5e9ea95e9fd8) | Voyant Photonics | New York Office (HQ) | 10/19/2026 14:01:54 |  |
 | 35 (Possible) | [Electronic and Electrical Design and Analysis Engineer (Associate or Mid-Level)](https://jobright.ai/jobs/info/6ad61f5067bec1d0d9c6b43b) | Boeing | Dover, DE | 10/19/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I-III](https://jobright.ai/jobs/info/6ad637e6950ef68d51837253) | Modular Power & Data | United States | 10/19/2026 10:29:55 | Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-10-19 17:27:50Z UTC
 | 32 (Possible) | [VLSI Engineer I - 0T1191](https://jobright.ai/jobs/info/6ad036702cc4e9d17e90c736) | Hewlett Packard Enterprise | Sunnyvale, CA | 10/15/2026 04:36:59 | Sponsorship: Past Sponsorship |
 | 34 (Possible) | [AI GPU Power Architect - New College Grad 2026](https://jobright.ai/jobs/info/6aa5d62ea77a53f5a15721a9) | NVIDIA | Santa Clara, CA | 10/15/2026 00:28:02 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Controls Engineer I (Nights),](https://jobright.ai/jobs/info/6ad083b7c8ae22bb47ef6f3c) | Baxter International Inc. | Marion, NC | 10/15/2026 00:41:43 | Sponsorship: No |
-| 67 (Good) | [Early Career R&D Embedded Firmware & Hardware Engineer, Onsite](https://jobright.ai/jobs/info/6ad047fafe4980b99fedc031) | Sandia National Laboratories | Albuquerque, NM | 10/14/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I - (Onsite)](https://jobright.ai/jobs/info/6acfdfb8c9f40bec907fe89a) | RTX | Tucson, AZ | 10/14/2026 22:30:10 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6ad03aecc9f40bec908003a3) | P2S | Long Beach, CA | 10/14/2026 10:00:00 | Sponsorship: Past Sponsorship |
-| 59 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA)](https://jobright.ai/jobs/info/6ad02616c9f40bec907ffe60) | Teradyne | North Reading, MA | 10/14/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Site Reliability Engineer I (Full Time) — United States](https://jobright.ai/jobs/info/6acfffbdfe7a9bd5a6b9b270) | Cisco | San Jose, CA | 10/14/2026 22:18:37 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad00f4cfe7a9bd5a6b9b80b) | Safran | Brea, CA | 10/14/2026 20:24:51 | Sponsorship: Past Sponsorship |
