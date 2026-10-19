@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-19 21:44:09Z UTC
+Updated: 2026-10-19 23:54:46Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6ad6aa7f52aa6152bb697a8b) | HireTalent | La Crosse, WI | 10/19/2026 21:40:14 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ad69138e4b94611ab840397) | HireTalent | Ashland, WI | 10/19/2026 21:52:56 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I (Distribution Standards)](https://jobright.ai/jobs/info/6ad66906e4b94611ab83e712) | Liberty | Joplin, MO | 10/19/2026 19:01:26 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry Level Electrical Engineer -  #26-26510](https://jobright.ai/jobs/info/6ad68c2d950ef68d5183b304) | US Tech Solutions | Tempe, AZ | 10/19/2026 21:31:25 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry level Electrical Engineer](https://jobright.ai/jobs/info/6ad68c4054bbabbab06f984b) | HireTalent | Mankato, MN | 10/19/2026 21:31:44 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-10-19 21:44:09Z UTC
 | 37 (Possible) | [Electrical Engineer, Maritime](https://boards.greenhouse.io/andurilindustries/jobs/5266303007?gh_jid=5266303007) | Anduril Industries | Boston, Massachusetts, United States; Quincy, Massachusetts, United States | 10/15/2026 11:41:28 | Security clearance language is present |
 | 46 (Possible) | [Electrical Hardware Engineer I - 0T1011](https://jobright.ai/jobs/info/6ad046211db1f75ea469f9e7) | Hewlett Packard Enterprise | Sunnyvale, CA | 10/15/2026 04:37:37 | Sponsorship: Past Sponsorship |
 | 32 (Possible) | [VLSI Engineer I - 0T1191](https://jobright.ai/jobs/info/6ad036702cc4e9d17e90c736) | Hewlett Packard Enterprise | Sunnyvale, CA | 10/15/2026 04:36:59 | Sponsorship: Past Sponsorship |
-| 34 (Possible) | [AI GPU Power Architect - New College Grad 2026](https://jobright.ai/jobs/info/6aa5d62ea77a53f5a15721a9) | NVIDIA | Santa Clara, CA | 10/15/2026 00:28:02 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Controls Engineer I (Nights),](https://jobright.ai/jobs/info/6ad083b7c8ae22bb47ef6f3c) | Baxter International Inc. | Marion, NC | 10/15/2026 00:41:43 | Sponsorship: No |
