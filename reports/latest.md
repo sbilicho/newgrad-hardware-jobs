@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-19 05:17:44Z UTC
+Updated: 2026-10-19 10:58:56Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 82 (Strong) | [Analog Mixed Signal Firmware Engineer](https://jobright.ai/jobs/info/6ad5f402e4b94611ab839960) | Dice | Cupertino, CA | 10/19/2026 10:42:10 | Sponsorship: Past Sponsorship |
+| 32 (Possible) | [VLSI Engineer I -](https://jobright.ai/jobs/info/6ad57b00810010ec72f60611) | Hewlett Packard Enterprise | Roseville, CA | 10/18/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Entry Level Electrical Design Engineer (University of Michigan 2026)](https://jobright.ai/jobs/info/6ad5c26c950ef68d51830d64) | DMC Engineering | Chicago, IL | 10/19/2026 07:10:36 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Test Engineer I](https://jobright.ai/jobs/info/6ad5d39ce4b94611ab837233) | Deel | Lakewood, NJ | 10/18/2026 22:00:00 | Sponsorship: Not Sure |
 | 37 (Possible) | [Controls Engineer I (Seattle, WA)](https://jobright.ai/jobs/info/6ad54ce283ada13a9da0dec9) | Enterprise Automation, A Tetra Tech Company | Irvine, CA | 10/18/2026 15:49:06 | Sponsorship: Not Sure |
 | 65 (Good) | [Analog Design Engineer](https://jobright.ai/jobs/info/6a5a3787856af468ab007460) | OMNIVISION | Irvine, CA | 10/18/2026 10:26:17 | Sponsorship: Not Sure |
 | 50 (Good) | [RF Engineer and Antenna Systems](https://jobright.ai/jobs/info/6aafc3006956574eac8ba3f4) | ITERRA | United States | 10/18/2026 05:19:38 | Sponsorship: No |
@@ -100,7 +104,3 @@ Updated: 2026-10-19 05:17:44Z UTC
 | 73 (Strong) | [Wireless RTL Design Engineer](https://jobright.ai/jobs/info/6acfe668fe7a9bd5a6b9a916) | Apple | Irvine, CA; San Diego, CA; Sunnyvale, CA | 10/14/2026 13:30:32 | Sponsorship: Not Sure |
 | 55 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6acf9148c0dd9da253cf33ec) | Motorola Solutions | Greater Chicago Area | 10/14/2026 19:56:20 | Sponsorship: Past Sponsorship |
 | 92 (Strong) | [Digital Design Engineer (New Grad / Entry-Level) – ASIC Design Services](https://jobright.ai/jobs/info/6acfcf5d2cc4e9d17e90a9ba) | VeriSilicon Holdings Co., Ltd. | San Jose, CA | 10/14/2026 18:52:13 | Sponsorship: Past Sponsorship |
-| 82 (Strong) | [CPU Validation Engineer](https://jobright.ai/jobs/info/6acfbec3c9f40bec907fdcc3) | Intel | Austin, TX | 10/14/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6acf933efe7a9bd5a6b98b89) | CRB | Denver, CO | 10/14/2026 14:35:42 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6acfbe9912303667b989fe88) | P2S | Long Beach, CA | 10/14/2026 10:00:00 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Validation Engineer I](https://jobright.ai/jobs/info/6acfaabefe7a9bd5a6b993c8) | Alcami Corporation | Pepperell, MA | 10/14/2026 09:15:58 | Sponsorship: Not Sure |
