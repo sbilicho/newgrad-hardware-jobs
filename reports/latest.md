@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-20 13:53:23Z UTC
+Updated: 2026-10-20 15:17:46Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad77de03dc655658d8ecb5c) | Plasma-Therm | St. Petersburg, FL | 10/20/2026 14:42:40 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer (Entry Level – EIT)](https://jobright.ai/jobs/info/6ad77f103dc655658d8eccc8) | CONFLUX SYSTEMS | Moncks Corner, SC | 10/20/2026 14:47:44 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Controls Engineer](https://jobright.ai/jobs/info/6abadad8ee0b348be729be75) | Brooks Automation | Chelmsford, MA | 10/20/2026 06:29:59 | Sponsorship: Not Sure |
 | 40 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (January 2027)](https://jobright.ai/jobs/info/6ad7709554bbabbab06fe685) | Sargent & Lundy | Farmington Hills, MI | 10/20/2026 13:45:57 | Sponsorship: Past Sponsorship |
 | 32 (Possible) | [VLSI Engineer I -](https://jobright.ai/jobs/info/6ad58518ebd52f378af9007d) | Hewlett Packard Enterprise | Roseville, CA | 10/19/2026 23:28:09 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Assistant Electrical Engineer](https://jobright.ai/jobs/info/6ad7599867bec1d0d9c748cd) | Metropolitan Transportation Authority | Brooklyn, NY | 10/20/2026 05:07:52 | Sponsorship: Not Sure |
@@ -101,6 +104,3 @@ Updated: 2026-10-20 13:53:23Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad0e3d8a4f99fef8193ff1b) | CRB | Kansas City, MO | 10/15/2026 14:31:51 | Sponsorship: Past Sponsorship |
 | 58 (Good) | [Production Hardware - Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aab1e72f6bd9d2d17c1b998) | Raytheon | Tucson, AZ | 10/15/2026 16:26:22 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ad0fc9aae21edea94fd267f) | Haag, a Salas O'Brien Company | Richmond, VA | 10/15/2026 16:17:30 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I - (30)](https://jobright.ai/jobs/info/6ad116b718608b6f36f814c8) | Beardsley Architects + Engineers | Auburn, NY | 10/15/2026 18:08:55 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6ad0f9aee2d41540d4a6ce15) | Cummins Inc. | Whitakers, NC | 10/15/2026 16:05:02 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - Kiewit Industrial & Water Engineering Job Details \| Kiewit](https://jobright.ai/jobs/info/6ad107cfa4f99fef8194134b) | Kiewit | Lone Tree, CO | 10/15/2026 10:05:19 | Sponsorship: Not Sure |
