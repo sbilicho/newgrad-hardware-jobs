@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-20 02:49:12Z UTC
+Updated: 2026-10-20 04:11:26Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Reliability Engineer M-F  ($5,000 Sign-on Bonus )](https://jobright.ai/jobs/info/6ad6ad2c52aa6152bb697b78) | Mars | Tomah, WI | 10/19/2026 20:06:01 | Sponsorship: Not Sure |
 | 54 (Good) | [Electrical Engineer - EOSL-Open Rank (Entry-Junior Level)](https://jobright.ai/jobs/info/6ad6d4e852aa6152bb698954) | Georgia Tech Research Institute | Atlanta, GA | 10/20/2026 02:41:44 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Flight Test Engineer - Camera Quality](https://jobright.ai/jobs/info/6ad6a959e4b94611ab8410f9) | Skydio | San Mateo, CA | 10/19/2026 16:35:53 | Sponsorship: Not Sure |
 | 41 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6ad6aa7f52aa6152bb697a8b) | HireTalent | La Crosse, WI | 10/19/2026 21:40:14 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-20 02:49:12Z UTC
 | 32 (Possible) | [Senior Electrical Engineer I - Marine Operations](https://jobright.ai/jobs/info/6ad0cfe8e2d41540d4a6bcd0) | Rocket Lab | Middle River, MD | 10/15/2026 13:06:48 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6ad083d9c8ae22bb47ef6f40) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 10/15/2026 07:42:17 | Sponsorship: Past Sponsorship |
 | 64 (Good) | [New College Grad - Embedded Firmware Engineer](https://jobright.ai/jobs/info/6acfdb0f12303667b98a09ed) | Micron Technology | Boise, ID | 10/15/2026 12:26:57 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer, Maritime](https://boards.greenhouse.io/andurilindustries/jobs/5266303007?gh_jid=5266303007) | Anduril Industries | Boston, Massachusetts, United States; Quincy, Massachusetts, United States | 10/15/2026 11:41:28 | Security clearance language is present |
