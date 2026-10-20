@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-20 10:04:16Z UTC
+Updated: 2026-10-20 13:53:23Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (January 2027)](https://jobright.ai/jobs/info/6ad7709554bbabbab06fe685) | Sargent & Lundy | Farmington Hills, MI | 10/20/2026 13:45:57 | Sponsorship: Past Sponsorship |
+| 32 (Possible) | [VLSI Engineer I -](https://jobright.ai/jobs/info/6ad58518ebd52f378af9007d) | Hewlett Packard Enterprise | Roseville, CA | 10/19/2026 23:28:09 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Assistant Electrical Engineer](https://jobright.ai/jobs/info/6ad7599867bec1d0d9c748cd) | Metropolitan Transportation Authority | Brooklyn, NY | 10/20/2026 05:07:52 | Sponsorship: Not Sure |
+| 60 (Good) | [Signal Integrity Engineer](https://jobright.ai/jobs/info/6ad768f354bbabbab06fe2b2) | Pure Storage | Santa Clara, CA | 10/20/2026 06:13:23 | Sponsorship: Not Sure |
 | 46 (Possible) | [Reliability Engineer M-F  ($5,000 Sign-on Bonus )](https://jobright.ai/jobs/info/6ad6ad2c52aa6152bb697b78) | Mars | Tomah, WI | 10/19/2026 20:06:01 | Sponsorship: Not Sure |
 | 54 (Good) | [Electrical Engineer - EOSL-Open Rank (Entry-Junior Level)](https://jobright.ai/jobs/info/6ad6d4e852aa6152bb698954) | Georgia Tech Research Institute | Atlanta, GA | 10/20/2026 02:41:44 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Flight Test Engineer - Camera Quality](https://jobright.ai/jobs/info/6ad6a959e4b94611ab8410f9) | Skydio | San Mateo, CA | 10/19/2026 16:35:53 | Sponsorship: Not Sure |
@@ -100,7 +104,3 @@ Updated: 2026-10-20 10:04:16Z UTC
 | 37 (Possible) | [Electrical Engineer I - (30)](https://jobright.ai/jobs/info/6ad116b718608b6f36f814c8) | Beardsley Architects + Engineers | Auburn, NY | 10/15/2026 18:08:55 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6ad0f9aee2d41540d4a6ce15) | Cummins Inc. | Whitakers, NC | 10/15/2026 16:05:02 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - Kiewit Industrial & Water Engineering Job Details \| Kiewit](https://jobright.ai/jobs/info/6ad107cfa4f99fef8194134b) | Kiewit | Lone Tree, CO | 10/15/2026 10:05:19 | Sponsorship: Not Sure |
-| 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ab43aaad2f5fbd604be242c) | RTX | Cedar Rapids, IA | 10/15/2026 09:39:04 | Sponsorship: Past Sponsorship |
-| 32 (Possible) | [Senior Electrical Engineer I - Marine Operations](https://jobright.ai/jobs/info/6ad0cfe8e2d41540d4a6bcd0) | Rocket Lab | Middle River, MD | 10/15/2026 13:06:48 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6ad083d9c8ae22bb47ef6f40) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 10/15/2026 07:42:17 | Sponsorship: Past Sponsorship |
-| 64 (Good) | [New College Grad - Embedded Firmware Engineer](https://jobright.ai/jobs/info/6acfdb0f12303667b98a09ed) | Micron Technology | Boise, ID | 10/15/2026 12:26:57 | Sponsorship: Past Sponsorship |
