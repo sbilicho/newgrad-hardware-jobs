@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-20 19:24:55Z UTC
+Updated: 2026-10-20 22:32:43Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 32 (Possible) | [Electronic Engineer I](https://jobright.ai/jobs/info/6ac4114d372c01f6cd733d4d) | Advanced Energy | Fort Collins, CO | 10/20/2026 22:19:33 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I - Decatur, IL](https://jobright.ai/jobs/info/6ad7eb963dc655658d8f19c2) | ADM | Decatur, IL | 10/20/2026 22:30:46 | Sponsorship: Past Sponsorship |
+| 75 (Strong) | [Hardware Verification Engineer, New College Graduate,](https://jobright.ai/jobs/info/6ad7e2cae4b94611ab849e7b) | Teradyne | Agoura Hills, CA | 10/20/2026 05:00:00 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Product Development Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ad79f793dc655658d8ee2d8) | RTX | Tucson, AZ | 10/20/2026 14:19:50 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer, Hardware Reliability (Build Reliability)](https://boards.greenhouse.io/spacex/jobs/8903622002?gh_jid=8903622002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 10/20/2026 18:21:24 |  |
 | 45 (Possible) | [Entry Level IBM Z Engineering System Test Hardware Engineer - Poughkeepsie, NY - 2027](https://jobright.ai/jobs/info/6ad7b5aa67bec1d0d9c781ae) | IBM | Poughkeepsie, NY | 10/20/2026 18:40:42 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5265435007?gh_jid=5265435007) | Anduril Industries | Quincy, Massachusetts, United States | 10/20/2026 17:06:18 | Security clearance language is present |
@@ -100,7 +104,3 @@ Updated: 2026-10-20 19:24:55Z UTC
 | 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6ad150c8256e49282e6545d9) | Haag, a Salas O'Brien Company | Oakland, CA | 10/15/2026 22:16:40 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Firmware Engineer - New Graduate (University of Washington)](https://jobright.ai/jobs/info/6ad14e27e2d41540d4a6fd1a) | LITEON Careers - U.S. | Seattle, WA | 10/15/2026 23:25:32 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6ad0cee818608b6f36f7f0f4) | New York Power Authority | Astoria, OR | 10/15/2026 19:40:55 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6ad143da3d3a5aa909b39323) | Salas O'Brien | Oakland, CA | 10/15/2026 21:21:30 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Electrical Engineer - New Graduate (University of Washington)](https://jobright.ai/jobs/info/6ad145deae21edea94fd4fe1) | LITEON Careers - U.S. | Seattle, WA | 10/15/2026 21:30:06 | Sponsorship: Past Sponsorship |
-| 55 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6accc59addd23cce28a0f44a) | Leonardo DRS | Melbourne, FL | 10/15/2026 19:01:58 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 68 (Good) | [Validation Engineer](https://jobright.ai/jobs/info/6ad134a5256e49282e6536c8) | Renesas Electronics | Duluth, GA | 10/15/2026 20:16:37 | Sponsorship: Past Sponsorship |
