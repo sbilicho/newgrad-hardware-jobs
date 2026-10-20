@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-20 17:53:17Z UTC
+Updated: 2026-10-20 19:24:55Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 48 (Possible) | [Electrical Engineer, Hardware Reliability (Build Reliability)](https://boards.greenhouse.io/spacex/jobs/8903622002?gh_jid=8903622002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 10/20/2026 18:21:24 |  |
+| 45 (Possible) | [Entry Level IBM Z Engineering System Test Hardware Engineer - Poughkeepsie, NY - 2027](https://jobright.ai/jobs/info/6ad7b5aa67bec1d0d9c781ae) | IBM | Poughkeepsie, NY | 10/20/2026 18:40:42 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5265435007?gh_jid=5265435007) | Anduril Industries | Quincy, Massachusetts, United States | 10/20/2026 17:06:18 | Security clearance language is present |
 | 86 (Strong) | [Digital Design Engineer (FF - 64000927)](https://jobright.ai/jobs/info/6ac50e4c372c01f6cd737437) | Cirrus Logic | Austin, TX | 10/20/2026 16:29:07 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad789ae54bbabbab06ff5d9) | Twenty-Six Defense | Talladega, AL | 10/20/2026 15:29:20 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-10-20 17:53:17Z UTC
 | 45 (Possible) | [Electrical Engineer - New Graduate (University of Washington)](https://jobright.ai/jobs/info/6ad145deae21edea94fd4fe1) | LITEON Careers - U.S. | Seattle, WA | 10/15/2026 21:30:06 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6accc59addd23cce28a0f44a) | Leonardo DRS | Melbourne, FL | 10/15/2026 19:01:58 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 68 (Good) | [Validation Engineer](https://jobright.ai/jobs/info/6ad134a5256e49282e6536c8) | Renesas Electronics | Duluth, GA | 10/15/2026 20:16:37 | Sponsorship: Past Sponsorship |
-| 81 (Strong) | [Microarchitecture and Design Engineer - AI SoC](https://jobright.ai/jobs/info/6ad12959e2d41540d4a6eb9e) | Intel | Santa Clara, CA | 10/15/2026 20:13:59 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ad0f009ae21edea94fd2166) | Salas O'Brien | Richmond, VA | 10/15/2026 15:00:58 | Sponsorship: Past Sponsorship |
