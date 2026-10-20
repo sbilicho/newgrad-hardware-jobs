@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-20 15:17:46Z UTC
+Updated: 2026-10-20 17:53:17Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5265435007?gh_jid=5265435007) | Anduril Industries | Quincy, Massachusetts, United States | 10/20/2026 17:06:18 | Security clearance language is present |
+| 86 (Strong) | [Digital Design Engineer (FF - 64000927)](https://jobright.ai/jobs/info/6ac50e4c372c01f6cd737437) | Cirrus Logic | Austin, TX | 10/20/2026 16:29:07 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad789ae54bbabbab06ff5d9) | Twenty-Six Defense | Talladega, AL | 10/20/2026 15:29:20 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Hardware Engineer 1](https://jobright.ai/jobs/info/6ad79ca854bbabbab0700394) | Dell Technologies | Austin, TX | 10/20/2026 16:54:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad77de03dc655658d8ecb5c) | Plasma-Therm | St. Petersburg, FL | 10/20/2026 14:42:40 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer (Entry Level – EIT)](https://jobright.ai/jobs/info/6ad77f103dc655658d8eccc8) | CONFLUX SYSTEMS | Moncks Corner, SC | 10/20/2026 14:47:44 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Controls Engineer](https://jobright.ai/jobs/info/6abadad8ee0b348be729be75) | Brooks Automation | Chelmsford, MA | 10/20/2026 06:29:59 | Sponsorship: Not Sure |
@@ -100,7 +104,3 @@ Updated: 2026-10-20 15:17:46Z UTC
 | 68 (Good) | [Validation Engineer](https://jobright.ai/jobs/info/6ad134a5256e49282e6536c8) | Renesas Electronics | Duluth, GA | 10/15/2026 20:16:37 | Sponsorship: Past Sponsorship |
 | 81 (Strong) | [Microarchitecture and Design Engineer - AI SoC](https://jobright.ai/jobs/info/6ad12959e2d41540d4a6eb9e) | Intel | Santa Clara, CA | 10/15/2026 20:13:59 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ad0f009ae21edea94fd2166) | Salas O'Brien | Richmond, VA | 10/15/2026 15:00:58 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ad0e6423d3a5aa909b36139) | Haag, a Salas O'Brien Company | New York, NY | 10/15/2026 14:42:10 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad0e3d8a4f99fef8193ff1b) | CRB | Kansas City, MO | 10/15/2026 14:31:51 | Sponsorship: Past Sponsorship |
-| 58 (Good) | [Production Hardware - Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6aab1e72f6bd9d2d17c1b998) | Raytheon | Tucson, AZ | 10/15/2026 16:26:22 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ad0fc9aae21edea94fd267f) | Haag, a Salas O'Brien Company | Richmond, VA | 10/15/2026 16:17:30 | Sponsorship: Past Sponsorship |
