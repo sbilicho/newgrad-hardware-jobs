@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-21 13:41:40Z UTC
+Updated: 2026-10-21 15:40:11Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 35 (Possible) | [Electronic and Electrical Design and Analysis Engineer (Associate or Mid-Level)](https://jobright.ai/jobs/info/6ad8cdef67bec1d0d9c7f7cf) | Boeing | Jackson, MS | 10/21/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad8c5b4b0725dc268dd5b0e) | Goddard | Wilmington, MA | 10/21/2026 14:01:24 | Sponsorship: Past Sponsorship |
+| 88 (Strong) | [Entry Level ASIC/FPGA Design Verification Engineer](https://jobright.ai/jobs/info/6ad8cdf267bec1d0d9c7f7d3) | Boeing | El Segundo, CA | 10/21/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electrical Engineer I - Test](https://jobright.ai/jobs/info/6ad8beb3e4b94611ab84ec50) | RTX | Tucson, AZ | 10/21/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Entry Level Test Engineer - M&W](https://jobright.ai/jobs/info/6ad7dea367bec1d0d9c79f98) | TRAX International Corporation | Yuma, AZ | 10/20/2026 21:35:31 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 57 (Good) | [Product Engineer I](https://jobright.ai/jobs/info/6ab3e2850e0ae54eeea452e1) | Benchmark | Winona, MN | 10/21/2026 05:45:27 | Sponsorship: Not Sure |
@@ -101,6 +104,3 @@ Updated: 2026-10-21 13:41:40Z UTC
 | 37 (Possible) | [Collierville, TN - Electrical Engineer (I,II,III,IV)](https://jobright.ai/jobs/info/6ad24646c4290cef14129a58) | DDS Companies | Collierville, TN | 10/16/2026 13:42:40 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Analog & Power Design Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6accfaed3c831dc4086bfe49) | RTX | Marlborough, MA | 10/16/2026 14:54:21 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 62 (Good) | [Silicon Photonics Test Development Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ad24f78c4290cef14129fa8) | GlobalFoundries | Essex Junction, VT | 10/16/2026 16:23:20 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Collierville, TN - Electrical Engineer (I,II,III,IV)](https://jobright.ai/jobs/info/6ad2150225289a0b3bf54003) | Artera Services | Collierville, TN | 10/16/2026 12:13:54 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Associate Electrical Engineer](https://jobright.ai/jobs/info/6ad207d3c4290cef14127eca) | Tech Verses | United States | 10/16/2026 04:17:39 | Sponsorship: Not Sure |
-| 60 (Good) | [Mechanical Hardware Test & Validation Engineer (All Levels)](https://jobright.ai/jobs/info/6ab59958634ec6aa7c0d0576) | ALSO. | Palo Alto, CA | 10/16/2026 04:11:55 | Sponsorship: Not Sure |
