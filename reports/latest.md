@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-21 17:41:03Z UTC
+Updated: 2026-10-21 19:41:45Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer - Level DOE (E&I Maintenance) (DGC)](https://jobright.ai/jobs/info/6a9fcacb68f82b403673dc82) | Basin Electric Power Cooperative | Beulah, ND | 10/21/2026 15:36:38 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer I – Early Career & New Graduate Rotation (2027 Starts)](https://jobright.ai/jobs/info/6ad340c7810010ec72f5b6c1) | Blue Origin | Greater Seattle Area | 10/21/2026 16:13:17 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ad9054f950ef68d5184cd41) | Matrix Technologies, Inc. | Overland Park, KS | 10/21/2026 11:32:47 | Sponsorship: No |
 | 42 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6ad8f221b0725dc268dd776b) | Cummins Inc. | Columbus, IN | 10/21/2026 17:10:57 | Sponsorship: Past Sponsorship |
 | 88 (Strong) | [Entry Level ASIC/FPGA Design Verification Engineer](https://jobright.ai/jobs/info/6ad8eb19950ef68d5184b6e2) | Boeing | El Segundo, CA | 10/21/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Associate Digital Hardware Engineer (Comms/TVI)](https://jobright.ai/jobs/info/6aa078badbc0e60e37e0debc) | Thales Defense & Security, Inc. | Germantown, TN; Clarksburg, MD | 10/21/2026 09:07:09 | U.S. citizenship language is present; Sponsorship: No |
@@ -101,6 +104,3 @@ Updated: 2026-10-21 17:41:03Z UTC
 | 50 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6ad21eeb25289a0b3bf543a5) | Moog Inc. | Blacksburg, VA | 10/16/2026 08:45:53 | Sponsorship: Not Sure |
 | 40 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6acd48b6ddd23cce28a11a24) | RTX | Plano, TX; McKinney, TX | 10/16/2026 08:47:18 | Security clearance language is present; Sponsorship: No |
 | 51 (Good) | [Analog & Power Electronics Engineer I](https://jobright.ai/jobs/info/6a99e1c490a313642c6536d6) | RTX | Tucson, AZ | 10/16/2026 08:54:42 | Security clearance language is present; Sponsorship: No |
-| 45 (Possible) | [Electrical Engineer - RF & PCB](https://jobright.ai/jobs/info/6ac813f0fcdafb60c6a47774) | Horizon Hobby | Champaign, IL | 10/16/2026 09:18:25 | Sponsorship: Not Sure |
-| 55 (Good) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6ad252215290d4375c4522f9) | Amentum | Crane, IN | 10/16/2026 09:34:41 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer I - Test Engineering (Onsite)](https://jobright.ai/jobs/info/6ad233d1f04335fc70ed3733) | Collins Aerospace | Melbourne, FL | 10/16/2026 05:00:00 | Sponsorship: Past Sponsorship |
