@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-21 00:54:27Z UTC
+Updated: 2026-10-21 05:47:23Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 34 (Possible) | [2026  Associate Electrical Engineer/ Electrical Engineer - Chandler AZ](https://jobright.ai/jobs/info/6ad75f163dc655658d8ebc02) | Northrop Grumman | Chandler, AZ | 10/20/2026 21:11:28 | Security clearance language is present; Sponsorship: No |
+| 48 (Possible) | [Associate Electrical Engineer / Electrical Engineer](https://jobright.ai/jobs/info/6ad6495f54bbabbab06f6428) | Northrop Grumman | Warner Robins, GA | 10/20/2026 21:11:28 | Sponsorship: No |
 | 75 (Strong) | [Hardware Verification Engineer, New College Graduate, (Teradyne, Agoura Hills, CA)](https://jobright.ai/jobs/info/6ad7d66a3dc655658d8f0ad5) | Teradyne | Agoura Hills, CA | 10/20/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ad7f3e8950ef68d51845d30) | Carollo Engineers | New York, NY | 10/20/2026 16:06:16 | Sponsorship: Not Sure |
 | 79 (Strong) | [RF Validation Engineer I](https://jobright.ai/jobs/info/6ad79fa454bbabbab07005f1) | Silicon Labs | Austin, TX | 10/20/2026 16:16:05 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-10-21 00:54:27Z UTC
 | 51 (Good) | [Entry-Level Systems Test Engineer](https://jobright.ai/jobs/info/6ad1ffd127c58afafbb2fed3) | Dice | Huntsville, AL | 10/16/2026 10:43:29 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6ad1e1849e2fdc1ecc1c3fb4) | ETHOS Consulting Engineers | Denver, CO | 10/16/2026 08:34:12 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ad19c94c50216c4e1b6b079) | Jacobs | Honolulu, HI | 10/15/2026 05:00:00 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Electrical Hardware Engineer I - 0T1011](https://jobright.ai/jobs/info/6ad130ffe2d41540d4a6ee38) | Hewlett Packard Enterprise | Westford, MA | 10/15/2026 23:01:24 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - Facilities (Entry Level)](https://jobright.ai/jobs/info/6ad1555de2d41540d4a700b9) | General Dynamics Electric Boat | Groton, CT | 10/15/2026 22:36:13 | Sponsorship: Past Sponsorship |
