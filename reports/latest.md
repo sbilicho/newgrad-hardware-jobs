@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-21 15:40:11Z UTC
+Updated: 2026-10-21 17:41:03Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 42 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6ad8f221b0725dc268dd776b) | Cummins Inc. | Columbus, IN | 10/21/2026 17:10:57 | Sponsorship: Past Sponsorship |
+| 88 (Strong) | [Entry Level ASIC/FPGA Design Verification Engineer](https://jobright.ai/jobs/info/6ad8eb19950ef68d5184b6e2) | Boeing | El Segundo, CA | 10/21/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Associate Digital Hardware Engineer (Comms/TVI)](https://jobright.ai/jobs/info/6aa078badbc0e60e37e0debc) | Thales Defense & Security, Inc. | Germantown, TN; Clarksburg, MD | 10/21/2026 09:07:09 | U.S. citizenship language is present; Sponsorship: No |
 | 35 (Possible) | [Electronic and Electrical Design and Analysis Engineer (Associate or Mid-Level)](https://jobright.ai/jobs/info/6ad8cdef67bec1d0d9c7f7cf) | Boeing | Jackson, MS | 10/21/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad8c5b4b0725dc268dd5b0e) | Goddard | Wilmington, MA | 10/21/2026 14:01:24 | Sponsorship: Past Sponsorship |
 | 88 (Strong) | [Entry Level ASIC/FPGA Design Verification Engineer](https://jobright.ai/jobs/info/6ad8cdf267bec1d0d9c7f7d3) | Boeing | El Segundo, CA | 10/21/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-10-21 15:40:11Z UTC
 | 45 (Possible) | [Electrical Engineer - RF & PCB](https://jobright.ai/jobs/info/6ac813f0fcdafb60c6a47774) | Horizon Hobby | Champaign, IL | 10/16/2026 09:18:25 | Sponsorship: Not Sure |
 | 55 (Good) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6ad252215290d4375c4522f9) | Amentum | Crane, IN | 10/16/2026 09:34:41 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I - Test Engineering (Onsite)](https://jobright.ai/jobs/info/6ad233d1f04335fc70ed3733) | Collins Aerospace | Melbourne, FL | 10/16/2026 05:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Collierville, TN - Electrical Engineer (I,II,III,IV)](https://jobright.ai/jobs/info/6ad24646c4290cef14129a58) | DDS Companies | Collierville, TN | 10/16/2026 13:42:40 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Analog & Power Design Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6accfaed3c831dc4086bfe49) | RTX | Marlborough, MA | 10/16/2026 14:54:21 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 62 (Good) | [Silicon Photonics Test Development Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ad24f78c4290cef14129fa8) | GlobalFoundries | Essex Junction, VT | 10/16/2026 16:23:20 | Sponsorship: Past Sponsorship |
