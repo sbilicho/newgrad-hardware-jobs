@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-20 22:32:43Z UTC
+Updated: 2026-10-21 00:54:27Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 75 (Strong) | [Hardware Verification Engineer, New College Graduate, (Teradyne, Agoura Hills, CA)](https://jobright.ai/jobs/info/6ad7d66a3dc655658d8f0ad5) | Teradyne | Agoura Hills, CA | 10/20/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 43 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ad7f3e8950ef68d51845d30) | Carollo Engineers | New York, NY | 10/20/2026 16:06:16 | Sponsorship: Not Sure |
+| 79 (Strong) | [RF Validation Engineer I](https://jobright.ai/jobs/info/6ad79fa454bbabbab07005f1) | Silicon Labs | Austin, TX | 10/20/2026 16:16:05 | Sponsorship: Not Sure |
 | 32 (Possible) | [Electronic Engineer I](https://jobright.ai/jobs/info/6ac4114d372c01f6cd733d4d) | Advanced Energy | Fort Collins, CO | 10/20/2026 22:19:33 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - Decatur, IL](https://jobright.ai/jobs/info/6ad7eb963dc655658d8f19c2) | ADM | Decatur, IL | 10/20/2026 22:30:46 | Sponsorship: Past Sponsorship |
 | 75 (Strong) | [Hardware Verification Engineer, New College Graduate,](https://jobright.ai/jobs/info/6ad7e2cae4b94611ab849e7b) | Teradyne | Agoura Hills, CA | 10/20/2026 05:00:00 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-10-20 22:32:43Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ad19c94c50216c4e1b6b079) | Jacobs | Honolulu, HI | 10/15/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Hardware Engineer I - 0T1011](https://jobright.ai/jobs/info/6ad130ffe2d41540d4a6ee38) | Hewlett Packard Enterprise | Westford, MA | 10/15/2026 23:01:24 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - Facilities (Entry Level)](https://jobright.ai/jobs/info/6ad1555de2d41540d4a700b9) | General Dynamics Electric Boat | Groton, CT | 10/15/2026 22:36:13 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6ad150c8256e49282e6545d9) | Haag, a Salas O'Brien Company | Oakland, CA | 10/15/2026 22:16:40 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [Firmware Engineer - New Graduate (University of Washington)](https://jobright.ai/jobs/info/6ad14e27e2d41540d4a6fd1a) | LITEON Careers - U.S. | Seattle, WA | 10/15/2026 23:25:32 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6ad0cee818608b6f36f7f0f4) | New York Power Authority | Astoria, OR | 10/15/2026 19:40:55 | Sponsorship: Past Sponsorship |
