@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-21 10:39:19Z UTC
+Updated: 2026-10-21 13:41:40Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 49 (Possible) | [Electrical Engineer I - Test](https://jobright.ai/jobs/info/6ad8beb3e4b94611ab84ec50) | RTX | Tucson, AZ | 10/21/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Entry Level Test Engineer - M&W](https://jobright.ai/jobs/info/6ad7dea367bec1d0d9c79f98) | TRAX International Corporation | Yuma, AZ | 10/20/2026 21:35:31 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 57 (Good) | [Product Engineer I](https://jobright.ai/jobs/info/6ab3e2850e0ae54eeea452e1) | Benchmark | Winona, MN | 10/21/2026 05:45:27 | Sponsorship: Not Sure |
 | 41 (Possible) | [Entry Level Electrical Engineer - #26-26510](https://jobright.ai/jobs/info/6ad8923f39284cd52427ee16) | US Tech Solutions | Tempe, AZ | 10/19/2026 17:50:36 | Sponsorship: Past Sponsorship |
 | 34 (Possible) | [2026  Associate Electrical Engineer/ Electrical Engineer - Chandler AZ](https://jobright.ai/jobs/info/6ad75f163dc655658d8ebc02) | Northrop Grumman | Chandler, AZ | 10/20/2026 21:11:28 | Security clearance language is present; Sponsorship: No |
 | 48 (Possible) | [Associate Electrical Engineer / Electrical Engineer](https://jobright.ai/jobs/info/6ad6495f54bbabbab06f6428) | Northrop Grumman | Warner Robins, GA | 10/20/2026 21:11:28 | Sponsorship: No |
@@ -101,6 +104,3 @@ Updated: 2026-10-21 10:39:19Z UTC
 | 37 (Possible) | [Collierville, TN - Electrical Engineer (I,II,III,IV)](https://jobright.ai/jobs/info/6ad2150225289a0b3bf54003) | Artera Services | Collierville, TN | 10/16/2026 12:13:54 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Associate Electrical Engineer](https://jobright.ai/jobs/info/6ad207d3c4290cef14127eca) | Tech Verses | United States | 10/16/2026 04:17:39 | Sponsorship: Not Sure |
 | 60 (Good) | [Mechanical Hardware Test & Validation Engineer (All Levels)](https://jobright.ai/jobs/info/6ab59958634ec6aa7c0d0576) | ALSO. | Palo Alto, CA | 10/16/2026 04:11:55 | Sponsorship: Not Sure |
-| 40 (Possible) | [Electrical Engineer I - Test Engineering (Onsite)](https://jobright.ai/jobs/info/6ad1911ec24514d0596cd17c) | RTX | Melbourne, FL | 10/16/2026 09:19:54 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [Entry-Level Systems Test Engineer](https://jobright.ai/jobs/info/6ad1ffd127c58afafbb2fed3) | Dice | Huntsville, AL | 10/16/2026 10:43:29 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6ad1e1849e2fdc1ecc1c3fb4) | ETHOS Consulting Engineers | Denver, CO | 10/16/2026 08:34:12 | Sponsorship: Past Sponsorship |
