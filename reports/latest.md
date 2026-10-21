@@ -1,9 +1,17 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-21 19:41:45Z UTC
+Updated: 2026-10-21 22:49:22Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 64 (Good) | [Firmware Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/5271824007?gh_jid=5271824007) | Anduril Industries | Atlanta, Georgia, United States | 10/21/2026 21:33:48 | Security clearance language is present |
+| 64 (Good) | [Firmware Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/5271821007?gh_jid=5271821007) | Anduril Industries | Costa Mesa, California, United States; Atlanta, Georgia, United States | 10/21/2026 21:32:55 | Security clearance language is present |
+| 48 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ad8eddf67bec1d0d9c80be5) | RTX | Melbourne, FL | 10/21/2026 14:19:49 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Offshore Recovery Electrical Engineer I](https://jobright.ai/jobs/info/6ad9314439284cd524285360) | Relativity Space | Cape Canaveral, FL | 10/21/2026 14:40:20 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6ad93f8c39284cd524285ce3) | Sargent & Lundy | Richland, WA | 10/21/2026 22:41:16 | Sponsorship: Past Sponsorship |
+| 58 (Good) | [Sr Failure Analysis Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ad9201f950ef68d5184e470) | GlobalFoundries | Malta, NY | 10/21/2026 20:38:02 | Sponsorship: Past Sponsorship |
+| 63 (Good) | [System Verification Engineer](https://jobright.ai/jobs/info/6ab4408d55e9168cf5ea5517) | Ubiquiti Inc. | Chicago, IL | 10/21/2026 21:46:11 | Sponsorship: Past Sponsorship |
+| 63 (Good) | [System Verification Engineer](https://jobright.ai/jobs/info/6ab44080d2f5fbd604be26be) | Ubiquiti Inc. | Salt Lake City, UT | 10/21/2026 21:46:03 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer - Level DOE (E&I Maintenance) (DGC)](https://jobright.ai/jobs/info/6a9fcacb68f82b403673dc82) | Basin Electric Power Cooperative | Beulah, ND | 10/21/2026 15:36:38 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer I – Early Career & New Graduate Rotation (2027 Starts)](https://jobright.ai/jobs/info/6ad340c7810010ec72f5b6c1) | Blue Origin | Greater Seattle Area | 10/21/2026 16:13:17 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ad9054f950ef68d5184cd41) | Matrix Technologies, Inc. | Overland Park, KS | 10/21/2026 11:32:47 | Sponsorship: No |
@@ -96,11 +104,3 @@ Updated: 2026-10-21 19:41:45Z UTC
 | 61 (Good) | [New College Grad - Electrical Design Engineer](https://jobright.ai/jobs/info/6ad2acc525289a0b3bf5838c) | Coulter Services | Boise, ID | 10/16/2026 20:01:08 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer I,  Manufacturing and Test (63911)](https://jobright.ai/jobs/info/6ad28dd883ada13a9da067eb) | Reading Bakery Systems | Sinking Spring, PA | 10/16/2026 20:49:28 | Sponsorship: Past Sponsorship |
 | 65 (Good) | [Electrical Engineer I - FPGA Designer (58060)](https://jobright.ai/jobs/info/6ad28e8f5290d4375c453b11) | Applied Technical Services, LLC | Colorado Springs, CO | 10/16/2026 20:52:31 | Sponsorship: Past Sponsorship |
-| 88 (Strong) | [Digital IC Design Engineer](https://jobright.ai/jobs/info/6ac01199d9621c5b283961e4) | indie.inc | Aliso Viejo, CA | 10/16/2026 20:41:46 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [NVH Test Engineer](https://jobright.ai/jobs/info/6ad280a95290d4375c45367f) | CNH | Racine, WI | 10/16/2026 12:53:13 | Sponsorship: Not Sure |
-| 41 (Possible) | [Entry-Level Electrical Engineer (Power System Studies) - Hybrid \| Pittsburgh Area](https://jobright.ai/jobs/info/6ad26e97810010ec72f5804e) | Pioneer Power Group | Wexford, PA | 10/16/2026 18:36:07 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6a8573d6d34f700f87fbcd82) | Atkore | Harvey, IL; Merrillville, IN; Hobart, IN | 10/16/2026 11:20:09 | Sponsorship: No |
-| 62 (Good) | [Silicon Photonics Test Development Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ad25399c4290cef1412a2a7) | GlobalFoundries | Essex Junction, VT | 10/16/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6ad21eeb25289a0b3bf543a5) | Moog Inc. | Blacksburg, VA | 10/16/2026 08:45:53 | Sponsorship: Not Sure |
-| 40 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6acd48b6ddd23cce28a11a24) | RTX | Plano, TX; McKinney, TX | 10/16/2026 08:47:18 | Security clearance language is present; Sponsorship: No |
-| 51 (Good) | [Analog & Power Electronics Engineer I](https://jobright.ai/jobs/info/6a99e1c490a313642c6536d6) | RTX | Tucson, AZ | 10/16/2026 08:54:42 | Security clearance language is present; Sponsorship: No |
