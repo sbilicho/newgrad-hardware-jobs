@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-22 12:19:34Z UTC
+Updated: 2026-10-22 17:07:01Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 68 (Good) | [Analog IC Design Engineer, AMS](https://boards.greenhouse.io/lightmatter/jobs/5459233008?gh_jid=5459233008) | Lightmatter | Mountain View, CA | 10/22/2026 16:12:41 | Full-time status is inferred from the first-party posting |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ada2cc503d2da752891266f) | SmithGroup | Pittsburgh, PA | 10/22/2026 15:33:25 | Sponsorship: Past Sponsorship |
 | 65 (Good) | [Electrical Engineer I - FPGA Designer](https://jobright.ai/jobs/info/6ad9e89f950ef68d518529c6) | Radiation Test Solutions, Inc. | Colorado Springs, CO | 10/22/2026 10:42:39 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [ELECTRICAL ENGINEER I - CO](https://jobright.ai/jobs/info/6ad9ea8b54bbabbab0711545) | City Light & Power, Inc. | Denver, CO | 10/22/2026 10:50:51 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer - 2nd shift](https://jobright.ai/jobs/info/6ad9e875f3187e00d540f307) | JSG (Johnson Service Group, Inc.) | Cypress, CA | 10/21/2026 18:31:50 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-10-22 12:19:34Z UTC
 | 41 (Possible) | [Electrical Engineer 1](https://jobright.ai/jobs/info/6a7def150cd4a0703257c977) | Bartell Machinery Systems | Rome, NY | 10/17/2026 02:07:35 | Sponsorship: No |
 | 41 (Possible) | [Mechanical or Electrical Engineer I/II - Monticello, MN](https://jobright.ai/jobs/info/6ad26fc583ada13a9da05dac) | Xcel Energy | Monticello, MN | 10/17/2026 02:04:09 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical Engineer - Class of 2026/2027](https://jobright.ai/jobs/info/6ad3078383ada13a9da08b8a) | Amphenol | Santa Clara, CA | 10/16/2026 14:32:30 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Electrical Test Engineer I - Lunar Permanence](https://jobright.ai/jobs/info/6ad27b85f04335fc70ed5d13) | Blue Origin | Space Coast, Florida | 10/17/2026 01:14:30 | Sponsorship: Past Sponsorship |
-| 62 (Good) | [Signal Integrity Systems Engineer (Entry level to Senior)](https://jobright.ai/jobs/info/6ad2ccaf810010ec72f59e0a) | Molex | Lisle, IL | 10/17/2026 01:17:35 | Sponsorship: Past Sponsorship |
