@@ -1,9 +1,18 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-22 19:51:59Z UTC
+Updated: 2026-10-22 23:36:03Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ada92db54bbabbab0717b9b) | Twenty-Six Defense Maritime | De Leon Springs, FL | 10/22/2026 22:48:59 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 67 (Good) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6acd9d76d113c967e3c7e66e) | Raytheon | McKinney, TX | 10/22/2026 14:33:03 | Security clearance language is present; Sponsorship: No |
+| 53 (Good) | [Thermal Test Engineer](https://jobright.ai/jobs/info/6ada817354bbabbab0717172) | Arista Networks | Santa Clara, CA | 10/22/2026 14:41:09 | Sponsorship: Not Sure |
+| 60 (Good) | [System Validation Engineer](https://jobright.ai/jobs/info/6ada40603a69033df225716e) | Supermicro | San Jose, CA | 10/22/2026 14:50:48 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Accenture Construct - Junior Electrical Controls Engineer, COM](https://jobright.ai/jobs/info/6ad7688152aa6152bb69b4a2) | Comtech Group | Sterling Heights, MI; Windsor, ON | 10/22/2026 15:05:51 | Sponsorship: Not Sure |
+| 37 (Possible) | [Entry Level Electrical Engineer - Spokane, WA](https://jobright.ai/jobs/info/6ada76c1950ef68d51857df4) | PAE | Spokane, WA | 10/22/2026 15:15:36 | Sponsorship: Past Sponsorship |
+| 58 (Good) | [Electrical Design Engineer I - Entry Level](https://jobright.ai/jobs/info/6ada8a05950ef68d51858a88) | Insight Global | Simsbury, CT | 10/22/2026 22:11:17 | Sponsorship: Past Sponsorship |
+| 59 (Good) | [High-Speed Analog IC Design Engineer (New graduate)](https://jobright.ai/jobs/info/6ada7e763a69033df2259e40) | MediaTek | Austin, TX | 10/22/2026 21:21:58 | Sponsorship: Past Sponsorship |
+| 30 (Possible) | [Mechanical Solutions Architect NCG](https://jobright.ai/jobs/info/6ada9a963a69033df225acfc) | Astera Labs | San Jose, CA | 10/22/2026 23:21:58 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Electrical Engineer, Manufacturing Test - Electronic Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5272794007?gh_jid=5272794007) | Anduril Industries | Irvine, California, United States; Costa Mesa, California, United States | 10/22/2026 19:39:24 | Security clearance language is present; Full-time status is inferred from the first-party posting |
 | 65 (Good) | [FPGA Electrical Design Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa08935a2266b538d230fb3) | RTX | Tucson, AZ | 10/22/2026 16:38:14 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6ada4c3f950ef68d51855f93) | DLR Group | Overland Park, KS | 10/22/2026 17:47:43 | Sponsorship: Past Sponsorship |
@@ -95,12 +104,3 @@ Updated: 2026-10-22 19:51:59Z UTC
 | 50 (Good) | [RF Engineer and Antenna Systems](https://jobright.ai/jobs/info/6aafc3006956574eac8ba3f4) | ITERRA | United States | 10/18/2026 05:19:38 | Sponsorship: No |
 | 62 (Good) | [Signal Integrity Systems Engineer (Entry level to Senior)](https://jobright.ai/jobs/info/6ad4873ef04335fc70edbc1b) | Koch Engineered Solutions | Lisle, IL | 10/18/2026 01:45:50 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6ad432f5ebd52f378af8d5c1) | AECOM | Los Angeles, CA | 10/18/2026 02:28:59 | Sponsorship: Past Sponsorship |
-| 35 (Possible) | [Design Engineer (New College Graduate), 5195](https://jobright.ai/jobs/info/6ad41f1825289a0b3bf5c5b9) | Diodes Incorporated | Milpitas, CA | 10/17/2026 09:03:20 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aac8a712e757fcb5c8b5de5) | Carrier | Fort Wayne, IN | 10/17/2026 13:12:40 | Sponsorship: Not Sure |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6a7f3f6dad9ff00c26bad3ea) | Smith Seckman Reid, Inc. | Nashville, TN | 10/17/2026 18:34:42 | Sponsorship: Past Sponsorship |
-| 43 (Possible) | [Digital Electronics Electrical Engineer I –Onsite](https://jobright.ai/jobs/info/6ac91cc7c3a8af9c54a092f2) | Raytheon | Tewksbury, MA | 10/17/2026 14:58:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Electronics Engineer - E2](https://jobright.ai/jobs/info/6aabeca03e3ce93970c7ab56) | Lockheed Martin | Littleton, CO | 10/17/2026 08:44:35 | Sponsorship: No |
-| 45 (Possible) | [Hardware Engineer - E2](https://jobright.ai/jobs/info/6abc3349d6acfd3dd29fcb82) | Lockheed Martin | Boulder, CO | 10/17/2026 08:57:32 | Security clearance language is present; Sponsorship: No |
-| 82 (Strong) | [GSoC Design Verification Engineer](https://jobright.ai/jobs/info/6ab4300ed2f5fbd604be1fe9) | Qualcomm | San Diego, CA | 10/17/2026 10:47:57 | Sponsorship: Past Sponsorship |
-| 59 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6a0e872d80bf0430c762d4ee) | KLA | Ann Arbor, MI | 10/17/2026 05:07:20 | Sponsorship: Not Sure |
-| 66 (Good) | [Integration & Test Engineer (Electrical Systems), Omen](https://jobright.ai/jobs/info/6ab69fb54873fd3fd852e24b) | Anduril Industries | Costa Mesa, CA | 10/17/2026 05:26:37 | Sponsorship: No |
