@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-21 22:49:22Z UTC
+Updated: 2026-10-22 01:14:09Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 43 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a7ceb61d77e8156a8e351c9) | Valar Atomics | Torrance, CA | 10/21/2026 16:56:15 | Sponsorship: No |
+| 50 (Good) | [Automation Manufacturing Test Engineer I](https://jobright.ai/jobs/info/6ad937bc54bbabbab070dddb) | Honeywell Aerospace | Redmond, WA | 10/21/2026 16:59:20 | Sponsorship: No |
+| 44 (Possible) | [Wireless/RF Engineer I](https://jobright.ai/jobs/info/6ad94b16b0725dc268ddbcb4) | Honeywell Aerospace | San Jose, CA | 10/21/2026 16:59:43 | Sponsorship: No |
 | 64 (Good) | [Firmware Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/5271824007?gh_jid=5271824007) | Anduril Industries | Atlanta, Georgia, United States | 10/21/2026 21:33:48 | Security clearance language is present |
 | 64 (Good) | [Firmware Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/5271821007?gh_jid=5271821007) | Anduril Industries | Costa Mesa, California, United States; Atlanta, Georgia, United States | 10/21/2026 21:32:55 | Security clearance language is present |
 | 48 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ad8eddf67bec1d0d9c80be5) | RTX | Melbourne, FL | 10/21/2026 14:19:49 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-10-21 22:49:22Z UTC
 | 40 (Possible) | [Entry Level Electrical Engineer – Class of 2026/2027](https://jobright.ai/jobs/info/6ad2aec75290d4375c454882) | Amphenol Communications Solutions | Santa Clara, CA | 10/16/2026 23:09:59 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6ad29c8e810010ec72f5938a) | Virtue America | United States | 10/16/2026 21:52:14 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Hardware Engineer III (Full-Time) - United States](https://jobright.ai/jobs/info/6ad29e9e83ada13a9da070a0) | Cisco | San Jose, CA | 10/16/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 61 (Good) | [New College Grad - Electrical Design Engineer](https://jobright.ai/jobs/info/6ad2acc525289a0b3bf5838c) | Coulter Services | Boise, ID | 10/16/2026 20:01:08 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Electrical Engineer I,  Manufacturing and Test (63911)](https://jobright.ai/jobs/info/6ad28dd883ada13a9da067eb) | Reading Bakery Systems | Sinking Spring, PA | 10/16/2026 20:49:28 | Sponsorship: Past Sponsorship |
-| 65 (Good) | [Electrical Engineer I - FPGA Designer (58060)](https://jobright.ai/jobs/info/6ad28e8f5290d4375c453b11) | Applied Technical Services, LLC | Colorado Springs, CO | 10/16/2026 20:52:31 | Sponsorship: Past Sponsorship |
