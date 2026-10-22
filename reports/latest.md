@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-22 07:21:39Z UTC
+Updated: 2026-10-22 08:19:18Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6ad9be3e54bbabbab0710925) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 10/22/2026 07:41:50 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Lighting Engineer/Electrical Engineer](https://jobright.ai/jobs/info/6ad94b8739284cd5242863ec) | Jacobs | St. Louis, MO | 10/21/2026 00:32:06 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 62 (Good) | [Entry Level IBM Z Engineering System Test Hardware Engineer - Poughkeepsie, NY - 2027](https://jobright.ai/jobs/info/6ad972a4950ef68d51850d37) | Hakkōda, an IBM Company | Poughkeepsie, NY | 10/21/2026 05:18:57 | Sponsorship: Past Sponsorship |
 | 77 (Strong) | [Analog Circuit Design Engineer – New Grad](https://jobright.ai/jobs/info/6ad97fdfe4b94611ab856213) | MediaTek | Austin, TX | 10/22/2026 03:15:43 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-22 07:21:39Z UTC
 | 61 (Good) | [Circuit Design Engineer](https://jobright.ai/jobs/info/6ad27a49810010ec72f584fb) | Intel | Folsom, CA | 10/16/2026 21:25:22 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Junior Electrical Engineer at DCS Corp](https://jobright.ai/jobs/info/6ad2afedf04335fc70ed707b) | Berkeley Industrial Engineering & Operations Research | Indianapolis, IN | 10/16/2026 16:14:53 | Sponsorship: No |
 | 59 (Good) | [Electrical Engineer I - FPGA Designer](https://jobright.ai/jobs/info/6ad29353c4290cef1412bb61) | Radiation Test Solutions, Inc. | Colorado Springs, CO | 10/16/2026 21:12:51 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I, Life Cycle Engineering](https://jobright.ai/jobs/info/6ad299f25290d4375c4542eb) | General Dynamics - Bath Iron Works | Brunswick, ME | 10/16/2026 21:41:06 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
