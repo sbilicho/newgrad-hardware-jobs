@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-22 10:19:20Z UTC
+Updated: 2026-10-22 11:19:37Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 65 (Good) | [Electrical Engineer I - FPGA Designer](https://jobright.ai/jobs/info/6ad9e89f950ef68d518529c6) | Radiation Test Solutions, Inc. | Colorado Springs, CO | 10/22/2026 10:42:39 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [ELECTRICAL ENGINEER I - CO](https://jobright.ai/jobs/info/6ad9ea8b54bbabbab0711545) | City Light & Power, Inc. | Denver, CO | 10/22/2026 10:50:51 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer - 2nd shift](https://jobright.ai/jobs/info/6ad9e875f3187e00d540f307) | JSG (Johnson Service Group, Inc.) | Cypress, CA | 10/21/2026 18:31:50 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6ad9be3e54bbabbab0710925) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 10/22/2026 07:41:50 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Lighting Engineer/Electrical Engineer](https://jobright.ai/jobs/info/6ad94b8739284cd5242863ec) | Jacobs | St. Louis, MO | 10/21/2026 00:32:06 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 62 (Good) | [Entry Level IBM Z Engineering System Test Hardware Engineer - Poughkeepsie, NY - 2027](https://jobright.ai/jobs/info/6ad972a4950ef68d51850d37) | Hakkōda, an IBM Company | Poughkeepsie, NY | 10/21/2026 05:18:57 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-10-22 10:19:20Z UTC
 | 40 (Possible) | [Entry Level Electrical Engineer - Class of 2026/2027](https://jobright.ai/jobs/info/6ad3078383ada13a9da08b8a) | Amphenol | Santa Clara, CA | 10/16/2026 14:32:30 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Electrical Test Engineer I - Lunar Permanence](https://jobright.ai/jobs/info/6ad27b85f04335fc70ed5d13) | Blue Origin | Space Coast, Florida | 10/17/2026 01:14:30 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Signal Integrity Systems Engineer (Entry level to Senior)](https://jobright.ai/jobs/info/6ad2ccaf810010ec72f59e0a) | Molex | Lisle, IL | 10/17/2026 01:17:35 | Sponsorship: Past Sponsorship |
-| 61 (Good) | [Circuit Design Engineer](https://jobright.ai/jobs/info/6ad27a49810010ec72f584fb) | Intel | Folsom, CA | 10/16/2026 21:25:22 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Junior Electrical Engineer at DCS Corp](https://jobright.ai/jobs/info/6ad2afedf04335fc70ed707b) | Berkeley Industrial Engineering & Operations Research | Indianapolis, IN | 10/16/2026 16:14:53 | Sponsorship: No |
-| 59 (Good) | [Electrical Engineer I - FPGA Designer](https://jobright.ai/jobs/info/6ad29353c4290cef1412bb61) | Radiation Test Solutions, Inc. | Colorado Springs, CO | 10/16/2026 21:12:51 | Sponsorship: Past Sponsorship |
