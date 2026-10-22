@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-22 01:14:09Z UTC
+Updated: 2026-10-22 06:11:12Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Lighting Engineer/Electrical Engineer](https://jobright.ai/jobs/info/6ad94b8739284cd5242863ec) | Jacobs | St. Louis, MO | 10/21/2026 00:32:06 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 62 (Good) | [Entry Level IBM Z Engineering System Test Hardware Engineer - Poughkeepsie, NY - 2027](https://jobright.ai/jobs/info/6ad972a4950ef68d51850d37) | Hakkōda, an IBM Company | Poughkeepsie, NY | 10/21/2026 05:18:57 | Sponsorship: Past Sponsorship |
+| 77 (Strong) | [Analog Circuit Design Engineer – New Grad](https://jobright.ai/jobs/info/6ad97fdfe4b94611ab856213) | MediaTek | Austin, TX | 10/22/2026 03:15:43 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Electrical Design & Integration Engineer](https://jobright.ai/jobs/info/6ad9345254bbabbab070dc37) | Leidos | Huntsville, AL | 10/21/2026 20:15:40 | Sponsorship: No |
+| 48 (Possible) | [2027 Associate Pathways Electronics Engineer / Pathways Electronics Engineer - Rolling Meadows IL](https://jobright.ai/jobs/info/6ad7810e67bec1d0d9c75d56) | Northrop Grumman | Rolling Meadows, IL | 10/21/2026 21:11:23 | Sponsorship: No |
+| 41 (Possible) | [Electrical Engineer 1 -Power](https://jobright.ai/jobs/info/6ad997aeb0725dc268ddd482) | Dell Technologies | Round Rock, TX | 10/21/2026 21:57:18 | Sponsorship: Not Sure |
 | 43 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a7ceb61d77e8156a8e351c9) | Valar Atomics | Torrance, CA | 10/21/2026 16:56:15 | Sponsorship: No |
 | 50 (Good) | [Automation Manufacturing Test Engineer I](https://jobright.ai/jobs/info/6ad937bc54bbabbab070dddb) | Honeywell Aerospace | Redmond, WA | 10/21/2026 16:59:20 | Sponsorship: No |
 | 44 (Possible) | [Wireless/RF Engineer I](https://jobright.ai/jobs/info/6ad94b16b0725dc268ddbcb4) | Honeywell Aerospace | San Jose, CA | 10/21/2026 16:59:43 | Sponsorship: No |
@@ -98,9 +104,3 @@ Updated: 2026-10-22 01:14:09Z UTC
 | 40 (Possible) | [Junior Electrical Engineer at DCS Corp](https://jobright.ai/jobs/info/6ad2afedf04335fc70ed707b) | Berkeley Industrial Engineering & Operations Research | Indianapolis, IN | 10/16/2026 16:14:53 | Sponsorship: No |
 | 59 (Good) | [Electrical Engineer I - FPGA Designer](https://jobright.ai/jobs/info/6ad29353c4290cef1412bb61) | Radiation Test Solutions, Inc. | Colorado Springs, CO | 10/16/2026 21:12:51 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I, Life Cycle Engineering](https://jobright.ai/jobs/info/6ad299f25290d4375c4542eb) | General Dynamics - Bath Iron Works | Brunswick, ME | 10/16/2026 21:41:06 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Entry Level Electrical Engineer – Class of 2026/2027](https://jobright.ai/jobs/info/6ad2a2c25290d4375c454489) | Amphenol FCi | Santa Clara, CA | 10/16/2026 22:18:42 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Entry Level Electrical Engineer – Class of 2026/2027](https://jobright.ai/jobs/info/6ad2a202c4290cef1412c2c4) | Amphenol | Santa Clara, CA | 10/16/2026 22:15:30 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Entry Level Electrical Engineer – Class of 2026/2027](https://jobright.ai/jobs/info/6ad2a2c3c4290cef1412c2e6) | Amphenol TCS | Santa Clara, CA | 10/16/2026 22:18:43 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Entry Level Electrical Engineer – Class of 2026/2027](https://jobright.ai/jobs/info/6ad2aec75290d4375c454882) | Amphenol Communications Solutions | Santa Clara, CA | 10/16/2026 23:09:59 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6ad29c8e810010ec72f5938a) | Virtue America | United States | 10/16/2026 21:52:14 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Hardware Engineer III (Full-Time) - United States](https://jobright.ai/jobs/info/6ad29e9e83ada13a9da070a0) | Cisco | San Jose, CA | 10/16/2026 00:00:00 | Sponsorship: Past Sponsorship |
