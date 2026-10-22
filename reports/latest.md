@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-22 17:07:01Z UTC
+Updated: 2026-10-22 19:51:59Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 52 (Good) | [Electrical Engineer, Manufacturing Test - Electronic Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5272794007?gh_jid=5272794007) | Anduril Industries | Irvine, California, United States; Costa Mesa, California, United States | 10/22/2026 19:39:24 | Security clearance language is present; Full-time status is inferred from the first-party posting |
+| 65 (Good) | [FPGA Electrical Design Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa08935a2266b538d230fb3) | RTX | Tucson, AZ | 10/22/2026 16:38:14 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6ada4c3f950ef68d51855f93) | DLR Group | Overland Park, KS | 10/22/2026 17:47:43 | Sponsorship: Past Sponsorship |
+| 77 (Strong) | [Analog-Mixed Signal Design Engineer](https://jobright.ai/jobs/info/6a550e722084cd792b475c36) | OMNIVISION | Santa Clara, CA | 10/22/2026 11:52:15 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [New College Grad - DRAM Design Engineer](https://jobright.ai/jobs/info/6ada472e03d2da75289138f3) | Micron Technology | Boise, ID | 10/22/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 68 (Good) | [Analog IC Design Engineer, AMS](https://boards.greenhouse.io/lightmatter/jobs/5459233008?gh_jid=5459233008) | Lightmatter | Mountain View, CA | 10/22/2026 16:12:41 | Full-time status is inferred from the first-party posting |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ada2cc503d2da752891266f) | SmithGroup | Pittsburgh, PA | 10/22/2026 15:33:25 | Sponsorship: Past Sponsorship |
 | 65 (Good) | [Electrical Engineer I - FPGA Designer](https://jobright.ai/jobs/info/6ad9e89f950ef68d518529c6) | Radiation Test Solutions, Inc. | Colorado Springs, CO | 10/22/2026 10:42:39 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-10-22 17:07:01Z UTC
 | 82 (Strong) | [GSoC Design Verification Engineer](https://jobright.ai/jobs/info/6ab4300ed2f5fbd604be1fe9) | Qualcomm | San Diego, CA | 10/17/2026 10:47:57 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6a0e872d80bf0430c762d4ee) | KLA | Ann Arbor, MI | 10/17/2026 05:07:20 | Sponsorship: Not Sure |
 | 66 (Good) | [Integration & Test Engineer (Electrical Systems), Omen](https://jobright.ai/jobs/info/6ab69fb54873fd3fd852e24b) | Anduril Industries | Costa Mesa, CA | 10/17/2026 05:26:37 | Sponsorship: No |
-| 57 (Good) | [Product Engineer I](https://jobright.ai/jobs/info/6ac92bb3c3a8af9c54a09707) | Benchmark | Rochester, MN | 10/17/2026 05:30:42 | Sponsorship: Not Sure |
-| 35 (Possible) | [Electronic and Electrical Design and Analysis Engineer (Associate or Mid-Level)](https://jobright.ai/jobs/info/6ad2790f810010ec72f5848f) | Boeing | Dover, DE | 10/17/2026 06:14:08 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer 1](https://jobright.ai/jobs/info/6a7def150cd4a0703257c977) | Bartell Machinery Systems | Rome, NY | 10/17/2026 02:07:35 | Sponsorship: No |
-| 41 (Possible) | [Mechanical or Electrical Engineer I/II - Monticello, MN](https://jobright.ai/jobs/info/6ad26fc583ada13a9da05dac) | Xcel Energy | Monticello, MN | 10/17/2026 02:04:09 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Entry Level Electrical Engineer - Class of 2026/2027](https://jobright.ai/jobs/info/6ad3078383ada13a9da08b8a) | Amphenol | Santa Clara, CA | 10/16/2026 14:32:30 | Sponsorship: Past Sponsorship |
