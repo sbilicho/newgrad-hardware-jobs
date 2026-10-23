@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-23 12:28:27Z UTC
+Updated: 2026-10-23 17:31:24Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 54 (Good) | [Electrical Engineer Asc - Level 1](https://jobright.ai/jobs/info/6adaefeb5dc7953215a2fe7a) | Lockheed Martin | Andover, MA | 10/23/2026 12:54:13 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6adb98115dc7953215a337a1) | Leitner-Poma Of America | Grand Junction, CO | 10/23/2026 12:01:28 | Sponsorship: Past Sponsorship |
+| 51 (Good) | [R&D Hardware Electrical Engineer I](https://jobright.ai/jobs/info/6ada856654bbabbab07173d2) | BD | Sparks, MD | 10/23/2026 17:20:27 | Sponsorship: Past Sponsorship |
+| 66 (Good) | [Electrical Engineer Asc - Level 1 - Programmable Logic / FPGA Design](https://jobright.ai/jobs/info/6adaefe091f93f4b057155ff) | Lockheed Martin | Andover, MA | 10/23/2026 12:54:07 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Junior Electrical Engineer (NASA Balloon Program)](https://jobright.ai/jobs/info/6aa382d7626f9945308b123d) | Peraton | Palestine, TX | 10/23/2026 09:16:31 | Sponsorship: No |
 | 72 (Strong) | [Entry-Level Electrical Hardware Engineer - FPGA, Networking & Cybersecurity](https://jobright.ai/jobs/info/6adb3bc59e3e874dbfb9f087) | General Dynamics Mission Systems | Pittsfield, MA | 10/22/2026 15:24:44 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 72 (Strong) | [ASIC FPGA Engineer - Entry Level](https://jobright.ai/jobs/info/6adb48430a4cc7090f972330) | General Dynamics Mission Systems | Boise, ID | 10/22/2026 15:24:46 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6adb3773c5c64fa3d9cae6bc) | ByteDance | San Jose, CA | 10/23/2026 10:31:15 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-10-23 12:28:27Z UTC
 | 56 (Good) | [Electrical Validation Engineer](https://jobright.ai/jobs/info/6a543709d007ee02d95fe118) | ZT Systems | Georgetown, TX | 10/19/2026 14:38:32 | Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Design-for-Test (DFT) Engineer – High-Performance CPU (New Grad)](https://jobright.ai/jobs/info/6ad68b4b54bbabbab06f97e0) | MediaTek | Austin, TX | 10/19/2026 21:27:39 | Sponsorship: Past Sponsorship |
 | 53 (Good) | [Power Electronics Engineer I](https://jobright.ai/jobs/info/6ad6584767bec1d0d9c6dd18) | NASA Jet Propulsion Laboratory | Pasadena, CA | 10/19/2026 12:44:37 | Sponsorship: Past Sponsorship |
-| 62 (Good) | [Embedded Firmware Engineer, Hardware Bring-up & Controls](https://jobs.ashbyhq.com/voyant-photonics/ceb6f734-a027-48f9-89f7-5e9ea95e9fd8) | Voyant Photonics | New York Office (HQ) | 10/19/2026 14:01:54 |  |
-| 35 (Possible) | [Electronic and Electrical Design and Analysis Engineer (Associate or Mid-Level)](https://jobright.ai/jobs/info/6ad61f5067bec1d0d9c6b43b) | Boeing | Dover, DE | 10/19/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I-III](https://jobright.ai/jobs/info/6ad637e6950ef68d51837253) | Modular Power & Data | United States | 10/19/2026 10:29:55 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Submarine Power Plant Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6ad1738618608b6f36f8426c) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [Equipment Validation Engineer](https://jobright.ai/jobs/info/6ad61b9f950ef68d51836239) | Virtue America | Minnesota State | 10/19/2026 13:31:11 | Sponsorship: Past Sponsorship |
