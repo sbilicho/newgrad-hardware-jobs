@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-23 08:49:36Z UTC
+Updated: 2026-10-23 09:50:03Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6adb287f5dc7953215a3155a) | Leonardo DRS | Bridgeton, MO | 10/23/2026 09:27:27 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 51 (Good) | [Jr. Reliability Engineer](https://jobright.ai/jobs/info/6ada6dd4e4b94611ab85c470) | JLL | Malvern, PA | 10/23/2026 00:28:42 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [2027 Associate Electrical Engineer / Electrical Engineer - Roy UT](https://jobright.ai/jobs/info/6ad8b1b6b0725dc268dd51d9) | Northrop Grumman | Roy, UT | 10/22/2026 21:11:25 | Security clearance language is present; Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6adae290cb58d64fcd37167f) | Horizon Lane | California, United States | 10/22/2026 21:29:04 | Sponsorship: Not Sure |
@@ -103,4 +104,3 @@ Updated: 2026-10-23 08:49:36Z UTC
 | 81 (Strong) | [Entry Level DFT Design Engineer](https://jobright.ai/jobs/info/6ad64e46e4b94611ab83d271) | NXP Semiconductors | Austin, TX | 10/19/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Entry Level Test Engineer - M&W](https://jobright.ai/jobs/info/6ad62e2954bbabbab06f5281) | TRAX International Corporation | Yuma, AZ | 10/19/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 72 (Strong) | [New College Grad - Engineer - HBM Design for Test (DFT)](https://jobright.ai/jobs/info/6ad6148e67bec1d0d9c6b01a) | Micron Technology | Richardson, TX | 10/19/2026 13:01:02 | Sponsorship: Past Sponsorship |
-| 82 (Strong) | [Analog Mixed Signal Firmware Engineer](https://jobright.ai/jobs/info/6ad5f402e4b94611ab839960) | Dice | Cupertino, CA | 10/19/2026 10:42:10 | Sponsorship: Past Sponsorship |
