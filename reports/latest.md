@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-23 01:54:46Z UTC
+Updated: 2026-10-23 02:49:10Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer 1 Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6adab01954bbabbab0718776) | Westinghouse Electric Company | Rock Hill, SC | 10/22/2026 17:53:45 | Sponsorship: Not Sure |
 | 52 (Good) | [Entry Level Power Electronics and Analog Design Engineer](https://jobright.ai/jobs/info/6adaa7a103d2da752891744b) | Motorola Solutions | Schaumburg, IL | 10/22/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ada92db54bbabbab0717b9b) | Twenty-Six Defense Maritime | De Leon Springs, FL | 10/22/2026 22:48:59 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 67 (Good) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6acd9d76d113c967e3c7e66e) | Raytheon | McKinney, TX | 10/22/2026 14:33:03 | Security clearance language is present; Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-10-23 01:54:46Z UTC
 | 37 (Possible) | [Controls Engineer I (Seattle, WA)](https://jobright.ai/jobs/info/6ad54ce283ada13a9da0dec9) | Enterprise Automation, A Tetra Tech Company | Irvine, CA | 10/18/2026 15:49:06 | Sponsorship: Not Sure |
 | 65 (Good) | [Analog Design Engineer](https://jobright.ai/jobs/info/6a5a3787856af468ab007460) | OMNIVISION | Irvine, CA | 10/18/2026 10:26:17 | Sponsorship: Not Sure |
 | 50 (Good) | [RF Engineer and Antenna Systems](https://jobright.ai/jobs/info/6aafc3006956574eac8ba3f4) | ITERRA | United States | 10/18/2026 05:19:38 | Sponsorship: No |
-| 62 (Good) | [Signal Integrity Systems Engineer (Entry level to Senior)](https://jobright.ai/jobs/info/6ad4873ef04335fc70edbc1b) | Koch Engineered Solutions | Lisle, IL | 10/18/2026 01:45:50 | Sponsorship: Past Sponsorship |
