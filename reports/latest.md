@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-23 03:49:13Z UTC
+Updated: 2026-10-23 06:56:40Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 51 (Good) | [Jr. Reliability Engineer](https://jobright.ai/jobs/info/6ada6dd4e4b94611ab85c470) | JLL | Malvern, PA | 10/23/2026 00:28:42 | Sponsorship: Past Sponsorship |
+| 43 (Possible) | [2027 Associate Electrical Engineer / Electrical Engineer - Roy UT](https://jobright.ai/jobs/info/6ad8b1b6b0725dc268dd51d9) | Northrop Grumman | Roy, UT | 10/22/2026 21:11:25 | Security clearance language is present; Sponsorship: No |
+| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6adae290cb58d64fcd37167f) | Horizon Lane | California, United States | 10/22/2026 21:29:04 | Sponsorship: Not Sure |
 | 74 (Strong) | [IP Design Verification Engineer](https://jobright.ai/jobs/info/6ada9ee8e4b94611ab85e585) | Intel | Santa Clara, CA | 10/23/2026 01:28:30 | Sponsorship: Past Sponsorship |
 | 70 (Strong) | [IP Design Verification Engineer](https://jobright.ai/jobs/info/6ada9ddc54bbabbab0717fb2) | Intel | Santa Clara, CA; Worcester, MA | 10/22/2026 18:28:30 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [Design Verification Engineer](https://jobright.ai/jobs/info/6adac1652a12e28317a06078) | Microsoft | Hillsboro, OR; Austin, TX; Redmond, WA | 10/22/2026 19:07:33 | Sponsorship: Not Sure |
@@ -101,6 +104,3 @@ Updated: 2026-10-23 03:49:13Z UTC
 | 46 (Possible) | [Entry Level Test Engineer - M&W](https://jobright.ai/jobs/info/6ad62e2954bbabbab06f5281) | TRAX International Corporation | Yuma, AZ | 10/19/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 72 (Strong) | [New College Grad - Engineer - HBM Design for Test (DFT)](https://jobright.ai/jobs/info/6ad6148e67bec1d0d9c6b01a) | Micron Technology | Richardson, TX | 10/19/2026 13:01:02 | Sponsorship: Past Sponsorship |
 | 82 (Strong) | [Analog Mixed Signal Firmware Engineer](https://jobright.ai/jobs/info/6ad5f402e4b94611ab839960) | Dice | Cupertino, CA | 10/19/2026 10:42:10 | Sponsorship: Past Sponsorship |
-| 32 (Possible) | [VLSI Engineer I -](https://jobright.ai/jobs/info/6ad57b00810010ec72f60611) | Hewlett Packard Enterprise | Roseville, CA | 10/18/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Entry Level Electrical Design Engineer (University of Michigan 2026)](https://jobright.ai/jobs/info/6ad5c26c950ef68d51830d64) | DMC Engineering | Chicago, IL | 10/19/2026 07:10:36 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Test Engineer I](https://jobright.ai/jobs/info/6ad5d39ce4b94611ab837233) | Deel | Lakewood, NJ | 10/18/2026 22:00:00 | Sponsorship: Not Sure |
