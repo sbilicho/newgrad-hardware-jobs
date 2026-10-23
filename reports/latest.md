@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-23 10:49:31Z UTC
+Updated: 2026-10-23 12:28:27Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 72 (Strong) | [Entry-Level Electrical Hardware Engineer - FPGA, Networking & Cybersecurity](https://jobright.ai/jobs/info/6adb3bc59e3e874dbfb9f087) | General Dynamics Mission Systems | Pittsfield, MA | 10/22/2026 15:24:44 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 72 (Strong) | [ASIC FPGA Engineer - Entry Level](https://jobright.ai/jobs/info/6adb48430a4cc7090f972330) | General Dynamics Mission Systems | Boise, ID | 10/22/2026 15:24:46 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6adb3773c5c64fa3d9cae6bc) | ByteDance | San Jose, CA | 10/23/2026 10:31:15 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6adb287f5dc7953215a3155a) | Leonardo DRS | Bridgeton, MO | 10/23/2026 09:27:27 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 51 (Good) | [Jr. Reliability Engineer](https://jobright.ai/jobs/info/6ada6dd4e4b94611ab85c470) | JLL | Malvern, PA | 10/23/2026 00:28:42 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-10-23 10:49:31Z UTC
 | 41 (Possible) | [Electrical Engineer I-III](https://jobright.ai/jobs/info/6ad637e6950ef68d51837253) | Modular Power & Data | United States | 10/19/2026 10:29:55 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Submarine Power Plant Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6ad1738618608b6f36f8426c) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 08/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Equipment Validation Engineer](https://jobright.ai/jobs/info/6ad61b9f950ef68d51836239) | Virtue America | Minnesota State | 10/19/2026 13:31:11 | Sponsorship: Past Sponsorship |
-| 81 (Strong) | [Entry Level DFT Design Engineer](https://jobright.ai/jobs/info/6ad64e46e4b94611ab83d271) | NXP Semiconductors | Austin, TX | 10/19/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Entry Level Test Engineer - M&W](https://jobright.ai/jobs/info/6ad62e2954bbabbab06f5281) | TRAX International Corporation | Yuma, AZ | 10/19/2026 05:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
