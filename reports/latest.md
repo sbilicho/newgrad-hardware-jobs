@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-23 17:31:24Z UTC
+Updated: 2026-10-23 20:38:26Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Entry-Level Electrical Engineer (Power System Studies) - Hybrid \| Pittsburgh Area](https://jobright.ai/jobs/info/6adbb8865dc7953215a341bf) | Pioneer Power Group | Wexford, PA | 10/23/2026 19:41:58 | Sponsorship: Past Sponsorship |
+| 59 (Good) | [EV Charging Systems QA & Test Engineer (Entry-Level)](https://jobright.ai/jobs/info/6adbbc1846a8cabdc1ff473b) | DynaChrg | United States | 10/23/2026 19:57:12 | Sponsorship: Past Sponsorship |
+| 59 (Good) | [Entry Level - EV Charging Systems QA Test Engineer](https://jobright.ai/jobs/info/6adbbfb546a8cabdc1ff4862) | DynaChrg | Calabasas, CA | 10/23/2026 20:12:37 | Sponsorship: Past Sponsorship |
+| 58 (Good) | [Electrical Design Engineer I - Entry Level](https://jobright.ai/jobs/info/6adbba21389e06bb41ad3823) | Insight Global | Simsbury, CT | 10/23/2026 19:48:49 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Electrical Engineer Asc - Level 1](https://jobright.ai/jobs/info/6adaefeb5dc7953215a2fe7a) | Lockheed Martin | Andover, MA | 10/23/2026 12:54:13 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6adb98115dc7953215a337a1) | Leitner-Poma Of America | Grand Junction, CO | 10/23/2026 12:01:28 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [R&D Hardware Electrical Engineer I](https://jobright.ai/jobs/info/6ada856654bbabbab07173d2) | BD | Sparks, MD | 10/23/2026 17:20:27 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-10-23 17:31:24Z UTC
 | 41 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ad69138e4b94611ab840397) | HireTalent | Ashland, WI | 10/19/2026 21:52:56 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I (Distribution Standards)](https://jobright.ai/jobs/info/6ad66906e4b94611ab83e712) | Liberty | Joplin, MO | 10/19/2026 19:01:26 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry Level Electrical Engineer -  #26-26510](https://jobright.ai/jobs/info/6ad68c2d950ef68d5183b304) | US Tech Solutions | Tempe, AZ | 10/19/2026 21:31:25 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry level Electrical Engineer](https://jobright.ai/jobs/info/6ad68c4054bbabbab06f984b) | HireTalent | Mankato, MN | 10/19/2026 21:31:44 | Sponsorship: Past Sponsorship |
-| 56 (Good) | [Electrical Validation Engineer](https://jobright.ai/jobs/info/6a543709d007ee02d95fe118) | ZT Systems | Georgetown, TX | 10/19/2026 14:38:32 | Sponsorship: Past Sponsorship |
-| 79 (Strong) | [Design-for-Test (DFT) Engineer – High-Performance CPU (New Grad)](https://jobright.ai/jobs/info/6ad68b4b54bbabbab06f97e0) | MediaTek | Austin, TX | 10/19/2026 21:27:39 | Sponsorship: Past Sponsorship |
-| 53 (Good) | [Power Electronics Engineer I](https://jobright.ai/jobs/info/6ad6584767bec1d0d9c6dd18) | NASA Jet Propulsion Laboratory | Pasadena, CA | 10/19/2026 12:44:37 | Sponsorship: Past Sponsorship |
