@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-23 20:38:26Z UTC
+Updated: 2026-10-23 23:35:04Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 65 (Good) | [Electrical Engineer Asc - Level 1](https://jobright.ai/jobs/info/6adbaa410a4cc7090f9741f2) | Lockheed Martin | Orlando, FL | 10/23/2026 18:41:05 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I-1854](https://jobright.ai/jobs/info/6adb62ab46a8cabdc1ff297e) | PIP Global Safety | North Charleston, SC | 10/23/2026 18:39:16 | Sponsorship: Past Sponsorship |
+| 70 (Strong) | [FPGA Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6adbc794c5c64fa3d9cb1257) | RTX | Fort Wayne, IN | 10/23/2026 21:19:29 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 95 (Strong) | [CPU IP Design & Verification Engineer – RISC-V (2027 New College Graduate)](https://jobright.ai/jobs/info/6adbc798c5c64fa3d9cb125d) | GlobalFoundries | Austin, TX | 10/23/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 95 (Strong) | [CPU IP Design & Verification Engineer – RISC-V (2027 New College Graduate)](https://jobright.ai/jobs/info/6adbc670c5c64fa3d9cb119b) | GlobalFoundries | Austin, TX | 10/23/2026 20:41:20 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry-Level Electrical Engineer (Power System Studies) - Hybrid \| Pittsburgh Area](https://jobright.ai/jobs/info/6adbb8865dc7953215a341bf) | Pioneer Power Group | Wexford, PA | 10/23/2026 19:41:58 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [EV Charging Systems QA & Test Engineer (Entry-Level)](https://jobright.ai/jobs/info/6adbbc1846a8cabdc1ff473b) | DynaChrg | United States | 10/23/2026 19:57:12 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Entry Level - EV Charging Systems QA Test Engineer](https://jobright.ai/jobs/info/6adbbfb546a8cabdc1ff4862) | DynaChrg | Calabasas, CA | 10/23/2026 20:12:37 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-10-23 20:38:26Z UTC
 | 60 (Good) | [Signal Integrity Engineer](https://jobright.ai/jobs/info/6ad768f354bbabbab06fe2b2) | Pure Storage | Santa Clara, CA | 10/20/2026 06:13:23 | Sponsorship: Not Sure |
 | 46 (Possible) | [Reliability Engineer M-F  ($5,000 Sign-on Bonus )](https://jobright.ai/jobs/info/6ad6ad2c52aa6152bb697b78) | Mars | Tomah, WI | 10/19/2026 20:06:01 | Sponsorship: Not Sure |
 | 54 (Good) | [Electrical Engineer - EOSL-Open Rank (Entry-Junior Level)](https://jobright.ai/jobs/info/6ad6d4e852aa6152bb698954) | Georgia Tech Research Institute | Atlanta, GA | 10/20/2026 02:41:44 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Flight Test Engineer - Camera Quality](https://jobright.ai/jobs/info/6ad6a959e4b94611ab8410f9) | Skydio | San Mateo, CA | 10/19/2026 16:35:53 | Sponsorship: Not Sure |
-| 41 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6ad6aa7f52aa6152bb697a8b) | HireTalent | La Crosse, WI | 10/19/2026 21:40:14 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ad69138e4b94611ab840397) | HireTalent | Ashland, WI | 10/19/2026 21:52:56 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I (Distribution Standards)](https://jobright.ai/jobs/info/6ad66906e4b94611ab83e712) | Liberty | Joplin, MO | 10/19/2026 19:01:26 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry Level Electrical Engineer -  #26-26510](https://jobright.ai/jobs/info/6ad68c2d950ef68d5183b304) | US Tech Solutions | Tempe, AZ | 10/19/2026 21:31:25 | Sponsorship: Past Sponsorship |
