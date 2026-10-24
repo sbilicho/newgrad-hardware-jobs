@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-24 13:02:19Z UTC
+Updated: 2026-10-24 15:52:59Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 33 (Possible) | [New College Grad - Product Yield Enhancement Engineer, HBM](https://jobright.ai/jobs/info/6abd2d85372c01f6cd71ea61) | Micron Technology | Boise, ID | 10/24/2026 09:51:36 | Sponsorship: Past Sponsorship |
+| 32 (Possible) | [Senior Engineer I - Validation (ASIC)](https://jobright.ai/jobs/info/6ad0f30eae21edea94fd2273) | Microchip Technology Inc. | Bernards, NJ | 10/24/2026 13:47:36 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6adb8faa46a8cabdc1ff3916) | RTX | Bellevue, IA | 10/24/2026 03:11:38 | Sponsorship: No |
 | 88 (Strong) | [GPU Design Verification Engineer](https://jobright.ai/jobs/info/6abefa0d0e027c0f3b39bf3c) | Qualcomm | Boxborough, MA | 10/24/2026 03:49:18 | Sponsorship: Not Sure |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ac29ddf064da25272e0d2d5) | ByteDance | San Jose, CA | 10/24/2026 09:32:01 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-10-24 13:02:19Z UTC
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad789ae54bbabbab06ff5d9) | Twenty-Six Defense | Talladega, AL | 10/20/2026 15:29:20 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Hardware Engineer 1](https://jobright.ai/jobs/info/6ad79ca854bbabbab0700394) | Dell Technologies | Austin, TX | 10/20/2026 16:54:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad77de03dc655658d8ecb5c) | Plasma-Therm | St. Petersburg, FL | 10/20/2026 14:42:40 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer (Entry Level – EIT)](https://jobright.ai/jobs/info/6ad77f103dc655658d8eccc8) | CONFLUX SYSTEMS | Moncks Corner, SC | 10/20/2026 14:47:44 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Controls Engineer](https://jobright.ai/jobs/info/6abadad8ee0b348be729be75) | Brooks Automation | Chelmsford, MA | 10/20/2026 06:29:59 | Sponsorship: Not Sure |
