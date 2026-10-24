@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-24 15:52:59Z UTC
+Updated: 2026-10-24 17:48:16Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad5bf7a950ef68d518308ac) | Bowman Consulting | Herndon, VA | 10/24/2026 14:42:31 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [RF/Microwave Electrical Engineer I - Production Support (Onsite)](https://jobright.ai/jobs/info/6ab58e2cd85922de20ce1f90) | Raytheon | El Segundo, CA | 10/24/2026 09:26:20 | Security clearance language is present; Sponsorship: No |
 | 33 (Possible) | [New College Grad - Product Yield Enhancement Engineer, HBM](https://jobright.ai/jobs/info/6abd2d85372c01f6cd71ea61) | Micron Technology | Boise, ID | 10/24/2026 09:51:36 | Sponsorship: Past Sponsorship |
 | 32 (Possible) | [Senior Engineer I - Validation (ASIC)](https://jobright.ai/jobs/info/6ad0f30eae21edea94fd2273) | Microchip Technology Inc. | Bernards, NJ | 10/24/2026 13:47:36 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6adb8faa46a8cabdc1ff3916) | RTX | Bellevue, IA | 10/24/2026 03:11:38 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-10-24 15:52:59Z UTC
 | 37 (Possible) | [Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5265435007?gh_jid=5265435007) | Anduril Industries | Quincy, Massachusetts, United States | 10/20/2026 17:06:18 | Security clearance language is present |
 | 86 (Strong) | [Digital Design Engineer (FF - 64000927)](https://jobright.ai/jobs/info/6ac50e4c372c01f6cd737437) | Cirrus Logic | Austin, TX | 10/20/2026 16:29:07 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad789ae54bbabbab06ff5d9) | Twenty-Six Defense | Talladega, AL | 10/20/2026 15:29:20 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Hardware Engineer 1](https://jobright.ai/jobs/info/6ad79ca854bbabbab0700394) | Dell Technologies | Austin, TX | 10/20/2026 16:54:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad77de03dc655658d8ecb5c) | Plasma-Therm | St. Petersburg, FL | 10/20/2026 14:42:40 | Sponsorship: Past Sponsorship |
