@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-23 23:35:04Z UTC
+Updated: 2026-10-24 01:58:20Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 62 (Good) | [Entry Level IBM Z Engineering System Test Hardware Engineer - Poughkeepsie, NY - 2027](https://jobright.ai/jobs/info/6adbfe789e3e874dbfba2e39) | Dice | Poughkeepsie, NY | 10/24/2026 00:40:24 | Sponsorship: Past Sponsorship |
+| 85 (Strong) | [ASIC Design Engineer (Silicon Engineering)](https://jobright.ai/jobs/info/6ac98547c3a8af9c54a0b04a) | SpaceX | Palo Alto, CA | 10/23/2026 17:42:07 | Sponsorship: No |
+| 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6adbaeff0a4cc7090f9743bb) | Leidos | Washington, DC | 10/23/2026 17:47:12 | Sponsorship: No |
 | 65 (Good) | [Electrical Engineer Asc - Level 1](https://jobright.ai/jobs/info/6adbaa410a4cc7090f9741f2) | Lockheed Martin | Orlando, FL | 10/23/2026 18:41:05 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I-1854](https://jobright.ai/jobs/info/6adb62ab46a8cabdc1ff297e) | PIP Global Safety | North Charleston, SC | 10/23/2026 18:39:16 | Sponsorship: Past Sponsorship |
 | 70 (Strong) | [FPGA Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6adbc794c5c64fa3d9cb1257) | RTX | Fort Wayne, IN | 10/23/2026 21:19:29 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-10-23 23:35:04Z UTC
 | 40 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (January 2027)](https://jobright.ai/jobs/info/6ad7709554bbabbab06fe685) | Sargent & Lundy | Farmington Hills, MI | 10/20/2026 13:45:57 | Sponsorship: Past Sponsorship |
 | 32 (Possible) | [VLSI Engineer I -](https://jobright.ai/jobs/info/6ad58518ebd52f378af9007d) | Hewlett Packard Enterprise | Roseville, CA | 10/19/2026 23:28:09 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Assistant Electrical Engineer](https://jobright.ai/jobs/info/6ad7599867bec1d0d9c748cd) | Metropolitan Transportation Authority | Brooklyn, NY | 10/20/2026 05:07:52 | Sponsorship: Not Sure |
-| 60 (Good) | [Signal Integrity Engineer](https://jobright.ai/jobs/info/6ad768f354bbabbab06fe2b2) | Pure Storage | Santa Clara, CA | 10/20/2026 06:13:23 | Sponsorship: Not Sure |
-| 46 (Possible) | [Reliability Engineer M-F  ($5,000 Sign-on Bonus )](https://jobright.ai/jobs/info/6ad6ad2c52aa6152bb697b78) | Mars | Tomah, WI | 10/19/2026 20:06:01 | Sponsorship: Not Sure |
-| 54 (Good) | [Electrical Engineer - EOSL-Open Rank (Entry-Junior Level)](https://jobright.ai/jobs/info/6ad6d4e852aa6152bb698954) | Georgia Tech Research Institute | Atlanta, GA | 10/20/2026 02:41:44 | Security clearance language is present; Sponsorship: Past Sponsorship |
