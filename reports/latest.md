@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-24 10:35:17Z UTC
+Updated: 2026-10-24 11:34:15Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6adb8faa46a8cabdc1ff3916) | RTX | Bellevue, IA | 10/24/2026 03:11:38 | Sponsorship: No |
+| 88 (Strong) | [GPU Design Verification Engineer](https://jobright.ai/jobs/info/6abefa0d0e027c0f3b39bf3c) | Qualcomm | Boxborough, MA | 10/24/2026 03:49:18 | Sponsorship: Not Sure |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ac29ddf064da25272e0d2d5) | ByteDance | San Jose, CA | 10/24/2026 09:32:01 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Entry Level IBM Z Engineering System Test Hardware Engineer - Poughkeepsie, NY - 2027](https://jobright.ai/jobs/info/6adbfe789e3e874dbfba2e39) | Dice | Poughkeepsie, NY | 10/24/2026 00:40:24 | Sponsorship: Past Sponsorship |
 | 85 (Strong) | [ASIC Design Engineer (Silicon Engineering)](https://jobright.ai/jobs/info/6ac98547c3a8af9c54a0b04a) | SpaceX | Palo Alto, CA | 10/23/2026 17:42:07 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-10-24 10:35:17Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad77de03dc655658d8ecb5c) | Plasma-Therm | St. Petersburg, FL | 10/20/2026 14:42:40 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer (Entry Level – EIT)](https://jobright.ai/jobs/info/6ad77f103dc655658d8eccc8) | CONFLUX SYSTEMS | Moncks Corner, SC | 10/20/2026 14:47:44 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Controls Engineer](https://jobright.ai/jobs/info/6abadad8ee0b348be729be75) | Brooks Automation | Chelmsford, MA | 10/20/2026 06:29:59 | Sponsorship: Not Sure |
-| 40 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (January 2027)](https://jobright.ai/jobs/info/6ad7709554bbabbab06fe685) | Sargent & Lundy | Farmington Hills, MI | 10/20/2026 13:45:57 | Sponsorship: Past Sponsorship |
-| 32 (Possible) | [VLSI Engineer I -](https://jobright.ai/jobs/info/6ad58518ebd52f378af9007d) | Hewlett Packard Enterprise | Roseville, CA | 10/19/2026 23:28:09 | Sponsorship: Past Sponsorship |
