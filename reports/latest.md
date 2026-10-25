@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-25 19:07:52Z UTC
+Updated: 2026-10-25 21:46:52Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Electrical Engineer, Junior](https://jobright.ai/jobs/info/6a55ba73ef22935f2e3f645d) | KAIROS, Inc. | Newport, RI | 10/25/2026 12:04:12 | Sponsorship: No |
+| 37 (Possible) | [Electrical Engineer, Junior](https://jobright.ai/jobs/info/69ffeaf4c4b08448a0b19bd4) | KAIROS, Inc. | Newport, RI | 10/25/2026 12:04:12 | Sponsorship: No |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ad781de54bbabbab06ff162) | ByteDance | San Jose, CA | 10/24/2026 15:29:45 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad5bf6be4b94611ab835651) | Bowman Consulting | Towson, MD | 10/24/2026 14:42:31 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad5bf7a950ef68d518308ac) | Bowman Consulting | Herndon, VA | 10/24/2026 14:42:31 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-10-25 19:07:52Z UTC
 | 75 (Strong) | [Hardware Verification Engineer, New College Graduate,](https://jobright.ai/jobs/info/6ad7e2cae4b94611ab849e7b) | Teradyne | Agoura Hills, CA | 10/20/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Product Development Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ad79f793dc655658d8ee2d8) | RTX | Tucson, AZ | 10/20/2026 14:19:50 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer, Hardware Reliability (Build Reliability)](https://boards.greenhouse.io/spacex/jobs/8903622002?gh_jid=8903622002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 10/20/2026 18:21:24 |  |
-| 45 (Possible) | [Entry Level IBM Z Engineering System Test Hardware Engineer - Poughkeepsie, NY - 2027](https://jobright.ai/jobs/info/6ad7b5aa67bec1d0d9c781ae) | IBM | Poughkeepsie, NY | 10/20/2026 18:40:42 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5265435007?gh_jid=5265435007) | Anduril Industries | Quincy, Massachusetts, United States | 10/20/2026 17:06:18 | Security clearance language is present |
