@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-25 16:11:52Z UTC
+Updated: 2026-10-25 19:07:52Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ad781de54bbabbab06ff162) | ByteDance | San Jose, CA | 10/24/2026 15:29:45 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad5bf6be4b94611ab835651) | Bowman Consulting | Towson, MD | 10/24/2026 14:42:31 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad5bf7a950ef68d518308ac) | Bowman Consulting | Herndon, VA | 10/24/2026 14:42:31 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [RF/Microwave Electrical Engineer I - Production Support (Onsite)](https://jobright.ai/jobs/info/6ab58e2cd85922de20ce1f90) | Raytheon | El Segundo, CA | 10/24/2026 09:26:20 | Security clearance language is present; Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-10-25 16:11:52Z UTC
 | 48 (Possible) | [Electrical Engineer, Hardware Reliability (Build Reliability)](https://boards.greenhouse.io/spacex/jobs/8903622002?gh_jid=8903622002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 10/20/2026 18:21:24 |  |
 | 45 (Possible) | [Entry Level IBM Z Engineering System Test Hardware Engineer - Poughkeepsie, NY - 2027](https://jobright.ai/jobs/info/6ad7b5aa67bec1d0d9c781ae) | IBM | Poughkeepsie, NY | 10/20/2026 18:40:42 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5265435007?gh_jid=5265435007) | Anduril Industries | Quincy, Massachusetts, United States | 10/20/2026 17:06:18 | Security clearance language is present |
-| 86 (Strong) | [Digital Design Engineer (FF - 64000927)](https://jobright.ai/jobs/info/6ac50e4c372c01f6cd737437) | Cirrus Logic | Austin, TX | 10/20/2026 16:29:07 | Sponsorship: Past Sponsorship |
