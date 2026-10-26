@@ -20,6 +20,7 @@ $alertsDirectory = Join-Path $ProjectRoot 'alerts'
 $healthPath = Join-Path $ProjectRoot 'health/status.json'
 $siteSourceDirectory = Join-Path $ProjectRoot 'site'
 $utf8NoBom = New-Object System.Text.UTF8Encoding($false)
+Import-Module (Join-Path $ProjectRoot 'lib/JobMonitor.psm1') -Force -DisableNameChecking
 
 foreach ($requiredPath in @($alertsDirectory, $healthPath, $siteSourceDirectory)) {
     if (-not (Test-Path -LiteralPath $requiredPath)) {
@@ -65,7 +66,7 @@ function Test-FirstPartyAlert {
     $sourceKinds = if ($Alert.PSObject.Properties['SourceKinds']) { @($Alert.SourceKinds) } else { @() }
     $sourceIds = if ($Alert.PSObject.Properties['SourceIds']) { @($Alert.SourceIds) } else { @() }
     return (
-        @($sourceKinds | Where-Object { @('greenhouse', 'lever', 'ashby') -contains ([string]$_).ToLowerInvariant() }).Count -gt 0 -or
+        @($sourceKinds | Where-Object { @('greenhouse', 'lever', 'ashby', 'workday', 'eightfold') -contains ([string]$_).ToLowerInvariant() }).Count -gt 0 -or
         @($sourceIds | Where-Object { [string]$_ -like 'company_*' }).Count -gt 0
     )
 }
@@ -102,6 +103,8 @@ $sortedAlerts = @(
 
 $publicJobs = New-Object System.Collections.Generic.List[object]
 foreach ($alert in $sortedAlerts) {
+    $geography = [pscustomobject]@{ Location = [string]$alert.Location; Country = '' }
+    if (-not (Test-IsUnitedStatesLocation -Job $geography)) { continue }
     $isFirstParty = Test-FirstPartyAlert $alert
     $detailUrl = Get-SafePublicUrl ([string]$alert.DetailUrl)
     $applyUrl = if ($alert.PSObject.Properties['ApplyUrl']) { Get-SafePublicUrl ([string]$alert.ApplyUrl) } else { $null }
@@ -139,7 +142,7 @@ foreach ($alert in $sortedAlerts) {
 }
 
 $health = Get-Content -LiteralPath $healthPath -Raw | ConvertFrom-Json
-$directKinds = @('greenhouse', 'lever', 'ashby')
+$directKinds = @('greenhouse', 'lever', 'ashby', 'workday', 'eightfold')
 $companyBoards = New-Object System.Collections.Generic.List[object]
 if ($health.PSObject.Properties['Sources']) {
     $directSources = @($health.Sources | Where-Object { $directKinds -contains ([string]$_.Kind).ToLowerInvariant() })
@@ -151,6 +154,10 @@ if ($health.PSObject.Properties['Sources']) {
             company    = [string]$group.Name
             healthy    = @($members | Where-Object { [bool]$_.Success }).Count -eq $members.Count
             careersUrl = $careersUrl
+            issue      = (@($members | ForEach-Object {
+                if ($_.PSObject.Properties['Error'] -and $_.Error) { [string]$_.Error }
+                if ($_.PSObject.Properties['Warning'] -and $_.Warning) { [string]$_.Warning }
+            }) -join '; ')
         })
     }
 }
@@ -190,7 +197,7 @@ if (-not (Test-Path -LiteralPath $dataDirectory)) {
     [void](New-Item -ItemType Directory -Path $dataDirectory -Force)
 }
 
-foreach ($assetName in @('index.html', 'styles.css', 'app.js', 'site.webmanifest', 'robots.txt')) {
+foreach ($assetName in @('index.html', 'styles.css', 'app.js', 'site.webmanifest', 'robots.txt', 'outreach.html', 'outreach.js')) {
     $sourcePath = Join-Path $siteSourceDirectory $assetName
     if (-not (Test-Path -LiteralPath $sourcePath)) {
         throw "Required site asset is missing: $sourcePath"
@@ -203,6 +210,35 @@ $healthJson = ConvertTo-Json -InputObject $publicHealth -Depth 8
 Write-Utf8File -Path (Join-Path $dataDirectory 'jobs.json') -Content ($jobsJson + [Environment]::NewLine)
 Write-Utf8File -Path (Join-Path $dataDirectory 'health.json') -Content ($healthJson + [Environment]::NewLine)
 Write-Utf8File -Path (Join-Path $OutputDirectory '.nojekyll') -Content ''
+
+$outreachPath = Join-Path $ProjectRoot 'config/outreach.json'
+if (Test-Path -LiteralPath $outreachPath) {
+    $outreach = Get-Content -LiteralPath $outreachPath -Raw | ConvertFrom-Json
+    $companyConfig = Get-Content -LiteralPath (Join-Path $ProjectRoot 'config/company_sources.json') -Raw | ConvertFrom-Json
+    $names = @(@($companyConfig.directBoards | ForEach-Object { [string]$_.company }) + @($companyConfig.broadRoleCoverageCompanies) | Sort-Object -Unique)
+    $directory = foreach ($name in $names) {
+        $board = @($companyConfig.directBoards | Where-Object { $_.company -eq $name } | Select-Object -First 1)
+        $sourceHealth = @($companyBoards | Where-Object { $_.company -eq $name } | Select-Object -First 1)
+        $coverageText = 'Aggregator role searches + manual company searches; no direct feed configured.'
+        if ($board.Count -gt 0) {
+            $coverageText = if ($sourceHealth.Count -eq 0) { 'Direct feed configured; awaiting first scan.' }
+                elseif ($sourceHealth[0].healthy) { 'Automatic direct company feed: healthy.' }
+                else { 'Direct feed needs attention. Use company careers or web search while it recovers.' }
+            if ($sourceHealth.Count -gt 0 -and $sourceHealth[0].issue) { $coverageText += ' ' + $sourceHealth[0].issue }
+        }
+        $jobQuery = '"' + $name + '" (ASIC OR RTL OR semiconductor OR EDA OR hardware) ("new grad" OR "entry level" OR "engineer I") (USA OR "United States")'
+        $postQuery = $name + ' hiring (ASIC OR RTL OR physical design OR EDA) (United States OR USA)'
+        [pscustomobject]@{
+            company = $name; coverage = $coverageText
+            careersUrl = if ($board.Count -gt 0) { Get-SafePublicUrl $board[0].careersUrl } else { $null }
+            jobSearchUrl = 'https://www.google.com/search?q=' + [Uri]::EscapeDataString($jobQuery)
+            postSearchUrl = 'https://www.linkedin.com/search/results/content/?keywords=' + [Uri]::EscapeDataString($postQuery) + '&sortBy=%22date_posted%22'
+            webPostSearchUrl = 'https://www.google.com/search?q=' + [Uri]::EscapeDataString('site:linkedin.com/posts/ ' + $postQuery) + '&tbs=qdr:m'
+        }
+    }
+    $outreach | Add-Member -NotePropertyName companies -NotePropertyValue @($directory) -Force
+    Write-Utf8File -Path (Join-Path $dataDirectory 'outreach.json') -Content ($outreach | ConvertTo-Json -Depth 10)
+}
 
 $generatedText = (Get-Content -LiteralPath (Join-Path $OutputDirectory 'index.html') -Raw) + $jobsJson + $healthJson
 $forbiddenPatterns = @(

@@ -1,7 +1,64 @@
 {
-  "version": 1,
+  "version": 2,
   "minimumHealthyPercent": 95,
   "directBoards": [
+    {
+      "id": "cadence", "provider": "workday", "company": "Cadence", "board": "cadence",
+      "url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
+      "careersUrl": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+      "tags": "semiconductor EDA software CAD methodology verification applications timing RTL", "queries": [""], "maxPages": 35, "maxDetails": 45
+    },
+    {
+      "id": "marvell", "provider": "workday", "company": "Marvell", "board": "marvell",
+      "url": "https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/MarvellCareers/jobs",
+      "careersUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers",
+      "tags": "semiconductor ASIC SoC IC design RTL verification physical design applications", "queries": [""], "maxPages": 20, "maxDetails": 45
+    },
+    {
+      "id": "microchip", "provider": "workday", "company": "Microchip Technology", "board": "microchiphr",
+      "url": "https://microchiphr.wd5.myworkdayjobs.com/wday/cxs/microchiphr/External/jobs",
+      "careersUrl": "https://microchiphr.wd5.myworkdayjobs.com/External",
+      "tags": "semiconductor analog mixed signal FPGA RTL ASIC test product applications", "queries": [""], "maxPages": 30, "maxDetails": 45
+    },
+    {
+      "id": "broadcom", "provider": "workday", "company": "Broadcom", "board": "broadcom",
+      "url": "https://broadcom.wd1.myworkdayjobs.com/wday/cxs/broadcom/External_Career/jobs",
+      "careersUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career",
+      "tags": "semiconductor ASIC SoC IC design RTL verification physical design EDA", "queries": [""], "maxPages": 30, "maxDetails": 60
+    },
+    {
+      "id": "intel", "provider": "workday", "company": "Intel", "board": "intel",
+      "url": "https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs",
+      "careersUrl": "https://intel.wd1.myworkdayjobs.com/External",
+      "tags": "semiconductor CPU ASIC SoC RTL verification physical design CAD methodology", "queries": [""], "maxPages": 40, "maxDetails": 60
+    },
+    {
+      "id": "nvidia", "provider": "workday", "company": "NVIDIA", "board": "nvidia",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs",
+      "careersUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+      "tags": "semiconductor GPU ASIC SoC RTL DFT physical design verification silicon", "queries": ["new college", "new graduate"], "maxPages": 15, "maxDetails": 60
+    },
+    {
+      "id": "qualcomm", "provider": "eightfold", "company": "Qualcomm", "board": "qualcomm.com",
+      "url": "https://careers.qualcomm.com/api/pcsx/search?domain=qualcomm.com&query=hardware&location=United%20States&start=0",
+      "careersUrl": "https://careers.qualcomm.com/careers?domain=qualcomm.com",
+      "tags": "semiconductor ASIC SoC RTL physical design verification silicon CAD", "queries": ["ASIC", "physical design", "hardware", "verification", "EDA"], "maxPages": 10, "maxDetails": 40
+    },
+    {
+      "id": "cerebras", "provider": "ashby", "company": "Cerebras Systems", "board": "cerebras",
+      "url": "https://api.ashbyhq.com/posting-api/job-board/cerebras",
+      "careersUrl": "https://jobs.ashbyhq.com/cerebras", "tags": "semiconductor AI accelerator ASIC RTL physical design EDA hardware"
+    },
+    {
+      "id": "d_matrix", "provider": "ashby", "company": "d-Matrix", "board": "d-Matrix",
+      "url": "https://api.ashbyhq.com/posting-api/job-board/d-Matrix",
+      "careersUrl": "https://jobs.ashbyhq.com/d-Matrix", "tags": "semiconductor AI accelerator ASIC SoC verification physical design silicon"
+    },
+    {
+      "id": "eliyan", "provider": "lever", "company": "Eliyan", "board": "eliyan",
+      "url": "https://api.lever.co/v0/postings/eliyan?mode=json",
+      "careersUrl": "https://jobs.lever.co/eliyan", "tags": "semiconductor chiplet IC design PHY analog RTL verification"
+    },
     {
       "id": "spacex",
       "provider": "greenhouse",
@@ -112,11 +169,11 @@
     },
     {
       "id": "matx",
-      "provider": "greenhouse",
+      "provider": "ashby",
       "company": "MatX",
       "board": "matx",
-      "url": "https://boards-api.greenhouse.io/v1/boards/matx/jobs?content=true",
-      "careersUrl": "https://job-boards.greenhouse.io/matx",
+      "url": "https://api.ashbyhq.com/posting-api/job-board/matx",
+      "careersUrl": "https://jobs.ashbyhq.com/matx",
       "tags": "semiconductor AI accelerator ASIC SoC RTL DFT physical design verification silicon"
     },
     {
@@ -392,6 +449,12 @@
     "Tetramem",
     "Ventana Micro Systems",
     "Xscape Photonics",
-    "Zero ASIC"
+    "Zero ASIC",
+    "Atomic Semi", "OpenAI Hardware", "Silicon Labs", "Silicon Motion", "Silergy", "Monolithic Power Systems",
+    "MaxLinear", "Ambarella", "Credo", "Rambus", "Realtek", "Achronix", "QuickLogic", "eInfochips", "Tessolve",
+    "Mirafra", "MosChip", "Capgemini Engineering", "HCLTech", "Wipro", "LTTS", "Quest Global", "ACL Digital",
+    "Synapse Design", "Sondrel", "VeriSilicon", "Arteris", "SiFive", "Esperanto Technologies", "Positron AI",
+    "FuriosaAI", "Rebellions", "Fractile", "Ramius", "Vaire Computing", "Tachyum", "Efficient Computer",
+    "VSORA", "Speedata", "Salience Labs", "Scintil Photonics", "DustPhotonics", "Alphawave Semi"
   ]
 }

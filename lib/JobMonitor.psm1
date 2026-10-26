@@ -733,6 +733,15 @@ function Get-RequiredExperience {
     param([Parameter(Mandatory = $true)]$Job)
 
     $text = @($Job.Title, $Job.Requirements, $Job.Summary) -join ' '
+    $text = [regex]::Split($text, '(?i)preferred\s+(?:qualifications|skills|experience)|nice\s+to\s+have')[0]
+    # Honor the master's alternative instead of rejecting an eligible new graduate on the bachelor's requirement.
+    if ($text -match '(?i)(?:new\s+grad(?:uate)?\s+(?:MSEE|MS(?:EE)?(?:/CS)?|master)|(?:MSEE|MS/CS|master.{0,12}degree)\s*\(?(?:new\s+grad|no\s+(?:prior\s+)?experience))') {
+        return [pscustomobject]@{ RequiredMinimumYears = 0 }
+    }
+    $mastersBranch = [regex]::Match($text, '(?i)(?:master.{0,8}(?:degree)?|MSEE|MS/CS)\s*(?:with|and|\+)?\s*(\d+)\+?\s*(?:years|yrs)')
+    if ($mastersBranch.Success -and $text -match '(?i)\bor\b|bachelor|\bBSEE\b') {
+        return [pscustomobject]@{ RequiredMinimumYears = [int]$mastersBranch.Groups[1].Value }
+    }
     $requiredValues = New-Object System.Collections.Generic.List[int]
     $patterns = @(
         '(?i)(?:minimum(?:\s+of)?|at\s+least|required|requires|must\s+have)\D{0,16}(\d+)\+?\s*(?:years|yrs)',
@@ -768,6 +777,9 @@ function Test-IsUnitedStatesLocation {
     if ($geo -match '(?i)\b(united states(?: of america)?|u\.?s\.?a\.?|us remote|remote[ ,/-]+us)\b') {
         return $true
     }
+    if ($country -match '(?i)^US$') { return $true }
+    if (-not [string]::IsNullOrWhiteSpace($country)) { return $false }
+    if ($geo -match '(?i)\b(costa rica|canada|india|ireland|united kingdom|uk|england|germany|france|israel|singapore|malaysia|china|taiwan|japan|korea|philippines|vietnam|australia|poland|romania|portugal|spain|mexico|brazil|armenia|hungary|netherlands|switzerland|sweden|finland|denmark|belgium)\b') { return $false }
 
     $stateCodes = 'AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC'
     if ($geo -match "(?i)(?:,\s*|\bUS[ ,/-]+)($stateCodes)(?:\b|$)") {
@@ -846,9 +858,14 @@ function Test-JobEligibility {
     if ($hasUnrelatedTitle -and -not $hasTargetRescue) {
         $rejections.Add('Unrelated engineering discipline')
     }
+    $roleEvidence = Normalize-MatchText (@($Job.Title, $Job.Requirements, $Job.Summary, $Job.Responsibilities) -join ' ')
+    if ($title -match '\b(cad|applications?|product)\s+engineer\b' -and
+        $roleEvidence -notmatch '\b(asic|rtl|soc|fpga|semiconductor|silicon|eda|circuit|electronic|electrical|hardware|firmware|embedded|photonics|quantum|cmos|spice|verilog)\b') {
+        $rejections.Add('Generic CAD, product, or application role lacks electrical or silicon evidence')
+    }
 
     $sourceKinds = @((Get-ObjectValue $Job @('SourceKinds') @()))
-    $directKinds = @('greenhouse', 'lever', 'ashby')
+    $directKinds = @('greenhouse', 'lever', 'ashby', 'workday', 'eightfold')
     $aggregatorKinds = @('landing', 'minisite', 'search', 'detail')
     $isDirectJob = @($sourceKinds | Where-Object { $directKinds -contains [string]$_ }).Count -gt 0
     $hasAggregatorSource = @($sourceKinds | Where-Object { $aggregatorKinds -contains [string]$_ }).Count -gt 0
@@ -1071,8 +1088,10 @@ function Invoke-MonitorSourceRequest {
         [int]$RetryCount = 3
     )
 
+    if ([string]$Source.Kind -eq 'workday') { return Invoke-WorkdaySourceRequest -Source $Source }
+    if ([string]$Source.Kind -eq 'eightfold') { return Invoke-EightfoldSourceRequest -Source $Source }
     $started = [DateTime]::UtcNow
-    $isJsonSource = @('greenhouse', 'greenhouse_detail', 'lever', 'ashby') -contains [string]$Source.Kind
+    $isJsonSource = @('greenhouse', 'greenhouse_detail', 'lever', 'ashby', 'eightfold') -contains [string]$Source.Kind
     $headers = @{
         'Accept'          = if ($isJsonSource) { 'application/json' } else { 'text/html,application/xhtml+xml' }
         'Accept-Language' = 'en-US,en;q=0.8'
@@ -1139,6 +1158,7 @@ function Invoke-MonitorSourceRequest {
                 }
             }
             $lastError = $_.Exception.Message
+            if ($statusCode -in @(401, 403, 404, 429)) { break }
             if ($attempt -lt $RetryCount) {
                 Start-Sleep -Seconds $attempt
             }
@@ -1317,7 +1337,12 @@ function Write-LatestReport {
     [System.IO.File]::WriteAllLines($ReportPath, $lines, $script:Utf8NoBom)
 }
 
+. (Join-Path $PSScriptRoot 'EmployerSources.ps1')
+
 Export-ModuleMember -Function @(
+    'Get-WorkdayJobsFromJson',
+    'Get-EightfoldJobsFromJson',
+    'Get-PublicJobPostingMetadata',
     'Add-AlertRecords',
     'ConvertTo-HashtableRecursive',
     'Get-AshbyJobsFromJson',

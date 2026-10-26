@@ -160,6 +160,7 @@ function renderHealth() {
     const url = safeUrl(board.careersUrl);
     const chip = document.createElement(url ? "a" : "span");
     chip.textContent = board.company;
+    if (board.issue) chip.title = board.issue;
     if (!board.healthy) chip.classList.add("unhealthy");
     if (url) {
       chip.href = url;

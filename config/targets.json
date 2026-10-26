@@ -1,7 +1,8 @@
 {
-  "version": 1,
+  "version": 2,
   "fitThreshold": 30,
   "initialLookbackDays": 7,
+  "newCompanyLookbackDays": 90,
   "stateRetentionDays": 180,
   "staleAfterHours": 2,
   "maxDetailFetches": 8,
@@ -32,7 +33,13 @@
       { "id": "electrical", "path": "electrical-engineer-i-electronics-entry-level-jobs-in-united-states" },
       { "id": "hardware", "path": "hardware-engineer-entry-level-electrical-jobs-in-united-states" },
       { "id": "firmware", "path": "firmware-engineer-entry-level-embedded-hardware-jobs-in-united-states" },
-      { "id": "cpu_gpu", "path": "cpu-gpu-hardware-engineer-new-grad-jobs-in-united-states" }
+      { "id": "cpu_gpu", "path": "cpu-gpu-hardware-engineer-new-grad-jobs-in-united-states" },
+      { "id": "eda_software", "path": "eda-software-engineer-jobs-in-united-states" },
+      { "id": "semiconductor_applications", "path": "applications-engineer-semiconductor-jobs-in-united-states" },
+      { "id": "library_characterization", "path": "library-characterization-engineer-jobs-in-united-states" },
+      { "id": "physical_verification", "path": "physical-verification-engineer-entry-level-jobs-in-united-states" },
+      { "id": "silicon_cad", "path": "silicon-cad-engineer-entry-level-jobs-in-united-states" },
+      { "id": "emulation", "path": "emulation-engineer-new-grad-jobs-in-united-states" }
     ]
   },
   "scoring": {
@@ -50,7 +57,9 @@
       { "family": "DFT", "points": 43, "terms": ["dft engineer", "dft design", "design for test", "scan engineer", "atpg engineer"] },
       { "family": "FPGA", "points": 40, "terms": ["fpga design", "fpga engineer", "fpga verification"] },
       { "family": "Silicon Validation", "points": 40, "terms": ["silicon validation", "post silicon", "post-silicon", "silicon bring-up", "hardware validation", "validation engineer"] },
-      { "family": "EDA and Methodology", "points": 40, "terms": ["eda engineer", "cad engineer", "design methodology", "design automation", "flow engineer"] },
+      { "family": "EDA and Methodology", "points": 40, "terms": ["eda engineer", "cad engineer", "design methodology", "design automation", "flow engineer", "eda software", "eda application", "applications engineer", "application engineer", "product validation engineer", "eda development", "r&d engineer", "research and development engineer", "design enablement", "silicon cad", "custom methodology", "cad software", "pd methodology"] },
+      { "family": "Circuit and Device Characterization", "points": 38, "terms": ["characterization engineer", "device engineer", "memory design", "sram design", "standard cell", "library characterization", "memory characterization", "physical verification", "custom layout", "ic design engineer"] },
+      { "family": "Hardware Software and Tools", "points": 36, "terms": ["verification software", "simulation engineer", "hardware modeling", "emulation engineer", "prototyping engineer", "silicon software", "rtl tools", "circuit simulation", "timing analysis software", "hardware test automation", "design technology"] },
       { "family": "Analog and Mixed Signal", "points": 40, "terms": ["analog ic", "analog design", "analog engineer", "mixed signal", "mixed-signal", "circuit design", "custom ic layout", "analog layout"] },
       { "family": "Semiconductor Test", "points": 35, "terms": ["semiconductor test", "product engineer", "yield engineer", "reliability engineer", "test engineer", "test development engineer", "ate engineer", "failure analysis engineer"] },
       { "family": "Firmware and Embedded", "points": 32, "terms": ["firmware engineer", "embedded firmware", "embedded systems", "embedded engineer", "hardware firmware"] },
@@ -63,7 +72,7 @@
       { "name": "Verification and DFT", "points": 5, "terms": ["uvm", "testbench", "functional verification", "formal verification", "cdc", "scan", "atpg", "dft"] },
       { "name": "SoC and architecture", "points": 4, "terms": ["soc", "subsystem", "register map", "interconnect", "micro-architecture", "microarchitecture", "cpu", "gpu"] },
       { "name": "Analog and custom circuits", "points": 5, "terms": ["mixed signal", "mixed-signal", "hspice", "virtuoso", "cmos", "transistor", "drc", "lvs", "post-layout"] },
-      { "name": "EDA and automation", "points": 4, "terms": ["innovus", "design compiler", "genus", "primetime", "python", "tcl", "linux", "eda flow"] },
+      { "name": "EDA and automation", "points": 4, "terms": ["innovus", "design compiler", "genus", "primetime", "starrc", "python", "tcl", "linux", "eda flow", "cocotb", "docker", "icarus verilog", "nldm", "timing graph"] },
       { "name": "Validation and test", "points": 4, "terms": ["silicon validation", "bring-up", "lab debug", "oscilloscope", "logic analyzer", "product test", "yield", "reliability"] },
       { "name": "Embedded and interfaces", "points": 4, "terms": ["embedded c", "firmware", "uart", "spi", "i2c", "rs-485", "modbus", "fpga"] }
     ],

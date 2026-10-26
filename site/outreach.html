@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#173f35"><title>Hiring Posts & Companies | SignalPath</title>
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests">
+  <link rel="stylesheet" href="styles.css"><script src="outreach.js" defer></script>
+</head>
+<body>
+  <header class="site-header"><a class="brand" href="./">SignalPath</a><nav aria-label="Primary navigation"><a href="./#matches">Jobs</a><a href="#leads">Hiring posts</a><a href="#companies">Companies</a></nav></header>
+  <main class="outreach-main">
+    <section class="outreach-intro">
+      <p class="eyebrow">BUILD A CONVERSATION</p><h1>Find the people<br>behind the roles.</h1>
+      <p>Public recruiter and hiring-team leads, plus focused searches across major chip companies, startups, and engineering services.</p>
+      <p id="research-date" class="mono"></p>
+      <p id="research-scope" class="outreach-note"></p>
+    </section>
+    <section id="leads" aria-labelledby="leads-heading"><h2 id="leads-heading">Hiring leads</h2><div id="lead-list" class="lead-list" aria-live="polite">Loading hiring leads...</div></section>
+    <section id="companies" aria-labelledby="companies-heading">
+      <h2 id="companies-heading">Company search directory</h2>
+      <p>Every company has a job search and a hiring-post search. Feed status shows which employers are checked automatically. Search links run when you open them.</p>
+      <label class="directory-search">Find a company<input id="company-search" type="search" placeholder="Broadcom, Intel, Qualcomm, startup..."></label>
+      <p id="directory-count" class="mono"></p><div id="company-directory" class="company-directory" aria-live="polite"></div>
+    </section>
+  </main>
+</body>
+</html>

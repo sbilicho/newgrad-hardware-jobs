@@ -29,7 +29,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 4
+    timeout-minutes: 8
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -71,6 +71,11 @@ jobs:
         if: github.event_name != 'schedule'
         shell: pwsh
         run: ./tests/run_tests.ps1
+
+      - name: Test employer adapters and degree alternatives
+        if: github.event_name != 'schedule'
+        shell: pwsh
+        run: ./tests/employer_tests.ps1
 
       - name: Scan allowed job sources
         if: steps.cadence.outputs.scan_due == 'true'

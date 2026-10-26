@@ -107,6 +107,16 @@ foreach ($board in @($companyConfig.directBoards)) {
         SourceTags  = [string]$board.tags
         CareersUrl  = [string]$board.careersUrl
         TimeoutSec  = 35
+        Queries     = @(Get-ObjectValue $board @('queries') @(''))
+        MaxPages    = [int](Get-ObjectValue $board @('maxPages') 25)
+        MaxDetails  = [int](Get-ObjectValue $board @('maxDetails') 40)
+        TitlePattern = $directTitleRegex.ToString()
+        VerifiedIds = @($state['seenJobs'].Keys | Where-Object {
+            $_ -like "$([string]$board.provider):$([string]$board.board):*" -and
+            $state['seenJobs'][$_].ContainsKey('richDataVerified') -and [bool]$state['seenJobs'][$_]['richDataVerified'] -and
+            ([bool]$state['seenJobs'][$_]['alerted'] -or
+                ($state['seenJobs'][$_].ContainsKey('employmentVerified') -and [bool]$state['seenJobs'][$_]['employmentVerified']))
+        })
     })
 }
 
@@ -129,7 +139,7 @@ $landingHealthy = $false
 $feedHealthy = $false
 $searchSuccesses = 0
 $searchTotal = @($config.sources.searchPages).Count
-$directKinds = @('greenhouse', 'lever', 'ashby')
+$directKinds = @('greenhouse', 'lever', 'ashby', 'workday', 'eightfold')
 $directSuccesses = 0
 $directTotal = @($companyConfig.directBoards).Count
 $successfulDirectSourceIds = New-Object System.Collections.Generic.List[string]
@@ -205,6 +215,17 @@ foreach ($response in $responses) {
                     $directSuccesses++
                     $successfulDirectSourceIds.Add([string]$response.Id)
                 }
+                { $_ -in @('workday', 'eightfold') } {
+                    $adapter = if ($response.Kind -eq 'workday') { 'Get-WorkdayJobsFromJson' } else { 'Get-EightfoldJobsFromJson' }
+                    $parsedJobs = @(& $adapter -Json $response.Content -Company $response.Company -BoardToken $response.BoardToken `
+                        -SourceId $response.Id -SourceUrl $response.Url -SourceTags $response.SourceTags)
+                    foreach ($job in $parsedJobs) {
+                        if (Test-DirectTitleCandidate -Job $job) { $allJobs.Add($job) }
+                    }
+                    $jobCount = $parsedJobs.Count
+                    $directSuccesses++
+                    $successfulDirectSourceIds.Add([string]$response.Id)
+                }
             }
         }
         catch {
@@ -237,6 +258,7 @@ foreach ($response in $responses) {
         Jobs        = [int]$jobCount
         DurationMs  = [int]$response.DurationMs
         Error       = if ($sourceSuccess) { $null } else { $sourceError }
+        Warning     = [string](Get-ObjectValue $response @('Warning') '')
     })
 }
 
@@ -449,11 +471,12 @@ if ($status -ne 'failed') {
         }
         if (($isInitialRun -or $isFirstSourceRun) -and $isNew) {
             if ([string]::IsNullOrWhiteSpace([string]$job.PostedUtc)) {
-                $suppressed = $true
+                $suppressed = -not ($isFirstSourceRun -and $job.RichData)
             }
             else {
                 $posted = [DateTimeOffset]::MinValue
-                if ([DateTimeOffset]::TryParse([string]$job.PostedUtc, [ref]$posted) -and $posted.UtcDateTime -lt $lookbackCutoff) {
+                $sourceCutoff = if ($isFirstSourceRun) { $now.AddDays(-1 * [int](Get-ObjectValue $config @('newCompanyLookbackDays') 7)) } else { $lookbackCutoff }
+                if ([DateTimeOffset]::TryParse([string]$job.PostedUtc, [ref]$posted) -and $posted.UtcDateTime -lt $sourceCutoff) {
                     $suppressed = $true
                 }
             }
@@ -508,6 +531,7 @@ if ($status -ne 'failed') {
             bestScore    = $bestScore
             sourceIds    = @($job.SourceIds)
             richDataVerified = [bool]$job.RichData
+            employmentVerified = -not [string]::IsNullOrWhiteSpace([string]$job.EmploymentType)
         }
     }
 

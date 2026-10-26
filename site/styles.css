@@ -1092,3 +1092,21 @@ footer .mono { text-align: right; }
   html { scroll-behavior: auto; }
   *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
 }
+
+.outreach-main { width: min(1240px, calc(100% - 40px)); margin: 50px auto 100px; }
+.outreach-intro { max-width: 850px; padding: 30px 0; }
+.outreach-intro h1 { font-size: clamp(45px, 7vw, 82px); line-height: 1.02; margin: 20px 0; }
+.outreach-main section { margin-bottom: 52px; scroll-margin-top: 30px; }
+.outreach-main h2 { margin: 20px 0; font-size: 32px; }
+.outreach-main p { line-height: 1.6; }
+.lead-list, .company-directory { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
+.outreach-card { min-width: 0; padding: 24px; border: 1px solid #c8c6ba; border-radius: 18px; background: #fffdf7; }
+.outreach-card h3 { margin: 0 0 12px; font-size: 24px; line-height: 1.15; }
+.outreach-card small { display: block; color: #64675e; line-height: 1.5; }
+.outreach-note { color: #766039; font-size: 14px; }
+.outreach-actions { display: flex; flex-wrap: wrap; gap: 10px; margin: 18px 0; }
+.outreach-actions a, .outreach-card button { padding: 9px 13px; border: 1px solid #52705f; border-radius: 8px; background: #f1f6ee; color: #173f35; font-size: 13px; text-decoration: none; cursor: pointer; }
+.outreach-card summary { cursor: pointer; font-weight: 600; }
+.directory-search { display: block; max-width: 550px; margin-top: 25px; }
+.directory-search input { display: block; width: 100%; margin-top: 8px; padding: 14px; border: 1px solid #aeb8ac; border-radius: 10px; font: inherit; }
+@media (max-width: 720px) { .lead-list, .company-directory { grid-template-columns: 1fr; } .outreach-main { width: calc(100% - 24px); } }
