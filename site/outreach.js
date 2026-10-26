@@ -1,5 +1,6 @@
 "use strict";
 let directory = [];
+let savedLeads = [];
 const byId = id => document.getElementById(id);
 function textNode(parent, tag, text, className) {
   const node = document.createElement(tag); node.textContent = text;
@@ -22,10 +23,26 @@ function renderLeads(payload) {
     : `RESEARCHED ${payload.researchedOn} / Recurring research setup pending`;
   byId("research-scope").textContent = payload.scope;
   if (automation && automation.requiresComputer) byId("research-scope").textContent += " The researcher runs while your Windows computer is on and signed in. The cloud job monitor continues when it is off.";
+  savedLeads = Array.isArray(payload.leads) ? payload.leads : [];
+  renderLeadCards();
+}
+function getLeadKind(lead) {
+  if (/^https:\/\/(?:www\.)?linkedin\.com\/posts\//.test(lead.url)) return "linkedin_post";
+  if (/^https:\/\/(?:www\.)?linkedin\.com\/in\//.test(lead.url)) return "indexed_profile";
+  return "other";
+}
+function renderLeadCards() {
+  const query = byId("lead-search").value.trim().toLowerCase();
+  const kind = byId("lead-kind").value;
+  const selected = savedLeads.filter(lead => (kind === "all" || kind === getLeadKind(lead)) &&
+    (!query || `${lead.person} ${lead.company} ${lead.role} ${lead.location}`.toLowerCase().includes(query)));
+  byId("lead-count").textContent = `${selected.length} of ${savedLeads.length} saved leads / ${savedLeads.filter(lead => getLeadKind(lead) === "linkedin_post").length} LinkedIn posts`;
   byId("lead-list").replaceChildren();
-  payload.leads.forEach(lead => {
+  if (!selected.length) textNode(byId("lead-list"), "p", "No saved leads match these filters. Broader research continues at the next scheduled run.");
+  selected.forEach(lead => {
     const card = document.createElement("article"); card.className = "outreach-card";
-    textNode(card, "p", `${lead.company} / ${lead.location}`, "eyebrow");
+    const labels = { linkedin_post: "LinkedIn post", indexed_profile: "Indexed profile, not a verified post", other: "Public hiring page" };
+    textNode(card, "p", `${labels[getLeadKind(lead)]} / ${lead.company} / ${lead.location}`, "eyebrow");
     textNode(card, "h3", lead.role); textNode(card, "p", lead.person);
     const checked = lead.lastCheckedUtc ? `Checked ${new Date(lead.lastCheckedUtc).toLocaleDateString()}. ` : "";
     textNode(card, "p", lead.evidence); textNode(card, "small", `${checked}${lead.observedAge}. ${lead.verification}.`);
@@ -62,5 +79,7 @@ async function loadOutreach() {
   } catch (error) { byId("lead-list").textContent = error.message; }
 }
 byId("company-search").addEventListener("input", renderDirectory);
+byId("lead-search").addEventListener("input", renderLeadCards);
+byId("lead-kind").addEventListener("change", renderLeadCards);
 loadOutreach();
 setInterval(() => { if (!document.hidden) loadOutreach(); }, 15 * 60 * 1000);

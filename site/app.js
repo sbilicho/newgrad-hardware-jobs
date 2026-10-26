@@ -153,6 +153,17 @@ function renderHealth() {
   elements.coverageDirectCount.textContent = directBoards.length.toLocaleString();
   elements.coverageBroadCount.textContent = broadCompanies.length.toLocaleString();
   elements.coverageSummary.textContent = `${health.healthyDirectBoards}/${health.directCompanyBoards} direct boards healthy, plus ${health.focusedRoleSearches} focused searches.`;
+  const issuePanel = document.getElementById("source-issues");
+  const issues = Array.isArray(health.sourceIssues) ? health.sourceIssues : [];
+  issuePanel.replaceChildren();
+  issuePanel.hidden = issues.length === 0;
+  if (issues.length) {
+    addTextElement(issuePanel, "p", `${issues.length} source(s) need attention. Other sources and saved matches remain available.`);
+    const list = document.createElement("ul");
+    issues.forEach(issue => addTextElement(list, "li", `${issue.label || issue.id}: ${issue.message}`));
+    issuePanel.append(list);
+    elements.healthIndicator.title = issues.map(issue => issue.label || issue.id).join(", ");
+  } else { elements.healthIndicator.removeAttribute("title"); }
   elements.footerUpdated.textContent = `DATA / ${fullDate(health.generatedUtc).toUpperCase()}`;
 
   elements.directCompanies.replaceChildren();

@@ -15,7 +15,16 @@
       <p id="research-date" class="mono"></p>
       <p id="research-scope" class="outreach-note"></p>
     </section>
-    <section id="leads" aria-labelledby="leads-heading"><h2 id="leads-heading">Hiring leads</h2><div id="lead-list" class="lead-list" aria-live="polite">Loading hiring leads...</div></section>
+    <section id="leads" aria-labelledby="leads-heading">
+      <h2 id="leads-heading">Hiring leads</h2>
+      <p>Messages below are drafts, not sent messages. Check the post date, requirements, and employer before contacting someone.</p>
+      <div class="lead-filters">
+        <label>Search people or roles <input id="lead-search" type="search" placeholder="Person, company, RTL, verification..."></label>
+        <label>Source <select id="lead-kind"><option value="all">All leads</option><option value="linkedin_post">LinkedIn posts</option><option value="indexed_profile">Indexed profiles</option><option value="other">Job and other hiring pages</option></select></label>
+      </div>
+      <p id="lead-count" class="mono" aria-live="polite"></p>
+      <div id="lead-list" class="lead-list" aria-live="polite">Loading hiring leads...</div>
+    </section>
     <section id="companies" aria-labelledby="companies-heading">
       <h2 id="companies-heading">Company search directory</h2>
       <p>Every company has a job search and a hiring-post search. Feed status shows which employers are checked automatically. Search links run when you open them.</p>

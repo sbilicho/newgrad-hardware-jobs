@@ -41,6 +41,16 @@ try {
             Write-Host 'Hiring-post research is already current.'; exit 0
         }
     }
+    $researchConfig = Get-Content -LiteralPath (Join-Path $PSScriptRoot '../config/hiring_research.json') -Raw -Encoding UTF8 | ConvertFrom-Json
+    $companyConfig = Get-Content -LiteralPath (Join-Path $PSScriptRoot '../config/company_sources.json') -Raw -Encoding UTF8 | ConvertFrom-Json
+    $runNumber = if ($null -ne $previous -and $previous.PSObject.Properties['researchRun']) { [int]$previous.researchRun } else { 0 }
+    $companyNames = @(@($companyConfig.directBoards | ForEach-Object { [string]$_.company }) + @($companyConfig.broadRoleCoverageCompanies))
+    $plannedQueries = @(Get-HiringResearchPlan -Config $researchConfig -CompanyNames $companyNames -RunNumber $runNumber)
+    $queryPlan = ($plannedQueries | ForEach-Object { '- ' + $_ }) -join [Environment]::NewLine
+    $knownPath = Join-Path $runtimeRoot 'publisher/config/outreach.json'
+    if (-not (Test-Path -LiteralPath $knownPath)) { $knownPath = Join-Path $PSScriptRoot '../config/outreach.json' }
+    $knownLeads = Get-Content -LiteralPath $knownPath -Raw -Encoding UTF8 | ConvertFrom-Json
+    $knownUrls = (@($knownLeads.leads | ForEach-Object { [string]$_.url }) -join [Environment]::NewLine)
     if ([string]::IsNullOrWhiteSpace($ResearchResultPath)) {
     $codex = Get-Command codex.exe -ErrorAction SilentlyContinue
     $codexPath = if ($null -ne $codex) { $codex.Source } else {
@@ -53,7 +63,15 @@ try {
 
     $researchDate = [TimeZoneInfo]::ConvertTimeBySystemTimeZoneId([DateTime]::UtcNow, 'US Mountain Standard Time').ToString('yyyy-MM-dd')
     $prompt = @"
-Today is $researchDate in America/Phoenix. Research public LinkedIn recruiter/hiring-manager posts and other public hiring announcements for U.S. full-time new-graduate and early-career semiconductor/electrical/hardware jobs. Use live web search. Run 4-8 targeted queries, at least 3 explicitly searching site:linkedin.com/posts; try major employers (Broadcom, Intel, Qualcomm, NVIDIA, Cadence, Synopsys) and smaller chip/EDA startups. Aim for posts from the past 30 days. Do not label index crawl dates as publication dates. Return at most 12 useful leads, or an empty leads array when none is supported. Include the actual queries you used.
+Today is $researchDate in America/Phoenix. Research public LinkedIn recruiter/hiring-manager posts and other public hiring announcements for U.S. full-time new-graduate and early-career semiconductor/electrical/hardware jobs. Use live web search. Execute the $($plannedQueries.Count) planned queries below, adapting terms only when needed; at least 12 searches must target public LinkedIn posts by people. Aim for posts from the past $($researchConfig.preferredPostAgeDays) days. Do not label index crawl dates as publication dates. Return at most $($researchConfig.maximumLeadsPerRun) useful leads, or an empty leads array when none is supported. Include the actual queries you used.
+
+QUERY PLAN (company and startup groups rotate after successful runs):
+$queryPlan
+
+Prioritize actual people announcing hiring on their own team. If a query is too restrictive, simplify it to the employer/role plus hiring; verify U.S. geography and graduate suitability in the returned evidence rather than demanding every keyword appear in the search query. Exclude job seekers asking for work, copied comments, generic job-promoter listicles, courses, referral scams, and unrelated or non-U.S. roles. Prefer at least two thirds direct posts from recruiters/hiring managers rather than employer job listings when the evidence supports enough posts; never invent leads to meet a quota. A batch of unrelated job-listing pages is not a substitute for finding people. A senior person's job title is not the advertised role's required seniority. Do not mislabel an indexed profile as a verified direct post. If only an old post is supported, label it as an older networking lead, not a current vacancy. An uncertain graduation/start date must be a caveat.
+
+These URLs are already saved; look for different people/posts instead of returning the same links again unless you found materially new information:
+$knownUrls
 
 The candidate finishes MS Electrical Engineering in December 2026 and can start January 2027. Evidence includes RTL-to-GDSII, Innovus/Design Compiler/PrimeTime MMMC/ECO work, SystemVerilog, a cocotb/Docker Verilog repair agent, a Python STA prototype, CMOS custom layout, HSPICE, and device characterization. Scope includes PD/STA, RTL/SoC/ASIC, DV/DFT, FPGA, silicon validation, EDA software, applications, CAD/methodology, circuits, and characterization. Do not invent UVM, senior-level experience, or already-completed graduation.
 
@@ -104,13 +122,14 @@ Only research public information. Do not log into LinkedIn, read inboxes, send m
     [void](Invoke-ResearchGit @('-C', $publishRoot, '-c', 'user.name=signalpath-hiring-research[bot]', '-c', 'user.email=signalpath-hiring-research[bot]@users.noreply.github.com', 'commit', '--quiet', '-m', 'chore: refresh public hiring-post research'))
     [void](Invoke-ResearchGit @('-C', $publishRoot, 'pull', '--rebase', '--quiet', 'origin', 'main'))
     [void](Invoke-ResearchGit @('-C', $publishRoot, 'push', '--quiet', 'origin', 'HEAD:main'))
-    $state = @{ status = 'healthy'; lastSuccessUtc = [DateTime]::UtcNow.ToString('o'); latestLeads = @($incoming.leads).Count; website = "https://$($Repository.Split('/')[0]).github.io/$($Repository.Split('/')[1])/outreach.html" }
+    $state = @{ status = 'healthy'; lastSuccessUtc = [DateTime]::UtcNow.ToString('o'); latestLeads = @($incoming.leads).Count; researchRun = $runNumber + 1; website = "https://$($Repository.Split('/')[0]).github.io/$($Repository.Split('/')[1])/outreach.html" }
     [IO.File]::WriteAllText($statePath, ($state | ConvertTo-Json), $utf8)
     Write-Host "Published $(@($incoming.leads).Count) researched hiring lead(s)."
 }
 catch {
     $state = @{ status = 'failed'; lastAttemptUtc = [DateTime]::UtcNow.ToString('o'); error = $_.Exception.Message; lastSuccessUtc = '' }
     if ($null -ne $previous -and $previous.PSObject.Properties['lastSuccessUtc']) { $state.lastSuccessUtc = [string]$previous.lastSuccessUtc }
+    if ($null -ne $previous -and $previous.PSObject.Properties['researchRun']) { $state.researchRun = [int]$previous.researchRun }
     [IO.File]::WriteAllText($statePath, ($state | ConvertTo-Json), $utf8)
     Write-Error $_.Exception.Message
     exit 1

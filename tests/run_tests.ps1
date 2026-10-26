@@ -30,6 +30,8 @@ function Assert-Equal {
 
 $minisiteHtml = Get-Content -LiteralPath (Join-Path $fixtures 'minisite.html') -Raw
 $searchHtml = Get-Content -LiteralPath (Join-Path $fixtures 'search.html') -Raw
+$decodedSearch = ConvertTo-MonitorResponseText ([Text.Encoding]::UTF8.GetBytes($searchHtml))
+Assert-True ($searchHtml -ceq $decodedSearch) 'Byte-array HTTP responses decode as UTF-8 rather than numeric strings'
 $detailHtml = Get-Content -LiteralPath (Join-Path $fixtures 'detail.html') -Raw
 $malformedHtml = Get-Content -LiteralPath (Join-Path $fixtures 'malformed.html') -Raw
 $greenhouseJson = Get-Content -LiteralPath (Join-Path $fixtures 'greenhouse.json') -Raw
@@ -277,6 +279,8 @@ try {
 
     $publicJobsText = Get-Content -LiteralPath $publicJobsPath -Raw
     $publicHealthText = Get-Content -LiteralPath $publicHealthPath -Raw
+    $publicHealthPayload = $publicHealthText | ConvertFrom-Json
+    Assert-True ($publicHealthPayload.sourceIssues -is [System.Array]) 'Public health includes a stable list of affected sources'
     Assert-True ($publicHealthText -match '"lastSuccessfulScanUtc"\s*:\s*"\d{4}-\d{2}-\d{2}T[^" ]+(Z|\+00:00)"') 'Cloud scan timestamps preserve an explicit UTC offset'
     Assert-True ($publicJobsText -match '"discoveredUtc"\s*:\s*"\d{4}-\d{2}-\d{2}T[^" ]+(Z|\+00:00)"') 'Job discovery timestamps preserve an explicit UTC offset'
     $publicJobsPayload = $publicJobsText | ConvertFrom-Json

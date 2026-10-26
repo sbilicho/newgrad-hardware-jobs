@@ -1,0 +1,58 @@
+{
+  "queries": [
+    "site:linkedin.com/posts \"Peien Chang\" \"hiring\" \"Display\"",
+    "site:linkedin.com/posts \"Vinay Kotha\" \"SiliconOne\" \"hiring\"",
+    "site:linkedin.com/posts \"hiring\" \"entry level\" \"DFT\"",
+    "site:linkedin.com/posts \"hiring\" \"FPGA\" \"new grad\" \"United States\""
+  ],
+  "leads": [
+    {
+      "person": "Peien Chang, indexed via Po-Hsuan Chang's repost",
+      "company": "Apple",
+      "role": "Display Panel Design Engineer - Early Career / New Grad",
+      "location": "San Diego, California, United States (profile/team location; verify job worksite)",
+      "url": "https://www.linkedin.com/in/po-hsuan-chang-672ba2100",
+      "evidence": "Indexed public activity reproduces Peien Chang's invitation to early-career graduates interested in TFT/OLED pixel circuits and SPICE simulation. The post asks candidates to apply officially and offers to forward a resume to recruiting.",
+      "observedAge": "The indexed activity displays 6 days; absolute publication date is unconfirmed",
+      "verification": "Indexed repost on a public profile, not an independently opened original post",
+      "caution": "Find Peien Chang's original activity before messaging; this URL belongs to the reposter. Confirm U.S. worksite, active requisition, and January 2027 start. Display/TFT specialization is not established by the candidate's CMOS and HSPICE projects.",
+      "message": "Hi Peien, I saw your early-career display panel design post. I finish my MS in Electrical Engineering at ASU in December 2026. My projects include CMOS circuit/layout work, HSPICE simulation, and device characterization. Would you consider a January 2027 start? I would be glad to apply through the official requisition and share my resume."
+    },
+    {
+      "person": "Vinay Kotha",
+      "company": "Cisco Silicon One",
+      "role": "RTL, physical design, DFT and product engineering - multiple levels",
+      "location": "United States; San Jose, California is shown for the linked DFT role",
+      "url": "https://www.linkedin.com/posts/vinay-kotha-0612aa25_asic-engineering-technical-leader-dft-in-activity-7463659289589473281-kw5B",
+      "evidence": "Public post announces U.S. and international Silicon One hiring across RTL, physical design, DFT, product/test, and packaging, and invites direct messages. It advertises multiple levels, but does not explicitly confirm graduate positions.",
+      "observedAge": "The indexed post displays 2 months; treat as an older networking lead",
+      "verification": "Public person-authored LinkedIn post; current graduate opening is unconfirmed",
+      "caution": "The linked DFT preview is a technical-leader role, not a new-grad vacancy. Ask only about separate U.S. graduate roles; do not imply qualification for the leader position. Confirm location and January 2027 eligibility.",
+      "message": "Hi Vinay, I saw your Silicon One hiring post across RTL, PD and DFT. I finish my MS EE at ASU in December 2026 and have SystemVerilog, RTL-to-GDSII, timing analysis, and Python/Tcl project experience. Are any U.S. teams considering new graduates for January 2027? I am asking about graduate roles rather than the linked technical-leader opening."
+    },
+    {
+      "person": "Mark Kelcourse",
+      "company": "Northrop Grumman",
+      "role": "2027 new-graduate electrical/computer engineering pathways and FPGA visibility",
+      "location": "Morrisville, North Carolina, United States; graduate postings span U.S. locations",
+      "url": "https://www.linkedin.com/in/markkelcourse",
+      "evidence": "Indexed public activity highlights 2027 new-grad requisitions for fall 2026 or spring 2027 graduates and a separate Morrisville FPGA opening. He explicitly says he reposts for visibility and is not the hiring manager.",
+      "observedAge": "The indexed profile displays graduate activity from 1 week to 1 month and FPGA activity from 3 days; absolute dates unconfirmed",
+      "verification": "Indexed profile activity, not a verified original post or current application window",
+      "caution": "One graduate announcement described a three-day application window that may already be closed. Check current requisitions before applying. Defense roles may require U.S. citizenship, clearance or export eligibility; none is assumed. Do not address him as the hiring manager.",
+      "message": "Hi Mark, thank you for sharing the 2027 graduate engineering openings. I finish my MS EE at ASU in December 2026, with SystemVerilog, RTL-to-GDSII, timing and verification-automation projects. I understand you share these for visibility rather than as the hiring manager. Is there a current U.S. electrical/digital hardware graduate search I should follow?"
+    },
+    {
+      "person": "Eric Williams",
+      "company": "Delos Data",
+      "role": "Electrical systems and RTL hiring - exploratory graduate inquiry",
+      "location": "Palo Alto / Santa Barbara, California, United States; verify the opening's worksite",
+      "url": "https://www.linkedin.com/in/ericrwilliams",
+      "evidence": "Indexed public profile activity says the systems team seeks electrical, packaging, signal-integrity and power-integrity engineers, and contains shared RTL hiring activity at Delos Data.",
+      "observedAge": "The systems hiring activity displays 1 month; the RTL activity date is unconfirmed",
+      "verification": "Public indexed people-operations profile, not a verified graduate requisition",
+      "caution": "Entry-level suitability, active vacancies and January 2027 start are unconfirmed. Treat this as a targeted startup networking inquiry, not a verified new-grad vacancy. Signal/power integrity or packaging expertise is not claimed.",
+      "message": "Hi Eric, I saw your Delos Data electrical-systems and RTL hiring activity. I finish my MS EE at ASU in December 2026 and have SystemVerilog, ASIC implementation, STA and Python automation projects. Is there room for a new graduate on the U.S. digital hardware or implementation team from January 2027? I would be glad to share a concise resume if relevant."
+    }
+  ]
+}

@@ -1082,6 +1082,12 @@ function Write-JsonFile {
     Move-Item -LiteralPath $temporary -Destination $Path -Force
 }
 
+function ConvertTo-MonitorResponseText {
+    param([AllowNull()]$Content)
+    if ($Content -is [byte[]]) { return [Text.Encoding]::UTF8.GetString($Content) }
+    return [string]$Content
+}
+
 function Invoke-MonitorSourceRequest {
     param(
         [Parameter(Mandatory = $true)]$Source,
@@ -1124,7 +1130,7 @@ function Invoke-MonitorSourceRequest {
                 NotModified = $false
                 StatusCode  = [int]$response.StatusCode
                 ETag        = [string]$response.Headers['ETag']
-                Content     = [string]$response.Content
+                Content     = ConvertTo-MonitorResponseText $response.Content
                 Error       = $null
                 DurationMs  = [int]([DateTime]::UtcNow - $started).TotalMilliseconds
             }
@@ -1345,6 +1351,7 @@ Export-ModuleMember -Function @(
     'Get-PublicJobPostingMetadata',
     'Add-AlertRecords',
     'ConvertTo-HashtableRecursive',
+    'ConvertTo-MonitorResponseText',
     'Get-AshbyJobsFromJson',
     'Get-GreenhouseJobsFromJson',
     'Get-JobEvaluation',

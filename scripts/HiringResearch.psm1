@@ -1,10 +1,37 @@
 Set-StrictMode -Version 2.0
 
+function Get-HiringResearchPlan {
+    param([Parameter(Mandatory = $true)]$Config, [string[]]$CompanyNames, [int]$RunNumber = 0)
+    $queries = New-Object System.Collections.Generic.List[string]
+    $suffix = ' -internship -"open to work" -"seeking opportunities"'
+    foreach ($role in @($Config.roleQueries)) { $queries.Add('site:linkedin.com/posts/ ' + $role + $suffix) }
+    foreach ($group in @($Config.priorityCompanyGroups)) {
+        $names = (@($group) | ForEach-Object { '"' + $_ + '"' }) -join ' OR '
+        $queries.Add('site:linkedin.com/posts/ (' + $names + ') hiring (hardware OR semiconductor OR ASIC OR RTL)' + $suffix)
+    }
+    $companies = @($CompanyNames | Sort-Object -Unique)
+    if ($companies.Count -gt 0) {
+        for ($groupIndex = 0; $groupIndex -lt 2; $groupIndex++) {
+            $group = @(for ($i = 0; $i -lt 3; $i++) { '"' + $companies[(($RunNumber * 6) + ($groupIndex * 3) + $i) % $companies.Count] + '"' })
+            $queries.Add('site:linkedin.com/posts/ (' + ($group -join ' OR ') + ') hiring (engineer OR hardware)' + $suffix)
+        }
+    }
+    $startups = @($Config.startupCompanies)
+    $group = @(for ($i = 0; $i -lt 4; $i++) { '"' + $startups[(($RunNumber * 4) + $i) % $startups.Count] + '"' })
+    $queries.Add('site:linkedin.com/posts/ (' + ($group -join ' OR ') + ') (hiring OR "join our team") (hardware OR silicon OR semiconductor)' + $suffix)
+    $queries.Add('(semiconductor OR ASIC OR RTL OR "electrical hardware") startup "hiring" ("new grad" OR "early career") ("United States" OR USA) -site:linkedin.com/jobs -internship')
+    return @($queries | Select-Object -First ([int]$Config.queriesPerRun))
+}
+
 function Test-HiringResearchPayload {
     param([Parameter(Mandatory = $true)]$Payload)
     if (-not $Payload.PSObject.Properties['leads'] -or -not $Payload.PSObject.Properties['queries']) { throw 'Research must contain leads and search queries.' }
     if (@($Payload.queries).Count -lt 1) { throw 'Research returned no record of its public search queries.' }
-    if (@($Payload.leads).Count -gt 15) { throw 'Research exceeds the 15-lead safety limit.' }
+    if (@($Payload.queries).Count -gt 24) { throw 'Research exceeds the search-query safety limit.' }
+    foreach ($query in @($Payload.queries)) {
+        if (-not ($query -is [string]) -or $query.Length -gt 1500 -or $query -match '(?i)[a-z]:\\(?:users|windows)\\|\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b') { throw 'Research query contains invalid or private content.' }
+    }
+    if (@($Payload.leads).Count -gt 24) { throw 'Research exceeds the 24-lead safety limit.' }
     foreach ($lead in @($Payload.leads)) {
         foreach ($field in @('person', 'company', 'role', 'location', 'url', 'evidence', 'observedAge', 'verification', 'caution', 'message')) {
             if (-not $lead.PSObject.Properties[$field] -or -not ($lead.$field -is [string])) { throw "Lead is missing text field $field." }
@@ -34,6 +61,11 @@ function Merge-HiringResearch {
         $byUrl[[string]$lead.url] = $lead
     }
     foreach ($lead in @($Incoming.leads)) {
+        $kind = if ($lead.url -match '^https://(?:www\.)?linkedin\.com/posts/') { 'linkedin_post' }
+            elseif ($lead.url -match '^https://(?:www\.)?linkedin\.com/in/') { 'indexed_profile' }
+            elseif ($lead.url -match '^https://(?:www\.)?linkedin\.com/jobs/') { 'job_listing' }
+            else { 'public_hiring_page' }
+        $lead | Add-Member -NotePropertyName sourceKind -NotePropertyValue $kind -Force
         $lead | Add-Member -NotePropertyName lastCheckedUtc -NotePropertyValue $Now.ToUniversalTime().ToString('o') -Force
         $byUrl[[string]$lead.url] = $lead
     }
@@ -48,4 +80,4 @@ function Merge-HiringResearch {
     return $Existing
 }
 
-Export-ModuleMember -Function Test-HiringResearchPayload, Merge-HiringResearch
+Export-ModuleMember -Function Get-HiringResearchPlan, Test-HiringResearchPayload, Merge-HiringResearch

@@ -30,6 +30,12 @@ Hiring leads are researched twice daily at 08:00 and 20:00 America/Phoenix by `s
 
 The researcher searches public LinkedIn posts and the wider web, validates the output, preserves lead history under `outreach/`, and publishes `config/outreach.json` through an isolated local Git clone. Publication automatically redeploys the website. Each lead retains its last-checked date; the site displays an overdue notice after 36 hours. Private inbox messages are not accessed, and no outreach is sent automatically.
 
+Each run plans 16 searches, including 15 focused on public LinkedIn posts, with a maximum of 24 supported leads. Hardware role families and major employers are included every time; company and startup cohorts rotate after successful publication. Settings live in `config/hiring_research.json`. Indexed profiles, direct posts, and job pages are labeled separately and can be filtered on the hiring page. Higher search volume uses more of the existing ChatGPT allowance and cannot ensure all LinkedIn posts are indexed.
+
+"Signed in" means signed into Windows with internet available, and with the existing Codex ChatGPT session still valid; LinkedIn login is not needed for public research. The researcher does not send DMs. A connected, authorized messaging channel would be needed to perform account-specific outreach.
+
+The source-health panel lists affected searches and company feeds. A degraded scan still preserves results from working sources; it is not the same as a total scan failure. HTTP byte-array bodies are decoded as UTF-8 before parsing to avoid falsely treating valid job pages as numeric text.
+
 Install or restore the scheduled researcher with `scripts/install_hiring_research_task.ps1`. Run `scripts/refresh_hiring_posts.ps1 -Force -NoPublish` to test without publishing, or omit `-NoPublish` for an authorized update. Logs remain under `%LOCALAPPDATA%\SamarthJobMonitor\hiring-research`. An indexed or old post is a networking lead until an active opening is verified.
 
 ## Privacy and operation

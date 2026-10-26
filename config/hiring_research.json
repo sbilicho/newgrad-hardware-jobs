@@ -1,0 +1,28 @@
+{
+  "queriesPerRun": 16,
+  "maximumLeadsPerRun": 24,
+  "preferredPostAgeDays": 30,
+  "roleQueries": [
+    "(\"physical design\" OR \"timing closure\" OR STA) hiring (\"new grad\" OR junior OR \"early career\")",
+    "(RTL OR ASIC OR SoC) (\"my team\" OR \"we are hiring\") (graduate OR junior OR \"all levels\")",
+    "(\"design verification\" OR SystemVerilog) hiring (\"new grad\" OR \"entry level\" OR junior)",
+    "(DFT OR \"design for test\" OR ATPG) hiring (graduate OR junior OR \"all levels\")",
+    "(FPGA OR \"hardware validation\" OR \"silicon validation\") hiring (graduate OR junior OR \"entry level\")",
+    "(EDA OR CAD OR \"design methodology\") hiring (graduate OR junior OR \"early career\")",
+    "(\"analog design\" OR \"mixed signal\" OR \"IC layout\") hiring (graduate OR junior OR \"early career\")",
+    "(\"product engineer\" OR \"test engineer\" OR characterization) semiconductor hiring (graduate OR junior)",
+    "(\"electrical engineer\" OR \"hardware engineer\" OR \"board design\") hiring (graduate OR junior OR \"entry level\")",
+    "(firmware OR embedded OR emulation OR \"hardware automation\") hiring (graduate OR junior OR \"entry level\")"
+  ],
+  "priorityCompanyGroups": [
+    ["Broadcom", "Intel", "Qualcomm"],
+    ["NVIDIA", "AMD", "Apple", "NXP"]
+  ],
+  "startupCompanies": [
+    "MatX", "Lightmatter", "Tenstorrent", "Cerebras", "d-Matrix", "Baya Systems",
+    "Astera Labs", "Eliyan", "Ayar Labs", "Atomic Semi", "EnCharge AI", "SambaNova",
+    "Nuvacore", "Delos Data", "Rivos", "SiFive", "Akeana", "Groq",
+    "Quilter", "Normal Computing", "Extropic", "Movellus", "Efficient Computer", "Quadric",
+    "DreamBig Semiconductor", "Ethernovia", "Credo", "Alif Semiconductor", "Ayo Semiconductor", "Zero ASIC"
+  ]
+}

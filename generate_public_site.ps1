@@ -175,10 +175,20 @@ if ($health.PSObject.Properties['Sources']) {
 }
 
 $coverage = $health.Coverage
+$sourceIssues = @($health.Sources | Where-Object { -not [bool]$_.Success } | ForEach-Object {
+    [pscustomobject]@{
+        id = [string]$_.Id
+        label = if ($_.Company) { [string]$_.Company } else { ([string]$_.Id -replace '^search_', '' -replace '_', ' ') }
+        kind = [string]$_.Kind
+        url = Get-SafePublicUrl ([string](Get-ObjectValue $_ @('CareersUrl', 'Url') ''))
+        message = [string](Get-ObjectValue $_ @('Error') 'The source did not return usable job data.')
+    }
+})
 $publicHealth = [pscustomobject][ordered]@{
     version               = 1
     generatedUtc          = [DateTime]::UtcNow.ToString('o')
     status                = [string]$health.Status
+    sourceIssues          = $sourceIssues
     lastSuccessfulScanUtc = ConvertTo-PublicUtc $health.LastSuccessfulScanUtc
     discoveredJobs        = [int]$health.DiscoveredJobs
     publishedMatches      = [int]$publicJobs.Count
@@ -253,6 +263,7 @@ if (Test-Path -LiteralPath $outreachPath) {
 }
 
 $generatedText = (Get-Content -LiteralPath (Join-Path $OutputDirectory 'index.html') -Raw) + $jobsJson + $healthJson
+if (Test-Path -LiteralPath $outreachPath) { $generatedText += ($outreach | ConvertTo-Json -Depth 10) }
 $forbiddenPatterns = @(
     '(?i)[a-z]:\\(?:users|windows|program files)\\',
     '(?i)\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b',
