@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-26 10:36:39Z UTC
+Updated: 2026-10-26 11:32:35Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 30 (Possible) | [Silicon Packaging Design Engineer](https://jobright.ai/jobs/info/6a88e214e8b6601d1290918d) | Intel | Phoenix, AZ | 10/26/2026 11:29:42 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Mechanical/Hardware Engineer](https://jobright.ai/jobs/info/6adae1e0cb58d64fcd37162d) | Hewlett Packard Enterprise | Chippewa Falls, WI | 10/25/2026 23:05:37 | Sponsorship: Not Sure |
+| 55 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6adf2760c5c64fa3d9cb9d10) | Supermicro | San Jose, CA | 10/26/2026 03:11:44 | Sponsorship: Not Sure |
 | 71 (Strong) | [NPU Design Verification Engineer (Multiple Levels)](https://careers.qualcomm.com/careers/job/446721519446?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 10/22/2026 00:00:00 |  |
 | 81 (Strong) | [SOC Design Verification Engineer](https://careers.qualcomm.com/careers/job/446721452589?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 10/07/2026 00:00:00 |  |
 | 75 (Strong) | [ASICS Design Verification Engineer](https://careers.qualcomm.com/careers/job/446721432310?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 10/22/2026 00:00:00 |  |
@@ -101,6 +104,3 @@ Updated: 2026-10-26 10:36:39Z UTC
 | 37 (Possible) | [Electrical Engineer 1 Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6adab01954bbabbab0718776) | Westinghouse Electric Company | Rock Hill, SC | 10/22/2026 17:53:45 | Sponsorship: Not Sure |
 | 52 (Good) | [Entry Level Power Electronics and Analog Design Engineer](https://jobright.ai/jobs/info/6adaa7a103d2da752891744b) | Motorola Solutions | Schaumburg, IL | 10/22/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ada92db54bbabbab0717b9b) | Twenty-Six Defense Maritime | De Leon Springs, FL | 10/22/2026 22:48:59 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 67 (Good) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6acd9d76d113c967e3c7e66e) | Raytheon | McKinney, TX | 10/22/2026 14:33:03 | Security clearance language is present; Sponsorship: No |
-| 53 (Good) | [Thermal Test Engineer](https://jobright.ai/jobs/info/6ada817354bbabbab0717172) | Arista Networks | Santa Clara, CA | 10/22/2026 14:41:09 | Sponsorship: Not Sure |
-| 60 (Good) | [System Validation Engineer](https://jobright.ai/jobs/info/6ada40603a69033df225716e) | Supermicro | San Jose, CA | 10/22/2026 14:50:48 | Sponsorship: Past Sponsorship |
