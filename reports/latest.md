@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-26 14:31:44Z UTC
+Updated: 2026-10-26 17:39:39Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 85 (Strong) | [FPGA Design Engineer - Avionics](https://jobs.lever.co/espace/24e31d94-691c-4466-9325-6188ab684435) | E-Space | Saratoga, CA | 04/02/2026 21:27:43 |  |
+| 67 (Good) | [Electrical Engineer 1](https://jobright.ai/jobs/info/6adf75c40a4cc7090f97f4c1) | Oracle | Santa Clara, CA | 10/26/2026 15:46:12 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Electrical Engineer I - New Grad (SEA) (R6107)](https://jobright.ai/jobs/info/6adf754d9a8c91d5c3585774) | Shield AI | Seattle, WA | 10/26/2026 15:44:13 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer (entry level) Job Details \| Lake Superior Consulting](https://jobright.ai/jobs/info/6adf86889a8c91d5c3586460) | Lake Superior Consulting | Duluth, MN | 10/26/2026 16:57:44 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6adf8f860a4cc7090f9807f6) | General Dynamics Electric Boat | Groton, CT | 10/26/2026 17:36:06 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 86 (Strong) | [Design-for-Test (DFT) Engineer — ASIC Backend – (Associate, Experienced, or Lead)](https://jobright.ai/jobs/info/6adf82c15dc7953215a3f982) | Boeing | El Segundo, CA | 10/26/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 54 (Good) | [Entry-Level Electrical Design Engineer](https://jobright.ai/jobs/info/6adf669e9a8c91d5c3584f1e) | Insight Global | Simsbury, CT | 10/26/2026 14:41:34 | Sponsorship: Past Sponsorship |
 | 56 (Good) | [Entry Level Validation Engineer](https://jobright.ai/jobs/info/6adf55e90a4cc7090f97e3fd) | SEGULA Technologies | Auburn Hills, MI | 10/26/2026 13:30:17 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Failure Analysis Engineer I (Full-Time) United States](https://jobright.ai/jobs/info/6adf5292c5c64fa3d9cba9a3) | Cisco | Maynard, MA | 10/26/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 60 (Good) | [Digital Field Applications Engineer](https://jobright.ai/jobs/info/6adbda3546a8cabdc1ff5658) | Texas Instruments | Schaumburg, IL | 10/26/2026 06:22:45 | Sponsorship: No |
@@ -97,10 +104,3 @@ Updated: 2026-10-26 14:31:44Z UTC
 | 72 (Strong) | [Entry-Level Electrical Hardware Engineer - FPGA, Networking & Cybersecurity](https://jobright.ai/jobs/info/6adb3bc59e3e874dbfb9f087) | General Dynamics Mission Systems | Pittsfield, MA | 10/22/2026 15:24:44 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 72 (Strong) | [ASIC FPGA Engineer - Entry Level](https://jobright.ai/jobs/info/6adb48430a4cc7090f972330) | General Dynamics Mission Systems | Boise, ID | 10/22/2026 15:24:46 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6adb3773c5c64fa3d9cae6bc) | ByteDance | San Jose, CA | 10/23/2026 10:31:15 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6adb287f5dc7953215a3155a) | Leonardo DRS | Bridgeton, MO | 10/23/2026 09:27:27 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 51 (Good) | [Jr. Reliability Engineer](https://jobright.ai/jobs/info/6ada6dd4e4b94611ab85c470) | JLL | Malvern, PA | 10/23/2026 00:28:42 | Sponsorship: Past Sponsorship |
-| 43 (Possible) | [2027 Associate Electrical Engineer / Electrical Engineer - Roy UT](https://jobright.ai/jobs/info/6ad8b1b6b0725dc268dd51d9) | Northrop Grumman | Roy, UT | 10/22/2026 21:11:25 | Security clearance language is present; Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6adae290cb58d64fcd37167f) | Horizon Lane | California, United States | 10/22/2026 21:29:04 | Sponsorship: Not Sure |
-| 74 (Strong) | [IP Design Verification Engineer](https://jobright.ai/jobs/info/6ada9ee8e4b94611ab85e585) | Intel | Santa Clara, CA | 10/23/2026 01:28:30 | Sponsorship: Past Sponsorship |
-| 70 (Strong) | [IP Design Verification Engineer](https://jobright.ai/jobs/info/6ada9ddc54bbabbab0717fb2) | Intel | Santa Clara, CA; Worcester, MA | 10/22/2026 18:28:30 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [Design Verification Engineer](https://jobright.ai/jobs/info/6adac1652a12e28317a06078) | Microsoft | Hillsboro, OR; Austin, TX; Redmond, WA | 10/22/2026 19:07:33 | Sponsorship: Not Sure |
