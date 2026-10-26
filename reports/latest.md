@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-26 12:34:39Z UTC
+Updated: 2026-10-26 14:31:44Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 56 (Good) | [Entry Level Validation Engineer](https://jobright.ai/jobs/info/6adf55e90a4cc7090f97e3fd) | SEGULA Technologies | Auburn Hills, MI | 10/26/2026 13:30:17 | Sponsorship: Past Sponsorship |
+| 51 (Good) | [Failure Analysis Engineer I (Full-Time) United States](https://jobright.ai/jobs/info/6adf5292c5c64fa3d9cba9a3) | Cisco | Maynard, MA | 10/26/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 60 (Good) | [Digital Field Applications Engineer](https://jobright.ai/jobs/info/6adbda3546a8cabdc1ff5658) | Texas Instruments | Schaumburg, IL | 10/26/2026 06:22:45 | Sponsorship: No |
 | 30 (Possible) | [Silicon Packaging Design Engineer](https://jobright.ai/jobs/info/6a88e214e8b6601d1290918d) | Intel | Phoenix, AZ | 10/26/2026 11:29:42 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Mechanical/Hardware Engineer](https://jobright.ai/jobs/info/6adae1e0cb58d64fcd37162d) | Hewlett Packard Enterprise | Chippewa Falls, WI | 10/25/2026 23:05:37 | Sponsorship: Not Sure |
 | 55 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6adf2760c5c64fa3d9cb9d10) | Supermicro | San Jose, CA | 10/26/2026 03:11:44 | Sponsorship: Not Sure |
@@ -101,6 +104,3 @@ Updated: 2026-10-26 12:34:39Z UTC
 | 74 (Strong) | [IP Design Verification Engineer](https://jobright.ai/jobs/info/6ada9ee8e4b94611ab85e585) | Intel | Santa Clara, CA | 10/23/2026 01:28:30 | Sponsorship: Past Sponsorship |
 | 70 (Strong) | [IP Design Verification Engineer](https://jobright.ai/jobs/info/6ada9ddc54bbabbab0717fb2) | Intel | Santa Clara, CA; Worcester, MA | 10/22/2026 18:28:30 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [Design Verification Engineer](https://jobright.ai/jobs/info/6adac1652a12e28317a06078) | Microsoft | Hillsboro, OR; Austin, TX; Redmond, WA | 10/22/2026 19:07:33 | Sponsorship: Not Sure |
-| 37 (Possible) | [Electrical Engineer 1 Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6adab01954bbabbab0718776) | Westinghouse Electric Company | Rock Hill, SC | 10/22/2026 17:53:45 | Sponsorship: Not Sure |
-| 52 (Good) | [Entry Level Power Electronics and Analog Design Engineer](https://jobright.ai/jobs/info/6adaa7a103d2da752891744b) | Motorola Solutions | Schaumburg, IL | 10/22/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ada92db54bbabbab0717b9b) | Twenty-Six Defense Maritime | De Leon Springs, FL | 10/22/2026 22:48:59 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
