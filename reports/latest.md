@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-26 01:49:37Z UTC
+Updated: 2026-10-26 07:25:42Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Mechanical/Hardware Engineer](https://jobright.ai/jobs/info/6adb0280c5c64fa3d9cad1c4) | Hewlett Packard Enterprise | Chippewa Falls, WI | 10/25/2026 23:05:37 | Sponsorship: Not Sure |
 | 40 (Possible) | [Electrical Engineer, Junior](https://jobright.ai/jobs/info/6a55ba73ef22935f2e3f645d) | KAIROS, Inc. | Newport, RI | 10/25/2026 12:04:12 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer, Junior](https://jobright.ai/jobs/info/69ffeaf4c4b08448a0b19bd4) | KAIROS, Inc. | Newport, RI | 10/25/2026 12:04:12 | Sponsorship: No |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ad781de54bbabbab06ff162) | ByteDance | San Jose, CA | 10/24/2026 15:29:45 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-26 01:49:37Z UTC
 | 37 (Possible) | [Electrical Engineer I - Decatur, IL](https://jobright.ai/jobs/info/6ad7eb963dc655658d8f19c2) | ADM | Decatur, IL | 10/20/2026 22:30:46 | Sponsorship: Past Sponsorship |
 | 75 (Strong) | [Hardware Verification Engineer, New College Graduate,](https://jobright.ai/jobs/info/6ad7e2cae4b94611ab849e7b) | Teradyne | Agoura Hills, CA | 10/20/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Product Development Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ad79f793dc655658d8ee2d8) | RTX | Tucson, AZ | 10/20/2026 14:19:50 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer, Hardware Reliability (Build Reliability)](https://boards.greenhouse.io/spacex/jobs/8903622002?gh_jid=8903622002) | SpaceX | Hawthorne, CA; Hawthorne, CA, United States | 10/20/2026 18:21:24 |  |
