@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-26 18:35:11Z UTC
+Updated: 2026-10-26 19:40:07Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 35 (Possible) | [Electronic and Electrical Design and Analysis Engineer (Associate or Mid-Level)](https://jobright.ai/jobs/info/6adf935ec5c64fa3d9cbd1fe) | Boeing | Jackson, MS | 10/26/2026 17:27:49 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 55 (Good) | [Hardware Prototyping Engineer](https://jobright.ai/jobs/info/6adf9fb75dc7953215a41089) | DeepWater Exploration Inc. | San Diego, CA | 10/26/2026 18:45:11 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [EMI Test Technician / Associate EMI Test Engineer](https://jobright.ai/jobs/info/6adf5e525dc7953215a3e2e5) | Element Materials Technology | Minneapolis, MN | 10/26/2026 10:59:27 | Sponsorship: Not Sure |
+| 37 (Possible) | [Controls Engineer I (Irvine, CA)](https://jobright.ai/jobs/info/6adf60bf5dc7953215a3e446) | Tetra Tech | Irvine, CA | 10/26/2026 11:18:07 | Sponsorship: Not Sure |
 | 60 (Good) | [Avionics Engineer](https://job-boards.greenhouse.io/astranis/jobs/4017414006) | Astranis | San Francisco; San Francisco, California, United States | 10/13/2026 22:02:50 | Full-time status is inferred from the first-party posting |
 | 37 (Possible) | [Electrical Engineer - Entry-Level](https://jobright.ai/jobs/info/6adf7aa29a8c91d5c3585a55) | Commonwealth Associates, Inc. | Gahanna, OH | 10/26/2026 18:16:32 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Assistant Substation Engineer, Electrical Engineer - Transmission & Distribution (Columbus or Akron)](https://jobright.ai/jobs/info/6adf6829065c4e77efaf7386) | Burns & McDonnell | Columbus, OH; Akron, OH | 10/26/2026 09:43:41 | Sponsorship: No |
@@ -100,7 +104,3 @@ Updated: 2026-10-26 18:35:11Z UTC
 | 41 (Possible) | [Entry-Level Electrical Engineer (Power System Studies) - Hybrid \| Pittsburgh Area](https://jobright.ai/jobs/info/6adbb8865dc7953215a341bf) | Pioneer Power Group | Wexford, PA | 10/23/2026 19:41:58 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [EV Charging Systems QA & Test Engineer (Entry-Level)](https://jobright.ai/jobs/info/6adbbc1846a8cabdc1ff473b) | DynaChrg | United States | 10/23/2026 19:57:12 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Entry Level - EV Charging Systems QA Test Engineer](https://jobright.ai/jobs/info/6adbbfb546a8cabdc1ff4862) | DynaChrg | Calabasas, CA | 10/23/2026 20:12:37 | Sponsorship: Past Sponsorship |
-| 58 (Good) | [Electrical Design Engineer I - Entry Level](https://jobright.ai/jobs/info/6adbba21389e06bb41ad3823) | Insight Global | Simsbury, CT | 10/23/2026 19:48:49 | Sponsorship: Past Sponsorship |
-| 54 (Good) | [Electrical Engineer Asc - Level 1](https://jobright.ai/jobs/info/6adaefeb5dc7953215a2fe7a) | Lockheed Martin | Andover, MA | 10/23/2026 12:54:13 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6adb98115dc7953215a337a1) | Leitner-Poma Of America | Grand Junction, CO | 10/23/2026 12:01:28 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [R&D Hardware Electrical Engineer I](https://jobright.ai/jobs/info/6ada856654bbabbab07173d2) | BD | Sparks, MD | 10/23/2026 17:20:27 | Sponsorship: Past Sponsorship |
