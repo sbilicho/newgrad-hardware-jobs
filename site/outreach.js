@@ -13,14 +13,22 @@ function link(parent, label, url) {
   } catch { /* Missing or invalid external URL. */ }
 }
 function renderLeads(payload) {
-  byId("research-date").textContent = `RESEARCHED ${payload.researchedOn}`;
+  const automation = payload.automation;
+  const lastResearch = automation && Date.parse(automation.lastSuccessfulResearchUtc || "");
+  const dateLabel = lastResearch ? new Intl.DateTimeFormat("en-US", { dateStyle: "medium", timeStyle: "short", timeZone: "America/Phoenix" }).format(lastResearch) : payload.researchedOn;
+  const stale = lastResearch && Date.now() - lastResearch > 36 * 3600000;
+  byId("research-date").textContent = automation
+    ? `LAST RESEARCH ${dateLabel} (Phoenix) / ${automation.schedule}${stale ? " / RESEARCH OVERDUE" : ""}`
+    : `RESEARCHED ${payload.researchedOn} / Recurring research setup pending`;
   byId("research-scope").textContent = payload.scope;
+  if (automation && automation.requiresComputer) byId("research-scope").textContent += " The researcher runs while your Windows computer is on and signed in. The cloud job monitor continues when it is off.";
   byId("lead-list").replaceChildren();
   payload.leads.forEach(lead => {
     const card = document.createElement("article"); card.className = "outreach-card";
     textNode(card, "p", `${lead.company} / ${lead.location}`, "eyebrow");
     textNode(card, "h3", lead.role); textNode(card, "p", lead.person);
-    textNode(card, "p", lead.evidence); textNode(card, "small", `${lead.observedAge}. ${lead.verification}.`);
+    const checked = lead.lastCheckedUtc ? `Checked ${new Date(lead.lastCheckedUtc).toLocaleDateString()}. ` : "";
+    textNode(card, "p", lead.evidence); textNode(card, "small", `${checked}${lead.observedAge}. ${lead.verification}.`);
     textNode(card, "p", lead.caution, "outreach-note");
     const actions = textNode(card, "div", "", "outreach-actions"); link(actions, "Open hiring activity", lead.url);
     const details = document.createElement("details"); textNode(details, "summary", "Suggested message"); textNode(details, "p", lead.message);
@@ -51,7 +59,8 @@ async function loadOutreach() {
     const response = await fetch("data/outreach.json", { cache: "no-store" });
     if (!response.ok) throw new Error("Hiring research is unavailable. Refresh after the next deployment.");
     const payload = await response.json(); renderLeads(payload); directory = payload.companies; renderDirectory();
-    byId("company-search").addEventListener("input", renderDirectory);
   } catch (error) { byId("lead-list").textContent = error.message; }
 }
+byId("company-search").addEventListener("input", renderDirectory);
 loadOutreach();
+setInterval(() => { if (!document.hidden) loadOutreach(); }, 15 * 60 * 1000);

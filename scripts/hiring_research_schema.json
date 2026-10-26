@@ -1,0 +1,21 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["queries", "leads"],
+  "properties": {
+    "queries": {"type": "array", "items": {"type": "string"}},
+    "leads": {
+      "type": "array",
+      "items": {
+        "type": "object", "additionalProperties": false,
+        "required": ["person", "company", "role", "location", "url", "evidence", "observedAge", "verification", "caution", "message"],
+        "properties": {
+          "person": {"type": "string"}, "company": {"type": "string"}, "role": {"type": "string"},
+          "location": {"type": "string"}, "url": {"type": "string"}, "evidence": {"type": "string"},
+          "observedAge": {"type": "string"}, "verification": {"type": "string"}, "caution": {"type": "string"},
+          "message": {"type": "string"}
+        }
+      }
+    }
+  }
+}

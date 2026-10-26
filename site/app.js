@@ -175,6 +175,8 @@ function renderHealth() {
 }
 
 function populateRoleFilter() {
+  const selectedRole = state.role;
+  elements.role.replaceChildren(new Option("All role families", "all"));
   const roles = [...new Set(state.jobs.map(getRoleFamily))].sort((a, b) => a.localeCompare(b));
   roles.forEach(role => {
     const option = document.createElement("option");
@@ -182,6 +184,8 @@ function populateRoleFilter() {
     option.textContent = role;
     elements.role.appendChild(option);
   });
+  state.role = roles.includes(selectedRole) ? selectedRole : "all";
+  elements.role.value = state.role;
 }
 
 function filteredJobs() {
@@ -359,7 +363,6 @@ function bindEvents() {
 }
 
 async function loadSite() {
-  bindEvents();
   try {
     const [jobsResponse, healthResponse] = await Promise.all([
       fetch("data/jobs.json", { cache: "no-store" }),
@@ -383,4 +386,6 @@ async function loadSite() {
   }
 }
 
+bindEvents();
 loadSite();
+setInterval(() => { if (!document.hidden) loadSite(); }, 15 * 60 * 1000);

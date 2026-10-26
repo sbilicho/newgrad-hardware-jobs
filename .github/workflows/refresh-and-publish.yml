@@ -14,6 +14,7 @@ on:
       - "lib/**"
       - "site/**"
       - "tests/**"
+      - "scripts/**"
       - "generate_public_site.ps1"
       - "monitor.ps1"
 
@@ -76,6 +77,11 @@ jobs:
         if: github.event_name != 'schedule'
         shell: pwsh
         run: ./tests/employer_tests.ps1
+
+      - name: Test public hiring research validation and deduplication
+        if: github.event_name != 'schedule'
+        shell: pwsh
+        run: ./tests/hiring_research_tests.ps1
 
       - name: Scan allowed job sources
         if: steps.cadence.outputs.scan_due == 'true'

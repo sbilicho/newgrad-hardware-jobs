@@ -26,7 +26,11 @@ Broadcom, Intel, NVIDIA, Cadence, Marvell, and Microchip have direct Workday con
 
 The directory distinguishes automated direct feeds from companies covered by aggregator role searches and manual search links. It supplies focused job searches, LinkedIn content searches, and public indexed-post searches for every listed employer. A company name in the directory does not imply a working direct connector.
 
-Hiring leads are dated research snapshots in `config/outreach.json`, with message drafts, visible posting age, and eligibility caveats. They are separate from automatically refreshed job feeds. Private LinkedIn posts are not accessible, and an indexed or old post is not proof of a currently open vacancy. No emails or LinkedIn messages are sent automatically.
+Hiring leads are researched twice daily at 08:00 and 20:00 America/Phoenix by `scripts/refresh_hiring_posts.ps1`. It uses the existing local Codex ChatGPT sign-in with live web search and a lightweight model, without an API key. It runs on Windows while the user is signed in; Task Scheduler catches up after missed starts. Usage counts against the existing ChatGPT allowance. The cloud job scan continues independently when the PC is off.
+
+The researcher searches public LinkedIn posts and the wider web, validates the output, preserves lead history under `outreach/`, and publishes `config/outreach.json` through an isolated local Git clone. Publication automatically redeploys the website. Each lead retains its last-checked date; the site displays an overdue notice after 36 hours. Private inbox messages are not accessed, and no outreach is sent automatically.
+
+Install or restore the scheduled researcher with `scripts/install_hiring_research_task.ps1`. Run `scripts/refresh_hiring_posts.ps1 -Force -NoPublish` to test without publishing, or omit `-NoPublish` for an authorized update. Logs remain under `%LOCALAPPDATA%\SamarthJobMonitor\hiring-research`. An indexed or old post is a networking lead until an active opening is verified.
 
 ## Privacy and operation
 
