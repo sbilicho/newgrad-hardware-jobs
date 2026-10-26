@@ -1,9 +1,26 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-26 10:32:12Z UTC
+Updated: 2026-10-26 10:36:39Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 71 (Strong) | [NPU Design Verification Engineer (Multiple Levels)](https://careers.qualcomm.com/careers/job/446721519446?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 10/22/2026 00:00:00 |  |
+| 81 (Strong) | [SOC Design Verification Engineer](https://careers.qualcomm.com/careers/job/446721452589?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 10/07/2026 00:00:00 |  |
+| 75 (Strong) | [ASICS Design Verification Engineer](https://careers.qualcomm.com/careers/job/446721432310?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 10/22/2026 00:00:00 |  |
+| 81 (Strong) | [SOC Design Verification Engineer](https://careers.qualcomm.com/careers/job/446721378285?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 10/02/2026 00:00:00 |  |
+| 85 (Strong) | [GPU Design Verification Engineer](https://careers.qualcomm.com/careers/job/446721365984?domain=qualcomm.com) | Qualcomm | Boxborough, Massachusetts, United States of America | 10/01/2026 00:00:00 |  |
+| 81 (Strong) | [SOC Design Verification Engineer](https://careers.qualcomm.com/careers/job/446721233001?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 10/06/2026 00:00:00 |  |
+| 76 (Strong) | [Processor Design Verification Engineer](https://careers.qualcomm.com/careers/job/446721219398?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 09/22/2026 00:00:00 |  |
+| 79 (Strong) | [FPGA Firmware Engineer / FPGA Design Engineer](https://careers.qualcomm.com/careers/job/446721060994?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 09/17/2026 00:00:00 |  |
+| 81 (Strong) | [SOC Design Verification Engineer – Data Center Solutions](https://careers.qualcomm.com/careers/job/446720709629?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 09/17/2026 00:00:00 |  |
+| 81 (Strong) | [SOC Design Verification Engineer](https://careers.qualcomm.com/careers/job/446720709579?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 09/17/2026 00:00:00 |  |
+| 75 (Strong) | [Design Verification Engineer — Memory Subsystem](https://careers.qualcomm.com/careers/job/446720475528?domain=qualcomm.com) | Qualcomm | Santa Clara, California, United States of America | 09/17/2026 00:00:00 |  |
+| 75 (Strong) | [GSoC Design Verification Engineer](https://careers.qualcomm.com/careers/job/446720352855?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 09/23/2026 00:00:00 |  |
+| 66 (Good) | [ASIC Design Verification Engineer (Santa Clara, CA)](https://careers.qualcomm.com/careers/job/446720321910?domain=qualcomm.com) | Qualcomm | Santa Clara, California, United States of America | 09/17/2026 00:00:00 |  |
+| 76 (Strong) | [CAD Engineer on ML/AI for Design Verification](https://careers.qualcomm.com/careers/job/446719671480?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 09/17/2026 00:00:00 |  |
+| 66 (Good) | [ASIC Design Verification Engineer (Santa Clara, CA)](https://careers.qualcomm.com/careers/job/446718576463?domain=qualcomm.com) | Qualcomm | Santa Clara, California, United States of America | 09/17/2026 00:00:00 |  |
+| 85 (Strong) | [GPU Design Verification Engineer](https://careers.qualcomm.com/careers/job/446717807401?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America; Austin, Texas, United States of America; Boxborough, Massachusetts, United States of America; Santa Clara, California, United States of America | 09/17/2026 00:00:00 |  |
+| 79 (Strong) | [FPGA Firmware Engineer / FPGA Design Engineer](https://careers.qualcomm.com/careers/job/446717133035?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 09/17/2026 00:00:00 |  |
 | 81 (Strong) | [FPGA Engineer (New Grad Summer 2027)](https://jobright.ai/jobs/info/6ac774b4fe8f33a85d4fbc56) | FreeForm | Hawthorne, CA | 10/07/2026 18:32:27 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [CAD Engineer - Entry Level Job Details \| RailWorks](https://jobright.ai/jobs/info/6a7fb812e2030208f2770dfa) | RailWorks Corporation | New York, NY | 08/15/2026 00:51:30 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6adf29989e3e874dbfbaa7c3) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 10/26/2026 10:21:12 | Sponsorship: Past Sponsorship |
@@ -87,20 +104,3 @@ Updated: 2026-10-26 10:32:12Z UTC
 | 67 (Good) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6acd9d76d113c967e3c7e66e) | Raytheon | McKinney, TX | 10/22/2026 14:33:03 | Security clearance language is present; Sponsorship: No |
 | 53 (Good) | [Thermal Test Engineer](https://jobright.ai/jobs/info/6ada817354bbabbab0717172) | Arista Networks | Santa Clara, CA | 10/22/2026 14:41:09 | Sponsorship: Not Sure |
 | 60 (Good) | [System Validation Engineer](https://jobright.ai/jobs/info/6ada40603a69033df225716e) | Supermicro | San Jose, CA | 10/22/2026 14:50:48 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Accenture Construct - Junior Electrical Controls Engineer, COM](https://jobright.ai/jobs/info/6ad7688152aa6152bb69b4a2) | Comtech Group | Sterling Heights, MI; Windsor, ON | 10/22/2026 15:05:51 | Sponsorship: Not Sure |
-| 37 (Possible) | [Entry Level Electrical Engineer - Spokane, WA](https://jobright.ai/jobs/info/6ada76c1950ef68d51857df4) | PAE | Spokane, WA | 10/22/2026 15:15:36 | Sponsorship: Past Sponsorship |
-| 58 (Good) | [Electrical Design Engineer I - Entry Level](https://jobright.ai/jobs/info/6ada8a05950ef68d51858a88) | Insight Global | Simsbury, CT | 10/22/2026 22:11:17 | Sponsorship: Past Sponsorship |
-| 59 (Good) | [High-Speed Analog IC Design Engineer (New graduate)](https://jobright.ai/jobs/info/6ada7e763a69033df2259e40) | MediaTek | Austin, TX | 10/22/2026 21:21:58 | Sponsorship: Past Sponsorship |
-| 30 (Possible) | [Mechanical Solutions Architect NCG](https://jobright.ai/jobs/info/6ada9a963a69033df225acfc) | Astera Labs | San Jose, CA | 10/22/2026 23:21:58 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [Electrical Engineer, Manufacturing Test - Electronic Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5272794007?gh_jid=5272794007) | Anduril Industries | Irvine, California, United States; Costa Mesa, California, United States | 10/22/2026 19:39:24 | Security clearance language is present; Full-time status is inferred from the first-party posting |
-| 65 (Good) | [FPGA Electrical Design Engineer I (Onsite)](https://jobright.ai/jobs/info/6aa08935a2266b538d230fb3) | RTX | Tucson, AZ | 10/22/2026 16:38:14 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6ada4c3f950ef68d51855f93) | DLR Group | Overland Park, KS | 10/22/2026 17:47:43 | Sponsorship: Past Sponsorship |
-| 77 (Strong) | [Analog-Mixed Signal Design Engineer](https://jobright.ai/jobs/info/6a550e722084cd792b475c36) | OMNIVISION | Santa Clara, CA | 10/22/2026 11:52:15 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [New College Grad - DRAM Design Engineer](https://jobright.ai/jobs/info/6ada472e03d2da75289138f3) | Micron Technology | Boise, ID | 10/22/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 68 (Good) | [Analog IC Design Engineer, AMS](https://boards.greenhouse.io/lightmatter/jobs/5459233008?gh_jid=5459233008) | Lightmatter | Mountain View, CA | 10/22/2026 16:12:41 | Full-time status is inferred from the first-party posting |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ada2cc503d2da752891266f) | SmithGroup | Pittsburgh, PA | 10/22/2026 15:33:25 | Sponsorship: Past Sponsorship |
-| 65 (Good) | [Electrical Engineer I - FPGA Designer](https://jobright.ai/jobs/info/6ad9e89f950ef68d518529c6) | Radiation Test Solutions, Inc. | Colorado Springs, CO | 10/22/2026 10:42:39 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [ELECTRICAL ENGINEER I - CO](https://jobright.ai/jobs/info/6ad9ea8b54bbabbab0711545) | City Light & Power, Inc. | Denver, CO | 10/22/2026 10:50:51 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer - 2nd shift](https://jobright.ai/jobs/info/6ad9e875f3187e00d540f307) | JSG (Johnson Service Group, Inc.) | Cypress, CA | 10/21/2026 18:31:50 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6ad9be3e54bbabbab0710925) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 10/22/2026 07:41:50 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Lighting Engineer/Electrical Engineer](https://jobright.ai/jobs/info/6ad94b8739284cd5242863ec) | Jacobs | St. Louis, MO | 10/21/2026 00:32:06 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
