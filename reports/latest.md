@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-26 10:12:24Z UTC
+Updated: 2026-10-26 10:30:18Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 81 (Strong) | [FPGA Engineer (New Grad Summer 2027)](https://jobright.ai/jobs/info/6ac774b4fe8f33a85d4fbc56) | FreeForm | Hawthorne, CA | 10/07/2026 18:32:27 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [CAD Engineer - Entry Level Job Details \| RailWorks](https://jobright.ai/jobs/info/6a7fb812e2030208f2770dfa) | RailWorks Corporation | New York, NY | 08/15/2026 00:51:30 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6adf29989e3e874dbfbaa7c3) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 10/26/2026 10:21:12 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Mechanical/Hardware Engineer](https://jobright.ai/jobs/info/6adad29bf6e3ea828242835d) | Hewlett Packard Enterprise | Chippewa Falls, WI | 10/25/2026 23:05:37 | Sponsorship: Not Sure |
 | 81 (Strong) | [•	AI/ML CAD Engineer, RTL & Design Verification](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/XMLNAME---AI-ML-CAD-Engineer--RTL---Design-Verification_JR0287395) | Intel | US, Texas, Austin; US, Oregon, Hillsboro | 09/28/2026 00:00:00 |  |
 | 68 (Good) | [Memory Circuit Design Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Memory-Circuit-Design-Engineer_JR0287727) | Intel | US, Texas, Austin | 10/06/2026 00:00:00 |  |
 | 68 (Good) | [Memory Circuit Design Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Memory-Circuit-Design-Engineer_JR0286626) | Intel | US, Texas, Austin | 10/19/2026 00:00:00 |  |
@@ -100,7 +104,3 @@ Updated: 2026-10-26 10:12:24Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer - 2nd shift](https://jobright.ai/jobs/info/6ad9e875f3187e00d540f307) | JSG (Johnson Service Group, Inc.) | Cypress, CA | 10/21/2026 18:31:50 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6ad9be3e54bbabbab0710925) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 10/22/2026 07:41:50 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Lighting Engineer/Electrical Engineer](https://jobright.ai/jobs/info/6ad94b8739284cd5242863ec) | Jacobs | St. Louis, MO | 10/21/2026 00:32:06 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 62 (Good) | [Entry Level IBM Z Engineering System Test Hardware Engineer - Poughkeepsie, NY - 2027](https://jobright.ai/jobs/info/6ad972a4950ef68d51850d37) | Hakkōda, an IBM Company | Poughkeepsie, NY | 10/21/2026 05:18:57 | Sponsorship: Past Sponsorship |
-| 77 (Strong) | [Analog Circuit Design Engineer – New Grad](https://jobright.ai/jobs/info/6ad97fdfe4b94611ab856213) | MediaTek | Austin, TX | 10/22/2026 03:15:43 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Electrical Design & Integration Engineer](https://jobright.ai/jobs/info/6ad9345254bbabbab070dc37) | Leidos | Huntsville, AL | 10/21/2026 20:15:40 | Sponsorship: No |
-| 48 (Possible) | [2027 Associate Pathways Electronics Engineer / Pathways Electronics Engineer - Rolling Meadows IL](https://jobright.ai/jobs/info/6ad7810e67bec1d0d9c75d56) | Northrop Grumman | Rolling Meadows, IL | 10/21/2026 21:11:23 | Sponsorship: No |
