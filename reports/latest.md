@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-26 07:25:42Z UTC
+Updated: 2026-10-26 08:19:21Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Mechanical/Hardware Engineer](https://jobright.ai/jobs/info/6adad2ba93c3e3e280bd1ae3) | Hewlett Packard Enterprise | Chippewa Falls, WI | 10/25/2026 23:05:37 | Sponsorship: Not Sure |
 | 46 (Possible) | [Mechanical/Hardware Engineer](https://jobright.ai/jobs/info/6adb0280c5c64fa3d9cad1c4) | Hewlett Packard Enterprise | Chippewa Falls, WI | 10/25/2026 23:05:37 | Sponsorship: Not Sure |
 | 40 (Possible) | [Electrical Engineer, Junior](https://jobright.ai/jobs/info/6a55ba73ef22935f2e3f645d) | KAIROS, Inc. | Newport, RI | 10/25/2026 12:04:12 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer, Junior](https://jobright.ai/jobs/info/69ffeaf4c4b08448a0b19bd4) | KAIROS, Inc. | Newport, RI | 10/25/2026 12:04:12 | Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-10-26 07:25:42Z UTC
 | 32 (Possible) | [Electronic Engineer I](https://jobright.ai/jobs/info/6ac4114d372c01f6cd733d4d) | Advanced Energy | Fort Collins, CO | 10/20/2026 22:19:33 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - Decatur, IL](https://jobright.ai/jobs/info/6ad7eb963dc655658d8f19c2) | ADM | Decatur, IL | 10/20/2026 22:30:46 | Sponsorship: Past Sponsorship |
 | 75 (Strong) | [Hardware Verification Engineer, New College Graduate,](https://jobright.ai/jobs/info/6ad7e2cae4b94611ab849e7b) | Teradyne | Agoura Hills, CA | 10/20/2026 05:00:00 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Product Development Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ad79f793dc655658d8ee2d8) | RTX | Tucson, AZ | 10/20/2026 14:19:50 | Security clearance language is present; Sponsorship: Past Sponsorship |
