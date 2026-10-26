@@ -1,9 +1,19 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-26 19:40:07Z UTC
+Updated: 2026-10-26 21:38:16Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 81 (Strong) | [SoC Design Verification Engineer](https://jobs.lever.co/velaura/1667421d-50e4-41a8-9925-f2b7c2f1e33f) | Velaura | Santa Clara, CA | 09/15/2026 23:51:47 |  |
+| 79 (Strong) | [Design Verification Engineer- CPU](https://jobs.lever.co/velaura/4ad9cc7c-1ca2-47a1-b549-4119b83cfde4) | Velaura | Santa Clara, CA | 08/19/2026 23:16:04 |  |
+| 79 (Strong) | [Design Verification Engineer- AI Accelerator](https://jobs.lever.co/velaura/e2609b57-711d-400e-b8e9-79ec4f1d6a7b) | Velaura | Santa Clara, CA | 08/19/2026 23:22:04 |  |
+| 81 (Strong) | [Design Verification Engineer](https://jobs.lever.co/velaura/cbc898d6-b123-47f5-bb6f-d3fdf20375c4) | Velaura | Santa Clara, CA | 07/16/2026 03:16:40 |  |
+| 41 (Possible) | [Turquoise Ridge - Underground Electrical Engineer I/II](https://jobright.ai/jobs/info/6adfc42f9e3e874dbfbaff9a) | Nevada Gold Mines | Winnemucca, NV | 10/26/2026 21:20:47 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Mechanical/Electrical Engineer](https://jobright.ai/jobs/info/6adfaeef9e3e874dbfbaf143) | Arrow | Niagara Falls, NY | 10/26/2026 19:26:18 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Systems Test Engineer – Entry Level](https://jobright.ai/jobs/info/6adfc32cc5c64fa3d9cbf479) | General Dynamics Mission Systems | Scottsdale, AZ | 10/26/2026 15:01:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Systems Test Engineer – Entry Level](https://jobright.ai/jobs/info/6adfaba0c5c64fa3d9cbe451) | General Dynamics | Scottsdale, AZ | 10/26/2026 15:01:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 35 (Possible) | [EPG Power Hiring Event \| Process & Product Engineers \| 2026 & 2027 Bachelor's & Master's Graduates](https://jobright.ai/jobs/info/6adfae879e3e874dbfbaf10e) | Lam Research | Fremont, CA | 10/26/2026 19:48:23 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6adfb8c79a8c91d5c358878e) | MATERIAL | Miami, FL | 10/26/2026 13:32:07 | Sponsorship: Not Sure |
 | 35 (Possible) | [Electronic and Electrical Design and Analysis Engineer (Associate or Mid-Level)](https://jobright.ai/jobs/info/6adf935ec5c64fa3d9cbd1fe) | Boeing | Jackson, MS | 10/26/2026 17:27:49 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 55 (Good) | [Hardware Prototyping Engineer](https://jobright.ai/jobs/info/6adf9fb75dc7953215a41089) | DeepWater Exploration Inc. | San Diego, CA | 10/26/2026 18:45:11 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [EMI Test Technician / Associate EMI Test Engineer](https://jobright.ai/jobs/info/6adf5e525dc7953215a3e2e5) | Element Materials Technology | Minneapolis, MN | 10/26/2026 10:59:27 | Sponsorship: Not Sure |
@@ -94,13 +104,3 @@ Updated: 2026-10-26 19:40:07Z UTC
 | 88 (Strong) | [GPU Design Verification Engineer](https://jobright.ai/jobs/info/6abefa0d0e027c0f3b39bf3c) | Qualcomm | Boxborough, MA | 10/24/2026 03:49:18 | Sponsorship: Not Sure |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ac29ddf064da25272e0d2d5) | ByteDance | San Jose, CA | 10/24/2026 09:32:01 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Entry Level IBM Z Engineering System Test Hardware Engineer - Poughkeepsie, NY - 2027](https://jobright.ai/jobs/info/6adbfe789e3e874dbfba2e39) | Dice | Poughkeepsie, NY | 10/24/2026 00:40:24 | Sponsorship: Past Sponsorship |
-| 85 (Strong) | [ASIC Design Engineer (Silicon Engineering)](https://jobright.ai/jobs/info/6ac98547c3a8af9c54a0b04a) | SpaceX | Palo Alto, CA | 10/23/2026 17:42:07 | Sponsorship: No |
-| 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6adbaeff0a4cc7090f9743bb) | Leidos | Washington, DC | 10/23/2026 17:47:12 | Sponsorship: No |
-| 65 (Good) | [Electrical Engineer Asc - Level 1](https://jobright.ai/jobs/info/6adbaa410a4cc7090f9741f2) | Lockheed Martin | Orlando, FL | 10/23/2026 18:41:05 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I-1854](https://jobright.ai/jobs/info/6adb62ab46a8cabdc1ff297e) | PIP Global Safety | North Charleston, SC | 10/23/2026 18:39:16 | Sponsorship: Past Sponsorship |
-| 70 (Strong) | [FPGA Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6adbc794c5c64fa3d9cb1257) | RTX | Fort Wayne, IN | 10/23/2026 21:19:29 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 95 (Strong) | [CPU IP Design & Verification Engineer – RISC-V (2027 New College Graduate)](https://jobright.ai/jobs/info/6adbc798c5c64fa3d9cb125d) | GlobalFoundries | Austin, TX | 10/23/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 95 (Strong) | [CPU IP Design & Verification Engineer – RISC-V (2027 New College Graduate)](https://jobright.ai/jobs/info/6adbc670c5c64fa3d9cb119b) | GlobalFoundries | Austin, TX | 10/23/2026 20:41:20 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry-Level Electrical Engineer (Power System Studies) - Hybrid \| Pittsburgh Area](https://jobright.ai/jobs/info/6adbb8865dc7953215a341bf) | Pioneer Power Group | Wexford, PA | 10/23/2026 19:41:58 | Sponsorship: Past Sponsorship |
-| 59 (Good) | [EV Charging Systems QA & Test Engineer (Entry-Level)](https://jobright.ai/jobs/info/6adbbc1846a8cabdc1ff473b) | DynaChrg | United States | 10/23/2026 19:57:12 | Sponsorship: Past Sponsorship |
-| 59 (Good) | [Entry Level - EV Charging Systems QA Test Engineer](https://jobright.ai/jobs/info/6adbbfb546a8cabdc1ff4862) | DynaChrg | Calabasas, CA | 10/23/2026 20:12:37 | Sponsorship: Past Sponsorship |
