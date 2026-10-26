@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-26 17:39:39Z UTC
+Updated: 2026-10-26 18:35:11Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 60 (Good) | [Avionics Engineer](https://job-boards.greenhouse.io/astranis/jobs/4017414006) | Astranis | San Francisco; San Francisco, California, United States | 10/13/2026 22:02:50 | Full-time status is inferred from the first-party posting |
+| 37 (Possible) | [Electrical Engineer - Entry-Level](https://jobright.ai/jobs/info/6adf7aa29a8c91d5c3585a55) | Commonwealth Associates, Inc. | Gahanna, OH | 10/26/2026 18:16:32 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Assistant Substation Engineer, Electrical Engineer - Transmission & Distribution (Columbus or Akron)](https://jobright.ai/jobs/info/6adf6829065c4e77efaf7386) | Burns & McDonnell | Columbus, OH; Akron, OH | 10/26/2026 09:43:41 | Sponsorship: No |
+| 42 (Possible) | [Hardware Engineer](https://jobright.ai/jobs/info/6adf4d290a4cc7090f97e078) | Westinghouse Electric Company | Warrendale, PA; Cranberry Township, PA | 10/26/2026 10:11:47 | Sponsorship: Not Sure |
+| 54 (Good) | [Test Engineer I - RF/EMC](https://jobright.ai/jobs/info/6adf8b319a8c91d5c358673b) | Alarm.com | Tysons, VA | 10/26/2026 10:17:37 | Sponsorship: No |
 | 85 (Strong) | [FPGA Design Engineer - Avionics](https://jobs.lever.co/espace/24e31d94-691c-4466-9325-6188ab684435) | E-Space | Saratoga, CA | 04/02/2026 21:27:43 |  |
 | 67 (Good) | [Electrical Engineer 1](https://jobright.ai/jobs/info/6adf75c40a4cc7090f97f4c1) | Oracle | Santa Clara, CA | 10/26/2026 15:46:12 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer I - New Grad (SEA) (R6107)](https://jobright.ai/jobs/info/6adf754d9a8c91d5c3585774) | Shield AI | Seattle, WA | 10/26/2026 15:44:13 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-10-26 17:39:39Z UTC
 | 54 (Good) | [Electrical Engineer Asc - Level 1](https://jobright.ai/jobs/info/6adaefeb5dc7953215a2fe7a) | Lockheed Martin | Andover, MA | 10/23/2026 12:54:13 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6adb98115dc7953215a337a1) | Leitner-Poma Of America | Grand Junction, CO | 10/23/2026 12:01:28 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [R&D Hardware Electrical Engineer I](https://jobright.ai/jobs/info/6ada856654bbabbab07173d2) | BD | Sparks, MD | 10/23/2026 17:20:27 | Sponsorship: Past Sponsorship |
-| 66 (Good) | [Electrical Engineer Asc - Level 1 - Programmable Logic / FPGA Design](https://jobright.ai/jobs/info/6adaefe091f93f4b057155ff) | Lockheed Martin | Andover, MA | 10/23/2026 12:54:07 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Junior Electrical Engineer (NASA Balloon Program)](https://jobright.ai/jobs/info/6aa382d7626f9945308b123d) | Peraton | Palestine, TX | 10/23/2026 09:16:31 | Sponsorship: No |
-| 72 (Strong) | [Entry-Level Electrical Hardware Engineer - FPGA, Networking & Cybersecurity](https://jobright.ai/jobs/info/6adb3bc59e3e874dbfb9f087) | General Dynamics Mission Systems | Pittsfield, MA | 10/22/2026 15:24:44 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 72 (Strong) | [ASIC FPGA Engineer - Entry Level](https://jobright.ai/jobs/info/6adb48430a4cc7090f972330) | General Dynamics Mission Systems | Boise, ID | 10/22/2026 15:24:46 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6adb3773c5c64fa3d9cae6bc) | ByteDance | San Jose, CA | 10/23/2026 10:31:15 | Sponsorship: Past Sponsorship |
