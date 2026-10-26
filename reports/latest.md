@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-26 21:38:16Z UTC
+Updated: 2026-10-26 22:34:58Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Turquoise Ridge - Underground Electrical Engineer I/II](https://jobright.ai/jobs/info/6adfca3b5dc7953215a42fa5) | Barrick Mining Corporation | Golconda, NV | 10/26/2026 21:46:35 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Lighting Engineer/Electrical Engineer](https://jobright.ai/jobs/info/6adfc99a9e3e874dbfbb0418) | Jacobs | Madison, WI | 10/26/2026 21:43:54 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6adfc904c5c64fa3d9cbf985) | Serac | Carol Stream, IL | 10/26/2026 14:41:24 | Sponsorship: No |
 | 81 (Strong) | [SoC Design Verification Engineer](https://jobs.lever.co/velaura/1667421d-50e4-41a8-9925-f2b7c2f1e33f) | Velaura | Santa Clara, CA | 09/15/2026 23:51:47 |  |
 | 79 (Strong) | [Design Verification Engineer- CPU](https://jobs.lever.co/velaura/4ad9cc7c-1ca2-47a1-b549-4119b83cfde4) | Velaura | Santa Clara, CA | 08/19/2026 23:16:04 |  |
 | 79 (Strong) | [Design Verification Engineer- AI Accelerator](https://jobs.lever.co/velaura/e2609b57-711d-400e-b8e9-79ec4f1d6a7b) | Velaura | Santa Clara, CA | 08/19/2026 23:22:04 |  |
@@ -101,6 +104,3 @@ Updated: 2026-10-26 21:38:16Z UTC
 | 33 (Possible) | [New College Grad - Product Yield Enhancement Engineer, HBM](https://jobright.ai/jobs/info/6abd2d85372c01f6cd71ea61) | Micron Technology | Boise, ID | 10/24/2026 09:51:36 | Sponsorship: Past Sponsorship |
 | 32 (Possible) | [Senior Engineer I - Validation (ASIC)](https://jobright.ai/jobs/info/6ad0f30eae21edea94fd2273) | Microchip Technology Inc. | Bernards, NJ | 10/24/2026 13:47:36 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6adb8faa46a8cabdc1ff3916) | RTX | Bellevue, IA | 10/24/2026 03:11:38 | Sponsorship: No |
-| 88 (Strong) | [GPU Design Verification Engineer](https://jobright.ai/jobs/info/6abefa0d0e027c0f3b39bf3c) | Qualcomm | Boxborough, MA | 10/24/2026 03:49:18 | Sponsorship: Not Sure |
-| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ac29ddf064da25272e0d2d5) | ByteDance | San Jose, CA | 10/24/2026 09:32:01 | Sponsorship: Past Sponsorship |
-| 62 (Good) | [Entry Level IBM Z Engineering System Test Hardware Engineer - Poughkeepsie, NY - 2027](https://jobright.ai/jobs/info/6adbfe789e3e874dbfba2e39) | Dice | Poughkeepsie, NY | 10/24/2026 00:40:24 | Sponsorship: Past Sponsorship |
