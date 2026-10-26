@@ -276,6 +276,9 @@ try {
     Assert-True (Test-Path -LiteralPath $publicHealthPath) 'Public site generator writes sanitized health data'
 
     $publicJobsText = Get-Content -LiteralPath $publicJobsPath -Raw
+    $publicHealthText = Get-Content -LiteralPath $publicHealthPath -Raw
+    Assert-True ($publicHealthText -match '"lastSuccessfulScanUtc"\s*:\s*"\d{4}-\d{2}-\d{2}T[^" ]+(Z|\+00:00)"') 'Cloud scan timestamps preserve an explicit UTC offset'
+    Assert-True ($publicJobsText -match '"discoveredUtc"\s*:\s*"\d{4}-\d{2}-\d{2}T[^" ]+(Z|\+00:00)"') 'Job discovery timestamps preserve an explicit UTC offset'
     $publicJobsPayload = $publicJobsText | ConvertFrom-Json
     Assert-True (@($publicJobsPayload.jobs).Count -gt 0) 'Public site contains saved matching jobs'
     Assert-True (-not ($publicJobsText -match '(?i)"(?:JobId|SourceIds|SourceUrls|Breakdown|seenJobs|sourceEtags)"\s*:')) 'Public job data omits private monitor fields'

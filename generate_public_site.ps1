@@ -50,9 +50,21 @@ function Get-SafePublicUrl {
     return $uri.AbsoluteUri
 }
 
+function ConvertTo-PublicUtc {
+    param([AllowNull()]$Value)
+    if ($Value -is [DateTimeOffset]) { return $Value.ToUniversalTime().ToString('o') }
+    if ($Value -is [DateTime]) { return $Value.ToUniversalTime().ToString('o') }
+    $parsed = [DateTimeOffset]::MinValue
+    $styles = [Globalization.DateTimeStyles]::AssumeUniversal -bor [Globalization.DateTimeStyles]::AdjustToUniversal
+    if ([DateTimeOffset]::TryParse([string]$Value, [Globalization.CultureInfo]::InvariantCulture, $styles, [ref]$parsed)) {
+        return $parsed.ToString('o')
+    }
+    return ''
+}
+
 function Get-DateSortValue {
     param($Alert)
-    foreach ($candidate in @([string]$Alert.PostedUtc, [string]$Alert.DiscoveredUtc)) {
+    foreach ($candidate in @((ConvertTo-PublicUtc $Alert.PostedUtc), (ConvertTo-PublicUtc $Alert.DiscoveredUtc))) {
         $parsed = [DateTimeOffset]::MinValue
         if ([DateTimeOffset]::TryParse($candidate, [ref]$parsed)) {
             return $parsed.UtcTicks
@@ -125,8 +137,8 @@ foreach ($alert in $sortedAlerts) {
         location       = [string]$alert.Location
         employmentType = [string]$alert.EmploymentType
         seniority      = [string]$alert.Seniority
-        postedUtc      = [string]$alert.PostedUtc
-        discoveredUtc  = [string]$alert.DiscoveredUtc
+        postedUtc      = ConvertTo-PublicUtc $alert.PostedUtc
+        discoveredUtc  = ConvertTo-PublicUtc $alert.DiscoveredUtc
         salary         = [string]$alert.Salary
         workModel      = [string]$alert.WorkModel
         sponsorship    = [string]$alert.Sponsorship
@@ -167,7 +179,7 @@ $publicHealth = [pscustomobject][ordered]@{
     version               = 1
     generatedUtc          = [DateTime]::UtcNow.ToString('o')
     status                = [string]$health.Status
-    lastSuccessfulScanUtc = [string]$health.LastSuccessfulScanUtc
+    lastSuccessfulScanUtc = ConvertTo-PublicUtc $health.LastSuccessfulScanUtc
     discoveredJobs        = [int]$health.DiscoveredJobs
     publishedMatches      = [int]$publicJobs.Count
     focusedRoleSearches   = [int]$coverage.FocusedRoleSearches
