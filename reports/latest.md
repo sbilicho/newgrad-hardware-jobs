@@ -1,9 +1,20 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-27 17:42:02Z UTC
+Updated: 2026-10-27 20:33:12Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 71 (Strong) | [Design Verification Engineer - Interface IP](https://jobs.ashbyhq.com/etched/d88da917-21f5-42b7-b1e2-8986897aaab1) | Etched | San Jose | 09/11/2025 18:49:28 |  |
+| 75 (Strong) | [Design Verification Engineer - SoC](https://jobs.ashbyhq.com/etched/a99318bd-b433-44b7-9600-2ee9533c90a1) | Etched | San Jose | 09/11/2025 18:44:02 |  |
+| 79 (Strong) | [Design Verification Engineer - Internal IP](https://jobs.ashbyhq.com/etched/7aeafe31-c2c6-43e0-bb31-01868dcfad39) | Etched | San Jose | 06/11/2025 05:03:53 |  |
+| 43 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6ae1069705a39c3e2c70f461) | Tetra Tech | Englewood, CO | 10/27/2026 20:16:23 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Electrical Engineer I, Harness](https://jobright.ai/jobs/info/6ae0f2cede23f466ec8baa2e) | True Anomaly | Denver, CO | 10/27/2026 18:51:58 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6ace610dba99f15ef41247ef) | RMS Energy Co, LLC | Wisconsin State | 10/27/2026 18:49:15 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Radio frequency/Electrical Engineer I](https://jobright.ai/jobs/info/6ae0f4e7829a3bada15f90c2) | CACI International Inc | Colorado Springs, CO | 10/27/2026 19:00:55 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 43 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6ae106a41f9d9308370a6deb) | Tetra Tech | Billings, MT | 10/27/2026 20:16:36 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Durability Test Engineer](https://jobright.ai/jobs/info/6ae0e72c67c31ab34899e62a) | Akkodis | Chelsea, MI | 10/27/2026 18:02:20 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Radio frequency/Electrical Engineer I](https://jobright.ai/jobs/info/6ae0f62cde23f466ec8baccb) | CACI International Inc | Colorado Springs, CO | 10/27/2026 12:06:20 | Sponsorship: No |
+| 49 (Possible) | [Build Reliability Engineer I](https://jobright.ai/jobs/info/6ae0fc6767c31ab34899f50f) | Relativity Space | Long Beach, CA | 10/27/2026 12:32:55 | Sponsorship: Not Sure |
 | 60 (Good) | [Electrical Engineer I – Hardware Engineering](https://jobright.ai/jobs/info/6ac3db86372c01f6cd7328a9) | RTX | Tucson, AZ | 10/27/2026 16:21:03 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae0d2eb829a3bada15f73df) | TRC Companies, Inc. | Salina, NY | 10/27/2026 16:35:55 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - Power Generation](https://jobright.ai/jobs/info/6ad6847b950ef68d5183ad1b) | ENTRUST Solutions Group | United States | 10/27/2026 16:34:24 | Sponsorship: Past Sponsorship |
@@ -93,14 +104,3 @@ Updated: 2026-10-27 17:42:02Z UTC
 | 81 (Strong) | [GPU Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288336) | Intel | US, California, Folsom | 10/22/2026 00:00:00 |  |
 | 81 (Strong) | [GPU Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288328-1) | Intel | US, California, Folsom | 10/22/2026 00:00:00 |  |
 | 79 (Strong) | [Circuit Design Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Circuit-Design-Engineer_JR0287985) | Intel | US, California, Folsom | 10/16/2026 00:00:00 |  |
-| 62 (Good) | [Ocotillo Failure Analysis Engineer – TEM/Probing Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Ocotillo-Failure-Analysis-Engineer---TEM-Probing-Engineer_JR0286340-1) | Intel | US, Arizona, Phoenix | 09/24/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present |
-| 61 (Good) | [Quantum Product Engineer](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Quantum-Product-Engineer_R53469) | Cadence | SAN JOSE | 10/20/2026 00:00:00 |  |
-| 47 (Possible) | [Product Engineer II, Conformal](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Product-Engineer-II--Conformal_R56270) | Cadence | SAN JOSE; AUSTIN | 09/16/2026 00:00:00 |  |
-| 51 (Good) | [Product Engineer (Analog Circuit Design)](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Product-Engineer_R55340-1) | Cadence | SAN JOSE | 10/20/2026 00:00:00 |  |
-| 77 (Strong) | [Systems Engineering Analog IC Validation](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/Systems-Engineering-Analog-IC-Validation_R027369) | Broadcom | USA-Colorado-Colorado Springs-4420 Arrowswest Drive | 10/14/2026 00:00:00 |  |
-| 77 (Strong) | [Design Verification Engineer](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Design-Verification-Engineer_R027496) | Broadcom | USA-CA San Jose Innovation Drive | 10/22/2026 00:00:00 |  |
-| 80 (Strong) | [SRAM Circuit Design Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839) | NVIDIA | US, CA, Santa Clara | 10/13/2026 00:00:00 |  |
-| 86 (Strong) | [Design Verification Engineer](https://jobs.ashbyhq.com/matx/fda9468c-ea2c-4d1b-b3d5-f8d3647daf37) | MatX | Mountain View (HQ) or Remote | 07/15/2026 21:28:45 |  |
-| 88 (Strong) | [SoC Design Verification Engineer](https://jobs.ashbyhq.com/matx/a8f5e7ab-6938-43f4-ae56-d0a4d316f53c) | MatX | Mountain View (HQ) or Remote | 02/16/2024 17:47:37 |  |
-| 81 (Strong) | [Full-Chip Physical Design Verification Engineer](https://job-boards.greenhouse.io/tenstorrent/jobs/5126693007) | Tenstorrent | Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States; Santa Clara, California, United States | 09/24/2026 17:30:07 | Full-time status is inferred from the first-party posting |
-| 79 (Strong) | [Design Verification Engineer](https://sambanova.ai/sambanova-available-positions/?gh_jid=6146139004) | SambaNova Systems | San Jose, California, United States | 10/09/2026 19:02:00 |  |
