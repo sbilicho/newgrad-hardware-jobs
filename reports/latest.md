@@ -1,9 +1,17 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-27 10:14:03Z UTC
+Updated: 2026-10-27 15:56:24Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 85 (Strong) | [GPU Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288329-1) | Intel | US, California, Folsom; US, California, Santa Clara | 10/27/2026 00:00:00 |  |
+| 81 (Strong) | [GPU Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288327) | Intel | US, California, Folsom; US, California, Santa Clara | 10/27/2026 00:00:00 |  |
+| 47 (Possible) | [Electrical Test Engineer I](https://jobright.ai/jobs/info/6ae094d35dc7953215a478da) | Delta Star, Inc. | Lynchburg, VA | 10/27/2026 04:00:00 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Wire Harness Electrical Engineer I](https://jobright.ai/jobs/info/6ae0c2561f9d9308370a3940) | Firefly Aerospace | Leander, TX | 10/27/2026 05:00:00 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [ELH Software Engineer / Agent Engineer - EDA - Austin 2027](https://jobright.ai/jobs/info/6ae0b7a905a39c3e2c70bb09) | IBM | Austin, TX | 09/11/2026 14:39:16 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Wire Harness Electrical Engineer (Entry-Level)](https://jobright.ai/jobs/info/6ae0b2dd1f9d9308370a3053) | Cimarron Inc. | Cedar Park, TX | 10/27/2026 14:19:09 | Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6ae0b1075a5afc94bd2c6268) | Virtue America | United States | 10/27/2026 14:11:19 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Hardware Engineer-New Grads](https://jobright.ai/jobs/info/6ae0a8e767c31ab34899bb15) | Benchstack Ai | San Francisco, CA | 10/27/2026 13:36:38 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 50 (Good) | [Electrical Test Engineer I - Lunar Permanence](https://jobright.ai/jobs/info/6ad34087f04335fc70ed8d67) | Blue Origin | Space Coast, Florida | 10/26/2026 23:56:53 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I OR Electrical Engineer II (Nuclear)](https://jobright.ai/jobs/info/6ae031459a8c91d5c358c229) | Duke Energy Corporation | Huntersville, NC | 10/27/2026 05:58:12 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Systems Test Engineer Entry Level](https://jobright.ai/jobs/info/6adfe6445dc7953215a4417b) | General Dynamics Mission Systems | Scottsdale, AZ | 10/26/2026 23:46:12 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -96,11 +104,3 @@ Updated: 2026-10-27 10:14:03Z UTC
 | 55 (Good) | [Process Applications Engineer I-II  (Semiconductor)  (32170)](https://jobright.ai/jobs/info/6a173d3c5b0a497d5210a279) | Ebara Technologies | Phoenix, AZ | 06/03/2026 18:39:00 | Sponsorship: Past Sponsorship |
 | 35 (Possible) | [CAD/EDA Tools Software Engineer](https://jobright.ai/jobs/info/6ad6cdd7950ef68d5183cd95) | Intel | Hillsboro, OR | 10/22/2026 17:32:12 | Sponsorship: Past Sponsorship |
 | 58 (Good) | [2027 Entry Level Project Applications Engineer](https://jobright.ai/jobs/info/6a8fda9f8ffa38557e6ca651) | Solar Turbines | San Diego, CA | 10/25/2026 16:49:32 | Sponsorship: Past Sponsorship |
-| 62 (Good) | [Verification and Field Application Engineer - New Grad](https://jobright.ai/jobs/info/6ac7cb01a444ac5d36f85c57) | Ciena | Atlanta, GA | 10/14/2026 22:16:33 | Sponsorship: Past Sponsorship |
-| 64 (Good) | [Field Application Engineer- Systems Integration (ACC / AEC Interconnects)](https://jobright.ai/jobs/info/6ade7a4f9e3e874dbfba8b8d) | Koch Engineered Solutions | Fremont, CA; San Francisco, CA | 10/25/2026 14:53:19 | Sponsorship: Not Sure |
-| 46 (Possible) | [Mechanical/Hardware Engineer](https://jobright.ai/jobs/info/6adad2ba93c3e3e280bd1ae3) | Hewlett Packard Enterprise | Chippewa Falls, WI | 10/25/2026 23:05:37 | Sponsorship: Not Sure |
-| 46 (Possible) | [Mechanical/Hardware Engineer](https://jobright.ai/jobs/info/6adb0280c5c64fa3d9cad1c4) | Hewlett Packard Enterprise | Chippewa Falls, WI | 10/25/2026 23:05:37 | Sponsorship: Not Sure |
-| 40 (Possible) | [Electrical Engineer, Junior](https://jobright.ai/jobs/info/6a55ba73ef22935f2e3f645d) | KAIROS, Inc. | Newport, RI | 10/25/2026 12:04:12 | Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer, Junior](https://jobright.ai/jobs/info/69ffeaf4c4b08448a0b19bd4) | KAIROS, Inc. | Newport, RI | 10/25/2026 12:04:12 | Sponsorship: No |
-| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6ad781de54bbabbab06ff162) | ByteDance | San Jose, CA | 10/24/2026 15:29:45 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad5bf6be4b94611ab835651) | Bowman Consulting | Towson, MD | 10/24/2026 14:42:31 | Sponsorship: Past Sponsorship |
