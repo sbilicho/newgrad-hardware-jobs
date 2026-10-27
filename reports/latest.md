@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-27 15:56:24Z UTC
+Updated: 2026-10-27 17:42:02Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 60 (Good) | [Electrical Engineer I – Hardware Engineering](https://jobright.ai/jobs/info/6ac3db86372c01f6cd7328a9) | RTX | Tucson, AZ | 10/27/2026 16:21:03 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae0d2eb829a3bada15f73df) | TRC Companies, Inc. | Salina, NY | 10/27/2026 16:35:55 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I - Power Generation](https://jobright.ai/jobs/info/6ad6847b950ef68d5183ad1b) | ENTRUST Solutions Group | United States | 10/27/2026 16:34:24 | Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae0cc4067c31ab34899cd84) | Rocket Lab | Pasadena, CA | 10/27/2026 09:07:28 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 85 (Strong) | [GPU Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288329-1) | Intel | US, California, Folsom; US, California, Santa Clara | 10/27/2026 00:00:00 |  |
 | 81 (Strong) | [GPU Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288327) | Intel | US, California, Folsom; US, California, Santa Clara | 10/27/2026 00:00:00 |  |
 | 47 (Possible) | [Electrical Test Engineer I](https://jobright.ai/jobs/info/6ae094d35dc7953215a478da) | Delta Star, Inc. | Lynchburg, VA | 10/27/2026 04:00:00 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-10-27 15:56:24Z UTC
 | 88 (Strong) | [SoC Design Verification Engineer](https://jobs.ashbyhq.com/matx/a8f5e7ab-6938-43f4-ae56-d0a4d316f53c) | MatX | Mountain View (HQ) or Remote | 02/16/2024 17:47:37 |  |
 | 81 (Strong) | [Full-Chip Physical Design Verification Engineer](https://job-boards.greenhouse.io/tenstorrent/jobs/5126693007) | Tenstorrent | Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States; Santa Clara, California, United States | 09/24/2026 17:30:07 | Full-time status is inferred from the first-party posting |
 | 79 (Strong) | [Design Verification Engineer](https://sambanova.ai/sambanova-available-positions/?gh_jid=6146139004) | SambaNova Systems | San Jose, California, United States | 10/09/2026 19:02:00 |  |
-| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aa7fa9d2ed333b4ea5cc90d) | Sopra Steria | East Hartford, CT | 10/06/2026 13:27:22 | Sponsorship: Past Sponsorship |
-| 55 (Good) | [Process Applications Engineer I-II  (Semiconductor)  (32170)](https://jobright.ai/jobs/info/6a173d3c5b0a497d5210a279) | Ebara Technologies | Phoenix, AZ | 06/03/2026 18:39:00 | Sponsorship: Past Sponsorship |
-| 35 (Possible) | [CAD/EDA Tools Software Engineer](https://jobright.ai/jobs/info/6ad6cdd7950ef68d5183cd95) | Intel | Hillsboro, OR | 10/22/2026 17:32:12 | Sponsorship: Past Sponsorship |
-| 58 (Good) | [2027 Entry Level Project Applications Engineer](https://jobright.ai/jobs/info/6a8fda9f8ffa38557e6ca651) | Solar Turbines | San Diego, CA | 10/25/2026 16:49:32 | Sponsorship: Past Sponsorship |
