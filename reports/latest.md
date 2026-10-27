@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-26 23:34:46Z UTC
+Updated: 2026-10-27 04:49:59Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 45 (Possible) | [Systems Test Engineer Entry Level](https://jobright.ai/jobs/info/6adfe6445dc7953215a4417b) | General Dynamics Mission Systems | Scottsdale, AZ | 10/26/2026 23:46:12 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 88 (Strong) | [ASIC Design Verification Engineer I (Full Time) - United States](https://jobright.ai/jobs/info/6adfd86e0a4cc7090f983d66) | Cisco | San Jose, CA | 10/26/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Mfg Product Engineer - Lehi, UT](https://jobright.ai/jobs/info/6adfd753c5c64fa3d9cc02fb) | Texas Instruments | Lehi, UT | 10/26/2026 22:51:00 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Turquoise Ridge - Underground Electrical Engineer I/II](https://jobright.ai/jobs/info/6adfca3b5dc7953215a42fa5) | Barrick Mining Corporation | Golconda, NV | 10/26/2026 21:46:35 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-26 23:34:46Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad5bf6be4b94611ab835651) | Bowman Consulting | Towson, MD | 10/24/2026 14:42:31 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad5bf7a950ef68d518308ac) | Bowman Consulting | Herndon, VA | 10/24/2026 14:42:31 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [RF/Microwave Electrical Engineer I - Production Support (Onsite)](https://jobright.ai/jobs/info/6ab58e2cd85922de20ce1f90) | Raytheon | El Segundo, CA | 10/24/2026 09:26:20 | Security clearance language is present; Sponsorship: No |
-| 33 (Possible) | [New College Grad - Product Yield Enhancement Engineer, HBM](https://jobright.ai/jobs/info/6abd2d85372c01f6cd71ea61) | Micron Technology | Boise, ID | 10/24/2026 09:51:36 | Sponsorship: Past Sponsorship |
