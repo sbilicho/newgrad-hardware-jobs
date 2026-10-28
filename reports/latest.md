@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-28 17:25:09Z UTC
+Updated: 2026-10-28 19:22:19Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae23181829a3bada1602553) | Oceaneering | Hanover, MD | 10/28/2026 18:19:44 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Civil or Electrical Engineer - Rotation Program](https://jobright.ai/jobs/info/6ae239c9eb7e8f715a60bac8) | CHA Consulting, Inc. | Albany, NY | 10/28/2026 18:07:05 | Sponsorship: Past Sponsorship |
+| 64 (Good) | [Entry-Level Applications Engineer](https://jobright.ai/jobs/info/6ac67d71d9621c5b283a910b) | Analog Devices | Wilmington, MA | 10/28/2026 18:44:28 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - Precon/Design Phase](https://jobright.ai/jobs/info/6ae20a9aeb7e8f715a609683) | Mortenson | Minneapolis, MN | 10/28/2026 15:04:39 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical/Electronics Engineer I](https://jobright.ai/jobs/info/6ae21e5d1f9d9308370ae4d9) | SEACORP | Middletown, RI | 10/28/2026 16:10:05 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae22e0a6679108488c489d9) | Echo Power | United States | 10/28/2026 17:16:58 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-10-28 17:25:09Z UTC
 | 55 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6adf2760c5c64fa3d9cb9d10) | Supermicro | San Jose, CA | 10/26/2026 03:11:44 | Sponsorship: Not Sure |
 | 71 (Strong) | [NPU Design Verification Engineer (Multiple Levels)](https://careers.qualcomm.com/careers/job/446721519446?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 10/22/2026 00:00:00 |  |
 | 81 (Strong) | [SOC Design Verification Engineer](https://careers.qualcomm.com/careers/job/446721452589?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 10/07/2026 00:00:00 |  |
-| 75 (Strong) | [ASICS Design Verification Engineer](https://careers.qualcomm.com/careers/job/446721432310?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 10/22/2026 00:00:00 |  |
-| 81 (Strong) | [SOC Design Verification Engineer](https://careers.qualcomm.com/careers/job/446721378285?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 10/02/2026 00:00:00 |  |
-| 85 (Strong) | [GPU Design Verification Engineer](https://careers.qualcomm.com/careers/job/446721365984?domain=qualcomm.com) | Qualcomm | Boxborough, Massachusetts, United States of America | 10/01/2026 00:00:00 |  |
