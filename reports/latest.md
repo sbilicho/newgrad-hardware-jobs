@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-28 00:00:23Z UTC
+Updated: 2026-10-28 01:19:50Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 66 (Good) | [Product Engineer, Personal AI](https://job-boards.greenhouse.io/riverai/jobs/4250000009) | River AI | Palo Alto, CA; Palo Alto, California, United States | 09/20/2026 00:19:40 | Sponsorship language is present; Full-time status is inferred from the first-party posting |
+| 40 (Possible) | [Entry-Level Electrical Engineer – New Graduate / EIT](https://jobright.ai/jobs/info/6ae1448c829a3bada15fbf25) | CR Engineers, Inc. | Greater Phoenix Area | 10/28/2026 00:40:44 | Sponsorship: Past Sponsorship |
+| 66 (Good) | [Electrical Test Engineer, Wafer Test (2027 New College Graduate)](https://jobright.ai/jobs/info/6ae104526679108488c40159) | GlobalFoundries | Essex Junction, VT | 10/27/2026 22:45:28 | Sponsorship: Past Sponsorship |
+| 81 (Strong) | [Formal Verification Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6ae121b91f9d9308370a7eb5) | NVIDIA | Santa Clara, CA | 10/21/2026 22:11:02 | Sponsorship: Past Sponsorship |
 | 81 (Strong) | [GPU Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288428) | Intel | US, California, Folsom | 10/27/2026 00:00:00 |  |
 | 86 (Strong) | [Design Verification Engineer, New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6236595004) | SambaNova Systems | San Jose, California, United States; Austin, Texas, United States | 10/27/2026 21:58:56 |  |
 | 49 (Possible) | [Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer](https://jobright.ai/jobs/info/6ae122cb6679108488c41538) | Boeing | El Segundo, CA | 10/27/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-10-28 00:00:23Z UTC
 | 81 (Strong) | [FPGA Engineer (New Grad Summer 2027)](https://jobright.ai/jobs/info/6ac774b4fe8f33a85d4fbc56) | FreeForm | Hawthorne, CA | 10/07/2026 18:32:27 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [CAD Engineer - Entry Level Job Details \| RailWorks](https://jobright.ai/jobs/info/6a7fb812e2030208f2770dfa) | RailWorks Corporation | New York, NY | 08/15/2026 00:51:30 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6adf29989e3e874dbfbaa7c3) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 10/26/2026 10:21:12 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Mechanical/Hardware Engineer](https://jobright.ai/jobs/info/6adad29bf6e3ea828242835d) | Hewlett Packard Enterprise | Chippewa Falls, WI | 10/25/2026 23:05:37 | Sponsorship: Not Sure |
-| 81 (Strong) | [•	AI/ML CAD Engineer, RTL & Design Verification](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/XMLNAME---AI-ML-CAD-Engineer--RTL---Design-Verification_JR0287395) | Intel | US, Texas, Austin; US, Oregon, Hillsboro | 09/28/2026 00:00:00 |  |
-| 68 (Good) | [Memory Circuit Design Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Memory-Circuit-Design-Engineer_JR0287727) | Intel | US, Texas, Austin | 10/06/2026 00:00:00 |  |
-| 68 (Good) | [Memory Circuit Design Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Memory-Circuit-Design-Engineer_JR0286626) | Intel | US, Texas, Austin | 10/19/2026 00:00:00 |  |
