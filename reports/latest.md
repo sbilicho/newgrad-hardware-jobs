@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-28 19:22:19Z UTC
+Updated: 2026-10-28 21:51:59Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 72 (Strong) | [Design Verification Engineer](https://jobright.ai/jobs/info/6ae23f57829a3bada1602d5a) | Apple | Beaverton, OR | 10/28/2026 18:30:47 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Facilities Electrical Engineer, Entry](https://jobright.ai/jobs/info/6adfbb14c5c64fa3d9cbee60) | Naval Nuclear Laboratory (FMP) | Idaho Falls, ID | 10/28/2026 18:11:42 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae2687c6679108488c4b301) | Astronics Corporation | Clackamas, OR | 10/28/2026 21:26:20 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Entry Level QA-Test Engineer-Tucson, AZ](https://jobright.ai/jobs/info/6ae25e5cde23f466ec8c5bc4) | IBM | Tucson, AZ | 10/28/2026 20:43:08 | Sponsorship: Past Sponsorship |
+| 69 (Good) | [Hardware Validation - Electrical Engineer](https://jobright.ai/jobs/info/6ae2609d1f9d9308370b16e1) | Skild AI | San Mateo, CA | 10/28/2026 20:52:45 | Sponsorship: Past Sponsorship |
+| 69 (Good) | [Silicon Photonics Device Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ae255c26679108488c4a15a) | GlobalFoundries | Malta, NY | 10/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae23181829a3bada1602553) | Oceaneering | Hanover, MD | 10/28/2026 18:19:44 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Civil or Electrical Engineer - Rotation Program](https://jobright.ai/jobs/info/6ae239c9eb7e8f715a60bac8) | CHA Consulting, Inc. | Albany, NY | 10/28/2026 18:07:05 | Sponsorship: Past Sponsorship |
 | 64 (Good) | [Entry-Level Applications Engineer](https://jobright.ai/jobs/info/6ac67d71d9621c5b283a910b) | Analog Devices | Wilmington, MA | 10/28/2026 18:44:28 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-10-28 19:22:19Z UTC
 | 54 (Good) | [Entry-Level Electrical Design Engineer](https://jobright.ai/jobs/info/6adf669e9a8c91d5c3584f1e) | Insight Global | Simsbury, CT | 10/26/2026 14:41:34 | Sponsorship: Past Sponsorship |
 | 56 (Good) | [Entry Level Validation Engineer](https://jobright.ai/jobs/info/6adf55e90a4cc7090f97e3fd) | SEGULA Technologies | Auburn Hills, MI | 10/26/2026 13:30:17 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Failure Analysis Engineer I (Full-Time) United States](https://jobright.ai/jobs/info/6adf5292c5c64fa3d9cba9a3) | Cisco | Maynard, MA | 10/26/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 60 (Good) | [Digital Field Applications Engineer](https://jobright.ai/jobs/info/6adbda3546a8cabdc1ff5658) | Texas Instruments | Schaumburg, IL | 10/26/2026 06:22:45 | Sponsorship: No |
-| 30 (Possible) | [Silicon Packaging Design Engineer](https://jobright.ai/jobs/info/6a88e214e8b6601d1290918d) | Intel | Phoenix, AZ | 10/26/2026 11:29:42 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Mechanical/Hardware Engineer](https://jobright.ai/jobs/info/6adae1e0cb58d64fcd37162d) | Hewlett Packard Enterprise | Chippewa Falls, WI | 10/25/2026 23:05:37 | Sponsorship: Not Sure |
-| 55 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6adf2760c5c64fa3d9cb9d10) | Supermicro | San Jose, CA | 10/26/2026 03:11:44 | Sponsorship: Not Sure |
-| 71 (Strong) | [NPU Design Verification Engineer (Multiple Levels)](https://careers.qualcomm.com/careers/job/446721519446?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 10/22/2026 00:00:00 |  |
-| 81 (Strong) | [SOC Design Verification Engineer](https://careers.qualcomm.com/careers/job/446721452589?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 10/07/2026 00:00:00 |  |
