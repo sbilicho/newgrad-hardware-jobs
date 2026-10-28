@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-28 12:36:35Z UTC
+Updated: 2026-10-28 17:25:09Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I - Precon/Design Phase](https://jobright.ai/jobs/info/6ae20a9aeb7e8f715a609683) | Mortenson | Minneapolis, MN | 10/28/2026 15:04:39 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Electrical/Electronics Engineer I](https://jobright.ai/jobs/info/6ae21e5d1f9d9308370ae4d9) | SEACORP | Middletown, RI | 10/28/2026 16:10:05 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae22e0a6679108488c489d9) | Echo Power | United States | 10/28/2026 17:16:58 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Entry Level Electrical Engineer - #26-26510](https://jobright.ai/jobs/info/6ae2277ede23f466ec8c3491) | US Tech Solutions | Tempe, AZ | 10/28/2026 00:54:48 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6ae21365de23f466ec8c25f6) | Virtue America | United States | 10/28/2026 15:23:17 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Test Engineer - Electronics](https://jobright.ai/jobs/info/6a5405118a74e077472fa61f) | General Matter | Los Angeles, CA | 10/28/2026 03:50:40 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer 1 Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6adab019950ef68d51859c58) | Westinghouse Electric Company | Rock Hill, SC | 10/28/2026 03:50:50 | U.S. citizenship language is present; Sponsorship: No |
 | 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6ac3d5fa0e027c0f3b3a7b7b) | Emerson | Shakopee, MN | 10/28/2026 03:57:53 | Sponsorship: No |
@@ -99,8 +104,3 @@ Updated: 2026-10-28 12:36:35Z UTC
 | 75 (Strong) | [ASICS Design Verification Engineer](https://careers.qualcomm.com/careers/job/446721432310?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 10/22/2026 00:00:00 |  |
 | 81 (Strong) | [SOC Design Verification Engineer](https://careers.qualcomm.com/careers/job/446721378285?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 10/02/2026 00:00:00 |  |
 | 85 (Strong) | [GPU Design Verification Engineer](https://careers.qualcomm.com/careers/job/446721365984?domain=qualcomm.com) | Qualcomm | Boxborough, Massachusetts, United States of America | 10/01/2026 00:00:00 |  |
-| 81 (Strong) | [SOC Design Verification Engineer](https://careers.qualcomm.com/careers/job/446721233001?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 10/06/2026 00:00:00 |  |
-| 76 (Strong) | [Processor Design Verification Engineer](https://careers.qualcomm.com/careers/job/446721219398?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 09/22/2026 00:00:00 |  |
-| 79 (Strong) | [FPGA Firmware Engineer / FPGA Design Engineer](https://careers.qualcomm.com/careers/job/446721060994?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 09/17/2026 00:00:00 |  |
-| 81 (Strong) | [SOC Design Verification Engineer – Data Center Solutions](https://careers.qualcomm.com/careers/job/446720709629?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 09/17/2026 00:00:00 |  |
-| 81 (Strong) | [SOC Design Verification Engineer](https://careers.qualcomm.com/careers/job/446720709579?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 09/17/2026 00:00:00 |  |
