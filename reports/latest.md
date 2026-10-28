@@ -1,9 +1,22 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-27 20:33:12Z UTC
+Updated: 2026-10-28 00:00:23Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 81 (Strong) | [GPU Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288428) | Intel | US, California, Folsom | 10/27/2026 00:00:00 |  |
+| 86 (Strong) | [Design Verification Engineer, New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6236595004) | SambaNova Systems | San Jose, California, United States; Austin, Texas, United States | 10/27/2026 21:58:56 |  |
+| 49 (Possible) | [Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer](https://jobright.ai/jobs/info/6ae122cb6679108488c41538) | Boeing | El Segundo, CA | 10/27/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 54 (Good) | [Electrical Engineer, Test Engineer I (Onsite)](https://jobright.ai/jobs/info/6ae10e1ede23f466ec8bbcfd) | RTX | Largo, FL | 10/27/2026 23:03:22 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Substation Electrical Engineer](https://jobright.ai/jobs/info/6ada5ace3a69033df225819d) | WSP in the U.S. | Freeport, ME | 10/27/2026 23:05:28 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer (Entry Level) - 2nd Shift](https://jobright.ai/jobs/info/6ae1148b67c31ab3489a0626) | General Dynamics Electric Boat | Groton, CT | 10/27/2026 23:15:13 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer (Radar) I](https://jobright.ai/jobs/info/6997bd5681476f6176afe43a) | TSC | Silver Spring, MD | 10/27/2026 23:38:01 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ae1189d67c31ab3489a087c) | Jacobs | Bellevue, WA | 10/27/2026 05:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ae10c7b05a39c3e2c70f7e4) | Substation Engineering Company | Reading, PA | 10/27/2026 20:41:31 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer](https://jobright.ai/jobs/info/6ae116ff6679108488c40eed) | Boeing | El Segundo, CA | 10/27/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 72 (Strong) | [Post-Silicon Validation Engineer, New Grad](https://jobright.ai/jobs/info/6ae120436679108488c413fa) | SambaNova | San Jose, CA | 10/27/2026 22:20:06 | Sponsorship: Past Sponsorship |
+| 78 (Strong) | [Design Verification Engineer, New Grad](https://jobright.ai/jobs/info/6ae12037de23f466ec8bc817) | SambaNova | San Jose, CA | 10/27/2026 22:05:43 | Sponsorship: Past Sponsorship |
+| 81 (Strong) | [Physical Design Engineer, New Grad](https://jobright.ai/jobs/info/6ae120381f9d9308370a7e17) | SambaNova | San Jose, CA | 10/27/2026 22:21:09 | Sponsorship: Past Sponsorship |
 | 71 (Strong) | [Design Verification Engineer - Interface IP](https://jobs.ashbyhq.com/etched/d88da917-21f5-42b7-b1e2-8986897aaab1) | Etched | San Jose | 09/11/2025 18:49:28 |  |
 | 75 (Strong) | [Design Verification Engineer - SoC](https://jobs.ashbyhq.com/etched/a99318bd-b433-44b7-9600-2ee9533c90a1) | Etched | San Jose | 09/11/2025 18:44:02 |  |
 | 79 (Strong) | [Design Verification Engineer - Internal IP](https://jobs.ashbyhq.com/etched/7aeafe31-c2c6-43e0-bb31-01868dcfad39) | Etched | San Jose | 06/11/2025 05:03:53 |  |
@@ -91,16 +104,3 @@ Updated: 2026-10-27 20:33:12Z UTC
 | 81 (Strong) | [•	AI/ML CAD Engineer, RTL & Design Verification](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/XMLNAME---AI-ML-CAD-Engineer--RTL---Design-Verification_JR0287395) | Intel | US, Texas, Austin; US, Oregon, Hillsboro | 09/28/2026 00:00:00 |  |
 | 68 (Good) | [Memory Circuit Design Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Memory-Circuit-Design-Engineer_JR0287727) | Intel | US, Texas, Austin | 10/06/2026 00:00:00 |  |
 | 68 (Good) | [Memory Circuit Design Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Memory-Circuit-Design-Engineer_JR0286626) | Intel | US, Texas, Austin | 10/19/2026 00:00:00 |  |
-| 63 (Good) | [CPU Circuit Design Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Circuit-Design-Engineer_JR0286738) | Intel | US, Texas, Austin | 08/31/2026 00:00:00 |  |
-| 79 (Strong) | [Product Failure Analysis Engineer - SCAN Design for Test](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Product-Failure-Analysis-Engineer---SCAN-Design-for-Test_JR0287760-1) | Intel | US, Oregon, Hillsboro | 10/06/2026 00:00:00 |  |
-| 76 (Strong) | [Mixed Signal Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Mixed-Signal-Design-Verification-Engineer_JR0285739) | Intel | US, Oregon, Hillsboro; US, Texas, Austin | 10/22/2026 00:00:00 |  |
-| 84 (Strong) | [SoC Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Colorado-Fort-Collins/SoC-Design-Verification-Engineer_JR0288393) | Intel | US, Colorado, Fort Collins; US, California, Folsom; US, Oregon, Hillsboro | 10/22/2026 00:00:00 |  |
-| 84 (Strong) | [SoC Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/SoC-Design-Verification-Engineer_JR0288228) | Intel | US, California, Santa Clara | 10/20/2026 00:00:00 |  |
-| 82 (Strong) | [IP Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/IP-Design-Verification-Engineer_JR0288395) | Intel | US, California, Santa Clara; US, Massachusetts, Beaver Brook | 10/22/2026 00:00:00 |  |
-| 81 (Strong) | [GPU Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/GPU-Design-Verification-Engineer_JR0288190) | Intel | US, California, Santa Clara; US, California, Folsom; US, Oregon, Hillsboro | 10/16/2026 00:00:00 |  |
-| 81 (Strong) | [GPU Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/GPU-Design-Verification-Engineer_JR0288189) | Intel | US, California, Santa Clara; US, California, Folsom; US, Oregon, Hillsboro | 10/16/2026 00:00:00 |  |
-| 79 (Strong) | [Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Design-Verification-Engineer_JR0288494) | Intel | US, California, Santa Clara; US, Texas, Austin | 10/22/2026 00:00:00 |  |
-| 86 (Strong) | [Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Design-Verification-Engineer_JR0286860) | Intel | US, California, Santa Clara | 09/11/2026 00:00:00 |  |
-| 81 (Strong) | [GPU Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288336) | Intel | US, California, Folsom | 10/22/2026 00:00:00 |  |
-| 81 (Strong) | [GPU Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288328-1) | Intel | US, California, Folsom | 10/22/2026 00:00:00 |  |
-| 79 (Strong) | [Circuit Design Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Circuit-Design-Engineer_JR0287985) | Intel | US, California, Folsom | 10/16/2026 00:00:00 |  |
