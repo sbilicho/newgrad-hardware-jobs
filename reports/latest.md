@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-28 11:37:19Z UTC
+Updated: 2026-10-28 12:36:35Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 55 (Good) | [Test Engineer - Electronics](https://jobright.ai/jobs/info/6a5405118a74e077472fa61f) | General Matter | Los Angeles, CA | 10/28/2026 03:50:40 | Sponsorship: Not Sure |
+| 37 (Possible) | [Electrical Engineer 1 Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6adab019950ef68d51859c58) | Westinghouse Electric Company | Rock Hill, SC | 10/28/2026 03:50:50 | U.S. citizenship language is present; Sponsorship: No |
+| 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6ac3d5fa0e027c0f3b3a7b7b) | Emerson | Shakopee, MN | 10/28/2026 03:57:53 | Sponsorship: No |
 | 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a8cbcd1cde3717f9e9bf00b) | Eaton | Raleigh, NC | 10/28/2026 02:35:24 | Sponsorship: No |
 | 63 (Good) | [Substation Physical Design EIT/Designer](https://jobright.ai/jobs/info/6acf4d4478d51ae69ce05bdf) | HDR | Billings, MT | 10/28/2026 02:44:26 | Sponsorship: Not Sure |
 | 40 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6ab55992b3db59402d0fc3b3) | LaBella Associates | Rochester, NY | 10/28/2026 02:55:32 | Sponsorship: Not Sure |
@@ -101,6 +104,3 @@ Updated: 2026-10-28 11:37:19Z UTC
 | 79 (Strong) | [FPGA Firmware Engineer / FPGA Design Engineer](https://careers.qualcomm.com/careers/job/446721060994?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 09/17/2026 00:00:00 |  |
 | 81 (Strong) | [SOC Design Verification Engineer – Data Center Solutions](https://careers.qualcomm.com/careers/job/446720709629?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 09/17/2026 00:00:00 |  |
 | 81 (Strong) | [SOC Design Verification Engineer](https://careers.qualcomm.com/careers/job/446720709579?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 09/17/2026 00:00:00 |  |
-| 75 (Strong) | [Design Verification Engineer — Memory Subsystem](https://careers.qualcomm.com/careers/job/446720475528?domain=qualcomm.com) | Qualcomm | Santa Clara, California, United States of America | 09/17/2026 00:00:00 |  |
-| 75 (Strong) | [GSoC Design Verification Engineer](https://careers.qualcomm.com/careers/job/446720352855?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 09/23/2026 00:00:00 |  |
-| 66 (Good) | [ASIC Design Verification Engineer (Santa Clara, CA)](https://careers.qualcomm.com/careers/job/446720321910?domain=qualcomm.com) | Qualcomm | Santa Clara, California, United States of America | 09/17/2026 00:00:00 |  |
