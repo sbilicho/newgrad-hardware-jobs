@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-28 01:19:50Z UTC
+Updated: 2026-10-28 05:32:29Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6abc6e8f752643de1e5d82a9) | Oakwell | United States | 10/28/2026 03:46:17 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [ELH Software Engineer / Agent Engineer - EDA - Austin 2027](https://jobright.ai/jobs/info/6ae172256679108488c43bb1) | Hakkōda, an IBM Company | Austin, TX | 10/27/2026 18:55:03 | Sponsorship: Past Sponsorship |
+| 54 (Good) | [Test Engineer I](https://jobright.ai/jobs/info/6ad7d4af67bec1d0d9c797f0) | Frontgrade Technologies | Hauppauge, NY | 10/27/2026 21:31:30 | Sponsorship: No |
 | 66 (Good) | [Product Engineer, Personal AI](https://job-boards.greenhouse.io/riverai/jobs/4250000009) | River AI | Palo Alto, CA; Palo Alto, California, United States | 09/20/2026 00:19:40 | Sponsorship language is present; Full-time status is inferred from the first-party posting |
 | 40 (Possible) | [Entry-Level Electrical Engineer – New Graduate / EIT](https://jobright.ai/jobs/info/6ae1448c829a3bada15fbf25) | CR Engineers, Inc. | Greater Phoenix Area | 10/28/2026 00:40:44 | Sponsorship: Past Sponsorship |
 | 66 (Good) | [Electrical Test Engineer, Wafer Test (2027 New College Graduate)](https://jobright.ai/jobs/info/6ae104526679108488c40159) | GlobalFoundries | Essex Junction, VT | 10/27/2026 22:45:28 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-10-28 01:19:50Z UTC
 | 66 (Good) | [ASIC Design Verification Engineer (Santa Clara, CA)](https://careers.qualcomm.com/careers/job/446718576463?domain=qualcomm.com) | Qualcomm | Santa Clara, California, United States of America | 09/17/2026 00:00:00 |  |
 | 85 (Strong) | [GPU Design Verification Engineer](https://careers.qualcomm.com/careers/job/446717807401?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America; Austin, Texas, United States of America; Boxborough, Massachusetts, United States of America; Santa Clara, California, United States of America | 09/17/2026 00:00:00 |  |
 | 79 (Strong) | [FPGA Firmware Engineer / FPGA Design Engineer](https://careers.qualcomm.com/careers/job/446717133035?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 09/17/2026 00:00:00 |  |
-| 81 (Strong) | [FPGA Engineer (New Grad Summer 2027)](https://jobright.ai/jobs/info/6ac774b4fe8f33a85d4fbc56) | FreeForm | Hawthorne, CA | 10/07/2026 18:32:27 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [CAD Engineer - Entry Level Job Details \| RailWorks](https://jobright.ai/jobs/info/6a7fb812e2030208f2770dfa) | RailWorks Corporation | New York, NY | 08/15/2026 00:51:30 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - New Graduate](https://jobright.ai/jobs/info/6adf29989e3e874dbfbaa7c3) | Innovative Refrigeration Systems, Inc. | Lyndhurst, VA | 10/26/2026 10:21:12 | Sponsorship: Past Sponsorship |
