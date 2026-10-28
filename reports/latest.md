@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-28 05:32:29Z UTC
+Updated: 2026-10-28 06:34:41Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 81 (Strong) | [SOC Design Verification Engineer](https://careers.qualcomm.com/careers/job/446721689444?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 10/27/2026 00:00:00 |  |
 | 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6abc6e8f752643de1e5d82a9) | Oakwell | United States | 10/28/2026 03:46:17 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [ELH Software Engineer / Agent Engineer - EDA - Austin 2027](https://jobright.ai/jobs/info/6ae172256679108488c43bb1) | Hakkōda, an IBM Company | Austin, TX | 10/27/2026 18:55:03 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Test Engineer I](https://jobright.ai/jobs/info/6ad7d4af67bec1d0d9c797f0) | Frontgrade Technologies | Hauppauge, NY | 10/27/2026 21:31:30 | Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-10-28 05:32:29Z UTC
 | 76 (Strong) | [CAD Engineer on ML/AI for Design Verification](https://careers.qualcomm.com/careers/job/446719671480?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 09/17/2026 00:00:00 |  |
 | 66 (Good) | [ASIC Design Verification Engineer (Santa Clara, CA)](https://careers.qualcomm.com/careers/job/446718576463?domain=qualcomm.com) | Qualcomm | Santa Clara, California, United States of America | 09/17/2026 00:00:00 |  |
 | 85 (Strong) | [GPU Design Verification Engineer](https://careers.qualcomm.com/careers/job/446717807401?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America; Austin, Texas, United States of America; Boxborough, Massachusetts, United States of America; Santa Clara, California, United States of America | 09/17/2026 00:00:00 |  |
-| 79 (Strong) | [FPGA Firmware Engineer / FPGA Design Engineer](https://careers.qualcomm.com/careers/job/446717133035?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 09/17/2026 00:00:00 |  |
