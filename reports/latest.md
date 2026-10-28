@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-28 06:34:41Z UTC
+Updated: 2026-10-28 11:37:19Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a8cbcd1cde3717f9e9bf00b) | Eaton | Raleigh, NC | 10/28/2026 02:35:24 | Sponsorship: No |
+| 63 (Good) | [Substation Physical Design EIT/Designer](https://jobright.ai/jobs/info/6acf4d4478d51ae69ce05bdf) | HDR | Billings, MT | 10/28/2026 02:44:26 | Sponsorship: Not Sure |
+| 40 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6ab55992b3db59402d0fc3b3) | LaBella Associates | Rochester, NY | 10/28/2026 02:55:32 | Sponsorship: Not Sure |
 | 81 (Strong) | [SOC Design Verification Engineer](https://careers.qualcomm.com/careers/job/446721689444?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 10/27/2026 00:00:00 |  |
 | 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6abc6e8f752643de1e5d82a9) | Oakwell | United States | 10/28/2026 03:46:17 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [ELH Software Engineer / Agent Engineer - EDA - Austin 2027](https://jobright.ai/jobs/info/6ae172256679108488c43bb1) | Hakkōda, an IBM Company | Austin, TX | 10/27/2026 18:55:03 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-10-28 06:34:41Z UTC
 | 75 (Strong) | [Design Verification Engineer — Memory Subsystem](https://careers.qualcomm.com/careers/job/446720475528?domain=qualcomm.com) | Qualcomm | Santa Clara, California, United States of America | 09/17/2026 00:00:00 |  |
 | 75 (Strong) | [GSoC Design Verification Engineer](https://careers.qualcomm.com/careers/job/446720352855?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 09/23/2026 00:00:00 |  |
 | 66 (Good) | [ASIC Design Verification Engineer (Santa Clara, CA)](https://careers.qualcomm.com/careers/job/446720321910?domain=qualcomm.com) | Qualcomm | Santa Clara, California, United States of America | 09/17/2026 00:00:00 |  |
-| 76 (Strong) | [CAD Engineer on ML/AI for Design Verification](https://careers.qualcomm.com/careers/job/446719671480?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 09/17/2026 00:00:00 |  |
-| 66 (Good) | [ASIC Design Verification Engineer (Santa Clara, CA)](https://careers.qualcomm.com/careers/job/446718576463?domain=qualcomm.com) | Qualcomm | Santa Clara, California, United States of America | 09/17/2026 00:00:00 |  |
-| 85 (Strong) | [GPU Design Verification Engineer](https://careers.qualcomm.com/careers/job/446717807401?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America; Austin, Texas, United States of America; Boxborough, Massachusetts, United States of America; Santa Clara, California, United States of America | 09/17/2026 00:00:00 |  |
