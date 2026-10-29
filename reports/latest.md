@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-29 19:55:45Z UTC
+Updated: 2026-10-29 20:50:01Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 79 (Strong) | [Pre-Silicon Digital Verification Engineer](https://jobright.ai/jobs/info/6ae374a1eab1f9673097416f) | Apple | Sunnyvale, CA | 10/29/2026 16:30:25 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae38ced77c09cb3bd4a6ec6) | Loram UK Ltd | Medina, MN | 10/29/2026 18:14:05 | Sponsorship: Past Sponsorship |
 | 60 (Good) | [Hardware Engineer I (Full-Time) - United States](https://jobright.ai/jobs/info/6ae378c2fb2cd420ace5124c) | Cisco | San Jose, CA | 10/29/2026 17:18:17 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Electronic and Electrical Systems Design and Test Engineer (Entry-Level or Associate)](https://jobright.ai/jobs/info/6ae39925d45dc30fb7d2af61) | Boeing | Berkeley, MO | 10/29/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-29 19:55:45Z UTC
 | 37 (Possible) | [Entry-Level Mechanical/Electrical Engineer](https://jobright.ai/jobs/info/6adfaeef9e3e874dbfbaf143) | Arrow | Niagara Falls, NY | 10/26/2026 19:26:18 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Systems Test Engineer – Entry Level](https://jobright.ai/jobs/info/6adfc32cc5c64fa3d9cbf479) | General Dynamics Mission Systems | Scottsdale, AZ | 10/26/2026 15:01:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Systems Test Engineer – Entry Level](https://jobright.ai/jobs/info/6adfaba0c5c64fa3d9cbe451) | General Dynamics | Scottsdale, AZ | 10/26/2026 15:01:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 35 (Possible) | [EPG Power Hiring Event \| Process & Product Engineers \| 2026 & 2027 Bachelor's & Master's Graduates](https://jobright.ai/jobs/info/6adfae879e3e874dbfbaf10e) | Lam Research | Fremont, CA | 10/26/2026 19:48:23 | Sponsorship: Past Sponsorship |
