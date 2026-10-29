@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-29 02:27:12Z UTC
+Updated: 2026-10-29 07:40:27Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 31 (Possible) | [EDA Tools Software Engineer](https://jobright.ai/jobs/info/6ae2a31deb7e8f715a60f6bb) | Intel | Hillsboro, OR | 10/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [New Graduate- Associate Electrical Engineer - Nuclear Design Team](https://jobright.ai/jobs/info/6ad5bd8525289a0b3bf603e5) | Enercon Services, Inc. | Palm Beach Gardens, FL | 10/29/2026 00:23:30 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Hardware Engineer (PWB / PWA Design), Early Career](https://jobright.ai/jobs/info/6ae25e83de23f466ec8c5bfa) | Viasat | Carlsbad, CA; Marlborough, MA | 10/28/2026 22:27:05 | Sponsorship: No |
 | 46 (Possible) | [Electrical Hardware Engineer I](https://jobright.ai/jobs/info/6ae297286679108488c4c854) | Hewlett Packard Enterprise | Roseville, CA | 10/29/2026 00:58:29 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae27ef0de23f466ec8c720b) | Rocket Lab | Long Beach, CA | 10/28/2026 23:02:08 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Senior Electrical Engineer I - Secret Clearance](https://jobright.ai/jobs/info/6ae287106679108488c4c271) | Rocket Lab | Long Beach, CA | 10/28/2026 23:36:48 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-10-29 02:27:12Z UTC
 | 54 (Good) | [Test Engineer I - RF/EMC](https://jobright.ai/jobs/info/6adf8b319a8c91d5c358673b) | Alarm.com | Tysons, VA | 10/26/2026 10:17:37 | Sponsorship: No |
 | 85 (Strong) | [FPGA Design Engineer - Avionics](https://jobs.lever.co/espace/24e31d94-691c-4466-9325-6188ab684435) | E-Space | Saratoga, CA | 04/02/2026 21:27:43 |  |
 | 67 (Good) | [Electrical Engineer 1](https://jobright.ai/jobs/info/6adf75c40a4cc7090f97f4c1) | Oracle | Santa Clara, CA | 10/26/2026 15:46:12 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Electrical Engineer I - New Grad (SEA) (R6107)](https://jobright.ai/jobs/info/6adf754d9a8c91d5c3585774) | Shield AI | Seattle, WA | 10/26/2026 15:44:13 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer (entry level) Job Details \| Lake Superior Consulting](https://jobright.ai/jobs/info/6adf86889a8c91d5c3586460) | Lake Superior Consulting | Duluth, MN | 10/26/2026 16:57:44 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6adf8f860a4cc7090f9807f6) | General Dynamics Electric Boat | Groton, CT | 10/26/2026 17:36:06 | Security clearance language is present; Sponsorship: Past Sponsorship |
