@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-29 07:40:27Z UTC
+Updated: 2026-10-29 13:19:55Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae33cc2d45dc30fb7d27e18) | Henny Penny | Eaton, OH | 10/29/2026 05:00:00 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae1f2a46679108488c45d94) | Guerbet | Cincinnati, OH | 10/29/2026 10:37:44 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Electrical Engineer I - New Grad (BOS)](https://jobright.ai/jobs/info/6ae341e3eab1f96730972975) | Shield AI | Boston, MA | 10/29/2026 12:53:55 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 52 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae3471e77c09cb3bd4a4948) | TAP Engineering | Columbia, MD | 10/29/2026 13:16:14 | Sponsorship: Past Sponsorship |
+| 90 (Strong) | [New College Grad - Mixed Signal Design Engineer, HBM](https://jobright.ai/jobs/info/6ae34177d7424a2a828de575) | Micron Technology | Richardson, TX | 10/29/2026 09:51:23 | Sponsorship: Past Sponsorship |
+| 56 (Good) | [New College Grad - NAND & SSD Applications Engineer](https://jobright.ai/jobs/info/6ae23295829a3bada160262b) | Micron Technology | Boise, ID | 10/29/2026 13:10:12 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6ae3426177c09cb3bd4a4777) | GE Aerospace | Evendale, OH | 10/29/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 31 (Possible) | [EDA Tools Software Engineer](https://jobright.ai/jobs/info/6ae2a31deb7e8f715a60f6bb) | Intel | Hillsboro, OR | 10/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [New Graduate- Associate Electrical Engineer - Nuclear Design Team](https://jobright.ai/jobs/info/6ad5bd8525289a0b3bf603e5) | Enercon Services, Inc. | Palm Beach Gardens, FL | 10/29/2026 00:23:30 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Hardware Engineer (PWB / PWA Design), Early Career](https://jobright.ai/jobs/info/6ae25e83de23f466ec8c5bfa) | Viasat | Carlsbad, CA; Marlborough, MA | 10/28/2026 22:27:05 | Sponsorship: No |
@@ -97,10 +104,3 @@ Updated: 2026-10-29 07:40:27Z UTC
 | 55 (Good) | [Hardware Prototyping Engineer](https://jobright.ai/jobs/info/6adf9fb75dc7953215a41089) | DeepWater Exploration Inc. | San Diego, CA | 10/26/2026 18:45:11 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [EMI Test Technician / Associate EMI Test Engineer](https://jobright.ai/jobs/info/6adf5e525dc7953215a3e2e5) | Element Materials Technology | Minneapolis, MN | 10/26/2026 10:59:27 | Sponsorship: Not Sure |
 | 37 (Possible) | [Controls Engineer I (Irvine, CA)](https://jobright.ai/jobs/info/6adf60bf5dc7953215a3e446) | Tetra Tech | Irvine, CA | 10/26/2026 11:18:07 | Sponsorship: Not Sure |
-| 60 (Good) | [Avionics Engineer](https://job-boards.greenhouse.io/astranis/jobs/4017414006) | Astranis | San Francisco; San Francisco, California, United States | 10/13/2026 22:02:50 | Full-time status is inferred from the first-party posting |
-| 37 (Possible) | [Electrical Engineer - Entry-Level](https://jobright.ai/jobs/info/6adf7aa29a8c91d5c3585a55) | Commonwealth Associates, Inc. | Gahanna, OH | 10/26/2026 18:16:32 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Assistant Substation Engineer, Electrical Engineer - Transmission & Distribution (Columbus or Akron)](https://jobright.ai/jobs/info/6adf6829065c4e77efaf7386) | Burns & McDonnell | Columbus, OH; Akron, OH | 10/26/2026 09:43:41 | Sponsorship: No |
-| 42 (Possible) | [Hardware Engineer](https://jobright.ai/jobs/info/6adf4d290a4cc7090f97e078) | Westinghouse Electric Company | Warrendale, PA; Cranberry Township, PA | 10/26/2026 10:11:47 | Sponsorship: Not Sure |
-| 54 (Good) | [Test Engineer I - RF/EMC](https://jobright.ai/jobs/info/6adf8b319a8c91d5c358673b) | Alarm.com | Tysons, VA | 10/26/2026 10:17:37 | Sponsorship: No |
-| 85 (Strong) | [FPGA Design Engineer - Avionics](https://jobs.lever.co/espace/24e31d94-691c-4466-9325-6188ab684435) | E-Space | Saratoga, CA | 04/02/2026 21:27:43 |  |
-| 67 (Good) | [Electrical Engineer 1](https://jobright.ai/jobs/info/6adf75c40a4cc7090f97f4c1) | Oracle | Santa Clara, CA | 10/26/2026 15:46:12 | Sponsorship: Past Sponsorship |
