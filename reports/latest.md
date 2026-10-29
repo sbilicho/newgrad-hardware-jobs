@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-29 14:43:02Z UTC
+Updated: 2026-10-29 19:55:45Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae38ced77c09cb3bd4a6ec6) | Loram UK Ltd | Medina, MN | 10/29/2026 18:14:05 | Sponsorship: Past Sponsorship |
+| 60 (Good) | [Hardware Engineer I (Full-Time) - United States](https://jobright.ai/jobs/info/6ae378c2fb2cd420ace5124c) | Cisco | San Jose, CA | 10/29/2026 17:18:17 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Electronic and Electrical Systems Design and Test Engineer (Entry-Level or Associate)](https://jobright.ai/jobs/info/6ae39925d45dc30fb7d2af61) | Boeing | Berkeley, MO | 10/29/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 51 (Good) | [Entry-Level Systems Test Engineer](https://jobright.ai/jobs/info/6ae37c35d45dc30fb7d29e91) | Torch Technologies, Inc. | Huntsville, AL | 10/29/2026 17:38:04 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer in Training I](https://jobright.ai/jobs/info/6ae35659c3139b475b5ac22d) | EwingCole | Irvine, CA | 10/29/2026 09:01:39 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae33cc2d45dc30fb7d27e18) | Henny Penny | Eaton, OH | 10/29/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae1f2a46679108488c45d94) | Guerbet | Cincinnati, OH | 10/29/2026 10:37:44 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-10-29 14:43:02Z UTC
 | 45 (Possible) | [Systems Test Engineer – Entry Level](https://jobright.ai/jobs/info/6adfc32cc5c64fa3d9cbf479) | General Dynamics Mission Systems | Scottsdale, AZ | 10/26/2026 15:01:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Systems Test Engineer – Entry Level](https://jobright.ai/jobs/info/6adfaba0c5c64fa3d9cbe451) | General Dynamics | Scottsdale, AZ | 10/26/2026 15:01:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 35 (Possible) | [EPG Power Hiring Event \| Process & Product Engineers \| 2026 & 2027 Bachelor's & Master's Graduates](https://jobright.ai/jobs/info/6adfae879e3e874dbfbaf10e) | Lam Research | Fremont, CA | 10/26/2026 19:48:23 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6adfb8c79a8c91d5c358878e) | MATERIAL | Miami, FL | 10/26/2026 13:32:07 | Sponsorship: Not Sure |
-| 35 (Possible) | [Electronic and Electrical Design and Analysis Engineer (Associate or Mid-Level)](https://jobright.ai/jobs/info/6adf935ec5c64fa3d9cbd1fe) | Boeing | Jackson, MS | 10/26/2026 17:27:49 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 55 (Good) | [Hardware Prototyping Engineer](https://jobright.ai/jobs/info/6adf9fb75dc7953215a41089) | DeepWater Exploration Inc. | San Diego, CA | 10/26/2026 18:45:11 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [EMI Test Technician / Associate EMI Test Engineer](https://jobright.ai/jobs/info/6adf5e525dc7953215a3e2e5) | Element Materials Technology | Minneapolis, MN | 10/26/2026 10:59:27 | Sponsorship: Not Sure |
