@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-29 13:19:55Z UTC
+Updated: 2026-10-29 14:43:02Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer in Training I](https://jobright.ai/jobs/info/6ae35659c3139b475b5ac22d) | EwingCole | Irvine, CA | 10/29/2026 09:01:39 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae33cc2d45dc30fb7d27e18) | Henny Penny | Eaton, OH | 10/29/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae1f2a46679108488c45d94) | Guerbet | Cincinnati, OH | 10/29/2026 10:37:44 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer I - New Grad (BOS)](https://jobright.ai/jobs/info/6ae341e3eab1f96730972975) | Shield AI | Boston, MA | 10/29/2026 12:53:55 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-29 13:19:55Z UTC
 | 35 (Possible) | [Electronic and Electrical Design and Analysis Engineer (Associate or Mid-Level)](https://jobright.ai/jobs/info/6adf935ec5c64fa3d9cbd1fe) | Boeing | Jackson, MS | 10/26/2026 17:27:49 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 55 (Good) | [Hardware Prototyping Engineer](https://jobright.ai/jobs/info/6adf9fb75dc7953215a41089) | DeepWater Exploration Inc. | San Diego, CA | 10/26/2026 18:45:11 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [EMI Test Technician / Associate EMI Test Engineer](https://jobright.ai/jobs/info/6adf5e525dc7953215a3e2e5) | Element Materials Technology | Minneapolis, MN | 10/26/2026 10:59:27 | Sponsorship: Not Sure |
-| 37 (Possible) | [Controls Engineer I (Irvine, CA)](https://jobright.ai/jobs/info/6adf60bf5dc7953215a3e446) | Tetra Tech | Irvine, CA | 10/26/2026 11:18:07 | Sponsorship: Not Sure |
