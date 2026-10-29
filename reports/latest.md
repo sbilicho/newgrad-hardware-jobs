@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-28 21:51:59Z UTC
+Updated: 2026-10-29 01:35:04Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae27ef0de23f466ec8c720b) | Rocket Lab | Long Beach, CA | 10/28/2026 23:02:08 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Senior Electrical Engineer I - Secret Clearance](https://jobright.ai/jobs/info/6ae287106679108488c4c271) | Rocket Lab | Long Beach, CA | 10/28/2026 23:36:48 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Test Engineer (Entry Level) - Medical Device](https://jobright.ai/jobs/info/6ae274daeb7e8f715a60e438) | Planet Pharma | Denver Metropolitan Area | 10/28/2026 22:19:06 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [Design Verification Engineer](https://jobright.ai/jobs/info/6ae23f57829a3bada1602d5a) | Apple | Beaverton, OR | 10/28/2026 18:30:47 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Facilities Electrical Engineer, Entry](https://jobright.ai/jobs/info/6adfbb14c5c64fa3d9cbee60) | Naval Nuclear Laboratory (FMP) | Idaho Falls, ID | 10/28/2026 18:11:42 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae2687c6679108488c4b301) | Astronics Corporation | Clackamas, OR | 10/28/2026 21:26:20 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-10-28 21:51:59Z UTC
 | 37 (Possible) | [Electrical Engineer (entry level) Job Details \| Lake Superior Consulting](https://jobright.ai/jobs/info/6adf86889a8c91d5c3586460) | Lake Superior Consulting | Duluth, MN | 10/26/2026 16:57:44 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6adf8f860a4cc7090f9807f6) | General Dynamics Electric Boat | Groton, CT | 10/26/2026 17:36:06 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 86 (Strong) | [Design-for-Test (DFT) Engineer — ASIC Backend – (Associate, Experienced, or Lead)](https://jobright.ai/jobs/info/6adf82c15dc7953215a3f982) | Boeing | El Segundo, CA | 10/26/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 54 (Good) | [Entry-Level Electrical Design Engineer](https://jobright.ai/jobs/info/6adf669e9a8c91d5c3584f1e) | Insight Global | Simsbury, CT | 10/26/2026 14:41:34 | Sponsorship: Past Sponsorship |
-| 56 (Good) | [Entry Level Validation Engineer](https://jobright.ai/jobs/info/6adf55e90a4cc7090f97e3fd) | SEGULA Technologies | Auburn Hills, MI | 10/26/2026 13:30:17 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [Failure Analysis Engineer I (Full-Time) United States](https://jobright.ai/jobs/info/6adf5292c5c64fa3d9cba9a3) | Cisco | Maynard, MA | 10/26/2026 00:00:00 | Sponsorship: Past Sponsorship |
