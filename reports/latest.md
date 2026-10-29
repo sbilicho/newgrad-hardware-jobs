@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-29 20:50:01Z UTC
+Updated: 2026-10-29 23:52:27Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 77 (Strong) | [Systems Engineering Analog IC Validation](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/RTL-IC-Design-Engineer_R027142) | Broadcom | USA-Colorado-Colorado Springs-4420 Arrowswest Drive; USA-California-San Jose-1320 Ridder Park Drive | 10/29/2026 00:00:00 |  |
+| 50 (Good) | [Electrical Hardware Engineer I](https://jobright.ai/jobs/info/6ae3b9d7d7424a2a828e2745) | Voyager Technologies | Pittsburgh, PA | 10/29/2026 21:25:43 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Component Electrical Engineer I (Hybrid)](https://jobright.ai/jobs/info/6ae387bdd45dc30fb7d2a4d0) | RTX | McKinney, TX | 10/29/2026 23:22:52 | Sponsorship: Past Sponsorship |
+| 55 (Good) | [Product Verification Engineer - Optical (Teradyne, North Reading, MA) Job Details \| Teradyne](https://jobright.ai/jobs/info/6ae3b414d7424a2a828e236b) | Teradyne | North Reading, MA | 10/29/2026 21:01:08 | Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Pre-Silicon Digital Verification Engineer](https://jobright.ai/jobs/info/6ae374a1eab1f9673097416f) | Apple | Sunnyvale, CA | 10/29/2026 16:30:25 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae38ced77c09cb3bd4a6ec6) | Loram UK Ltd | Medina, MN | 10/29/2026 18:14:05 | Sponsorship: Past Sponsorship |
 | 60 (Good) | [Hardware Engineer I (Full-Time) - United States](https://jobright.ai/jobs/info/6ae378c2fb2cd420ace5124c) | Cisco | San Jose, CA | 10/29/2026 17:18:17 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-10-29 20:50:01Z UTC
 | 79 (Strong) | [Design Verification Engineer- CPU](https://jobs.lever.co/velaura/4ad9cc7c-1ca2-47a1-b549-4119b83cfde4) | Velaura | Santa Clara, CA | 08/19/2026 23:16:04 |  |
 | 79 (Strong) | [Design Verification Engineer- AI Accelerator](https://jobs.lever.co/velaura/e2609b57-711d-400e-b8e9-79ec4f1d6a7b) | Velaura | Santa Clara, CA | 08/19/2026 23:22:04 |  |
 | 81 (Strong) | [Design Verification Engineer](https://jobs.lever.co/velaura/cbc898d6-b123-47f5-bb6f-d3fdf20375c4) | Velaura | Santa Clara, CA | 07/16/2026 03:16:40 |  |
-| 41 (Possible) | [Turquoise Ridge - Underground Electrical Engineer I/II](https://jobright.ai/jobs/info/6adfc42f9e3e874dbfbaff9a) | Nevada Gold Mines | Winnemucca, NV | 10/26/2026 21:20:47 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Mechanical/Electrical Engineer](https://jobright.ai/jobs/info/6adfaeef9e3e874dbfbaf143) | Arrow | Niagara Falls, NY | 10/26/2026 19:26:18 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Systems Test Engineer – Entry Level](https://jobright.ai/jobs/info/6adfc32cc5c64fa3d9cbf479) | General Dynamics Mission Systems | Scottsdale, AZ | 10/26/2026 15:01:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Systems Test Engineer – Entry Level](https://jobright.ai/jobs/info/6adfaba0c5c64fa3d9cbe451) | General Dynamics | Scottsdale, AZ | 10/26/2026 15:01:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
