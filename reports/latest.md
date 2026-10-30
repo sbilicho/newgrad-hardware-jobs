@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-30 21:28:43Z UTC
+Updated: 2026-10-30 23:08:00Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 58 (Good) | [Embedded Hardware Test Engineer](https://jobright.ai/jobs/info/6ae4f0a1fb2cd420ace5b58a) | SARACA | Saint Paul, MN | 10/30/2026 19:31:45 | Sponsorship: Past Sponsorship |
+| 55 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA) Job Details \| Teradyne](https://jobright.ai/jobs/info/6ad8b83354bbabbab07082ba) | Teradyne | North Reading, MA | 10/21/2026 13:03:47 | Sponsorship: Past Sponsorship |
 | 58 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae4fc4bc3139b475b5b7d0f) | Longshot Space Technologies Corporation | Alameda, CA | 10/30/2026 20:21:31 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae502ebfb2cd420ace5c026) | RMS Energy Co, LLC | Michigan State | 10/30/2026 20:49:47 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Entry-Level Electrical Reliability Engineer (EDP)](https://jobright.ai/jobs/info/6ae50535d7424a2a828eaf92) | Koch | Brewton, AL | 10/30/2026 20:59:33 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-10-30 21:28:43Z UTC
 | 79 (Strong) | [Design Verification Engineer - Internal IP](https://jobs.ashbyhq.com/etched/7aeafe31-c2c6-43e0-bb31-01868dcfad39) | Etched | San Jose | 06/11/2025 05:03:53 |  |
 | 43 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6ae1069705a39c3e2c70f461) | Tetra Tech | Englewood, CO | 10/27/2026 20:16:23 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Electrical Engineer I, Harness](https://jobright.ai/jobs/info/6ae0f2cede23f466ec8baa2e) | True Anomaly | Denver, CO | 10/27/2026 18:51:58 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6ace610dba99f15ef41247ef) | RMS Energy Co, LLC | Wisconsin State | 10/27/2026 18:49:15 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Radio frequency/Electrical Engineer I](https://jobright.ai/jobs/info/6ae0f4e7829a3bada15f90c2) | CACI International Inc | Colorado Springs, CO | 10/27/2026 19:00:55 | Security clearance language is present; Sponsorship: Past Sponsorship |
