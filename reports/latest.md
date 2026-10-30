@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-30 08:19:50Z UTC
+Updated: 2026-10-30 11:01:55Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 64 (Good) | [Entry-Level Applications Engineer](https://jobright.ai/jobs/info/6ac67d5bd9621c5b283a90ff) | Analog Devices | Wilmington, MA | 10/29/2026 03:18:57 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Computer/Electrical Engineer I](https://jobright.ai/jobs/info/6ae13154de23f466ec8bd25f) | TSC | Bloomington, IN | 10/30/2026 05:44:15 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae475c4fb2cd420ace576e5) | Loram Maintenance of Way, Inc. | Georgetown, TX | 10/30/2026 10:47:32 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [Applications Engineer](https://jobright.ai/jobs/info/6a7f962ead9ff00c26baf2b9) | Monolithic Power Systems, Inc. | Durham, NC | 10/30/2026 09:25:00 | Sponsorship: Past Sponsorship |
+| 64 (Good) | [New Grad Applications Engineer](https://jobright.ai/jobs/info/6ac7eea3a444ac5d36f86b09) | Monolithic Power Systems, Inc. | San Jose, CA | 10/30/2026 09:25:00 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer (Radar) I](https://jobright.ai/jobs/info/6ae13c0c1f9d9308370a8cab) | TSC | Silver Spring, MD | 10/30/2026 05:44:15 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - V](https://jobright.ai/jobs/info/6ae4223dd7424a2a828e54eb) | Chugach Electric Careers | Anchorage, AK | 10/30/2026 04:51:09 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer I - New Grad](https://jobright.ai/jobs/info/6a544797e726ec56126a9ace) | Shield AI | Dallas, TX | 10/30/2026 02:09:04 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-10-30 08:19:50Z UTC
 | 81 (Strong) | [GPU Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288327) | Intel | US, California, Folsom; US, California, Santa Clara | 10/27/2026 00:00:00 |  |
 | 47 (Possible) | [Electrical Test Engineer I](https://jobright.ai/jobs/info/6ae094d35dc7953215a478da) | Delta Star, Inc. | Lynchburg, VA | 10/27/2026 04:00:00 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Wire Harness Electrical Engineer I](https://jobright.ai/jobs/info/6ae0c2561f9d9308370a3940) | Firefly Aerospace | Leander, TX | 10/27/2026 05:00:00 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [ELH Software Engineer / Agent Engineer - EDA - Austin 2027](https://jobright.ai/jobs/info/6ae0b7a905a39c3e2c70bb09) | IBM | Austin, TX | 09/11/2026 14:39:16 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Wire Harness Electrical Engineer (Entry-Level)](https://jobright.ai/jobs/info/6ae0b2dd1f9d9308370a3053) | Cimarron Inc. | Cedar Park, TX | 10/27/2026 14:19:09 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6ae0b1075a5afc94bd2c6268) | Virtue America | United States | 10/27/2026 14:11:19 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Hardware Engineer-New Grads](https://jobright.ai/jobs/info/6ae0a8e767c31ab34899bb15) | Benchstack Ai | San Francisco, CA | 10/27/2026 13:36:38 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 50 (Good) | [Electrical Test Engineer I - Lunar Permanence](https://jobright.ai/jobs/info/6ad34087f04335fc70ed8d67) | Blue Origin | Space Coast, Florida | 10/26/2026 23:56:53 | Sponsorship: Past Sponsorship |
