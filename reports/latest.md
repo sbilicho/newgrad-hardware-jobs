@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-30 02:49:16Z UTC
+Updated: 2026-10-30 04:30:08Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 45 (Possible) | [Electrical Engineer I - New Grad](https://jobright.ai/jobs/info/6a544797e726ec56126a9ace) | Shield AI | Dallas, TX | 10/30/2026 02:09:04 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Power Electronics Engineer I - Onsite](https://jobright.ai/jobs/info/6ae387ce77c09cb3bd4a6b79) | RTX | El Segundo, CA | 10/29/2026 23:55:04 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 59 (Good) | [R&D Reliability/Test Engineer - Entry Level](https://jobright.ai/jobs/info/6ae403efc3139b475b5b1fde) | Formlabs | Somerville, MA | 10/30/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [New Graduate- Associate Electrical Engineer - Nuclear Design Team](https://jobright.ai/jobs/info/6ad5e2f1e4b94611ab838361) | Enercon | Baton Rouge, LA | 10/29/2026 23:42:29 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-30 02:49:16Z UTC
 | 50 (Good) | [Electrical Test Engineer I - Lunar Permanence](https://jobright.ai/jobs/info/6ad34087f04335fc70ed8d67) | Blue Origin | Space Coast, Florida | 10/26/2026 23:56:53 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I OR Electrical Engineer II (Nuclear)](https://jobright.ai/jobs/info/6ae031459a8c91d5c358c229) | Duke Energy Corporation | Huntersville, NC | 10/27/2026 05:58:12 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Systems Test Engineer Entry Level](https://jobright.ai/jobs/info/6adfe6445dc7953215a4417b) | General Dynamics Mission Systems | Scottsdale, AZ | 10/26/2026 23:46:12 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 88 (Strong) | [ASIC Design Verification Engineer I (Full Time) - United States](https://jobright.ai/jobs/info/6adfd86e0a4cc7090f983d66) | Cisco | San Jose, CA | 10/26/2026 00:00:00 | Sponsorship: Past Sponsorship |
