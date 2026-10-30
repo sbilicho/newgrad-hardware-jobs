@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-29 23:52:27Z UTC
+Updated: 2026-10-30 00:58:08Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [New Graduate- Associate Electrical Engineer - Nuclear Design Team](https://jobright.ai/jobs/info/6ad5e2f1e4b94611ab838361) | Enercon | Baton Rouge, LA | 10/29/2026 23:42:29 | Sponsorship: Past Sponsorship |
+| 63 (Good) | [New College Grad - Product Applications Engineer](https://jobright.ai/jobs/info/6ae2328f6679108488c48d04) | Micron Technology | Longmont, CO | 10/29/2026 18:45:34 | Sponsorship: Past Sponsorship |
+| 36 (Possible) | [Graduate Engineer, System Validation](https://jobright.ai/jobs/info/6ad15f8d18608b6f36f83cd6) | Graphcore | Austin, TX | 10/29/2026 23:44:43 | Sponsorship: Past Sponsorship |
+| 73 (Strong) | [CPU Server Physical Design Engineer](https://jobright.ai/jobs/info/6ae3cdf1fb2cd420ace542c2) | Qualcomm | Santa Clara, CA | 10/29/2026 15:51:29 | Sponsorship: Not Sure |
+| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae387c077c09cb3bd4a6b67) | RTX | Fort Wayne, IN | 10/29/2026 16:03:32 | Security clearance language is present; Sponsorship: No |
+| 51 (Good) | [Electrical Engineer  (Early Career)](https://jobright.ai/jobs/info/6ae3d5bbfb2cd420ace54667) | Noble Machines | Sunnyvale, CA | 10/29/2026 16:24:43 | Sponsorship: Not Sure |
 | 77 (Strong) | [Systems Engineering Analog IC Validation](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/RTL-IC-Design-Engineer_R027142) | Broadcom | USA-Colorado-Colorado Springs-4420 Arrowswest Drive; USA-California-San Jose-1320 Ridder Park Drive | 10/29/2026 00:00:00 |  |
 | 50 (Good) | [Electrical Hardware Engineer I](https://jobright.ai/jobs/info/6ae3b9d7d7424a2a828e2745) | Voyager Technologies | Pittsburgh, PA | 10/29/2026 21:25:43 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Component Electrical Engineer I (Hybrid)](https://jobright.ai/jobs/info/6ae387bdd45dc30fb7d2a4d0) | RTX | McKinney, TX | 10/29/2026 23:22:52 | Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-10-29 23:52:27Z UTC
 | 88 (Strong) | [ASIC Design Verification Engineer I (Full Time) - United States](https://jobright.ai/jobs/info/6adfd86e0a4cc7090f983d66) | Cisco | San Jose, CA | 10/26/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Mfg Product Engineer - Lehi, UT](https://jobright.ai/jobs/info/6adfd753c5c64fa3d9cc02fb) | Texas Instruments | Lehi, UT | 10/26/2026 22:51:00 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Turquoise Ridge - Underground Electrical Engineer I/II](https://jobright.ai/jobs/info/6adfca3b5dc7953215a42fa5) | Barrick Mining Corporation | Golconda, NV | 10/26/2026 21:46:35 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Lighting Engineer/Electrical Engineer](https://jobright.ai/jobs/info/6adfc99a9e3e874dbfbb0418) | Jacobs | Madison, WI | 10/26/2026 21:43:54 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6adfc904c5c64fa3d9cbf985) | Serac | Carol Stream, IL | 10/26/2026 14:41:24 | Sponsorship: No |
-| 81 (Strong) | [SoC Design Verification Engineer](https://jobs.lever.co/velaura/1667421d-50e4-41a8-9925-f2b7c2f1e33f) | Velaura | Santa Clara, CA | 09/15/2026 23:51:47 |  |
-| 79 (Strong) | [Design Verification Engineer- CPU](https://jobs.lever.co/velaura/4ad9cc7c-1ca2-47a1-b549-4119b83cfde4) | Velaura | Santa Clara, CA | 08/19/2026 23:16:04 |  |
-| 79 (Strong) | [Design Verification Engineer- AI Accelerator](https://jobs.lever.co/velaura/e2609b57-711d-400e-b8e9-79ec4f1d6a7b) | Velaura | Santa Clara, CA | 08/19/2026 23:22:04 |  |
-| 81 (Strong) | [Design Verification Engineer](https://jobs.lever.co/velaura/cbc898d6-b123-47f5-bb6f-d3fdf20375c4) | Velaura | Santa Clara, CA | 07/16/2026 03:16:40 |  |
