@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-30 07:15:30Z UTC
+Updated: 2026-10-30 08:19:50Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 44 (Possible) | [Electrical Engineer (Radar) I](https://jobright.ai/jobs/info/6ae13c0c1f9d9308370a8cab) | TSC | Silver Spring, MD | 10/30/2026 05:44:15 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - V](https://jobright.ai/jobs/info/6ae4223dd7424a2a828e54eb) | Chugach Electric Careers | Anchorage, AK | 10/30/2026 04:51:09 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer I - New Grad](https://jobright.ai/jobs/info/6a544797e726ec56126a9ace) | Shield AI | Dallas, TX | 10/30/2026 02:09:04 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Power Electronics Engineer I - Onsite](https://jobright.ai/jobs/info/6ae387ce77c09cb3bd4a6b79) | RTX | El Segundo, CA | 10/29/2026 23:55:04 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-30 07:15:30Z UTC
 | 48 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6ae0b1075a5afc94bd2c6268) | Virtue America | United States | 10/27/2026 14:11:19 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Hardware Engineer-New Grads](https://jobright.ai/jobs/info/6ae0a8e767c31ab34899bb15) | Benchstack Ai | San Francisco, CA | 10/27/2026 13:36:38 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 50 (Good) | [Electrical Test Engineer I - Lunar Permanence](https://jobright.ai/jobs/info/6ad34087f04335fc70ed8d67) | Blue Origin | Space Coast, Florida | 10/26/2026 23:56:53 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I OR Electrical Engineer II (Nuclear)](https://jobright.ai/jobs/info/6ae031459a8c91d5c358c229) | Duke Energy Corporation | Huntersville, NC | 10/27/2026 05:58:12 | Sponsorship: Past Sponsorship |
