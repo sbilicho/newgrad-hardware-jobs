@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-30 18:04:25Z UTC
+Updated: 2026-10-30 19:58:52Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 47 (Possible) | [Electronic and Electrical Systems Design and Test Engineer (Entry-Level or Associate)](https://jobright.ai/jobs/info/6ae38c90d7424a2a828e0c75) | Boeing | Berkeley, MO | 10/30/2026 17:29:35 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 58 (Good) | [Embedded Hardware Test Engineer Fresher](https://jobright.ai/jobs/info/6ae4f09aeab1f9673097e4f4) | SARACA | Saint Paul, MN | 10/30/2026 19:31:38 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ae4e802d45dc30fb7d33801) | Bluecrest Partners | Houston, TX | 10/30/2026 11:54:58 | Sponsorship: Not Sure |
 | 46 (Possible) | [Software Design & Product Engineer](https://jobright.ai/jobs/info/6ae4c7d5d7424a2a828e8750) | Matthews Marking Systems | Cranberry Township, PA | 10/30/2026 16:37:41 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae4cba9d45dc30fb7d323b9) | Westinghouse Electric Company | Rock Hill, SC | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae4af81fb2cd420ace58b14) | Engineered Corrosion Solutions, LLC | St. Louis, MO | 10/30/2026 14:53:53 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-10-30 18:04:25Z UTC
 | 43 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6ae106a41f9d9308370a6deb) | Tetra Tech | Billings, MT | 10/27/2026 20:16:36 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Durability Test Engineer](https://jobright.ai/jobs/info/6ae0e72c67c31ab34899e62a) | Akkodis | Chelsea, MI | 10/27/2026 18:02:20 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Radio frequency/Electrical Engineer I](https://jobright.ai/jobs/info/6ae0f62cde23f466ec8baccb) | CACI International Inc | Colorado Springs, CO | 10/27/2026 12:06:20 | Sponsorship: No |
-| 49 (Possible) | [Build Reliability Engineer I](https://jobright.ai/jobs/info/6ae0fc6767c31ab34899f50f) | Relativity Space | Long Beach, CA | 10/27/2026 12:32:55 | Sponsorship: Not Sure |
-| 60 (Good) | [Electrical Engineer I – Hardware Engineering](https://jobright.ai/jobs/info/6ac3db86372c01f6cd7328a9) | RTX | Tucson, AZ | 10/27/2026 16:21:03 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae0d2eb829a3bada15f73df) | TRC Companies, Inc. | Salina, NY | 10/27/2026 16:35:55 | Sponsorship: Past Sponsorship |
