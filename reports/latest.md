@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-30 11:01:55Z UTC
+Updated: 2026-10-30 17:01:38Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Software Design & Product Engineer](https://jobright.ai/jobs/info/6ae4c7d5d7424a2a828e8750) | Matthews Marking Systems | Cranberry Township, PA | 10/30/2026 16:37:41 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae4cba9d45dc30fb7d323b9) | Westinghouse Electric Company | Rock Hill, SC | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae4af81fb2cd420ace58b14) | Engineered Corrosion Solutions, LLC | St. Louis, MO | 10/30/2026 14:53:53 | Sponsorship: Past Sponsorship |
+| 69 (Good) | [Silicon Photonics Device Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ae4c06f77c09cb3bd4ae4e7) | GlobalFoundries | Malta, NY | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Antenna & RF Engineer, Amazon Leo](https://jobright.ai/jobs/info/6ac6c3598ff3fb9b3bc8ef4b) | Amazon | Redmond, WA; San Diego, CA | 10/30/2026 08:39:43 | Sponsorship: No |
+| 44 (Possible) | [Analog & Power Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac801b044d6e65604a059fd) | RTX | McKinney, TX | 10/30/2026 08:44:31 | Security clearance language is present; Sponsorship: No |
 | 64 (Good) | [Entry-Level Applications Engineer](https://jobright.ai/jobs/info/6ac67d5bd9621c5b283a90ff) | Analog Devices | Wilmington, MA | 10/29/2026 03:18:57 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Computer/Electrical Engineer I](https://jobright.ai/jobs/info/6ae13154de23f466ec8bd25f) | TSC | Bloomington, IN | 10/30/2026 05:44:15 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae475c4fb2cd420ace576e5) | Loram Maintenance of Way, Inc. | Georgetown, TX | 10/30/2026 10:47:32 | Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-10-30 11:01:55Z UTC
 | 49 (Possible) | [Build Reliability Engineer I](https://jobright.ai/jobs/info/6ae0fc6767c31ab34899f50f) | Relativity Space | Long Beach, CA | 10/27/2026 12:32:55 | Sponsorship: Not Sure |
 | 60 (Good) | [Electrical Engineer I – Hardware Engineering](https://jobright.ai/jobs/info/6ac3db86372c01f6cd7328a9) | RTX | Tucson, AZ | 10/27/2026 16:21:03 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae0d2eb829a3bada15f73df) | TRC Companies, Inc. | Salina, NY | 10/27/2026 16:35:55 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I - Power Generation](https://jobright.ai/jobs/info/6ad6847b950ef68d5183ad1b) | ENTRUST Solutions Group | United States | 10/27/2026 16:34:24 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae0cc4067c31ab34899cd84) | Rocket Lab | Pasadena, CA | 10/27/2026 09:07:28 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 85 (Strong) | [GPU Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288329-1) | Intel | US, California, Folsom; US, California, Santa Clara | 10/27/2026 00:00:00 |  |
-| 81 (Strong) | [GPU Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288327) | Intel | US, California, Folsom; US, California, Santa Clara | 10/27/2026 00:00:00 |  |
-| 47 (Possible) | [Electrical Test Engineer I](https://jobright.ai/jobs/info/6ae094d35dc7953215a478da) | Delta Star, Inc. | Lynchburg, VA | 10/27/2026 04:00:00 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Wire Harness Electrical Engineer I](https://jobright.ai/jobs/info/6ae0c2561f9d9308370a3940) | Firefly Aerospace | Leander, TX | 10/27/2026 05:00:00 | Sponsorship: Past Sponsorship |
