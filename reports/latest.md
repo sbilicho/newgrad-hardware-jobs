@@ -1,9 +1,24 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-31 01:00:35Z UTC
+Updated: 2026-10-31 06:57:15Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 87 (Strong) | [Physical Design Engineer](https://jobright.ai/jobs/info/6ae545fac3139b475b5b9e4a) | Broadcom | San Jose, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 87 (Strong) | [Physical Design Engineer](https://jobright.ai/jobs/info/6ae545fad7424a2a828eca8a) | Broadcom | San Jose, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 60 (Good) | [High Speed SerDes Validation Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae56a75d45dc30fb7d36bd8) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Entry Level QA/Test Engineer- Tucson, AZ](https://jobright.ai/jobs/info/6ae55974eab1f9673098109b) | Hakkōda, an IBM Company | Tucson, AZ | 10/30/2026 02:58:40 | Sponsorship: Past Sponsorship |
+| 88 (Strong) | [ASIC Clocks Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae56a6ed7424a2a828ed2d2) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 81 (Strong) | [ASIC Verification Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6ae56a7177c09cb3bd4b3720) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 81 (Strong) | [GPU Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae56a87d7424a2a828ed2fe) | NVIDIA | Westford, MA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 85 (Strong) | [ASIC Verification Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6ae56a72c3139b475b5ba72a) | NVIDIA | Austin, TX | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 43 (Possible) | [RTL Power Optimization Engineer – New College Grad 2026](https://jobright.ai/jobs/info/6ae56a74c3139b475b5ba72e) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 33 (Possible) | [New College Grad - Computational Physics & Agentic AI Engineer, Doctorate Degree (Spring 2027)](https://jobright.ai/jobs/info/6ae547fd77c09cb3bd4b2f22) | Applied Materials | Santa Clara, CA | 10/30/2026 05:00:00 | Sponsorship: Past Sponsorship |
+| 69 (Good) | [SRAM Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae58cfefb2cd420ace5ec1a) | NVIDIA | Santa Clara, CA | 10/12/2026 06:38:43 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [ASIC Floorplan Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae55174c3139b475b5ba0b8) | NVIDIA | Santa Clara, CA | 08/27/2026 02:24:28 | Sponsorship: Past Sponsorship |
+| 92 (Strong) | [ASIC Design Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6ae56a7cd7424a2a828ed2ed) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I - Relocate to Warroad, MN - Located in Warroad, MN](https://jobright.ai/jobs/info/6ae5761dd7424a2a828ed4b9) | Marvin | Warroad, MN | 10/30/2026 22:01:17 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Manufacturing Test Engineer](https://jobright.ai/jobs/info/6ae519b9eab1f9673097faad) | Leidos | Huntsville, AL | 10/30/2026 22:02:45 | Sponsorship: No |
 | 82 (Strong) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae53471fb2cd420ace5d795) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 83 (Strong) | [Cell Modeling and Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae534c4d7424a2a828ec547) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 36 (Possible) | [Software Engineer, Hardware Tools and Methodology - New College Grad 2026](https://jobright.ai/jobs/info/6ae534c5eab1f967309806ab) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -89,18 +104,3 @@ Updated: 2026-10-31 01:00:35Z UTC
 | 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6abc6e8f752643de1e5d82a9) | Oakwell | United States | 10/28/2026 03:46:17 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [ELH Software Engineer / Agent Engineer - EDA - Austin 2027](https://jobright.ai/jobs/info/6ae172256679108488c43bb1) | Hakkōda, an IBM Company | Austin, TX | 10/27/2026 18:55:03 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Test Engineer I](https://jobright.ai/jobs/info/6ad7d4af67bec1d0d9c797f0) | Frontgrade Technologies | Hauppauge, NY | 10/27/2026 21:31:30 | Sponsorship: No |
-| 66 (Good) | [Product Engineer, Personal AI](https://job-boards.greenhouse.io/riverai/jobs/4250000009) | River AI | Palo Alto, CA; Palo Alto, California, United States | 09/20/2026 00:19:40 | Sponsorship language is present; Full-time status is inferred from the first-party posting |
-| 40 (Possible) | [Entry-Level Electrical Engineer – New Graduate / EIT](https://jobright.ai/jobs/info/6ae1448c829a3bada15fbf25) | CR Engineers, Inc. | Greater Phoenix Area | 10/28/2026 00:40:44 | Sponsorship: Past Sponsorship |
-| 66 (Good) | [Electrical Test Engineer, Wafer Test (2027 New College Graduate)](https://jobright.ai/jobs/info/6ae104526679108488c40159) | GlobalFoundries | Essex Junction, VT | 10/27/2026 22:45:28 | Sponsorship: Past Sponsorship |
-| 81 (Strong) | [Formal Verification Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6ae121b91f9d9308370a7eb5) | NVIDIA | Santa Clara, CA | 10/21/2026 22:11:02 | Sponsorship: Past Sponsorship |
-| 81 (Strong) | [GPU Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288428) | Intel | US, California, Folsom | 10/27/2026 00:00:00 |  |
-| 86 (Strong) | [Design Verification Engineer, New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6236595004) | SambaNova Systems | San Jose, California, United States; Austin, Texas, United States | 10/27/2026 21:58:56 |  |
-| 49 (Possible) | [Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer](https://jobright.ai/jobs/info/6ae122cb6679108488c41538) | Boeing | El Segundo, CA | 10/27/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 54 (Good) | [Electrical Engineer, Test Engineer I (Onsite)](https://jobright.ai/jobs/info/6ae10e1ede23f466ec8bbcfd) | RTX | Largo, FL | 10/27/2026 23:03:22 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Substation Electrical Engineer](https://jobright.ai/jobs/info/6ada5ace3a69033df225819d) | WSP in the U.S. | Freeport, ME | 10/27/2026 23:05:28 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer (Entry Level) - 2nd Shift](https://jobright.ai/jobs/info/6ae1148b67c31ab3489a0626) | General Dynamics Electric Boat | Groton, CT | 10/27/2026 23:15:13 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer (Radar) I](https://jobright.ai/jobs/info/6997bd5681476f6176afe43a) | TSC | Silver Spring, MD | 10/27/2026 23:38:01 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ae1189d67c31ab3489a087c) | Jacobs | Bellevue, WA | 10/27/2026 05:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ae10c7b05a39c3e2c70f7e4) | Substation Engineering Company | Reading, PA | 10/27/2026 20:41:31 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer](https://jobright.ai/jobs/info/6ae116ff6679108488c40eed) | Boeing | El Segundo, CA | 10/27/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 72 (Strong) | [Post-Silicon Validation Engineer, New Grad](https://jobright.ai/jobs/info/6ae120436679108488c413fa) | SambaNova | San Jose, CA | 10/27/2026 22:20:06 | Sponsorship: Past Sponsorship |
