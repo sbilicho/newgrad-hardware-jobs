@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-31 06:57:15Z UTC
+Updated: 2026-10-31 13:33:50Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 56 (Good) | [Associate Embedded Systems Emulation Engineer](https://jobright.ai/jobs/info/6acd28f7ddd23cce28a11037) | STR | Woburn, MA | 10/31/2026 11:17:19 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 87 (Strong) | [Physical Design Engineer](https://jobright.ai/jobs/info/6ae545fac3139b475b5b9e4a) | Broadcom | San Jose, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 87 (Strong) | [Physical Design Engineer](https://jobright.ai/jobs/info/6ae545fad7424a2a828eca8a) | Broadcom | San Jose, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 60 (Good) | [High Speed SerDes Validation Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae56a75d45dc30fb7d36bd8) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-10-31 06:57:15Z UTC
 | 81 (Strong) | [SOC Design Verification Engineer](https://careers.qualcomm.com/careers/job/446721689444?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 10/27/2026 00:00:00 |  |
 | 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6abc6e8f752643de1e5d82a9) | Oakwell | United States | 10/28/2026 03:46:17 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [ELH Software Engineer / Agent Engineer - EDA - Austin 2027](https://jobright.ai/jobs/info/6ae172256679108488c43bb1) | Hakkōda, an IBM Company | Austin, TX | 10/27/2026 18:55:03 | Sponsorship: Past Sponsorship |
-| 54 (Good) | [Test Engineer I](https://jobright.ai/jobs/info/6ad7d4af67bec1d0d9c797f0) | Frontgrade Technologies | Hauppauge, NY | 10/27/2026 21:31:30 | Sponsorship: No |
