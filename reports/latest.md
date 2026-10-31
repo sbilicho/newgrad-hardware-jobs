@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-10-31 00:05:42Z UTC
+Updated: 2026-10-31 01:00:35Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 82 (Strong) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae53471fb2cd420ace5d795) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 83 (Strong) | [Cell Modeling and Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae534c4d7424a2a828ec547) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 36 (Possible) | [Software Engineer, Hardware Tools and Methodology - New College Grad 2026](https://jobright.ai/jobs/info/6ae534c5eab1f967309806ab) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 80 (Strong) | [ASIC Design Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae534cdd7424a2a828ec54d) | NVIDIA | Austin, TX | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 32 (Possible) | [System Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae534c0c3139b475b5b98e2) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 89 (Strong) | [ASIC Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae53471eab1f96730980664) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 88 (Strong) | [ASIC Physical Design Engineer, Netlisting - New College Grad 2026](https://jobright.ai/jobs/info/6ae534a5c3139b475b5b98cd) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 58 (Good) | [Embedded Hardware Test Engineer](https://jobright.ai/jobs/info/6ae4f0a1fb2cd420ace5b58a) | SARACA | Saint Paul, MN | 10/30/2026 19:31:45 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA) Job Details \| Teradyne](https://jobright.ai/jobs/info/6ad8b83354bbabbab07082ba) | Teradyne | North Reading, MA | 10/21/2026 13:03:47 | Sponsorship: Past Sponsorship |
 | 58 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae4fc4bc3139b475b5b7d0f) | Longshot Space Technologies Corporation | Alameda, CA | 10/30/2026 20:21:31 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -97,10 +104,3 @@ Updated: 2026-10-31 00:05:42Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ae10c7b05a39c3e2c70f7e4) | Substation Engineering Company | Reading, PA | 10/27/2026 20:41:31 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer](https://jobright.ai/jobs/info/6ae116ff6679108488c40eed) | Boeing | El Segundo, CA | 10/27/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 72 (Strong) | [Post-Silicon Validation Engineer, New Grad](https://jobright.ai/jobs/info/6ae120436679108488c413fa) | SambaNova | San Jose, CA | 10/27/2026 22:20:06 | Sponsorship: Past Sponsorship |
-| 78 (Strong) | [Design Verification Engineer, New Grad](https://jobright.ai/jobs/info/6ae12037de23f466ec8bc817) | SambaNova | San Jose, CA | 10/27/2026 22:05:43 | Sponsorship: Past Sponsorship |
-| 81 (Strong) | [Physical Design Engineer, New Grad](https://jobright.ai/jobs/info/6ae120381f9d9308370a7e17) | SambaNova | San Jose, CA | 10/27/2026 22:21:09 | Sponsorship: Past Sponsorship |
-| 71 (Strong) | [Design Verification Engineer - Interface IP](https://jobs.ashbyhq.com/etched/d88da917-21f5-42b7-b1e2-8986897aaab1) | Etched | San Jose | 09/11/2025 18:49:28 |  |
-| 75 (Strong) | [Design Verification Engineer - SoC](https://jobs.ashbyhq.com/etched/a99318bd-b433-44b7-9600-2ee9533c90a1) | Etched | San Jose | 09/11/2025 18:44:02 |  |
-| 79 (Strong) | [Design Verification Engineer - Internal IP](https://jobs.ashbyhq.com/etched/7aeafe31-c2c6-43e0-bb31-01868dcfad39) | Etched | San Jose | 06/11/2025 05:03:53 |  |
-| 43 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6ae1069705a39c3e2c70f461) | Tetra Tech | Englewood, CO | 10/27/2026 20:16:23 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Electrical Engineer I, Harness](https://jobright.ai/jobs/info/6ae0f2cede23f466ec8baa2e) | True Anomaly | Denver, CO | 10/27/2026 18:51:58 | Sponsorship: Past Sponsorship |
