@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-01 06:24:13Z UTC
+Updated: 2026-11-01 13:07:47Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ac3cd870e027c0f3b3a7765) | Wagstaff, Inc. | Spokane Valley, WA | 11/01/2026 03:47:45 | Sponsorship: No |
+| 51 (Good) | [Test Development Engineer](https://jobright.ai/jobs/info/6a20a40a4bdf8a5a96bd214c) | ZOLL Medical Corporation | Deerfield, WI | 11/01/2026 04:03:31 | Sponsorship: Not Sure |
 | 41 (Possible) | [Associate Controls Engineer](https://jobright.ai/jobs/info/6ae69850d45dc30fb7d39404) | Tesla | Buffalo, NY | 10/31/2026 18:39:28 | Sponsorship: Not Sure |
 | 50 (Good) | [Associate Research and Development (R&D) Test Engineer](https://jobright.ai/jobs/info/6a03729f7c753c287f6e6edc) | Motorola Solutions | Irvine, CA; Los Angeles, CA | 10/31/2026 11:13:05 | Sponsorship: No |
 | 40 (Possible) | [Entry Level RF Engineer](https://jobright.ai/jobs/info/6aac3ef12e757fcb5c8b4911) | Amentum | Norfolk, VA | 10/31/2026 11:50:19 | Sponsorship: No |
@@ -102,5 +104,3 @@ Updated: 2026-11-01 06:24:13Z UTC
 | 55 (Good) | [Test Engineer - Electronics](https://jobright.ai/jobs/info/6a5405118a74e077472fa61f) | General Matter | Los Angeles, CA | 10/28/2026 03:50:40 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer 1 Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6adab019950ef68d51859c58) | Westinghouse Electric Company | Rock Hill, SC | 10/28/2026 03:50:50 | U.S. citizenship language is present; Sponsorship: No |
 | 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6ac3d5fa0e027c0f3b3a7b7b) | Emerson | Shakopee, MN | 10/28/2026 03:57:53 | Sponsorship: No |
-| 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a8cbcd1cde3717f9e9bf00b) | Eaton | Raleigh, NC | 10/28/2026 02:35:24 | Sponsorship: No |
-| 63 (Good) | [Substation Physical Design EIT/Designer](https://jobright.ai/jobs/info/6acf4d4478d51ae69ce05bdf) | HDR | Billings, MT | 10/28/2026 02:44:26 | Sponsorship: Not Sure |
