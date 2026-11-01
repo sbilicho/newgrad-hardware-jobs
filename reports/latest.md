@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-01 13:07:47Z UTC
+Updated: 2026-11-01 18:27:01Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 77 (Strong) | [Custom Layout Engineer (Graduate)](https://jobright.ai/jobs/info/6ae753a5a2a252e2194234cd) | Analogue Insight™ | United States | 11/01/2026 14:58:45 | Sponsorship: Past Sponsorship |
+| 81 (Strong) | [Formal Verification Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6ae55133eab1f96730980eb3) | NVIDIA | Santa Clara, CA | 10/21/2026 02:23:38 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ac3cd870e027c0f3b3a7765) | Wagstaff, Inc. | Spokane Valley, WA | 11/01/2026 03:47:45 | Sponsorship: No |
 | 51 (Good) | [Test Development Engineer](https://jobright.ai/jobs/info/6a20a40a4bdf8a5a96bd214c) | ZOLL Medical Corporation | Deerfield, WI | 11/01/2026 04:03:31 | Sponsorship: Not Sure |
 | 41 (Possible) | [Associate Controls Engineer](https://jobright.ai/jobs/info/6ae69850d45dc30fb7d39404) | Tesla | Buffalo, NY | 10/31/2026 18:39:28 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-11-01 13:07:47Z UTC
 | 41 (Possible) | [Entry Level Electrical Engineer - #26-26510](https://jobright.ai/jobs/info/6ae2277ede23f466ec8c3491) | US Tech Solutions | Tempe, AZ | 10/28/2026 00:54:48 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6ae21365de23f466ec8c25f6) | Virtue America | United States | 10/28/2026 15:23:17 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Test Engineer - Electronics](https://jobright.ai/jobs/info/6a5405118a74e077472fa61f) | General Matter | Los Angeles, CA | 10/28/2026 03:50:40 | Sponsorship: Not Sure |
-| 37 (Possible) | [Electrical Engineer 1 Job Details \| Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6adab019950ef68d51859c58) | Westinghouse Electric Company | Rock Hill, SC | 10/28/2026 03:50:50 | U.S. citizenship language is present; Sponsorship: No |
-| 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6ac3d5fa0e027c0f3b3a7b7b) | Emerson | Shakopee, MN | 10/28/2026 03:57:53 | Sponsorship: No |
