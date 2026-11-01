@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-01 00:14:31Z UTC
+Updated: 2026-11-01 06:24:13Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Associate Controls Engineer](https://jobright.ai/jobs/info/6ae69850d45dc30fb7d39404) | Tesla | Buffalo, NY | 10/31/2026 18:39:28 | Sponsorship: Not Sure |
 | 50 (Good) | [Associate Research and Development (R&D) Test Engineer](https://jobright.ai/jobs/info/6a03729f7c753c287f6e6edc) | Motorola Solutions | Irvine, CA; Los Angeles, CA | 10/31/2026 11:13:05 | Sponsorship: No |
 | 40 (Possible) | [Entry Level RF Engineer](https://jobright.ai/jobs/info/6aac3ef12e757fcb5c8b4911) | Amentum | Norfolk, VA | 10/31/2026 11:50:19 | Sponsorship: No |
 | 47 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ae53a2cd45dc30fb7d36010) | RTX | Tucson, AZ | 10/31/2026 09:41:36 | Security clearance language is present; Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-11-01 00:14:31Z UTC
 | 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6ac3d5fa0e027c0f3b3a7b7b) | Emerson | Shakopee, MN | 10/28/2026 03:57:53 | Sponsorship: No |
 | 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a8cbcd1cde3717f9e9bf00b) | Eaton | Raleigh, NC | 10/28/2026 02:35:24 | Sponsorship: No |
 | 63 (Good) | [Substation Physical Design EIT/Designer](https://jobright.ai/jobs/info/6acf4d4478d51ae69ce05bdf) | HDR | Billings, MT | 10/28/2026 02:44:26 | Sponsorship: Not Sure |
-| 40 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6ab55992b3db59402d0fc3b3) | LaBella Associates | Rochester, NY | 10/28/2026 02:55:32 | Sponsorship: Not Sure |
