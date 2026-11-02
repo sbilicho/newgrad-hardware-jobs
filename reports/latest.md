@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-02 18:44:28Z UTC
+Updated: 2026-11-02 21:07:52Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 75 (Strong) | [ASIC / FPGA Design Verification Engineer - (Associate or Experienced)](https://jobright.ai/jobs/info/6ae8f0ac777c336eb6d67cf4) | Boeing | El Segundo, CA | 11/02/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ae8be91a2a252e219428ead) | RTX | Forest, MS | 11/02/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae89ecafb2cd420ace66fe0) | North Carolina Department of Agriculture and Consumer Services | Louisville, KY | 11/02/2026 14:31:38 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer \| Entry Level](https://jobright.ai/jobs/info/6ae8a651061d6d7ff3d7b98d) | ISC Constructors, L.L.C. | Baton Rouge, LA | 11/02/2026 15:03:45 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-11-02 18:44:28Z UTC
 | 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae23181829a3bada1602553) | Oceaneering | Hanover, MD | 10/28/2026 18:19:44 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Civil or Electrical Engineer - Rotation Program](https://jobright.ai/jobs/info/6ae239c9eb7e8f715a60bac8) | CHA Consulting, Inc. | Albany, NY | 10/28/2026 18:07:05 | Sponsorship: Past Sponsorship |
 | 64 (Good) | [Entry-Level Applications Engineer](https://jobright.ai/jobs/info/6ac67d71d9621c5b283a910b) | Analog Devices | Wilmington, MA | 10/28/2026 18:44:28 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I - Precon/Design Phase](https://jobright.ai/jobs/info/6ae20a9aeb7e8f715a609683) | Mortenson | Minneapolis, MN | 10/28/2026 15:04:39 | Sponsorship: Past Sponsorship |
