@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-02 08:25:43Z UTC
+Updated: 2026-11-02 18:44:28Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ae8be91a2a252e219428ead) | RTX | Forest, MS | 11/02/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae89ecafb2cd420ace66fe0) | North Carolina Department of Agriculture and Consumer Services | Louisville, KY | 11/02/2026 14:31:38 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer \| Entry Level](https://jobright.ai/jobs/info/6ae8a651061d6d7ff3d7b98d) | ISC Constructors, L.L.C. | Baton Rouge, LA | 11/02/2026 15:03:45 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae8c1e36c51033758f4282d) | Louisville MSD | Louisville, KY | 11/02/2026 17:01:23 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I, Life Cycle Engineering](https://jobright.ai/jobs/info/6ae7d9b577c09cb3bd4b8f78) | General Dynamics - Bath Iron Works | Brunswick, ME | 11/02/2026 00:30:45 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 77 (Strong) | [Custom Layout Engineer (Graduate)](https://jobright.ai/jobs/info/6ae753a5a2a252e2194234cd) | Analogue Insight™ | United States | 11/01/2026 14:58:45 | Sponsorship: Past Sponsorship |
 | 81 (Strong) | [Formal Verification Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6ae55133eab1f96730980eb3) | NVIDIA | Santa Clara, CA | 10/21/2026 02:23:38 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-11-02 08:25:43Z UTC
 | 37 (Possible) | [Entry-Level Civil or Electrical Engineer - Rotation Program](https://jobright.ai/jobs/info/6ae239c9eb7e8f715a60bac8) | CHA Consulting, Inc. | Albany, NY | 10/28/2026 18:07:05 | Sponsorship: Past Sponsorship |
 | 64 (Good) | [Entry-Level Applications Engineer](https://jobright.ai/jobs/info/6ac67d71d9621c5b283a910b) | Analog Devices | Wilmington, MA | 10/28/2026 18:44:28 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I - Precon/Design Phase](https://jobright.ai/jobs/info/6ae20a9aeb7e8f715a609683) | Mortenson | Minneapolis, MN | 10/28/2026 15:04:39 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Electrical/Electronics Engineer I](https://jobright.ai/jobs/info/6ae21e5d1f9d9308370ae4d9) | SEACORP | Middletown, RI | 10/28/2026 16:10:05 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae22e0a6679108488c489d9) | Echo Power | United States | 10/28/2026 17:16:58 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry Level Electrical Engineer - #26-26510](https://jobright.ai/jobs/info/6ae2277ede23f466ec8c3491) | US Tech Solutions | Tempe, AZ | 10/28/2026 00:54:48 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6ae21365de23f466ec8c25f6) | Virtue America | United States | 10/28/2026 15:23:17 | Sponsorship: Past Sponsorship |
