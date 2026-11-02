@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-02 21:07:52Z UTC
+Updated: 2026-11-02 23:00:03Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer, Entry (Open until filled)](https://jobright.ai/jobs/info/6ae8fbbea2a252e21942ba80) | SMUD | Sacramento, CA | 11/02/2026 19:31:22 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Engineer I - Electrical Engineer (Legacy Program) Job Details \| APS](https://jobright.ai/jobs/info/6ae8fba303f4a1104b2589d1) | Arizona Public Service - APS | Tonopah, AZ | 11/02/2026 21:07:47 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [Validation Engineer 1](https://jobright.ai/jobs/info/6ae8db53fb2cd420ace697d1) | LanceSoft, Inc. | Austin, TX | 11/02/2026 18:49:55 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [Applications Engineer New College Grad- Bachelor's/Master's (Santa Clara/Austin)](https://jobright.ai/jobs/info/6ae90186a2a252e21942bd30) | Applied Materials | Santa Clara, CA | 11/02/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Associate Electrical Engineer](https://jobright.ai/jobs/info/6ae9049103f4a1104b258e32) | Proper Voltage | Carlsbad, CA | 11/02/2026 13:45:53 | Sponsorship: No |
 | 75 (Strong) | [ASIC / FPGA Design Verification Engineer - (Associate or Experienced)](https://jobright.ai/jobs/info/6ae8f0ac777c336eb6d67cf4) | Boeing | El Segundo, CA | 11/02/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ae8be91a2a252e219428ead) | RTX | Forest, MS | 11/02/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae89ecafb2cd420ace66fe0) | North Carolina Department of Agriculture and Consumer Services | Louisville, KY | 11/02/2026 14:31:38 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-11-02 21:07:52Z UTC
 | 37 (Possible) | [Facilities Electrical Engineer, Entry](https://jobright.ai/jobs/info/6adfbb14c5c64fa3d9cbee60) | Naval Nuclear Laboratory (FMP) | Idaho Falls, ID | 10/28/2026 18:11:42 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae2687c6679108488c4b301) | Astronics Corporation | Clackamas, OR | 10/28/2026 21:26:20 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Entry Level QA-Test Engineer-Tucson, AZ](https://jobright.ai/jobs/info/6ae25e5cde23f466ec8c5bc4) | IBM | Tucson, AZ | 10/28/2026 20:43:08 | Sponsorship: Past Sponsorship |
-| 69 (Good) | [Hardware Validation - Electrical Engineer](https://jobright.ai/jobs/info/6ae2609d1f9d9308370b16e1) | Skild AI | San Mateo, CA | 10/28/2026 20:52:45 | Sponsorship: Past Sponsorship |
-| 69 (Good) | [Silicon Photonics Device Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ae255c26679108488c4a15a) | GlobalFoundries | Malta, NY | 10/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae23181829a3bada1602553) | Oceaneering | Hanover, MD | 10/28/2026 18:19:44 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Civil or Electrical Engineer - Rotation Program](https://jobright.ai/jobs/info/6ae239c9eb7e8f715a60bac8) | CHA Consulting, Inc. | Albany, NY | 10/28/2026 18:07:05 | Sponsorship: Past Sponsorship |
-| 64 (Good) | [Entry-Level Applications Engineer](https://jobright.ai/jobs/info/6ac67d71d9621c5b283a910b) | Analog Devices | Wilmington, MA | 10/28/2026 18:44:28 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
