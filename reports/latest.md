@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-01 22:27:03Z UTC
+Updated: 2026-11-02 01:46:14Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I, Life Cycle Engineering](https://jobright.ai/jobs/info/6ae7d9b577c09cb3bd4b8f78) | General Dynamics - Bath Iron Works | Brunswick, ME | 11/02/2026 00:30:45 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 77 (Strong) | [Custom Layout Engineer (Graduate)](https://jobright.ai/jobs/info/6ae753a5a2a252e2194234cd) | Analogue Insight™ | United States | 11/01/2026 14:58:45 | Sponsorship: Past Sponsorship |
 | 81 (Strong) | [Formal Verification Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6ae55133eab1f96730980eb3) | NVIDIA | Santa Clara, CA | 10/21/2026 02:23:38 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ac3cd870e027c0f3b3a7765) | Wagstaff, Inc. | Spokane Valley, WA | 11/01/2026 03:47:45 | Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-11-01 22:27:03Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae22e0a6679108488c489d9) | Echo Power | United States | 10/28/2026 17:16:58 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry Level Electrical Engineer - #26-26510](https://jobright.ai/jobs/info/6ae2277ede23f466ec8c3491) | US Tech Solutions | Tempe, AZ | 10/28/2026 00:54:48 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6ae21365de23f466ec8c25f6) | Virtue America | United States | 10/28/2026 15:23:17 | Sponsorship: Past Sponsorship |
-| 55 (Good) | [Test Engineer - Electronics](https://jobright.ai/jobs/info/6a5405118a74e077472fa61f) | General Matter | Los Angeles, CA | 10/28/2026 03:50:40 | Sponsorship: Not Sure |
