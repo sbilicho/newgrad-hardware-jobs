@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-03 21:58:46Z UTC
+Updated: 2026-11-03 22:50:43Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 50 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6aea4dfe1ba298c777771b0a) | SharkNinja | Needham, MA | 11/03/2026 13:11:26 | Sponsorship: Not Sure |
+| 32 (Possible) | [Controls Engineer (Entry Level)](https://jobright.ai/jobs/info/6aea4f55913589212b1f5bdf) | Sovereign Group Ltd | Cleveland, OH | 11/03/2026 13:17:09 | Sponsorship: Not Sure |
+| 47 (Possible) | [Sustaining Test Engineer I](https://jobright.ai/jobs/info/6aea526a897466e69e31dffd) | Benchmark | Winona, MN | 11/03/2026 13:30:18 | Sponsorship: Not Sure |
 | 43 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aea4b6ffc85f3a3943326bd) | Cintas | Florence, SC | 11/03/2026 21:00:31 | Sponsorship: Past Sponsorship |
 | 70 (Strong) | [PCIe Post-Silicon Validation Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6aea402b440b469a1c0ac243) | NVIDIA | Santa Clara, CA | 11/03/2026 06:00:00 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae3b350c3139b475b5af7f8) | Rocket Lab | Pasadena, CA | 11/03/2026 10:59:25 | Sponsorship: No |
@@ -101,6 +104,3 @@ Updated: 2026-11-03 21:58:46Z UTC
 | 59 (Good) | [R&D Reliability/Test Engineer - Entry Level](https://jobright.ai/jobs/info/6ae403efc3139b475b5b1fde) | Formlabs | Somerville, MA | 10/30/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [New Graduate- Associate Electrical Engineer - Nuclear Design Team](https://jobright.ai/jobs/info/6ad5e2f1e4b94611ab838361) | Enercon | Baton Rouge, LA | 10/29/2026 23:42:29 | Sponsorship: Past Sponsorship |
 | 63 (Good) | [New College Grad - Product Applications Engineer](https://jobright.ai/jobs/info/6ae2328f6679108488c48d04) | Micron Technology | Longmont, CO | 10/29/2026 18:45:34 | Sponsorship: Past Sponsorship |
-| 36 (Possible) | [Graduate Engineer, System Validation](https://jobright.ai/jobs/info/6ad15f8d18608b6f36f83cd6) | Graphcore | Austin, TX | 10/29/2026 23:44:43 | Sponsorship: Past Sponsorship |
-| 73 (Strong) | [CPU Server Physical Design Engineer](https://jobright.ai/jobs/info/6ae3cdf1fb2cd420ace542c2) | Qualcomm | Santa Clara, CA | 10/29/2026 15:51:29 | Sponsorship: Not Sure |
-| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae387c077c09cb3bd4a6b67) | RTX | Fort Wayne, IN | 10/29/2026 16:03:32 | Security clearance language is present; Sponsorship: No |
