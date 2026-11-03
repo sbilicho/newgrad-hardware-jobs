@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-03 10:19:56Z UTC
+Updated: 2026-11-03 16:28:52Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 63 (Good) | [Entry-Level Test Engineer - Missile/Sensor Systems](https://jobright.ai/jobs/info/6ae93a7373d24ab055c56253) | Lockheed Martin | Orlando, FL | 11/03/2026 16:01:29 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [Application Engineer](https://jobright.ai/jobs/info/6ae9c42e2b0b1eb5805b415e) | TS Conductor | Hardeeville, SC | 11/03/2026 11:11:55 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae0292b065c4e77efafe370) | Affiliated Engineers, Inc. | Madison, WI | 11/03/2026 00:22:13 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I or II](https://jobright.ai/jobs/info/6ae97f9343826864b0fb9c3f) | North Carolina Department of Agriculture and Consumer Services | Ames, IA | 11/03/2026 06:30:43 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry level Electrical Engineer](https://jobright.ai/jobs/info/6ae955ec32411b3e5a2e0318) | Jacobs | Honolulu, HI | 11/02/2026 06:00:00 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-11-03 10:19:56Z UTC
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae33cc2d45dc30fb7d27e18) | Henny Penny | Eaton, OH | 10/29/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae1f2a46679108488c45d94) | Guerbet | Cincinnati, OH | 10/29/2026 10:37:44 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer I - New Grad (BOS)](https://jobright.ai/jobs/info/6ae341e3eab1f96730972975) | Shield AI | Boston, MA | 10/29/2026 12:53:55 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 52 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae3471e77c09cb3bd4a4948) | TAP Engineering | Columbia, MD | 10/29/2026 13:16:14 | Sponsorship: Past Sponsorship |
-| 90 (Strong) | [New College Grad - Mixed Signal Design Engineer, HBM](https://jobright.ai/jobs/info/6ae34177d7424a2a828de575) | Micron Technology | Richardson, TX | 10/29/2026 09:51:23 | Sponsorship: Past Sponsorship |
