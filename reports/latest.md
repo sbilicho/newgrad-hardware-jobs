@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-03 19:36:29Z UTC
+Updated: 2026-11-03 20:39:56Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 70 (Strong) | [PCIe Post-Silicon Validation Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6aea402b440b469a1c0ac243) | NVIDIA | Santa Clara, CA | 11/03/2026 06:00:00 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae3b350c3139b475b5af7f8) | Rocket Lab | Pasadena, CA | 11/03/2026 10:59:25 | Sponsorship: No |
 | 64 (Good) | [Hardware Validation and Test Engineer](https://jobright.ai/jobs/info/6acd4160e7a1d93332110ca2) | LanceSoft, Inc. | Santa Clara, CA | 11/03/2026 18:52:10 | Sponsorship: Past Sponsorship |
 | 78 (Strong) | [Design Verification Engineer, New Grad](https://jobright.ai/jobs/info/6aea19bf1ba298c77776f717) | SambaNova | United States | 11/03/2026 17:28:31 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [Post-Silicon Validation Engineer, New Grad](https://jobright.ai/jobs/info/6aea1ab8fc85f3a39433059f) | SambaNova | San Jose, CA | 11/03/2026 17:32:40 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-11-03 19:36:29Z UTC
 | 73 (Strong) | [CPU Server Physical Design Engineer](https://jobright.ai/jobs/info/6ae3cdf1fb2cd420ace542c2) | Qualcomm | Santa Clara, CA | 10/29/2026 15:51:29 | Sponsorship: Not Sure |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae387c077c09cb3bd4a6b67) | RTX | Fort Wayne, IN | 10/29/2026 16:03:32 | Security clearance language is present; Sponsorship: No |
 | 51 (Good) | [Electrical Engineer  (Early Career)](https://jobright.ai/jobs/info/6ae3d5bbfb2cd420ace54667) | Noble Machines | Sunnyvale, CA | 10/29/2026 16:24:43 | Sponsorship: Not Sure |
-| 77 (Strong) | [Systems Engineering Analog IC Validation](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/RTL-IC-Design-Engineer_R027142) | Broadcom | USA-Colorado-Colorado Springs-4420 Arrowswest Drive; USA-California-San Jose-1320 Ridder Park Drive | 10/29/2026 00:00:00 |  |
-| 50 (Good) | [Electrical Hardware Engineer I](https://jobright.ai/jobs/info/6ae3b9d7d7424a2a828e2745) | Voyager Technologies | Pittsburgh, PA | 10/29/2026 21:25:43 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
