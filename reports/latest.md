@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-03 22:50:43Z UTC
+Updated: 2026-11-03 23:49:23Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 51 (Good) | [Reliability Engineer I - Hardware / Electrical](https://jobright.ai/jobs/info/6aea298f913589212b1f4129) | Medtronic | Mounds View, MN | 11/03/2026 22:22:29 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [ISG Hardware Engineer 1 - Material Science](https://jobright.ai/jobs/info/6aea599b1ba298c7777720c6) | Dell Technologies | Round Rock, TX | 11/03/2026 14:00:59 | Sponsorship: Not Sure |
 | 50 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6aea4dfe1ba298c777771b0a) | SharkNinja | Needham, MA | 11/03/2026 13:11:26 | Sponsorship: Not Sure |
 | 32 (Possible) | [Controls Engineer (Entry Level)](https://jobright.ai/jobs/info/6aea4f55913589212b1f5bdf) | Sovereign Group Ltd | Cleveland, OH | 11/03/2026 13:17:09 | Sponsorship: Not Sure |
 | 47 (Possible) | [Sustaining Test Engineer I](https://jobright.ai/jobs/info/6aea526a897466e69e31dffd) | Benchmark | Winona, MN | 11/03/2026 13:30:18 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-11-03 22:50:43Z UTC
 | 45 (Possible) | [Electrical Engineer I - New Grad](https://jobright.ai/jobs/info/6a544797e726ec56126a9ace) | Shield AI | Dallas, TX | 10/30/2026 02:09:04 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Power Electronics Engineer I - Onsite](https://jobright.ai/jobs/info/6ae387ce77c09cb3bd4a6b79) | RTX | El Segundo, CA | 10/29/2026 23:55:04 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 59 (Good) | [R&D Reliability/Test Engineer - Entry Level](https://jobright.ai/jobs/info/6ae403efc3139b475b5b1fde) | Formlabs | Somerville, MA | 10/30/2026 05:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [New Graduate- Associate Electrical Engineer - Nuclear Design Team](https://jobright.ai/jobs/info/6ad5e2f1e4b94611ab838361) | Enercon | Baton Rouge, LA | 10/29/2026 23:42:29 | Sponsorship: Past Sponsorship |
-| 63 (Good) | [New College Grad - Product Applications Engineer](https://jobright.ai/jobs/info/6ae2328f6679108488c48d04) | Micron Technology | Longmont, CO | 10/29/2026 18:45:34 | Sponsorship: Past Sponsorship |
