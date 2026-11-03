@@ -1,9 +1,17 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-03 17:37:02Z UTC
+Updated: 2026-11-03 18:40:00Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 78 (Strong) | [Design Verification Engineer, New Grad](https://jobright.ai/jobs/info/6aea19bf1ba298c77776f717) | SambaNova | United States | 11/03/2026 17:28:31 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [Post-Silicon Validation Engineer, New Grad](https://jobright.ai/jobs/info/6aea1ab8fc85f3a39433059f) | SambaNova | San Jose, CA | 11/03/2026 17:32:40 | Sponsorship: Past Sponsorship |
+| 81 (Strong) | [Physical Design Engineer, New Grad](https://jobright.ai/jobs/info/6aea1abb913589212b1f3822) | SambaNova | San Jose, CA | 11/03/2026 17:32:43 | Sponsorship: Past Sponsorship |
+| 77 (Strong) | [Hardware Validation Engineer](https://jobright.ai/jobs/info/6aea1a84913589212b1f37da) | Quantum World Technologies Inc. | Houston, TX | 11/03/2026 17:31:48 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [Post-Silicon Validation Engineer, New Grad](https://jobright.ai/jobs/info/6aea1af6897466e69e31b9df) | SambaNova | United States | 11/03/2026 17:33:42 | Sponsorship: Past Sponsorship |
+| 78 (Strong) | [Design Verification Engineer, New Grad](https://jobright.ai/jobs/info/6aea1ab54f991d64376cab28) | SambaNova | San Jose, CA | 11/03/2026 17:32:37 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [ASIC Floorplan Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6aea292bfc85f3a394330e88) | NVIDIA | Santa Clara, CA | 11/03/2026 18:34:19 | Sponsorship: Past Sponsorship |
+| 81 (Strong) | [Physical Design Engineer, New Grad](https://jobright.ai/jobs/info/6aea1ae9fc85f3a3943305c1) | SambaNova | United States | 11/03/2026 17:33:29 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I or II](https://jobright.ai/jobs/info/6ae9fc001ba298c77776db27) | City of Ames, Iowa | Ames, IA | 11/03/2026 06:00:00 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer I Job Details \| Laboratoire Guerbet](https://jobright.ai/jobs/info/6ae9dbf92b0b1eb5805b4810) | Guerbet | Cincinnati, OH | 11/03/2026 13:04:57 | Sponsorship: Past Sponsorship |
 | 63 (Good) | [Entry-Level Test Engineer - Missile/Sensor Systems](https://jobright.ai/jobs/info/6ae93a7373d24ab055c56253) | Lockheed Martin | Orlando, FL | 11/03/2026 16:01:29 | Sponsorship: Past Sponsorship |
@@ -96,11 +104,3 @@ Updated: 2026-11-03 17:37:02Z UTC
 | 77 (Strong) | [Systems Engineering Analog IC Validation](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/RTL-IC-Design-Engineer_R027142) | Broadcom | USA-Colorado-Colorado Springs-4420 Arrowswest Drive; USA-California-San Jose-1320 Ridder Park Drive | 10/29/2026 00:00:00 |  |
 | 50 (Good) | [Electrical Hardware Engineer I](https://jobright.ai/jobs/info/6ae3b9d7d7424a2a828e2745) | Voyager Technologies | Pittsburgh, PA | 10/29/2026 21:25:43 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Component Electrical Engineer I (Hybrid)](https://jobright.ai/jobs/info/6ae387bdd45dc30fb7d2a4d0) | RTX | McKinney, TX | 10/29/2026 23:22:52 | Sponsorship: Past Sponsorship |
-| 55 (Good) | [Product Verification Engineer - Optical (Teradyne, North Reading, MA) Job Details \| Teradyne](https://jobright.ai/jobs/info/6ae3b414d7424a2a828e236b) | Teradyne | North Reading, MA | 10/29/2026 21:01:08 | Sponsorship: Past Sponsorship |
-| 79 (Strong) | [Pre-Silicon Digital Verification Engineer](https://jobright.ai/jobs/info/6ae374a1eab1f9673097416f) | Apple | Sunnyvale, CA | 10/29/2026 16:30:25 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae38ced77c09cb3bd4a6ec6) | Loram UK Ltd | Medina, MN | 10/29/2026 18:14:05 | Sponsorship: Past Sponsorship |
-| 60 (Good) | [Hardware Engineer I (Full-Time) - United States](https://jobright.ai/jobs/info/6ae378c2fb2cd420ace5124c) | Cisco | San Jose, CA | 10/29/2026 17:18:17 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Electronic and Electrical Systems Design and Test Engineer (Entry-Level or Associate)](https://jobright.ai/jobs/info/6ae39925d45dc30fb7d2af61) | Boeing | Berkeley, MO | 10/29/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 51 (Good) | [Entry-Level Systems Test Engineer](https://jobright.ai/jobs/info/6ae37c35d45dc30fb7d29e91) | Torch Technologies, Inc. | Huntsville, AL | 10/29/2026 17:38:04 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer in Training I](https://jobright.ai/jobs/info/6ae35659c3139b475b5ac22d) | EwingCole | Irvine, CA | 10/29/2026 09:01:39 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae33cc2d45dc30fb7d27e18) | Henny Penny | Eaton, OH | 10/29/2026 05:00:00 | Sponsorship: Past Sponsorship |
