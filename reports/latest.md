@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-03 16:28:52Z UTC
+Updated: 2026-11-03 17:37:02Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Electrical Engineer I or II](https://jobright.ai/jobs/info/6ae9fc001ba298c77776db27) | City of Ames, Iowa | Ames, IA | 11/03/2026 06:00:00 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Electrical Engineer I Job Details \| Laboratoire Guerbet](https://jobright.ai/jobs/info/6ae9dbf92b0b1eb5805b4810) | Guerbet | Cincinnati, OH | 11/03/2026 13:04:57 | Sponsorship: Past Sponsorship |
 | 63 (Good) | [Entry-Level Test Engineer - Missile/Sensor Systems](https://jobright.ai/jobs/info/6ae93a7373d24ab055c56253) | Lockheed Martin | Orlando, FL | 11/03/2026 16:01:29 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Application Engineer](https://jobright.ai/jobs/info/6ae9c42e2b0b1eb5805b415e) | TS Conductor | Hardeeville, SC | 11/03/2026 11:11:55 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae0292b065c4e77efafe370) | Affiliated Engineers, Inc. | Madison, WI | 11/03/2026 00:22:13 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-11-03 16:28:52Z UTC
 | 51 (Good) | [Entry-Level Systems Test Engineer](https://jobright.ai/jobs/info/6ae37c35d45dc30fb7d29e91) | Torch Technologies, Inc. | Huntsville, AL | 10/29/2026 17:38:04 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer in Training I](https://jobright.ai/jobs/info/6ae35659c3139b475b5ac22d) | EwingCole | Irvine, CA | 10/29/2026 09:01:39 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae33cc2d45dc30fb7d27e18) | Henny Penny | Eaton, OH | 10/29/2026 05:00:00 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae1f2a46679108488c45d94) | Guerbet | Cincinnati, OH | 10/29/2026 10:37:44 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Electrical Engineer I - New Grad (BOS)](https://jobright.ai/jobs/info/6ae341e3eab1f96730972975) | Shield AI | Boston, MA | 10/29/2026 12:53:55 | Security clearance language is present; Sponsorship: Past Sponsorship |
