@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-03 02:20:00Z UTC
+Updated: 2026-11-03 08:20:30Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae0292b065c4e77efafe370) | Affiliated Engineers, Inc. | Madison, WI | 11/03/2026 00:22:13 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer I or II](https://jobright.ai/jobs/info/6ae97f9343826864b0fb9c3f) | North Carolina Department of Agriculture and Consumer Services | Ames, IA | 11/03/2026 06:30:43 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Entry level Electrical Engineer](https://jobright.ai/jobs/info/6ae955ec32411b3e5a2e0318) | Jacobs | Honolulu, HI | 11/02/2026 06:00:00 | Sponsorship: Past Sponsorship |
+| 54 (Good) | [Georgia-Pacific 2027 - Electrical Reliability Engineer (EDP) - Brewton, AL](https://jobright.ai/jobs/info/6ae9761132411b3e5a2e103e) | Koch Engineered Solutions | Brewton, AL | 11/03/2026 05:50:09 | Sponsorship: Past Sponsorship |
+| 55 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6acdbbe83e2155b545aa1b94) | Supermicro | San Jose, CA | 11/02/2026 21:16:43 | Sponsorship: Not Sure |
+| 55 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6acdf322ee9da536dc21b652) | Supermicro | San Jose, CA | 11/02/2026 21:16:43 | Sponsorship: Not Sure |
 | 50 (Good) | [AEGS Pro Electrical Engineer I (On-Site)](https://jobright.ai/jobs/info/6ae8dcfd03f4a1104b257273) | RTX | Tucson, AZ | 11/02/2026 23:21:39 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6ae917736c51033758f462cb) | Terex Corporation | Charlotte, MI | 11/02/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6ae92a0503f4a1104b25a348) | Boeing | Hazelwood, MO | 11/02/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-11-03 02:20:00Z UTC
 | 45 (Possible) | [Electrical Engineer I - New Grad (BOS)](https://jobright.ai/jobs/info/6ae341e3eab1f96730972975) | Shield AI | Boston, MA | 10/29/2026 12:53:55 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 52 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae3471e77c09cb3bd4a4948) | TAP Engineering | Columbia, MD | 10/29/2026 13:16:14 | Sponsorship: Past Sponsorship |
 | 90 (Strong) | [New College Grad - Mixed Signal Design Engineer, HBM](https://jobright.ai/jobs/info/6ae34177d7424a2a828de575) | Micron Technology | Richardson, TX | 10/29/2026 09:51:23 | Sponsorship: Past Sponsorship |
-| 56 (Good) | [New College Grad - NAND & SSD Applications Engineer](https://jobright.ai/jobs/info/6ae23295829a3bada160262b) | Micron Technology | Boise, ID | 10/29/2026 13:10:12 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6ae3426177c09cb3bd4a4777) | GE Aerospace | Evendale, OH | 10/29/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 31 (Possible) | [EDA Tools Software Engineer](https://jobright.ai/jobs/info/6ae2a31deb7e8f715a60f6bb) | Intel | Hillsboro, OR | 10/28/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [New Graduate- Associate Electrical Engineer - Nuclear Design Team](https://jobright.ai/jobs/info/6ad5bd8525289a0b3bf603e5) | Enercon Services, Inc. | Palm Beach Gardens, FL | 10/29/2026 00:23:30 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Hardware Engineer (PWB / PWA Design), Early Career](https://jobright.ai/jobs/info/6ae25e83de23f466ec8c5bfa) | Viasat | Carlsbad, CA; Marlborough, MA | 10/28/2026 22:27:05 | Sponsorship: No |
-| 46 (Possible) | [Electrical Hardware Engineer I](https://jobright.ai/jobs/info/6ae297286679108488c4c854) | Hewlett Packard Enterprise | Roseville, CA | 10/29/2026 00:58:29 | Sponsorship: Past Sponsorship |
