@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-02 23:00:03Z UTC
+Updated: 2026-11-03 01:20:33Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 50 (Good) | [AEGS Pro Electrical Engineer I (On-Site)](https://jobright.ai/jobs/info/6ae8dcfd03f4a1104b257273) | RTX | Tucson, AZ | 11/02/2026 23:21:39 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6ae917736c51033758f462cb) | Terex Corporation | Charlotte, MI | 11/02/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6ae92a0503f4a1104b25a348) | Boeing | Hazelwood, MO | 11/02/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6ae92578fb2cd420ace6c758) | Boeing | Hazelwood, MO | 11/02/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 81 (Strong) | [Design Verification Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ae92f94a2a252e21942d6ba) | GlobalFoundries | Richardson, TX | 08/07/2026 00:48:26 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Junioe Electrical Engineer](https://jobright.ai/jobs/info/6ae9010a03f4a1104b258c13) | The LiRo Group | Newton, MA | 11/02/2026 15:54:18 | Sponsorship: No |
+| 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6ae8e04ba2a252e21942a673) | Fresenius Kabi USA | Grand Island, NY | 11/02/2026 16:08:20 | Sponsorship: Not Sure |
 | 41 (Possible) | [Electrical Engineer, Entry (Open until filled)](https://jobright.ai/jobs/info/6ae8fbbea2a252e21942ba80) | SMUD | Sacramento, CA | 11/02/2026 19:31:22 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Engineer I - Electrical Engineer (Legacy Program) Job Details \| APS](https://jobright.ai/jobs/info/6ae8fba303f4a1104b2589d1) | Arizona Public Service - APS | Tonopah, AZ | 11/02/2026 21:07:47 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [Validation Engineer 1](https://jobright.ai/jobs/info/6ae8db53fb2cd420ace697d1) | LanceSoft, Inc. | Austin, TX | 11/02/2026 18:49:55 | Sponsorship: Past Sponsorship |
@@ -97,10 +104,3 @@ Updated: 2026-11-02 23:00:03Z UTC
 | 37 (Possible) | [New Graduate- Associate Electrical Engineer - Nuclear Design Team](https://jobright.ai/jobs/info/6ad5bd8525289a0b3bf603e5) | Enercon Services, Inc. | Palm Beach Gardens, FL | 10/29/2026 00:23:30 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Hardware Engineer (PWB / PWA Design), Early Career](https://jobright.ai/jobs/info/6ae25e83de23f466ec8c5bfa) | Viasat | Carlsbad, CA; Marlborough, MA | 10/28/2026 22:27:05 | Sponsorship: No |
 | 46 (Possible) | [Electrical Hardware Engineer I](https://jobright.ai/jobs/info/6ae297286679108488c4c854) | Hewlett Packard Enterprise | Roseville, CA | 10/29/2026 00:58:29 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae27ef0de23f466ec8c720b) | Rocket Lab | Long Beach, CA | 10/28/2026 23:02:08 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Senior Electrical Engineer I - Secret Clearance](https://jobright.ai/jobs/info/6ae287106679108488c4c271) | Rocket Lab | Long Beach, CA | 10/28/2026 23:36:48 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Test Engineer (Entry Level) - Medical Device](https://jobright.ai/jobs/info/6ae274daeb7e8f715a60e438) | Planet Pharma | Denver Metropolitan Area | 10/28/2026 22:19:06 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [Design Verification Engineer](https://jobright.ai/jobs/info/6ae23f57829a3bada1602d5a) | Apple | Beaverton, OR | 10/28/2026 18:30:47 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Facilities Electrical Engineer, Entry](https://jobright.ai/jobs/info/6adfbb14c5c64fa3d9cbee60) | Naval Nuclear Laboratory (FMP) | Idaho Falls, ID | 10/28/2026 18:11:42 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae2687c6679108488c4b301) | Astronics Corporation | Clackamas, OR | 10/28/2026 21:26:20 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Entry Level QA-Test Engineer-Tucson, AZ](https://jobright.ai/jobs/info/6ae25e5cde23f466ec8c5bc4) | IBM | Tucson, AZ | 10/28/2026 20:43:08 | Sponsorship: Past Sponsorship |
