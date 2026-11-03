@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-03 20:39:56Z UTC
+Updated: 2026-11-03 21:58:46Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 43 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aea4b6ffc85f3a3943326bd) | Cintas | Florence, SC | 11/03/2026 21:00:31 | Sponsorship: Past Sponsorship |
 | 70 (Strong) | [PCIe Post-Silicon Validation Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6aea402b440b469a1c0ac243) | NVIDIA | Santa Clara, CA | 11/03/2026 06:00:00 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae3b350c3139b475b5af7f8) | Rocket Lab | Pasadena, CA | 11/03/2026 10:59:25 | Sponsorship: No |
 | 64 (Good) | [Hardware Validation and Test Engineer](https://jobright.ai/jobs/info/6acd4160e7a1d93332110ca2) | LanceSoft, Inc. | Santa Clara, CA | 11/03/2026 18:52:10 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-11-03 20:39:56Z UTC
 | 36 (Possible) | [Graduate Engineer, System Validation](https://jobright.ai/jobs/info/6ad15f8d18608b6f36f83cd6) | Graphcore | Austin, TX | 10/29/2026 23:44:43 | Sponsorship: Past Sponsorship |
 | 73 (Strong) | [CPU Server Physical Design Engineer](https://jobright.ai/jobs/info/6ae3cdf1fb2cd420ace542c2) | Qualcomm | Santa Clara, CA | 10/29/2026 15:51:29 | Sponsorship: Not Sure |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae387c077c09cb3bd4a6b67) | RTX | Fort Wayne, IN | 10/29/2026 16:03:32 | Security clearance language is present; Sponsorship: No |
-| 51 (Good) | [Electrical Engineer  (Early Career)](https://jobright.ai/jobs/info/6ae3d5bbfb2cd420ace54667) | Noble Machines | Sunnyvale, CA | 10/29/2026 16:24:43 | Sponsorship: Not Sure |
