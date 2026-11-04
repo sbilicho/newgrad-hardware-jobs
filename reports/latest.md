@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-04 20:04:49Z UTC
+Updated: 2026-11-04 22:41:29Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 79 (Strong) | [Pre-Silicon Digital Verification Engineer](https://jobright.ai/jobs/info/6aeb95e765311d97105ba143) | Apple | Sunnyvale, CA | 11/04/2026 20:30:31 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Electrical Engineer I - Test](https://jobright.ai/jobs/info/6ae0f26b5a5afc94bd2c9150) | RTX | Tucson, AZ | 11/04/2026 16:45:47 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aebac7065311d97105baf0b) | DSC Dredge, LLC | Reserve, LA | 11/04/2026 22:06:40 | Sponsorship: Past Sponsorship |
 | 69 (Good) | [Circuit Design Engineer](https://jobright.ai/jobs/info/6aeb7ef182f0ac077443a615) | Lockheed Martin | Grand Prairie, TX | 11/04/2026 10:52:33 | Sponsorship: No |
 | 47 (Possible) | [Entry Product Engineer](https://jobright.ai/jobs/info/6aeb6762a0b134121d99a511) | HP | Corvallis, OR | 11/04/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Facility Design Electrical Engineer](https://jobright.ai/jobs/info/6aeb7b8cf40efa43f4a17ddc) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 11/04/2026 06:00:00 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-11-04 20:04:49Z UTC
 | 50 (Good) | [Manufacturing Test Engineer](https://jobright.ai/jobs/info/6ae519b9eab1f9673097faad) | Leidos | Huntsville, AL | 10/30/2026 22:02:45 | Sponsorship: No |
 | 82 (Strong) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae53471fb2cd420ace5d795) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 83 (Strong) | [Cell Modeling and Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae534c4d7424a2a828ec547) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 36 (Possible) | [Software Engineer, Hardware Tools and Methodology - New College Grad 2026](https://jobright.ai/jobs/info/6ae534c5eab1f967309806ab) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 80 (Strong) | [ASIC Design Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae534cdd7424a2a828ec54d) | NVIDIA | Austin, TX | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 32 (Possible) | [System Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae534c0c3139b475b5b98e2) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
