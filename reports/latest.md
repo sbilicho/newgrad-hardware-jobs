@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-03 23:49:23Z UTC
+Updated: 2026-11-04 02:04:26Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 75 (Strong) | [Graduate- Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6aea8d1f913589212b1f7de5) | Infineon Technologies | San Jose, CA | 11/04/2026 01:40:47 | Sponsorship: Past Sponsorship |
+| 55 (Good) | [Process Applications Engineer I-III  (Semiconductor)  (33546)](https://jobright.ai/jobs/info/6aea80d0913589212b1f7619) | Ebara Technologies | Phoenix, AZ | 11/04/2026 00:48:16 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [TEST ENGINEER](https://jobright.ai/jobs/info/6aea70c3fc85f3a394333bf1) | SharkNinja France | Needham, MA | 11/03/2026 15:39:47 | Sponsorship: Not Sure |
+| 37 (Possible) | [Controls Engineer (New Graduate/Early Career)](https://jobright.ai/jobs/info/6aea44dc440b469a1c0ac54e) | Dematic | Grand Rapids, MI; Wauwatosa, WI; Henrietta, NY; Continental United States, United States | 11/03/2026 16:15:51 | Sponsorship: Not Sure |
 | 51 (Good) | [Reliability Engineer I - Hardware / Electrical](https://jobright.ai/jobs/info/6aea298f913589212b1f4129) | Medtronic | Mounds View, MN | 11/03/2026 22:22:29 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [ISG Hardware Engineer 1 - Material Science](https://jobright.ai/jobs/info/6aea599b1ba298c7777720c6) | Dell Technologies | Round Rock, TX | 11/03/2026 14:00:59 | Sponsorship: Not Sure |
 | 50 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6aea4dfe1ba298c777771b0a) | SharkNinja | Needham, MA | 11/03/2026 13:11:26 | Sponsorship: Not Sure |
@@ -100,7 +104,3 @@ Updated: 2026-11-03 23:49:23Z UTC
 | 52 (Good) | [Applications Engineer](https://jobright.ai/jobs/info/6a7f962ead9ff00c26baf2b9) | Monolithic Power Systems, Inc. | Durham, NC | 10/30/2026 09:25:00 | Sponsorship: Past Sponsorship |
 | 64 (Good) | [New Grad Applications Engineer](https://jobright.ai/jobs/info/6ac7eea3a444ac5d36f86b09) | Monolithic Power Systems, Inc. | San Jose, CA | 10/30/2026 09:25:00 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer (Radar) I](https://jobright.ai/jobs/info/6ae13c0c1f9d9308370a8cab) | TSC | Silver Spring, MD | 10/30/2026 05:44:15 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I - V](https://jobright.ai/jobs/info/6ae4223dd7424a2a828e54eb) | Chugach Electric Careers | Anchorage, AK | 10/30/2026 04:51:09 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Electrical Engineer I - New Grad](https://jobright.ai/jobs/info/6a544797e726ec56126a9ace) | Shield AI | Dallas, TX | 10/30/2026 02:09:04 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Power Electronics Engineer I - Onsite](https://jobright.ai/jobs/info/6ae387ce77c09cb3bd4a6b79) | RTX | El Segundo, CA | 10/29/2026 23:55:04 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 59 (Good) | [R&D Reliability/Test Engineer - Entry Level](https://jobright.ai/jobs/info/6ae403efc3139b475b5b1fde) | Formlabs | Somerville, MA | 10/30/2026 05:00:00 | Sponsorship: Past Sponsorship |
