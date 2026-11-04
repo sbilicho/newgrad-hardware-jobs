@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-04 02:04:26Z UTC
+Updated: 2026-11-04 05:38:46Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Engineer I - Completions Avionics/Electrical Engineer (Appleton, WI)](https://jobright.ai/jobs/info/6aea1511897466e69e31b569) | Gulfstream Aerospace | Appleton, WI | 11/03/2026 22:54:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer - Data Centers](https://jobright.ai/jobs/info/6aeac066897466e69e320d41) | Jacobs | New York, NY | 11/04/2026 05:19:34 | Sponsorship: Past Sponsorship |
 | 75 (Strong) | [Graduate- Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6aea8d1f913589212b1f7de5) | Infineon Technologies | San Jose, CA | 11/04/2026 01:40:47 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Process Applications Engineer I-III  (Semiconductor)  (33546)](https://jobright.ai/jobs/info/6aea80d0913589212b1f7619) | Ebara Technologies | Phoenix, AZ | 11/04/2026 00:48:16 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [TEST ENGINEER](https://jobright.ai/jobs/info/6aea70c3fc85f3a394333bf1) | SharkNinja France | Needham, MA | 11/03/2026 15:39:47 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-11-04 02:04:26Z UTC
 | 37 (Possible) | [Computer/Electrical Engineer I](https://jobright.ai/jobs/info/6ae13154de23f466ec8bd25f) | TSC | Bloomington, IN | 10/30/2026 05:44:15 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae475c4fb2cd420ace576e5) | Loram Maintenance of Way, Inc. | Georgetown, TX | 10/30/2026 10:47:32 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Applications Engineer](https://jobright.ai/jobs/info/6a7f962ead9ff00c26baf2b9) | Monolithic Power Systems, Inc. | Durham, NC | 10/30/2026 09:25:00 | Sponsorship: Past Sponsorship |
-| 64 (Good) | [New Grad Applications Engineer](https://jobright.ai/jobs/info/6ac7eea3a444ac5d36f86b09) | Monolithic Power Systems, Inc. | San Jose, CA | 10/30/2026 09:25:00 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer (Radar) I](https://jobright.ai/jobs/info/6ae13c0c1f9d9308370a8cab) | TSC | Silver Spring, MD | 10/30/2026 05:44:15 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
