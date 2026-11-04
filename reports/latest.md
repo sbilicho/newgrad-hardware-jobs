@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-04 18:08:29Z UTC
+Updated: 2026-11-04 19:04:48Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 47 (Possible) | [Entry Product Engineer](https://jobright.ai/jobs/info/6aeb6762a0b134121d99a511) | HP | Corvallis, OR | 11/04/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Facility Design Electrical Engineer](https://jobright.ai/jobs/info/6aeb7b8cf40efa43f4a17ddc) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 11/04/2026 06:00:00 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Associate Electrical & Test Engineer](https://jobright.ai/jobs/info/6aea31e4913589212b1f473e) | Boeing | Huntsville, AL | 11/04/2026 09:16:34 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: No |
 | 75 (Strong) | [ASIC / FPGA Design Verification Engineer - (Associate or Experienced)](https://jobright.ai/jobs/info/6aeb6939fbe13dfb53df3bfb) | Boeing | El Segundo, CA | 11/04/2026 17:19:53 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 52 (Good) | [Entry Level Applications Engineer - Single Layer Capacitors](https://jobright.ai/jobs/info/6ac67d3f0e027c0f3b3b2a97) | Knowles Corporation | Cazenovia, NY | 11/04/2026 17:47:37 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Instrumentation and Controls Engineer – EIT](https://jobright.ai/jobs/info/6aeb618c65311d97105b7ec1) | Stantec | Cleveland, OH | 11/04/2026 08:47:08 | Sponsorship: Not Sure |
@@ -101,6 +104,3 @@ Updated: 2026-11-04 18:08:29Z UTC
 | 80 (Strong) | [ASIC Design Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae534cdd7424a2a828ec54d) | NVIDIA | Austin, TX | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 32 (Possible) | [System Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae534c0c3139b475b5b98e2) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [ASIC Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae53471eab1f96730980664) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 88 (Strong) | [ASIC Physical Design Engineer, Netlisting - New College Grad 2026](https://jobright.ai/jobs/info/6ae534a5c3139b475b5b98cd) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 58 (Good) | [Embedded Hardware Test Engineer](https://jobright.ai/jobs/info/6ae4f0a1fb2cd420ace5b58a) | SARACA | Saint Paul, MN | 10/30/2026 19:31:45 | Sponsorship: Past Sponsorship |
-| 55 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA) Job Details \| Teradyne](https://jobright.ai/jobs/info/6ad8b83354bbabbab07082ba) | Teradyne | North Reading, MA | 10/21/2026 13:03:47 | Sponsorship: Past Sponsorship |
