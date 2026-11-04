@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-04 05:38:46Z UTC
+Updated: 2026-11-04 08:46:40Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 36 (Possible) | [GPU System and Scheduling Architect – New College Grad 2026](https://jobright.ai/jobs/info/6aea4a66fc85f3a3943325f8) | NVIDIA | Santa Clara, CA | 11/04/2026 06:19:40 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Engineer I - Completions Avionics/Electrical Engineer (Appleton, WI)](https://jobright.ai/jobs/info/6aea1511897466e69e31b569) | Gulfstream Aerospace | Appleton, WI | 11/03/2026 22:54:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer - Data Centers](https://jobright.ai/jobs/info/6aeac066897466e69e320d41) | Jacobs | New York, NY | 11/04/2026 05:19:34 | Sponsorship: Past Sponsorship |
 | 75 (Strong) | [Graduate- Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6aea8d1f913589212b1f7de5) | Infineon Technologies | San Jose, CA | 11/04/2026 01:40:47 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-11-04 05:38:46Z UTC
 | 64 (Good) | [Entry-Level Applications Engineer](https://jobright.ai/jobs/info/6ac67d5bd9621c5b283a90ff) | Analog Devices | Wilmington, MA | 10/29/2026 03:18:57 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Computer/Electrical Engineer I](https://jobright.ai/jobs/info/6ae13154de23f466ec8bd25f) | TSC | Bloomington, IN | 10/30/2026 05:44:15 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae475c4fb2cd420ace576e5) | Loram Maintenance of Way, Inc. | Georgetown, TX | 10/30/2026 10:47:32 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [Applications Engineer](https://jobright.ai/jobs/info/6a7f962ead9ff00c26baf2b9) | Monolithic Power Systems, Inc. | Durham, NC | 10/30/2026 09:25:00 | Sponsorship: Past Sponsorship |
