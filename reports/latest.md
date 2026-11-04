@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-04 09:49:32Z UTC
+Updated: 2026-11-04 11:50:10Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 83 (Strong) | [Physical Design Clocking Engineer](https://jobright.ai/jobs/info/6aeac31c913589212b1f8c41) | Intel | Santa Clara, CA | 11/04/2026 10:21:06 | Sponsorship: Past Sponsorship |
+| 63 (Good) | [Substation Physical Design EIT/Designer](https://jobright.ai/jobs/info/6ace60d3a0453f9ba624855f) | HDR | Billings, MT | 11/04/2026 02:24:20 | Sponsorship: Not Sure |
 | 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aeaa96dd22d4c08ec605784) | ALOIS Solutions | Schaumburg, IL | 11/03/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 36 (Possible) | [GPU System and Scheduling Architect – New College Grad 2026](https://jobright.ai/jobs/info/6aea4a66fc85f3a3943325f8) | NVIDIA | Santa Clara, CA | 11/04/2026 06:19:40 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Engineer I - Completions Avionics/Electrical Engineer (Appleton, WI)](https://jobright.ai/jobs/info/6aea1511897466e69e31b569) | Gulfstream Aerospace | Appleton, WI | 11/03/2026 22:54:00 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-11-04 09:49:32Z UTC
 | 69 (Good) | [Silicon Photonics Device Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ae4c06f77c09cb3bd4ae4e7) | GlobalFoundries | Malta, NY | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Antenna & RF Engineer, Amazon Leo](https://jobright.ai/jobs/info/6ac6c3598ff3fb9b3bc8ef4b) | Amazon | Redmond, WA; San Diego, CA | 10/30/2026 08:39:43 | Sponsorship: No |
 | 44 (Possible) | [Analog & Power Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac801b044d6e65604a059fd) | RTX | McKinney, TX | 10/30/2026 08:44:31 | Security clearance language is present; Sponsorship: No |
-| 64 (Good) | [Entry-Level Applications Engineer](https://jobright.ai/jobs/info/6ac67d5bd9621c5b283a90ff) | Analog Devices | Wilmington, MA | 10/29/2026 03:18:57 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Computer/Electrical Engineer I](https://jobright.ai/jobs/info/6ae13154de23f466ec8bd25f) | TSC | Bloomington, IN | 10/30/2026 05:44:15 | Sponsorship: Past Sponsorship |
