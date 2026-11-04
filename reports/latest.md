@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-04 19:04:48Z UTC
+Updated: 2026-11-04 20:04:49Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 69 (Good) | [Circuit Design Engineer](https://jobright.ai/jobs/info/6aeb7ef182f0ac077443a615) | Lockheed Martin | Grand Prairie, TX | 11/04/2026 10:52:33 | Sponsorship: No |
 | 47 (Possible) | [Entry Product Engineer](https://jobright.ai/jobs/info/6aeb6762a0b134121d99a511) | HP | Corvallis, OR | 11/04/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Facility Design Electrical Engineer](https://jobright.ai/jobs/info/6aeb7b8cf40efa43f4a17ddc) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 11/04/2026 06:00:00 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Associate Electrical & Test Engineer](https://jobright.ai/jobs/info/6aea31e4913589212b1f473e) | Boeing | Huntsville, AL | 11/04/2026 09:16:34 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-11-04 19:04:48Z UTC
 | 36 (Possible) | [Software Engineer, Hardware Tools and Methodology - New College Grad 2026](https://jobright.ai/jobs/info/6ae534c5eab1f967309806ab) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 80 (Strong) | [ASIC Design Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae534cdd7424a2a828ec54d) | NVIDIA | Austin, TX | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 32 (Possible) | [System Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae534c0c3139b475b5b98e2) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 89 (Strong) | [ASIC Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae53471eab1f96730980664) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
