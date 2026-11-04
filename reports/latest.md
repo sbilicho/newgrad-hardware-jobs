@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-04 17:11:48Z UTC
+Updated: 2026-11-04 18:08:29Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 75 (Strong) | [ASIC / FPGA Design Verification Engineer - (Associate or Experienced)](https://jobright.ai/jobs/info/6aeb6939fbe13dfb53df3bfb) | Boeing | El Segundo, CA | 11/04/2026 17:19:53 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 52 (Good) | [Entry Level Applications Engineer - Single Layer Capacitors](https://jobright.ai/jobs/info/6ac67d3f0e027c0f3b3b2a97) | Knowles Corporation | Cazenovia, NY | 11/04/2026 17:47:37 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Instrumentation and Controls Engineer – EIT](https://jobright.ai/jobs/info/6aeb618c65311d97105b7ec1) | Stantec | Cleveland, OH | 11/04/2026 08:47:08 | Sponsorship: Not Sure |
 | 37 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6aeb5ee665311d97105b7c98) | The LiRo Group | Newton, MA | 11/04/2026 08:35:50 | Sponsorship: No |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aeb236965311d97105b4d88) | JSG (Johnson Service Group, Inc.) | Cypress, CA | 11/03/2026 15:27:51 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Test Solutions Northeast Electrical Engineer I](https://jobright.ai/jobs/info/6aeb6348a0b134121d99a11e) | RTX | Tewksbury, MA | 11/04/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-11-04 17:11:48Z UTC
 | 88 (Strong) | [ASIC Physical Design Engineer, Netlisting - New College Grad 2026](https://jobright.ai/jobs/info/6ae534a5c3139b475b5b98cd) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 58 (Good) | [Embedded Hardware Test Engineer](https://jobright.ai/jobs/info/6ae4f0a1fb2cd420ace5b58a) | SARACA | Saint Paul, MN | 10/30/2026 19:31:45 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA) Job Details \| Teradyne](https://jobright.ai/jobs/info/6ad8b83354bbabbab07082ba) | Teradyne | North Reading, MA | 10/21/2026 13:03:47 | Sponsorship: Past Sponsorship |
-| 58 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae4fc4bc3139b475b5b7d0f) | Longshot Space Technologies Corporation | Alameda, CA | 10/30/2026 20:21:31 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae502ebfb2cd420ace5c026) | RMS Energy Co, LLC | Michigan State | 10/30/2026 20:49:47 | Sponsorship: Past Sponsorship |
-| 54 (Good) | [Entry-Level Electrical Reliability Engineer (EDP)](https://jobright.ai/jobs/info/6ae50535d7424a2a828eaf92) | Koch | Brewton, AL | 10/30/2026 20:59:33 | Sponsorship: Past Sponsorship |
