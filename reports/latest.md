@@ -1,9 +1,18 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-04 11:50:10Z UTC
+Updated: 2026-11-04 17:11:48Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6aeb5ee665311d97105b7c98) | The LiRo Group | Newton, MA | 11/04/2026 08:35:50 | Sponsorship: No |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aeb236965311d97105b4d88) | JSG (Johnson Service Group, Inc.) | Cypress, CA | 11/03/2026 15:27:51 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Test Solutions Northeast Electrical Engineer I](https://jobright.ai/jobs/info/6aeb6348a0b134121d99a11e) | RTX | Tewksbury, MA | 11/04/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer Entry Level](https://jobright.ai/jobs/info/6aeb3d79a0b134121d998b15) | Consulting Engineering Services (CES) | New York, NY | 11/04/2026 14:13:13 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer - Data Centers](https://jobright.ai/jobs/info/6aeb5ef682f0ac0774438eab) | Jacobs | Austin, TX | 11/04/2026 16:36:06 | Sponsorship: Past Sponsorship |
+| 63 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aeb5fa882f0ac0774438f7e) | University of Colorado Boulder | Boulder, CO | 11/04/2026 16:39:04 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Process Validation Engineer](https://jobright.ai/jobs/info/6aeb41f2fbe13dfb53df2202) | Virtue America | United States | 11/04/2026 14:32:18 | Sponsorship: Past Sponsorship |
+| 35 (Possible) | [Design Engineer (New College Graduate), 5195](https://jobright.ai/jobs/info/6aeb27e0a0b134121d9970e1) | Diodes Incorporated | Milpitas, CA | 10/17/2026 09:03:20 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Facility Design Electrical Engineer](https://jobright.ai/jobs/info/6aeb59ccf40efa43f4a16386) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 11/04/2026 06:00:00 | Sponsorship: Past Sponsorship |
 | 83 (Strong) | [Physical Design Clocking Engineer](https://jobright.ai/jobs/info/6aeac31c913589212b1f8c41) | Intel | Santa Clara, CA | 11/04/2026 10:21:06 | Sponsorship: Past Sponsorship |
 | 63 (Good) | [Substation Physical Design EIT/Designer](https://jobright.ai/jobs/info/6ace60d3a0453f9ba624855f) | HDR | Billings, MT | 11/04/2026 02:24:20 | Sponsorship: Not Sure |
 | 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aeaa96dd22d4c08ec605784) | ALOIS Solutions | Schaumburg, IL | 11/03/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -95,12 +104,3 @@ Updated: 2026-11-04 11:50:10Z UTC
 | 58 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae4fc4bc3139b475b5b7d0f) | Longshot Space Technologies Corporation | Alameda, CA | 10/30/2026 20:21:31 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae502ebfb2cd420ace5c026) | RMS Energy Co, LLC | Michigan State | 10/30/2026 20:49:47 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Entry-Level Electrical Reliability Engineer (EDP)](https://jobright.ai/jobs/info/6ae50535d7424a2a828eaf92) | Koch | Brewton, AL | 10/30/2026 20:59:33 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Electronic and Electrical Systems Design and Test Engineer (Entry-Level or Associate)](https://jobright.ai/jobs/info/6ae38c90d7424a2a828e0c75) | Boeing | Berkeley, MO | 10/30/2026 17:29:35 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 58 (Good) | [Embedded Hardware Test Engineer Fresher](https://jobright.ai/jobs/info/6ae4f09aeab1f9673097e4f4) | SARACA | Saint Paul, MN | 10/30/2026 19:31:38 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ae4e802d45dc30fb7d33801) | Bluecrest Partners | Houston, TX | 10/30/2026 11:54:58 | Sponsorship: Not Sure |
-| 46 (Possible) | [Software Design & Product Engineer](https://jobright.ai/jobs/info/6ae4c7d5d7424a2a828e8750) | Matthews Marking Systems | Cranberry Township, PA | 10/30/2026 16:37:41 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae4cba9d45dc30fb7d323b9) | Westinghouse Electric Company | Rock Hill, SC | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae4af81fb2cd420ace58b14) | Engineered Corrosion Solutions, LLC | St. Louis, MO | 10/30/2026 14:53:53 | Sponsorship: Past Sponsorship |
-| 69 (Good) | [Silicon Photonics Device Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ae4c06f77c09cb3bd4ae4e7) | GlobalFoundries | Malta, NY | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Antenna & RF Engineer, Amazon Leo](https://jobright.ai/jobs/info/6ac6c3598ff3fb9b3bc8ef4b) | Amazon | Redmond, WA; San Diego, CA | 10/30/2026 08:39:43 | Sponsorship: No |
-| 44 (Possible) | [Analog & Power Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ac801b044d6e65604a059fd) | RTX | McKinney, TX | 10/30/2026 08:44:31 | Security clearance language is present; Sponsorship: No |
