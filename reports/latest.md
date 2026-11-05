@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-04 22:41:29Z UTC
+Updated: 2026-11-05 02:53:00Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 85 (Strong) | [GPU Design Verification Engineer](https://careers.qualcomm.com/careers/job/446720881474?domain=qualcomm.com) | Qualcomm | Santa Clara, California, United States of America | 11/04/2026 00:00:00 |  |
+| 79 (Strong) | [Pre-Silicon Digital Verification Engineer](https://jobright.ai/jobs/info/6aebea4f65311d97105bcb7a) | Apple | Sunnyvale, CA | 11/05/2026 02:30:39 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I, Data Centers - Remote (U.S.)](https://jobright.ai/jobs/info/6aebc62bf40efa43f4a1a881) | AECOM | United States | 11/04/2026 23:56:27 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aebd27965311d97105bc3b1) | PAE | New York, NY | 11/05/2026 00:48:57 | Sponsorship: Past Sponsorship |
 | 79 (Strong) | [Pre-Silicon Digital Verification Engineer](https://jobright.ai/jobs/info/6aeb95e765311d97105ba143) | Apple | Sunnyvale, CA | 11/04/2026 20:30:31 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electrical Engineer I - Test](https://jobright.ai/jobs/info/6ae0f26b5a5afc94bd2c9150) | RTX | Tucson, AZ | 11/04/2026 16:45:47 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aebac7065311d97105baf0b) | DSC Dredge, LLC | Reserve, LA | 11/04/2026 22:06:40 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-11-04 22:41:29Z UTC
 | 69 (Good) | [SRAM Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae58cfefb2cd420ace5ec1a) | NVIDIA | Santa Clara, CA | 10/12/2026 06:38:43 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [ASIC Floorplan Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae55174c3139b475b5ba0b8) | NVIDIA | Santa Clara, CA | 08/27/2026 02:24:28 | Sponsorship: Past Sponsorship |
 | 92 (Strong) | [ASIC Design Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6ae56a7cd7424a2a828ed2ed) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I - Relocate to Warroad, MN - Located in Warroad, MN](https://jobright.ai/jobs/info/6ae5761dd7424a2a828ed4b9) | Marvin | Warroad, MN | 10/30/2026 22:01:17 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Manufacturing Test Engineer](https://jobright.ai/jobs/info/6ae519b9eab1f9673097faad) | Leidos | Huntsville, AL | 10/30/2026 22:02:45 | Sponsorship: No |
-| 82 (Strong) | [Formal Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae53471fb2cd420ace5d795) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 83 (Strong) | [Cell Modeling and Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae534c4d7424a2a828ec547) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
