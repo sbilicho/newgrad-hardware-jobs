@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-05 02:53:00Z UTC
+Updated: 2026-11-05 10:23:54Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Entry Level Electrical Engineer I](https://jobright.ai/jobs/info/6aebf841e82a94109638f5d5) | Salas O'Brien | Greenville, SC | 11/05/2026 03:07:09 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Entry Level Electrical Engineer I](https://jobright.ai/jobs/info/6aebfb3855daad9c1f546a38) | Haag, a Salas O'Brien Company | Greenville, SC | 11/05/2026 03:42:48 | Sponsorship: Past Sponsorship |
 | 85 (Strong) | [GPU Design Verification Engineer](https://careers.qualcomm.com/careers/job/446720881474?domain=qualcomm.com) | Qualcomm | Santa Clara, California, United States of America | 11/04/2026 00:00:00 |  |
 | 79 (Strong) | [Pre-Silicon Digital Verification Engineer](https://jobright.ai/jobs/info/6aebea4f65311d97105bcb7a) | Apple | Sunnyvale, CA | 11/05/2026 02:30:39 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I, Data Centers - Remote (U.S.)](https://jobright.ai/jobs/info/6aebc62bf40efa43f4a1a881) | AECOM | United States | 11/04/2026 23:56:27 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-11-05 02:53:00Z UTC
 | 43 (Possible) | [RTL Power Optimization Engineer – New College Grad 2026](https://jobright.ai/jobs/info/6ae56a74c3139b475b5ba72e) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 33 (Possible) | [New College Grad - Computational Physics & Agentic AI Engineer, Doctorate Degree (Spring 2027)](https://jobright.ai/jobs/info/6ae547fd77c09cb3bd4b2f22) | Applied Materials | Santa Clara, CA | 10/30/2026 05:00:00 | Sponsorship: Past Sponsorship |
 | 69 (Good) | [SRAM Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae58cfefb2cd420ace5ec1a) | NVIDIA | Santa Clara, CA | 10/12/2026 06:38:43 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [ASIC Floorplan Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae55174c3139b475b5ba0b8) | NVIDIA | Santa Clara, CA | 08/27/2026 02:24:28 | Sponsorship: Past Sponsorship |
-| 92 (Strong) | [ASIC Design Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6ae56a7cd7424a2a828ed2ed) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
