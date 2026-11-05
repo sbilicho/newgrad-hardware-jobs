@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-05 10:23:54Z UTC
+Updated: 2026-11-05 18:12:29Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 89 (Strong) | [Low Power ASIC Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6aecb9ffab48a7079381dd99) | NVIDIA | Santa Clara, CA | 11/05/2026 17:16:47 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Missile Test Engineer - Entry Level](https://jobright.ai/jobs/info/6aecad5ea2661405dc2c5151) | BAE Systems, Inc. | Rockville, MD | 11/05/2026 06:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Missile Test Engineer - Entry Level](https://jobright.ai/jobs/info/6aec829ba2661405dc2c3d97) | BAE Systems | Rockville, MD | 11/05/2026 13:20:27 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Missile Test Engineer - Entry Level - Rockville, MD](https://jobright.ai/jobs/info/6aec9417465e3d237137fab1) | Military Spouse Jobs | Rockville, MD | 11/05/2026 14:35:03 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Missile Test Engineer - Entry Level - Rockville, MD](https://jobright.ai/jobs/info/6aec908a3967d67f6359d8b0) | Eaton | Rockville, MD | 11/05/2026 14:19:54 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 72 (Strong) | [Silicon Validation Engineer](https://jobright.ai/jobs/info/6aec9303a2661405dc2c436d) | Apple | Cupertino, CA | 11/05/2026 14:30:27 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical Engineer I](https://jobright.ai/jobs/info/6aebf841e82a94109638f5d5) | Salas O'Brien | Greenville, SC | 11/05/2026 03:07:09 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical Engineer I](https://jobright.ai/jobs/info/6aebfb3855daad9c1f546a38) | Haag, a Salas O'Brien Company | Greenville, SC | 11/05/2026 03:42:48 | Sponsorship: Past Sponsorship |
 | 85 (Strong) | [GPU Design Verification Engineer](https://careers.qualcomm.com/careers/job/446720881474?domain=qualcomm.com) | Qualcomm | Santa Clara, California, United States of America | 11/04/2026 00:00:00 |  |
@@ -98,9 +104,3 @@ Updated: 2026-11-05 10:23:54Z UTC
 | 60 (Good) | [High Speed SerDes Validation Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae56a75d45dc30fb7d36bd8) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Entry Level QA/Test Engineer- Tucson, AZ](https://jobright.ai/jobs/info/6ae55974eab1f9673098109b) | Hakkōda, an IBM Company | Tucson, AZ | 10/30/2026 02:58:40 | Sponsorship: Past Sponsorship |
 | 88 (Strong) | [ASIC Clocks Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae56a6ed7424a2a828ed2d2) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 81 (Strong) | [ASIC Verification Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6ae56a7177c09cb3bd4b3720) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 81 (Strong) | [GPU Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae56a87d7424a2a828ed2fe) | NVIDIA | Westford, MA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 85 (Strong) | [ASIC Verification Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6ae56a72c3139b475b5ba72a) | NVIDIA | Austin, TX | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 43 (Possible) | [RTL Power Optimization Engineer – New College Grad 2026](https://jobright.ai/jobs/info/6ae56a74c3139b475b5ba72e) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 33 (Possible) | [New College Grad - Computational Physics & Agentic AI Engineer, Doctorate Degree (Spring 2027)](https://jobright.ai/jobs/info/6ae547fd77c09cb3bd4b2f22) | Applied Materials | Santa Clara, CA | 10/30/2026 05:00:00 | Sponsorship: Past Sponsorship |
-| 69 (Good) | [SRAM Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae58cfefb2cd420ace5ec1a) | NVIDIA | Santa Clara, CA | 10/12/2026 06:38:43 | Sponsorship: Past Sponsorship |
