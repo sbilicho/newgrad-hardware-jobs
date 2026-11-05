@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-05 18:12:29Z UTC
+Updated: 2026-11-05 20:51:22Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 84 (Strong) | [Junior ASIC Design Verification Engineer, Amazon Leo](https://jobright.ai/jobs/info/6ab6d59881e327c4bf20164b) | Amazon | Sunnyvale, CA | 11/05/2026 12:24:43 | Sponsorship: Past Sponsorship |
+| 63 (Good) | [Applications Engineer-I, Electronic Warfare](https://jobright.ai/jobs/info/6aeccc18a2661405dc2c665d) | Motorola Solutions | Los Angeles, CA | 11/05/2026 18:46:17 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer 1 (Entry Level)](https://jobright.ai/jobs/info/6aecd209465e3d237138203a) | Wagstaff, Inc. | Spokane Valley, WA | 11/05/2026 12:23:54 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6ad92b8139284cd524284fb4) | P2S | Long Beach, CA | 11/05/2026 12:33:26 | Sponsorship: Past Sponsorship |
+| 69 (Good) | [SRAM Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6aecdd29a9ea762a04092d0b) | NVIDIA | Santa Clara, CA | 11/05/2026 19:46:49 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aecd1693967d67f635a0038) | ELM MicroGrid | The Colony, TX | 11/05/2026 10:56:41 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Test Engineer I](https://jobright.ai/jobs/info/6aecde293a3fa7f03ea89e38) | Sonny's Enterprises Inc. - Conveyorized Car Wash Equipment Leader | Savage, MN | 11/05/2026 11:51:05 | Sponsorship: Not Sure |
 | 89 (Strong) | [Low Power ASIC Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6aecb9ffab48a7079381dd99) | NVIDIA | Santa Clara, CA | 11/05/2026 17:16:47 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Missile Test Engineer - Entry Level](https://jobright.ai/jobs/info/6aecad5ea2661405dc2c5151) | BAE Systems, Inc. | Rockville, MD | 11/05/2026 06:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Missile Test Engineer - Entry Level](https://jobright.ai/jobs/info/6aec829ba2661405dc2c3d97) | BAE Systems | Rockville, MD | 11/05/2026 13:20:27 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -97,10 +104,3 @@ Updated: 2026-11-05 18:12:29Z UTC
 | 41 (Possible) | [Associate Controls Engineer](https://jobright.ai/jobs/info/6ae69850d45dc30fb7d39404) | Tesla | Buffalo, NY | 10/31/2026 18:39:28 | Sponsorship: Not Sure |
 | 50 (Good) | [Associate Research and Development (R&D) Test Engineer](https://jobright.ai/jobs/info/6a03729f7c753c287f6e6edc) | Motorola Solutions | Irvine, CA; Los Angeles, CA | 10/31/2026 11:13:05 | Sponsorship: No |
 | 40 (Possible) | [Entry Level RF Engineer](https://jobright.ai/jobs/info/6aac3ef12e757fcb5c8b4911) | Amentum | Norfolk, VA | 10/31/2026 11:50:19 | Sponsorship: No |
-| 47 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ae53a2cd45dc30fb7d36010) | RTX | Tucson, AZ | 10/31/2026 09:41:36 | Security clearance language is present; Sponsorship: No |
-| 56 (Good) | [Associate Embedded Systems Emulation Engineer](https://jobright.ai/jobs/info/6acd28f7ddd23cce28a11037) | STR | Woburn, MA | 10/31/2026 11:17:19 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 87 (Strong) | [Physical Design Engineer](https://jobright.ai/jobs/info/6ae545fac3139b475b5b9e4a) | Broadcom | San Jose, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 87 (Strong) | [Physical Design Engineer](https://jobright.ai/jobs/info/6ae545fad7424a2a828eca8a) | Broadcom | San Jose, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 60 (Good) | [High Speed SerDes Validation Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae56a75d45dc30fb7d36bd8) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Entry Level QA/Test Engineer- Tucson, AZ](https://jobright.ai/jobs/info/6ae55974eab1f9673098109b) | Hakkōda, an IBM Company | Tucson, AZ | 10/30/2026 02:58:40 | Sponsorship: Past Sponsorship |
-| 88 (Strong) | [ASIC Clocks Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6ae56a6ed7424a2a828ed2d2) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
