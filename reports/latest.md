@@ -1,9 +1,17 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-05 20:51:22Z UTC
+Updated: 2026-11-05 23:43:13Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 48 (Possible) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6aed0da63967d67f635a22e8) | Textron | Cockeysville, MD | 11/05/2026 23:13:42 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 59 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA) Job Details \| Teradyne](https://jobright.ai/jobs/info/6ad8b828b0725dc268dd554c) | Teradyne | North Reading, MA | 11/05/2026 18:15:40 | Sponsorship: Past Sponsorship |
+| 30 (Possible) | [Semiconductor Engineer I](https://jobright.ai/jobs/info/6aecfef93a3fa7f03ea8b13a) | Honeywell Aerospace | Moca, PR | 11/05/2026 22:11:05 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Propulsion Integration & Test Engineer I, First shift](https://jobright.ai/jobs/info/6aecfad1465e3d2371383787) | Relativity Space | Long Beach, CA | 11/05/2026 13:53:21 | Sponsorship: Not Sure |
+| 54 (Good) | [2027 Enterprise Resiliency Modeling and Simulation Engineer](https://jobright.ai/jobs/info/6aecd4dcab48a7079381ee0a) | The Aerospace Corporation | El Segundo, CA; Chantilly, VA | 11/05/2026 14:08:25 | Sponsorship: No |
+| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aecfe5e3a3fa7f03ea8b0d4) | RK Industries | Aurora, CO | 11/05/2026 14:08:30 | Sponsorship: No |
+| 65 (Good) | [Design Verification Engineer, New Grad (AI-Driven)](https://jobright.ai/jobs/info/6aed0b323a3fa7f03ea8b8b8) | Persimmons, Inc. | San Jose, CA | 11/05/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 65 (Good) | [Design Verification Engineer, New Grad (AI-Driven)](https://jobright.ai/jobs/info/6aecfe733967d67f635a1967) | Persimmons, Inc. | San Jose, CA | 11/05/2026 22:08:51 | Sponsorship: Past Sponsorship |
 | 84 (Strong) | [Junior ASIC Design Verification Engineer, Amazon Leo](https://jobright.ai/jobs/info/6ab6d59881e327c4bf20164b) | Amazon | Sunnyvale, CA | 11/05/2026 12:24:43 | Sponsorship: Past Sponsorship |
 | 63 (Good) | [Applications Engineer-I, Electronic Warfare](https://jobright.ai/jobs/info/6aeccc18a2661405dc2c665d) | Motorola Solutions | Los Angeles, CA | 11/05/2026 18:46:17 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer 1 (Entry Level)](https://jobright.ai/jobs/info/6aecd209465e3d237138203a) | Wagstaff, Inc. | Spokane Valley, WA | 11/05/2026 12:23:54 | Sponsorship: Past Sponsorship |
@@ -96,11 +104,3 @@ Updated: 2026-11-05 20:51:22Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae89ecafb2cd420ace66fe0) | North Carolina Department of Agriculture and Consumer Services | Louisville, KY | 11/02/2026 14:31:38 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer \| Entry Level](https://jobright.ai/jobs/info/6ae8a651061d6d7ff3d7b98d) | ISC Constructors, L.L.C. | Baton Rouge, LA | 11/02/2026 15:03:45 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae8c1e36c51033758f4282d) | Louisville MSD | Louisville, KY | 11/02/2026 17:01:23 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I, Life Cycle Engineering](https://jobright.ai/jobs/info/6ae7d9b577c09cb3bd4b8f78) | General Dynamics - Bath Iron Works | Brunswick, ME | 11/02/2026 00:30:45 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 77 (Strong) | [Custom Layout Engineer (Graduate)](https://jobright.ai/jobs/info/6ae753a5a2a252e2194234cd) | Analogue Insight™ | United States | 11/01/2026 14:58:45 | Sponsorship: Past Sponsorship |
-| 81 (Strong) | [Formal Verification Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6ae55133eab1f96730980eb3) | NVIDIA | Santa Clara, CA | 10/21/2026 02:23:38 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ac3cd870e027c0f3b3a7765) | Wagstaff, Inc. | Spokane Valley, WA | 11/01/2026 03:47:45 | Sponsorship: No |
-| 51 (Good) | [Test Development Engineer](https://jobright.ai/jobs/info/6a20a40a4bdf8a5a96bd214c) | ZOLL Medical Corporation | Deerfield, WI | 11/01/2026 04:03:31 | Sponsorship: Not Sure |
-| 41 (Possible) | [Associate Controls Engineer](https://jobright.ai/jobs/info/6ae69850d45dc30fb7d39404) | Tesla | Buffalo, NY | 10/31/2026 18:39:28 | Sponsorship: Not Sure |
-| 50 (Good) | [Associate Research and Development (R&D) Test Engineer](https://jobright.ai/jobs/info/6a03729f7c753c287f6e6edc) | Motorola Solutions | Irvine, CA; Los Angeles, CA | 10/31/2026 11:13:05 | Sponsorship: No |
-| 40 (Possible) | [Entry Level RF Engineer](https://jobright.ai/jobs/info/6aac3ef12e757fcb5c8b4911) | Amentum | Norfolk, VA | 10/31/2026 11:50:19 | Sponsorship: No |
