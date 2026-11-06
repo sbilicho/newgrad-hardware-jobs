@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-06 11:37:12Z UTC
+Updated: 2026-11-06 12:49:17Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 60 (Good) | [#Digital Hardware Engineer](https://jobright.ai/jobs/info/6aeb71bb65311d97105b89dc) | Qualcomm | Boulder, CO | 11/06/2026 03:28:13 | Sponsorship: No |
 | 41 (Possible) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6aec7dfe3967d67f6359d232) | New York Power Authority | Astoria, OR | 11/06/2026 09:37:16 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I, II, III or Principal](https://jobright.ai/jobs/info/6ad5f107950ef68d518345c9) | PPL Corporation | Louisville, KY | 11/06/2026 10:19:42 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6a95b26ac8763a3a87ffb7e4) | Eaton | Arden, NC; Sumter, SC; Fayetteville, NC; Greenwood, SC; El Paso, TX; Asheville, NC | 11/06/2026 01:12:01 | Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-11-06 11:37:12Z UTC
 | 55 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6acdbbe83e2155b545aa1b94) | Supermicro | San Jose, CA | 11/02/2026 21:16:43 | Sponsorship: Not Sure |
 | 55 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6acdf322ee9da536dc21b652) | Supermicro | San Jose, CA | 11/02/2026 21:16:43 | Sponsorship: Not Sure |
 | 50 (Good) | [AEGS Pro Electrical Engineer I (On-Site)](https://jobright.ai/jobs/info/6ae8dcfd03f4a1104b257273) | RTX | Tucson, AZ | 11/02/2026 23:21:39 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6ae917736c51033758f462cb) | Terex Corporation | Charlotte, MI | 11/02/2026 00:00:00 | Sponsorship: Past Sponsorship |
