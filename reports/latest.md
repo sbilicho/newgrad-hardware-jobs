@@ -1,9 +1,17 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-06 17:49:37Z UTC
+Updated: 2026-11-06 20:49:22Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Analog & Power Design Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6aedf559d20350c7a50768ff) | Raytheon | Marlborough, MA | 11/06/2026 15:42:17 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Silicon Design Engineer](https://jobright.ai/jobs/info/6aee14cbbd2f33eea72d6f7d) | AMD | San Jose, CA | 11/06/2026 17:56:27 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aee3368caf8e660b87dccd7) | Salas O'Brien | Richmond, VA | 11/06/2026 15:06:31 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aee1aa3e0c9de7b05f8a1ac) | CS GROUP - USA | East Hartford, CT | 11/06/2026 16:18:58 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aee33dbbd2f33eea72d95fa) | CS GROUP - USA | Platteville, WI | 11/06/2026 17:08:13 | Sponsorship: Past Sponsorship |
+| 31 (Possible) | [Electronics Engineer New Grad](https://jobright.ai/jobs/info/6aee31ecbd2f33eea72d92f2) | BubblyNet | Clearwater, FL | 11/06/2026 00:00:16 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Silicon Design Engineer](https://jobright.ai/jobs/info/6aee14c85c81f621d31114ea) | AMD | Austin, TX | 11/06/2026 11:45:09 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aee2fda5c81f621d3113599) | Starkey México | Eden Prairie, MN | 11/06/2026 11:51:54 | Sponsorship: Past Sponsorship |
 | 74 (Strong) | [MLA Design Verification Engineer I, Annapurna Labs](https://jobright.ai/jobs/info/6ad14f4318608b6f36f832b3) | Amazon | Cupertino, CA | 11/06/2026 08:47:24 | Sponsorship: Not Sure |
 | 78 (Strong) | [MLA Design Verification Engineer I, Annapurna Labs](https://jobright.ai/jobs/info/6aa8a947f74328685440fe38) | Amazon | Austin, TX | 11/06/2026 08:47:24 | Sponsorship: Not Sure |
 | 45 (Possible) | [Electrical Engineer (Entry Level) - Malta, NY](https://jobright.ai/jobs/info/6aee0795caf8e660b87d9d44) | Hallam-ICS | Malta, NY | 11/06/2026 09:00:05 | Sponsorship: Not Sure |
@@ -96,11 +104,3 @@ Updated: 2026-11-06 17:49:37Z UTC
 | 50 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6aea4dfe1ba298c777771b0a) | SharkNinja | Needham, MA | 11/03/2026 13:11:26 | Sponsorship: Not Sure |
 | 32 (Possible) | [Controls Engineer (Entry Level)](https://jobright.ai/jobs/info/6aea4f55913589212b1f5bdf) | Sovereign Group Ltd | Cleveland, OH | 11/03/2026 13:17:09 | Sponsorship: Not Sure |
 | 47 (Possible) | [Sustaining Test Engineer I](https://jobright.ai/jobs/info/6aea526a897466e69e31dffd) | Benchmark | Winona, MN | 11/03/2026 13:30:18 | Sponsorship: Not Sure |
-| 43 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aea4b6ffc85f3a3943326bd) | Cintas | Florence, SC | 11/03/2026 21:00:31 | Sponsorship: Past Sponsorship |
-| 70 (Strong) | [PCIe Post-Silicon Validation Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6aea402b440b469a1c0ac243) | NVIDIA | Santa Clara, CA | 11/03/2026 06:00:00 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae3b350c3139b475b5af7f8) | Rocket Lab | Pasadena, CA | 11/03/2026 10:59:25 | Sponsorship: No |
-| 64 (Good) | [Hardware Validation and Test Engineer](https://jobright.ai/jobs/info/6acd4160e7a1d93332110ca2) | LanceSoft, Inc. | Santa Clara, CA | 11/03/2026 18:52:10 | Sponsorship: Past Sponsorship |
-| 78 (Strong) | [Design Verification Engineer, New Grad](https://jobright.ai/jobs/info/6aea19bf1ba298c77776f717) | SambaNova | United States | 11/03/2026 17:28:31 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [Post-Silicon Validation Engineer, New Grad](https://jobright.ai/jobs/info/6aea1ab8fc85f3a39433059f) | SambaNova | San Jose, CA | 11/03/2026 17:32:40 | Sponsorship: Past Sponsorship |
-| 81 (Strong) | [Physical Design Engineer, New Grad](https://jobright.ai/jobs/info/6aea1abb913589212b1f3822) | SambaNova | San Jose, CA | 11/03/2026 17:32:43 | Sponsorship: Past Sponsorship |
-| 77 (Strong) | [Hardware Validation Engineer](https://jobright.ai/jobs/info/6aea1a84913589212b1f37da) | Quantum World Technologies Inc. | Houston, TX | 11/03/2026 17:31:48 | Sponsorship: Past Sponsorship |
