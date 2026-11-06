@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-05 23:43:13Z UTC
+Updated: 2026-11-06 03:43:51Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer I, Test Equipment Maintenance Support - 2nd Shift](https://jobright.ai/jobs/info/6aecc6f1a2661405dc2c6299) | RTX | Andover, MA | 11/05/2026 23:46:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 48 (Possible) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6aed1535a2661405dc2c8ffe) | Textron Aviation | Cockeysville, MD | 11/05/2026 23:45:57 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 91 (Strong) | [Entry Level- FPGA Engineer (Onsite- Aberdeen, Maryland)](https://jobright.ai/jobs/info/6adf742a5dc7953215a3efcc) | Fairwinds Technologies | Middletown, DE | 11/05/2026 16:56:03 | Sponsorship: Past Sponsorship |
+| 74 (Strong) | [ASIC Formal Verification Engineer I, Annapurna Labs](https://jobright.ai/jobs/info/6aece2ae3967d67f635a0923) | Amazon | Austin, TX; Cupertino, CA | 11/05/2026 17:04:23 | Sponsorship: Not Sure |
+| 72 (Strong) | [Electrical Engineer (FPGA Design) - Early Career](https://jobright.ai/jobs/info/6aed2a783967d67f635a2f39) | Lockheed Martin | Orlando, FL | 11/05/2026 17:16:40 | Sponsorship: No |
+| 54 (Good) | [Jr Power Electronics Engineer](https://jobright.ai/jobs/info/6aed2de2465e3d23713850a2) | ITT Inc. | Syracuse, NY | 11/05/2026 17:31:14 | Sponsorship: Not Sure |
+| 51 (Good) | [Robotics Test Engineer](https://jobright.ai/jobs/info/6aed3b53465e3d237138541c) | Premier Global Links LLC | San Francisco, CA | 11/05/2026 18:28:35 | Sponsorship: Not Sure |
 | 48 (Possible) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6aed0da63967d67f635a22e8) | Textron | Cockeysville, MD | 11/05/2026 23:13:42 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 59 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA) Job Details \| Teradyne](https://jobright.ai/jobs/info/6ad8b828b0725dc268dd554c) | Teradyne | North Reading, MA | 11/05/2026 18:15:40 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Semiconductor Engineer I](https://jobright.ai/jobs/info/6aecfef93a3fa7f03ea8b13a) | Honeywell Aerospace | Moca, PR | 11/05/2026 22:11:05 | Sponsorship: Past Sponsorship |
@@ -97,10 +104,3 @@ Updated: 2026-11-05 23:43:13Z UTC
 | 41 (Possible) | [Electrical Engineer, Entry (Open until filled)](https://jobright.ai/jobs/info/6ae8fbbea2a252e21942ba80) | SMUD | Sacramento, CA | 11/02/2026 19:31:22 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Engineer I - Electrical Engineer (Legacy Program) Job Details \| APS](https://jobright.ai/jobs/info/6ae8fba303f4a1104b2589d1) | Arizona Public Service - APS | Tonopah, AZ | 11/02/2026 21:07:47 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [Validation Engineer 1](https://jobright.ai/jobs/info/6ae8db53fb2cd420ace697d1) | LanceSoft, Inc. | Austin, TX | 11/02/2026 18:49:55 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [Applications Engineer New College Grad- Bachelor's/Master's (Santa Clara/Austin)](https://jobright.ai/jobs/info/6ae90186a2a252e21942bd30) | Applied Materials | Santa Clara, CA | 11/02/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Associate Electrical Engineer](https://jobright.ai/jobs/info/6ae9049103f4a1104b258e32) | Proper Voltage | Carlsbad, CA | 11/02/2026 13:45:53 | Sponsorship: No |
-| 75 (Strong) | [ASIC / FPGA Design Verification Engineer - (Associate or Experienced)](https://jobright.ai/jobs/info/6ae8f0ac777c336eb6d67cf4) | Boeing | El Segundo, CA | 11/02/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6ae8be91a2a252e219428ead) | RTX | Forest, MS | 11/02/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae89ecafb2cd420ace66fe0) | North Carolina Department of Agriculture and Consumer Services | Louisville, KY | 11/02/2026 14:31:38 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer \| Entry Level](https://jobright.ai/jobs/info/6ae8a651061d6d7ff3d7b98d) | ISC Constructors, L.L.C. | Baton Rouge, LA | 11/02/2026 15:03:45 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae8c1e36c51033758f4282d) | Louisville MSD | Louisville, KY | 11/02/2026 17:01:23 | Sponsorship: Past Sponsorship |
