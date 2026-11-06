@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-06 03:43:51Z UTC
+Updated: 2026-11-06 08:08:40Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 47 (Possible) | [Validation Engineer I](https://jobright.ai/jobs/info/6aed5f1ea2661405dc2ca7f7) | Valspec | Royersford, PA | 11/06/2026 05:01:18 | Sponsorship: Past Sponsorship |
+| 54 (Good) | [Electronics Engineer I (Advanced Electronics Systems and Technologies \| 345C)](https://jobright.ai/jobs/info/6aed3d25a3da3840d4aba677) | NASA Jet Propulsion Laboratory | Pasadena, CA | 11/06/2026 04:15:44 | Sponsorship: Past Sponsorship |
+| 48 (Possible) | [2027 Associate H/W Electronics Engineer – Sykesville MD](https://jobright.ai/jobs/info/6aeabd6d1ba298c777774abb) | Northrop Grumman | Sykesville, MD | 11/05/2026 21:25:51 | Security clearance language is present; Sponsorship: No |
+| 54 (Good) | [Test Engineer I](https://jobright.ai/jobs/info/6aed36e0ab48a70793821df7) | Ducommun Incorporated | Carson, CA | 11/05/2026 22:22:40 | Sponsorship: Not Sure |
 | 41 (Possible) | [Electrical Engineer I, Test Equipment Maintenance Support - 2nd Shift](https://jobright.ai/jobs/info/6aecc6f1a2661405dc2c6299) | RTX | Andover, MA | 11/05/2026 23:46:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 48 (Possible) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6aed1535a2661405dc2c8ffe) | Textron Aviation | Cockeysville, MD | 11/05/2026 23:45:57 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 91 (Strong) | [Entry Level- FPGA Engineer (Onsite- Aberdeen, Maryland)](https://jobright.ai/jobs/info/6adf742a5dc7953215a3efcc) | Fairwinds Technologies | Middletown, DE | 11/05/2026 16:56:03 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-11-06 03:43:51Z UTC
 | 42 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6ae92578fb2cd420ace6c758) | Boeing | Hazelwood, MO | 11/02/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 81 (Strong) | [Design Verification Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ae92f94a2a252e21942d6ba) | GlobalFoundries | Richardson, TX | 08/07/2026 00:48:26 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Junioe Electrical Engineer](https://jobright.ai/jobs/info/6ae9010a03f4a1104b258c13) | The LiRo Group | Newton, MA | 11/02/2026 15:54:18 | Sponsorship: No |
-| 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6ae8e04ba2a252e21942a673) | Fresenius Kabi USA | Grand Island, NY | 11/02/2026 16:08:20 | Sponsorship: Not Sure |
-| 41 (Possible) | [Electrical Engineer, Entry (Open until filled)](https://jobright.ai/jobs/info/6ae8fbbea2a252e21942ba80) | SMUD | Sacramento, CA | 11/02/2026 19:31:22 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Engineer I - Electrical Engineer (Legacy Program) Job Details \| APS](https://jobright.ai/jobs/info/6ae8fba303f4a1104b2589d1) | Arizona Public Service - APS | Tonopah, AZ | 11/02/2026 21:07:47 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [Validation Engineer 1](https://jobright.ai/jobs/info/6ae8db53fb2cd420ace697d1) | LanceSoft, Inc. | Austin, TX | 11/02/2026 18:49:55 | Sponsorship: Past Sponsorship |
