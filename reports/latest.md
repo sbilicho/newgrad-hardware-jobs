@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-06 09:05:12Z UTC
+Updated: 2026-11-06 11:37:12Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6aec7dfe3967d67f6359d232) | New York Power Authority | Astoria, OR | 11/06/2026 09:37:16 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I, II, III or Principal](https://jobright.ai/jobs/info/6ad5f107950ef68d518345c9) | PPL Corporation | Louisville, KY | 11/06/2026 10:19:42 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6a95b26ac8763a3a87ffb7e4) | Eaton | Arden, NC; Sumter, SC; Fayetteville, NC; Greenwood, SC; El Paso, TX; Asheville, NC | 11/06/2026 01:12:01 | Sponsorship: No |
+| 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aeda98ecaf8e660b87d6836) | Westinghouse Electric Company | New Stanton, PA | 11/06/2026 02:18:54 | Sponsorship: Not Sure |
 | 47 (Possible) | [Validation Engineer I](https://jobright.ai/jobs/info/6aed5f1ea2661405dc2ca7f7) | Valspec | Royersford, PA | 11/06/2026 05:01:18 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Electronics Engineer I (Advanced Electronics Systems and Technologies \| 345C)](https://jobright.ai/jobs/info/6aed3d25a3da3840d4aba677) | NASA Jet Propulsion Laboratory | Pasadena, CA | 11/06/2026 04:15:44 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [2027 Associate H/W Electronics Engineer – Sykesville MD](https://jobright.ai/jobs/info/6aeabd6d1ba298c777774abb) | Northrop Grumman | Sykesville, MD | 11/05/2026 21:25:51 | Security clearance language is present; Sponsorship: No |
@@ -100,7 +104,3 @@ Updated: 2026-11-06 09:05:12Z UTC
 | 55 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6acdf322ee9da536dc21b652) | Supermicro | San Jose, CA | 11/02/2026 21:16:43 | Sponsorship: Not Sure |
 | 50 (Good) | [AEGS Pro Electrical Engineer I (On-Site)](https://jobright.ai/jobs/info/6ae8dcfd03f4a1104b257273) | RTX | Tucson, AZ | 11/02/2026 23:21:39 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6ae917736c51033758f462cb) | Terex Corporation | Charlotte, MI | 11/02/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6ae92a0503f4a1104b25a348) | Boeing | Hazelwood, MO | 11/02/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6ae92578fb2cd420ace6c758) | Boeing | Hazelwood, MO | 11/02/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 81 (Strong) | [Design Verification Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6ae92f94a2a252e21942d6ba) | GlobalFoundries | Richardson, TX | 08/07/2026 00:48:26 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Junioe Electrical Engineer](https://jobright.ai/jobs/info/6ae9010a03f4a1104b258c13) | The LiRo Group | Newton, MA | 11/02/2026 15:54:18 | Sponsorship: No |
