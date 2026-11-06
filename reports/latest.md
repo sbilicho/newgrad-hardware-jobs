@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-06 20:49:22Z UTC
+Updated: 2026-11-06 23:31:11Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 90 (Strong) | [ASIC DFT Engineer I (Full Time) - United States](https://jobright.ai/jobs/info/6aee588dc7498922fe0cbe64) | Cisco | San Jose, CA | 11/06/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 58 (Good) | [Software Engineer Embedded Systems I (Full Time) - United States](https://jobright.ai/jobs/info/6aee60fcc7498922fe0cc4a7) | Cisco | Milpitas, CA | 11/06/2026 23:21:32 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [Electrical Engineer I, X-BAT (New Grad)](https://jobright.ai/jobs/info/6ab6ac19c6fe0dec811a60a8) | Shield AI | Seattle, WA | 11/06/2026 21:23:11 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aee4193bd2f33eea72da3e2) | CS GROUP | Platteville, WI | 11/06/2026 17:07:05 | Sponsorship: Past Sponsorship |
+| 31 (Possible) | [Electronics Engineer New Grad](https://jobright.ai/jobs/info/6aee41c1bd2f33eea72da401) | BubblyNet | Clearwater, FL | 11/06/2026 21:08:17 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Analog & Power Design Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6aedf559d20350c7a50768ff) | Raytheon | Marlborough, MA | 11/06/2026 15:42:17 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Silicon Design Engineer](https://jobright.ai/jobs/info/6aee14cbbd2f33eea72d6f7d) | AMD | San Jose, CA | 11/06/2026 17:56:27 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aee3368caf8e660b87dccd7) | Salas O'Brien | Richmond, VA | 11/06/2026 15:06:31 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-11-06 20:49:22Z UTC
 | 55 (Good) | [Process Applications Engineer I-III  (Semiconductor)  (33546)](https://jobright.ai/jobs/info/6aea80d0913589212b1f7619) | Ebara Technologies | Phoenix, AZ | 11/04/2026 00:48:16 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [TEST ENGINEER](https://jobright.ai/jobs/info/6aea70c3fc85f3a394333bf1) | SharkNinja France | Needham, MA | 11/03/2026 15:39:47 | Sponsorship: Not Sure |
 | 37 (Possible) | [Controls Engineer (New Graduate/Early Career)](https://jobright.ai/jobs/info/6aea44dc440b469a1c0ac54e) | Dematic | Grand Rapids, MI; Wauwatosa, WI; Henrietta, NY; Continental United States, United States | 11/03/2026 16:15:51 | Sponsorship: Not Sure |
-| 51 (Good) | [Reliability Engineer I - Hardware / Electrical](https://jobright.ai/jobs/info/6aea298f913589212b1f4129) | Medtronic | Mounds View, MN | 11/03/2026 22:22:29 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [ISG Hardware Engineer 1 - Material Science](https://jobright.ai/jobs/info/6aea599b1ba298c7777720c6) | Dell Technologies | Round Rock, TX | 11/03/2026 14:00:59 | Sponsorship: Not Sure |
-| 50 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6aea4dfe1ba298c777771b0a) | SharkNinja | Needham, MA | 11/03/2026 13:11:26 | Sponsorship: Not Sure |
-| 32 (Possible) | [Controls Engineer (Entry Level)](https://jobright.ai/jobs/info/6aea4f55913589212b1f5bdf) | Sovereign Group Ltd | Cleveland, OH | 11/03/2026 13:17:09 | Sponsorship: Not Sure |
-| 47 (Possible) | [Sustaining Test Engineer I](https://jobright.ai/jobs/info/6aea526a897466e69e31dffd) | Benchmark | Winona, MN | 11/03/2026 13:30:18 | Sponsorship: Not Sure |
