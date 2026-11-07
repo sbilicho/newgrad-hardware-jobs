@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-07 16:36:14Z UTC
+Updated: 2026-11-07 17:49:37Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 47 (Possible) | [RTL Power Optimization Engineer – New College Grad 2026](https://jobright.ai/jobs/info/6aef62bb8022f8ddd319df50) | NVIDIA | Santa Clara, CA | 11/07/2026 17:41:15 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Mechanical or Electrical Engineer I/II - Monticello, MN](https://jobright.ai/jobs/info/6aef58a68022f8ddd319dbd2) | Xcel Energy | Monticello, MN | 11/07/2026 08:58:14 | Sponsorship: Not Sure |
 | 52 (Good) | [Timing Engineer](https://jobright.ai/jobs/info/6aef37a340b5de2d2b30fbcb) | City of New York | Queens, NY, United States | 11/07/2026 06:37:23 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ad26f2df04335fc70ed583b) | UL Solutions | Northbrook, IL | 11/07/2026 07:13:34 | Sponsorship: No |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aeec0490fe787d00ed189b6) | McClure Engineering | St. Louis, MO | 11/06/2026 12:52:40 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-11-07 16:36:14Z UTC
 | 50 (Good) | [Associate Electrical & Test Engineer](https://jobright.ai/jobs/info/6aea31e4913589212b1f473e) | Boeing | Huntsville, AL | 11/04/2026 09:16:34 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: No |
 | 75 (Strong) | [ASIC / FPGA Design Verification Engineer - (Associate or Experienced)](https://jobright.ai/jobs/info/6aeb6939fbe13dfb53df3bfb) | Boeing | El Segundo, CA | 11/04/2026 17:19:53 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 52 (Good) | [Entry Level Applications Engineer - Single Layer Capacitors](https://jobright.ai/jobs/info/6ac67d3f0e027c0f3b3b2a97) | Knowles Corporation | Cazenovia, NY | 11/04/2026 17:47:37 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Instrumentation and Controls Engineer – EIT](https://jobright.ai/jobs/info/6aeb618c65311d97105b7ec1) | Stantec | Cleveland, OH | 11/04/2026 08:47:08 | Sponsorship: Not Sure |
-| 37 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6aeb5ee665311d97105b7c98) | The LiRo Group | Newton, MA | 11/04/2026 08:35:50 | Sponsorship: No |
