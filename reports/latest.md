@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-07 10:25:45Z UTC
+Updated: 2026-11-07 16:36:14Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 52 (Good) | [Timing Engineer](https://jobright.ai/jobs/info/6aef37a340b5de2d2b30fbcb) | City of New York | Queens, NY, United States | 11/07/2026 06:37:23 | Sponsorship: Not Sure |
+| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ad26f2df04335fc70ed583b) | UL Solutions | Northbrook, IL | 11/07/2026 07:13:34 | Sponsorship: No |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aeec0490fe787d00ed189b6) | McClure Engineering | St. Louis, MO | 11/06/2026 12:52:40 | Sponsorship: Past Sponsorship |
 | 80 (Strong) | [ASIC Engineer - Early Career](https://jobright.ai/jobs/info/6aeee68e8022f8ddd319bfd8) | Blue Origin | Greater Seattle Area, United States; Hutto, TX; Cupertino, CA | 11/07/2026 01:19:03 | Sponsorship: Not Sure |
 | 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aeec05440b5de2d2b30e5af) | C&S Group | Platteville, WI | 11/06/2026 14:21:10 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-11-07 10:25:45Z UTC
 | 52 (Good) | [Entry Level Applications Engineer - Single Layer Capacitors](https://jobright.ai/jobs/info/6ac67d3f0e027c0f3b3b2a97) | Knowles Corporation | Cazenovia, NY | 11/04/2026 17:47:37 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Instrumentation and Controls Engineer – EIT](https://jobright.ai/jobs/info/6aeb618c65311d97105b7ec1) | Stantec | Cleveland, OH | 11/04/2026 08:47:08 | Sponsorship: Not Sure |
 | 37 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6aeb5ee665311d97105b7c98) | The LiRo Group | Newton, MA | 11/04/2026 08:35:50 | Sponsorship: No |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aeb236965311d97105b4d88) | JSG (Johnson Service Group, Inc.) | Cypress, CA | 11/03/2026 15:27:51 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Test Solutions Northeast Electrical Engineer I](https://jobright.ai/jobs/info/6aeb6348a0b134121d99a11e) | RTX | Tewksbury, MA | 11/04/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
