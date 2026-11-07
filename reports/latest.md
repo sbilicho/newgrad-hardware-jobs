@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-07 03:13:04Z UTC
+Updated: 2026-11-07 10:25:45Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aeec0490fe787d00ed189b6) | McClure Engineering | St. Louis, MO | 11/06/2026 12:52:40 | Sponsorship: Past Sponsorship |
+| 80 (Strong) | [ASIC Engineer - Early Career](https://jobright.ai/jobs/info/6aeee68e8022f8ddd319bfd8) | Blue Origin | Greater Seattle Area, United States; Hutto, TX; Cupertino, CA | 11/07/2026 01:19:03 | Sponsorship: Not Sure |
+| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aeec05440b5de2d2b30e5af) | C&S Group | Platteville, WI | 11/06/2026 14:21:10 | Sponsorship: Past Sponsorship |
+| 90 (Strong) | [ASIC DFT Engineer I (Full Time) - United States](https://jobright.ai/jobs/info/6aee9f1740b5de2d2b30dabe) | Cisco | Allentown, PA | 11/06/2026 23:46:13 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aee8a865c81f621d311718c) | Starkey Hearing | Eden Prairie, MN | 11/06/2026 23:18:35 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Electrical Engineer (New Grad)](https://jobright.ai/jobs/info/6aee853ae0c9de7b05f8f861) | Northwood | Torrance, CA | 11/07/2026 01:56:10 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aee91cecaf8e660b87e0911) | C&S Group | East Hartford, CT | 11/06/2026 07:19:48 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-11-07 03:13:04Z UTC
 | 37 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6aeb5ee665311d97105b7c98) | The LiRo Group | Newton, MA | 11/04/2026 08:35:50 | Sponsorship: No |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aeb236965311d97105b4d88) | JSG (Johnson Service Group, Inc.) | Cypress, CA | 11/03/2026 15:27:51 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Test Solutions Northeast Electrical Engineer I](https://jobright.ai/jobs/info/6aeb6348a0b134121d99a11e) | RTX | Tewksbury, MA | 11/04/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer Entry Level](https://jobright.ai/jobs/info/6aeb3d79a0b134121d998b15) | Consulting Engineering Services (CES) | New York, NY | 11/04/2026 14:13:13 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer - Data Centers](https://jobright.ai/jobs/info/6aeb5ef682f0ac0774438eab) | Jacobs | Austin, TX | 11/04/2026 16:36:06 | Sponsorship: Past Sponsorship |
-| 63 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aeb5fa882f0ac0774438f7e) | University of Colorado Boulder | Boulder, CO | 11/04/2026 16:39:04 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Process Validation Engineer](https://jobright.ai/jobs/info/6aeb41f2fbe13dfb53df2202) | Virtue America | United States | 11/04/2026 14:32:18 | Sponsorship: Past Sponsorship |
