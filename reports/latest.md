@@ -1,9 +1,17 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-06 23:31:11Z UTC
+Updated: 2026-11-07 00:35:05Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aee6958c7498922fe0cc7f2) | BAE Systems, Inc. | Nashua, NH | 11/06/2026 16:56:58 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6adbae4d9e3e874dbfba139e) | CAMS | Houston, TX | 11/06/2026 21:37:50 | Sponsorship: Past Sponsorship |
+| 59 (Good) | [Design Verification Engineering Technician I](https://jobright.ai/jobs/info/6ad039b72cc4e9d17e90c7f1) | Minnetronix Medical | Saint Paul, MN | 11/06/2026 23:20:57 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aedfad7e0c9de7b05f886a9) | Jacobs | Honolulu, HI | 11/06/2026 16:05:43 | Sponsorship: Past Sponsorship |
+| 58 (Good) | [Software Engineer Embedded Systems I (Full Time) - United States](https://jobright.ai/jobs/info/6aee6116bd2f33eea72dbb08) | Cisco | San Jose, CA | 11/06/2026 23:38:53 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Silicon Design Engineer](https://jobright.ai/jobs/info/6aee14c3c7498922fe0c7942) | AMD | Santa Clara, CA | 11/06/2026 23:15:11 | Sponsorship: Past Sponsorship |
+| 81 (Strong) | [Microarchitecture and Design Engineer - AI SoC](https://jobright.ai/jobs/info/6aee6471caf8e660b87df4a8) | Intel | Santa Clara, CA | 11/06/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 60 (Good) | [Embedded Hardware Design Engineer](https://jobright.ai/jobs/info/6aee63b6e0c9de7b05f8e92a) | Emerson | Round Rock, TX | 11/06/2026 23:59:40 | Sponsorship: Past Sponsorship |
 | 90 (Strong) | [ASIC DFT Engineer I (Full Time) - United States](https://jobright.ai/jobs/info/6aee588dc7498922fe0cbe64) | Cisco | San Jose, CA | 11/06/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 58 (Good) | [Software Engineer Embedded Systems I (Full Time) - United States](https://jobright.ai/jobs/info/6aee60fcc7498922fe0cc4a7) | Cisco | Milpitas, CA | 11/06/2026 23:21:32 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Electrical Engineer I, X-BAT (New Grad)](https://jobright.ai/jobs/info/6ab6ac19c6fe0dec811a60a8) | Shield AI | Seattle, WA | 11/06/2026 21:23:11 | Sponsorship: Past Sponsorship |
@@ -96,11 +104,3 @@ Updated: 2026-11-06 23:31:11Z UTC
 | 37 (Possible) | [Entry Level Facility Design Electrical Engineer](https://jobright.ai/jobs/info/6aeb59ccf40efa43f4a16386) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 11/04/2026 06:00:00 | Sponsorship: Past Sponsorship |
 | 83 (Strong) | [Physical Design Clocking Engineer](https://jobright.ai/jobs/info/6aeac31c913589212b1f8c41) | Intel | Santa Clara, CA | 11/04/2026 10:21:06 | Sponsorship: Past Sponsorship |
 | 63 (Good) | [Substation Physical Design EIT/Designer](https://jobright.ai/jobs/info/6ace60d3a0453f9ba624855f) | HDR | Billings, MT | 11/04/2026 02:24:20 | Sponsorship: Not Sure |
-| 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aeaa96dd22d4c08ec605784) | ALOIS Solutions | Schaumburg, IL | 11/03/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 36 (Possible) | [GPU System and Scheduling Architect – New College Grad 2026](https://jobright.ai/jobs/info/6aea4a66fc85f3a3943325f8) | NVIDIA | Santa Clara, CA | 11/04/2026 06:19:40 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Engineer I - Completions Avionics/Electrical Engineer (Appleton, WI)](https://jobright.ai/jobs/info/6aea1511897466e69e31b569) | Gulfstream Aerospace | Appleton, WI | 11/03/2026 22:54:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer - Data Centers](https://jobright.ai/jobs/info/6aeac066897466e69e320d41) | Jacobs | New York, NY | 11/04/2026 05:19:34 | Sponsorship: Past Sponsorship |
-| 75 (Strong) | [Graduate- Senior Engineer Digital IC Design](https://jobright.ai/jobs/info/6aea8d1f913589212b1f7de5) | Infineon Technologies | San Jose, CA | 11/04/2026 01:40:47 | Sponsorship: Past Sponsorship |
-| 55 (Good) | [Process Applications Engineer I-III  (Semiconductor)  (33546)](https://jobright.ai/jobs/info/6aea80d0913589212b1f7619) | Ebara Technologies | Phoenix, AZ | 11/04/2026 00:48:16 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [TEST ENGINEER](https://jobright.ai/jobs/info/6aea70c3fc85f3a394333bf1) | SharkNinja France | Needham, MA | 11/03/2026 15:39:47 | Sponsorship: Not Sure |
-| 37 (Possible) | [Controls Engineer (New Graduate/Early Career)](https://jobright.ai/jobs/info/6aea44dc440b469a1c0ac54e) | Dematic | Grand Rapids, MI; Wauwatosa, WI; Henrietta, NY; Continental United States, United States | 11/03/2026 16:15:51 | Sponsorship: Not Sure |
