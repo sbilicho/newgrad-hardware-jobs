@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-07 01:34:54Z UTC
+Updated: 2026-11-07 03:13:04Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aee8a865c81f621d311718c) | Starkey Hearing | Eden Prairie, MN | 11/06/2026 23:18:35 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Electrical Engineer (New Grad)](https://jobright.ai/jobs/info/6aee853ae0c9de7b05f8f861) | Northwood | Torrance, CA | 11/07/2026 01:56:10 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aee91cecaf8e660b87e0911) | C&S Group | East Hartford, CT | 11/06/2026 07:19:48 | Sponsorship: Past Sponsorship |
 | 58 (Good) | [Software Engineer Embedded Systems I (Full Time) - United States](https://jobright.ai/jobs/info/6aee74f15c81f621d3116a45) | Cisco | San Jose, CA | 11/07/2026 00:07:54 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aee6958c7498922fe0cc7f2) | BAE Systems, Inc. | Nashua, NH | 11/06/2026 16:56:58 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6adbae4d9e3e874dbfba139e) | CAMS | Houston, TX | 11/06/2026 21:37:50 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-11-07 01:34:54Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer - Data Centers](https://jobright.ai/jobs/info/6aeb5ef682f0ac0774438eab) | Jacobs | Austin, TX | 11/04/2026 16:36:06 | Sponsorship: Past Sponsorship |
 | 63 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aeb5fa882f0ac0774438f7e) | University of Colorado Boulder | Boulder, CO | 11/04/2026 16:39:04 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Process Validation Engineer](https://jobright.ai/jobs/info/6aeb41f2fbe13dfb53df2202) | Virtue America | United States | 11/04/2026 14:32:18 | Sponsorship: Past Sponsorship |
-| 35 (Possible) | [Design Engineer (New College Graduate), 5195](https://jobright.ai/jobs/info/6aeb27e0a0b134121d9970e1) | Diodes Incorporated | Milpitas, CA | 10/17/2026 09:03:20 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Facility Design Electrical Engineer](https://jobright.ai/jobs/info/6aeb59ccf40efa43f4a16386) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 11/04/2026 06:00:00 | Sponsorship: Past Sponsorship |
-| 83 (Strong) | [Physical Design Clocking Engineer](https://jobright.ai/jobs/info/6aeac31c913589212b1f8c41) | Intel | Santa Clara, CA | 11/04/2026 10:21:06 | Sponsorship: Past Sponsorship |
