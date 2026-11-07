@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-07 17:49:37Z UTC
+Updated: 2026-11-07 20:31:03Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Data Center Electrical Engineer,  Assistant Consultant](https://jobright.ai/jobs/info/6ab6b4c29d4843569fe4ef4f) | WSP in the U.S. | Herndon, VA; New York, NY | 11/07/2026 10:34:28 | Sponsorship: Not Sure |
+| 73 (Strong) | [ASIC Physical Design and Timing Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6aef6a7740b5de2d2b310d02) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [RTL Power Optimization Engineer – New College Grad 2026](https://jobright.ai/jobs/info/6aef62bb8022f8ddd319df50) | NVIDIA | Santa Clara, CA | 11/07/2026 17:41:15 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Mechanical or Electrical Engineer I/II - Monticello, MN](https://jobright.ai/jobs/info/6aef58a68022f8ddd319dbd2) | Xcel Energy | Monticello, MN | 11/07/2026 08:58:14 | Sponsorship: Not Sure |
 | 52 (Good) | [Timing Engineer](https://jobright.ai/jobs/info/6aef37a340b5de2d2b30fbcb) | City of New York | Queens, NY, United States | 11/07/2026 06:37:23 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-11-07 17:49:37Z UTC
 | 47 (Possible) | [Entry Product Engineer](https://jobright.ai/jobs/info/6aeb6762a0b134121d99a511) | HP | Corvallis, OR | 11/04/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Facility Design Electrical Engineer](https://jobright.ai/jobs/info/6aeb7b8cf40efa43f4a17ddc) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 11/04/2026 06:00:00 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Associate Electrical & Test Engineer](https://jobright.ai/jobs/info/6aea31e4913589212b1f473e) | Boeing | Huntsville, AL | 11/04/2026 09:16:34 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: No |
-| 75 (Strong) | [ASIC / FPGA Design Verification Engineer - (Associate or Experienced)](https://jobright.ai/jobs/info/6aeb6939fbe13dfb53df3bfb) | Boeing | El Segundo, CA | 11/04/2026 17:19:53 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 52 (Good) | [Entry Level Applications Engineer - Single Layer Capacitors](https://jobright.ai/jobs/info/6ac67d3f0e027c0f3b3b2a97) | Knowles Corporation | Cazenovia, NY | 11/04/2026 17:47:37 | Sponsorship: Past Sponsorship |
