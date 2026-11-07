@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-07 00:35:05Z UTC
+Updated: 2026-11-07 01:34:54Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 58 (Good) | [Software Engineer Embedded Systems I (Full Time) - United States](https://jobright.ai/jobs/info/6aee74f15c81f621d3116a45) | Cisco | San Jose, CA | 11/07/2026 00:07:54 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aee6958c7498922fe0cc7f2) | BAE Systems, Inc. | Nashua, NH | 11/06/2026 16:56:58 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6adbae4d9e3e874dbfba139e) | CAMS | Houston, TX | 11/06/2026 21:37:50 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Design Verification Engineering Technician I](https://jobright.ai/jobs/info/6ad039b72cc4e9d17e90c7f1) | Minnetronix Medical | Saint Paul, MN | 11/06/2026 23:20:57 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-11-07 00:35:05Z UTC
 | 35 (Possible) | [Design Engineer (New College Graduate), 5195](https://jobright.ai/jobs/info/6aeb27e0a0b134121d9970e1) | Diodes Incorporated | Milpitas, CA | 10/17/2026 09:03:20 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Facility Design Electrical Engineer](https://jobright.ai/jobs/info/6aeb59ccf40efa43f4a16386) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 11/04/2026 06:00:00 | Sponsorship: Past Sponsorship |
 | 83 (Strong) | [Physical Design Clocking Engineer](https://jobright.ai/jobs/info/6aeac31c913589212b1f8c41) | Intel | Santa Clara, CA | 11/04/2026 10:21:06 | Sponsorship: Past Sponsorship |
-| 63 (Good) | [Substation Physical Design EIT/Designer](https://jobright.ai/jobs/info/6ace60d3a0453f9ba624855f) | HDR | Billings, MT | 11/04/2026 02:24:20 | Sponsorship: Not Sure |
