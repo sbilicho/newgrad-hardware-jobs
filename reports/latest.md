@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-08 17:49:35Z UTC
+Updated: 2026-11-08 21:20:31Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Early Career Substation Electrical Engineer](https://jobright.ai/jobs/info/6af0b6e28022f8ddd31a24ea) | WSP in the U.S. | Hallowell, ME | 11/08/2026 09:52:34 | Sponsorship: No |
+| 37 (Possible) | [Substation Electrical Engineer I](https://jobright.ai/jobs/info/6ad5bf7354bbabbab06eed56) | Bowman Consulting | Raleigh, NC | 11/08/2026 14:35:24 | Sponsorship: Past Sponsorship |
+| 73 (Strong) | [ASIC Physical Design and Timing Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6aef9f437bf8e8b9eaf803f8) | NVIDIA | Santa Clara, CA | 11/07/2026 17:59:25 | Sponsorship: Past Sponsorship |
+| 80 (Strong) | [ASIC Design Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6af0bdc640b5de2d2b314f33) | NVIDIA | Austin, TX | 11/08/2026 19:44:45 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [FRISCO - Electrical Engineer, New Grad](https://jobright.ai/jobs/info/6a9b2125fe45b8490f606f32) | BGE, Inc. | Houston, TX | 11/08/2026 10:54:05 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6ad5dbe7361c015bf0cfc5b7) | Mead & Hunt | Milwaukee, WI | 11/08/2026 12:55:05 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ae41063fb2cd420ace560f8) | Jacobs | Austin, TX; Philadelphia, PA; San Diego, CA | 11/08/2026 08:04:46 | Sponsorship: Not Sure |
@@ -100,7 +104,3 @@ Updated: 2026-11-08 17:49:35Z UTC
 | 46 (Possible) | [Test Engineer I](https://jobright.ai/jobs/info/6aecde293a3fa7f03ea89e38) | Sonny's Enterprises Inc. - Conveyorized Car Wash Equipment Leader | Savage, MN | 11/05/2026 11:51:05 | Sponsorship: Not Sure |
 | 89 (Strong) | [Low Power ASIC Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6aecb9ffab48a7079381dd99) | NVIDIA | Santa Clara, CA | 11/05/2026 17:16:47 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Missile Test Engineer - Entry Level](https://jobright.ai/jobs/info/6aecad5ea2661405dc2c5151) | BAE Systems, Inc. | Rockville, MD | 11/05/2026 06:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Missile Test Engineer - Entry Level](https://jobright.ai/jobs/info/6aec829ba2661405dc2c3d97) | BAE Systems | Rockville, MD | 11/05/2026 13:20:27 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Missile Test Engineer - Entry Level - Rockville, MD](https://jobright.ai/jobs/info/6aec9417465e3d237137fab1) | Military Spouse Jobs | Rockville, MD | 11/05/2026 14:35:03 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Missile Test Engineer - Entry Level - Rockville, MD](https://jobright.ai/jobs/info/6aec908a3967d67f6359d8b0) | Eaton | Rockville, MD | 11/05/2026 14:19:54 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 72 (Strong) | [Silicon Validation Engineer](https://jobright.ai/jobs/info/6aec9303a2661405dc2c436d) | Apple | Cupertino, CA | 11/05/2026 14:30:27 | Sponsorship: Past Sponsorship |
