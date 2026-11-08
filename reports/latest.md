@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-08 12:49:24Z UTC
+Updated: 2026-11-08 17:49:35Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [FRISCO - Electrical Engineer, New Grad](https://jobright.ai/jobs/info/6a9b2125fe45b8490f606f32) | BGE, Inc. | Houston, TX | 11/08/2026 10:54:05 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6ad5dbe7361c015bf0cfc5b7) | Mead & Hunt | Milwaukee, WI | 11/08/2026 12:55:05 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ae41063fb2cd420ace560f8) | Jacobs | Austin, TX; Philadelphia, PA; San Diego, CA | 11/08/2026 08:04:46 | Sponsorship: Not Sure |
+| 37 (Possible) | [Early Career Substation Electrical Engineer](https://jobright.ai/jobs/info/6af0ad4a8022f8ddd31a2204) | WSP in the U.S. | Hallowell, ME | 11/08/2026 09:11:38 | Sponsorship: No |
 | 60 (Good) | [Customer Engagement Applications Engineer](https://jobright.ai/jobs/info/6aea31e8fc85f3a39433151e) | KLA | Chandler, AZ | 11/08/2026 04:05:40 | Sponsorship: Not Sure |
 | 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc32f9f8e479a8bcfe949) | Leidos | Lanham, MD; Springfield, VA; Washington, DC | 11/07/2026 16:32:47 | Sponsorship: No |
 | 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc3308022f8ddd319fc36) | Leidos | Lanham, MD; Washington, DC | 11/07/2026 16:32:48 | Sponsorship: No |
@@ -100,7 +104,3 @@ Updated: 2026-11-08 12:49:24Z UTC
 | 47 (Possible) | [Missile Test Engineer - Entry Level - Rockville, MD](https://jobright.ai/jobs/info/6aec9417465e3d237137fab1) | Military Spouse Jobs | Rockville, MD | 11/05/2026 14:35:03 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Missile Test Engineer - Entry Level - Rockville, MD](https://jobright.ai/jobs/info/6aec908a3967d67f6359d8b0) | Eaton | Rockville, MD | 11/05/2026 14:19:54 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 72 (Strong) | [Silicon Validation Engineer](https://jobright.ai/jobs/info/6aec9303a2661405dc2c436d) | Apple | Cupertino, CA | 11/05/2026 14:30:27 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Entry Level Electrical Engineer I](https://jobright.ai/jobs/info/6aebf841e82a94109638f5d5) | Salas O'Brien | Greenville, SC | 11/05/2026 03:07:09 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Entry Level Electrical Engineer I](https://jobright.ai/jobs/info/6aebfb3855daad9c1f546a38) | Haag, a Salas O'Brien Company | Greenville, SC | 11/05/2026 03:42:48 | Sponsorship: Past Sponsorship |
-| 85 (Strong) | [GPU Design Verification Engineer](https://careers.qualcomm.com/careers/job/446720881474?domain=qualcomm.com) | Qualcomm | Santa Clara, California, United States of America | 11/04/2026 00:00:00 |  |
-| 79 (Strong) | [Pre-Silicon Digital Verification Engineer](https://jobright.ai/jobs/info/6aebea4f65311d97105bcb7a) | Apple | Sunnyvale, CA | 11/05/2026 02:30:39 | Sponsorship: Past Sponsorship |
