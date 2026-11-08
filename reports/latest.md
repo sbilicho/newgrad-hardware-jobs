@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-08 11:49:45Z UTC
+Updated: 2026-11-08 12:49:24Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 60 (Good) | [Customer Engagement Applications Engineer](https://jobright.ai/jobs/info/6aea31e8fc85f3a39433151e) | KLA | Chandler, AZ | 11/08/2026 04:05:40 | Sponsorship: Not Sure |
 | 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc32f9f8e479a8bcfe949) | Leidos | Lanham, MD; Springfield, VA; Washington, DC | 11/07/2026 16:32:47 | Sponsorship: No |
 | 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc3308022f8ddd319fc36) | Leidos | Lanham, MD; Washington, DC | 11/07/2026 16:32:48 | Sponsorship: No |
 | 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc336676e3f91d326db6e) | Leidos | Bladensburg, MD; Fort Washington, MD; Glenn Dale, MD; Greenbelt, MD; Lorton, VA; Riverdale Park, MD; Waldorf, MD; Washington, DC | 11/07/2026 16:32:54 | Sponsorship: No |
@@ -103,4 +104,3 @@ Updated: 2026-11-08 11:49:45Z UTC
 | 40 (Possible) | [Entry Level Electrical Engineer I](https://jobright.ai/jobs/info/6aebfb3855daad9c1f546a38) | Haag, a Salas O'Brien Company | Greenville, SC | 11/05/2026 03:42:48 | Sponsorship: Past Sponsorship |
 | 85 (Strong) | [GPU Design Verification Engineer](https://careers.qualcomm.com/careers/job/446720881474?domain=qualcomm.com) | Qualcomm | Santa Clara, California, United States of America | 11/04/2026 00:00:00 |  |
 | 79 (Strong) | [Pre-Silicon Digital Verification Engineer](https://jobright.ai/jobs/info/6aebea4f65311d97105bcb7a) | Apple | Sunnyvale, CA | 11/05/2026 02:30:39 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I, Data Centers - Remote (U.S.)](https://jobright.ai/jobs/info/6aebc62bf40efa43f4a1a881) | AECOM | United States | 11/04/2026 23:56:27 | Sponsorship: Past Sponsorship |
