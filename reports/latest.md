@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-07 23:57:10Z UTC
+Updated: 2026-11-08 05:50:17Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc32f9f8e479a8bcfe949) | Leidos | Lanham, MD; Springfield, VA; Washington, DC | 11/07/2026 16:32:47 | Sponsorship: No |
+| 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc3308022f8ddd319fc36) | Leidos | Lanham, MD; Washington, DC | 11/07/2026 16:32:48 | Sponsorship: No |
+| 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc336676e3f91d326db6e) | Leidos | Bladensburg, MD; Fort Washington, MD; Glenn Dale, MD; Greenbelt, MD; Lorton, VA; Riverdale Park, MD; Waldorf, MD; Washington, DC | 11/07/2026 16:32:54 | Sponsorship: No |
+| 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc336676e3f91d326db6d) | Leidos | Alexandria, VA; Washington, DC | 11/07/2026 16:32:54 | Sponsorship: No |
+| 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc3399f8e479a8bcfe999) | Leidos | Accokeek, MD; Glenn Dale, MD; Riverdale Park, MD; Upper Marlboro, MD; Washington, DC | 11/07/2026 16:32:57 | Sponsorship: No |
+| 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc33b676e3f91d326db85) | Leidos | Annandale, VA; Bowie, MD; Fairfax, VA; Greenbelt, MD; Upper Marlboro, MD; Waldorf, MD; Washington, DC | 11/07/2026 16:32:59 | Sponsorship: No |
+| 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc33f0fe787d00ed1c897) | Leidos | Alexandria, VA; Annandale, VA; Clinton, MD; Fort Belvoir, VA; Fort Washington, MD; Mount Rainier, MD; Oxon Hill, MD; Temple Hills, MD; Washington, DC | 11/07/2026 16:33:03 | Sponsorship: No |
 | 97 (Strong) | [SoC Design Engineer](https://jobright.ai/jobs/info/6ab7456d3a2ec87116e25df6) | OMNIVISION | Santa Clara, CA | 11/07/2026 11:08:55 | Sponsorship: Not Sure |
 | 37 (Possible) | [Data Center Electrical Engineer,  Assistant Consultant](https://jobright.ai/jobs/info/6ab6b4c29d4843569fe4ef4f) | WSP in the U.S. | Herndon, VA; New York, NY | 11/07/2026 10:34:28 | Sponsorship: Not Sure |
 | 73 (Strong) | [ASIC Physical Design and Timing Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6aef6a7740b5de2d2b310d02) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -97,10 +104,3 @@ Updated: 2026-11-07 23:57:10Z UTC
 | 85 (Strong) | [GPU Design Verification Engineer](https://careers.qualcomm.com/careers/job/446720881474?domain=qualcomm.com) | Qualcomm | Santa Clara, California, United States of America | 11/04/2026 00:00:00 |  |
 | 79 (Strong) | [Pre-Silicon Digital Verification Engineer](https://jobright.ai/jobs/info/6aebea4f65311d97105bcb7a) | Apple | Sunnyvale, CA | 11/05/2026 02:30:39 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I, Data Centers - Remote (U.S.)](https://jobright.ai/jobs/info/6aebc62bf40efa43f4a1a881) | AECOM | United States | 11/04/2026 23:56:27 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aebd27965311d97105bc3b1) | PAE | New York, NY | 11/05/2026 00:48:57 | Sponsorship: Past Sponsorship |
-| 79 (Strong) | [Pre-Silicon Digital Verification Engineer](https://jobright.ai/jobs/info/6aeb95e765311d97105ba143) | Apple | Sunnyvale, CA | 11/04/2026 20:30:31 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Electrical Engineer I - Test](https://jobright.ai/jobs/info/6ae0f26b5a5afc94bd2c9150) | RTX | Tucson, AZ | 11/04/2026 16:45:47 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aebac7065311d97105baf0b) | DSC Dredge, LLC | Reserve, LA | 11/04/2026 22:06:40 | Sponsorship: Past Sponsorship |
-| 69 (Good) | [Circuit Design Engineer](https://jobright.ai/jobs/info/6aeb7ef182f0ac077443a615) | Lockheed Martin | Grand Prairie, TX | 11/04/2026 10:52:33 | Sponsorship: No |
-| 47 (Possible) | [Entry Product Engineer](https://jobright.ai/jobs/info/6aeb6762a0b134121d99a511) | HP | Corvallis, OR | 11/04/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Facility Design Electrical Engineer](https://jobright.ai/jobs/info/6aeb7b8cf40efa43f4a17ddc) | Naval Nuclear Laboratory (FMP) | Niskayuna, NY | 11/04/2026 06:00:00 | Sponsorship: Past Sponsorship |
