@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-09 22:05:03Z UTC
+Updated: 2026-11-09 23:04:57Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 50 (Good) | [Electrical Engineer (New Grad)](https://jobright.ai/jobs/info/6af24a631aaffa49f73837bf) | Dice | Torrance, CA | 11/09/2026 22:34:11 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6af230261aaffa49f73827b7) | Naval Nuclear Laboratory (FMP) | West Milton, NY | 11/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6af216321aaffa49f7380332) | TTM Technologies | Farmingdale, NY | 11/09/2026 18:34:06 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer (Nuclear Energy)](https://jobright.ai/jobs/info/6af2297a1116f6f0a0766c76) | GD Barri & Associates, Inc. | Tonopah, AZ | 11/09/2026 20:13:46 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-11-09 22:05:03Z UTC
 | 51 (Good) | [Robotics Test Engineer](https://jobright.ai/jobs/info/6aed3b53465e3d237138541c) | Premier Global Links LLC | San Francisco, CA | 11/05/2026 18:28:35 | Sponsorship: Not Sure |
 | 48 (Possible) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6aed0da63967d67f635a22e8) | Textron | Cockeysville, MD | 11/05/2026 23:13:42 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 59 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA) Job Details \| Teradyne](https://jobright.ai/jobs/info/6ad8b828b0725dc268dd554c) | Teradyne | North Reading, MA | 11/05/2026 18:15:40 | Sponsorship: Past Sponsorship |
-| 30 (Possible) | [Semiconductor Engineer I](https://jobright.ai/jobs/info/6aecfef93a3fa7f03ea8b13a) | Honeywell Aerospace | Moca, PR | 11/05/2026 22:11:05 | Sponsorship: Past Sponsorship |
