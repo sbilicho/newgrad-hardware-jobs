@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-08 22:17:25Z UTC
+Updated: 2026-11-09 01:48:04Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6af0f98f40b5de2d2b3156ca) | Dice | East Hartford, CT | 11/08/2026 22:37:03 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Early Career Substation Electrical Engineer](https://jobright.ai/jobs/info/6af0b6e28022f8ddd31a24ea) | WSP in the U.S. | Hallowell, ME | 11/08/2026 09:52:34 | Sponsorship: No |
 | 37 (Possible) | [Substation Electrical Engineer I](https://jobright.ai/jobs/info/6ad5bf7354bbabbab06eed56) | Bowman Consulting | Raleigh, NC | 11/08/2026 14:35:24 | Sponsorship: Past Sponsorship |
 | 73 (Strong) | [ASIC Physical Design and Timing Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6aef9f437bf8e8b9eaf803f8) | NVIDIA | Santa Clara, CA | 11/07/2026 17:59:25 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-11-08 22:17:25Z UTC
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aecd1693967d67f635a0038) | ELM MicroGrid | The Colony, TX | 11/05/2026 10:56:41 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Test Engineer I](https://jobright.ai/jobs/info/6aecde293a3fa7f03ea89e38) | Sonny's Enterprises Inc. - Conveyorized Car Wash Equipment Leader | Savage, MN | 11/05/2026 11:51:05 | Sponsorship: Not Sure |
 | 89 (Strong) | [Low Power ASIC Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6aecb9ffab48a7079381dd99) | NVIDIA | Santa Clara, CA | 11/05/2026 17:16:47 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Missile Test Engineer - Entry Level](https://jobright.ai/jobs/info/6aecad5ea2661405dc2c5151) | BAE Systems, Inc. | Rockville, MD | 11/05/2026 06:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
