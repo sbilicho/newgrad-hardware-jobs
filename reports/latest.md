@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-09 17:50:01Z UTC
+Updated: 2026-11-09 19:16:37Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Entry-Level Electrical Engineer (Power System Studies) - Hybrid \| Pittsburgh Area](https://jobright.ai/jobs/info/6af20a3062fb9f5fcd89304a) | Pioneer Power Group | Wexford, PA | 11/09/2026 18:00:16 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Entry level Electrical Engineer](https://jobright.ai/jobs/info/6af20816905985ccaa407cf2) | Jacobs | Honolulu, HI | 11/09/2026 17:51:18 | Sponsorship: Past Sponsorship |
+| 43 (Possible) | [Protection & Controls Engineer - Entry-Level](https://jobright.ai/jobs/info/6af1e6268cbcfef4a59d6413) | Commonwealth Associates, Inc. | Liberty Lake, WA | 11/09/2026 18:28:13 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae31f4ec3139b475b5ab1cf) | Freeport-McMoRan | Safford, AZ | 11/09/2026 16:59:55 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6af0f8bf8022f8ddd31a2c1d) | Dice | Platteville, WI | 11/08/2026 22:33:35 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry Level Electrical Engineer (Energy/Power)](https://jobright.ai/jobs/info/6af1f74c0cb834dad93217ed) | Jacobs | Clark, NJ | 11/09/2026 16:39:40 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-11-09 17:50:01Z UTC
 | 54 (Good) | [2027 Enterprise Resiliency Modeling and Simulation Engineer](https://jobright.ai/jobs/info/6aecd4dcab48a7079381ee0a) | The Aerospace Corporation | El Segundo, CA; Chantilly, VA | 11/05/2026 14:08:25 | Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aecfe5e3a3fa7f03ea8b0d4) | RK Industries | Aurora, CO | 11/05/2026 14:08:30 | Sponsorship: No |
 | 65 (Good) | [Design Verification Engineer, New Grad (AI-Driven)](https://jobright.ai/jobs/info/6aed0b323a3fa7f03ea8b8b8) | Persimmons, Inc. | San Jose, CA | 11/05/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 65 (Good) | [Design Verification Engineer, New Grad (AI-Driven)](https://jobright.ai/jobs/info/6aecfe733967d67f635a1967) | Persimmons, Inc. | San Jose, CA | 11/05/2026 22:08:51 | Sponsorship: Past Sponsorship |
-| 84 (Strong) | [Junior ASIC Design Verification Engineer, Amazon Leo](https://jobright.ai/jobs/info/6ab6d59881e327c4bf20164b) | Amazon | Sunnyvale, CA | 11/05/2026 12:24:43 | Sponsorship: Past Sponsorship |
-| 63 (Good) | [Applications Engineer-I, Electronic Warfare](https://jobright.ai/jobs/info/6aeccc18a2661405dc2c665d) | Motorola Solutions | Los Angeles, CA | 11/05/2026 18:46:17 | Security clearance language is present; Sponsorship: Past Sponsorship |
