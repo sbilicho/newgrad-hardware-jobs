@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-09 08:45:20Z UTC
+Updated: 2026-11-09 17:50:01Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae31f4ec3139b475b5ab1cf) | Freeport-McMoRan | Safford, AZ | 11/09/2026 16:59:55 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6af0f8bf8022f8ddd31a2c1d) | Dice | Platteville, WI | 11/08/2026 22:33:35 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Entry Level Electrical Engineer (Energy/Power)](https://jobright.ai/jobs/info/6af1f74c0cb834dad93217ed) | Jacobs | Clark, NJ | 11/09/2026 16:39:40 | Sponsorship: Past Sponsorship |
+| 54 (Good) | [Entry-Level Electrical Hardware Design Engineer](https://jobright.ai/jobs/info/6af1f8568cbcfef4a59d6d9d) | Leidos | Huntsville, AL | 11/09/2026 00:00:00 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 81 (Strong) | [GPU Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6af201eb62fb9f5fcd892bbf) | NVIDIA | Westford, MA | 11/09/2026 17:24:59 | Sponsorship: Past Sponsorship |
 | 86 (Strong) | [Physical Design Methodology CAD Engineer](https://jobright.ai/jobs/info/6aebea84ef3e65925305a66d) | Apple | Austin, TX | 09/21/2026 02:31:19 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6af0f98f40b5de2d2b3156ca) | Dice | East Hartford, CT | 11/08/2026 22:37:03 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Early Career Substation Electrical Engineer](https://jobright.ai/jobs/info/6af0b6e28022f8ddd31a24ea) | WSP in the U.S. | Hallowell, ME | 11/08/2026 09:52:34 | Sponsorship: No |
@@ -99,8 +104,3 @@ Updated: 2026-11-09 08:45:20Z UTC
 | 65 (Good) | [Design Verification Engineer, New Grad (AI-Driven)](https://jobright.ai/jobs/info/6aecfe733967d67f635a1967) | Persimmons, Inc. | San Jose, CA | 11/05/2026 22:08:51 | Sponsorship: Past Sponsorship |
 | 84 (Strong) | [Junior ASIC Design Verification Engineer, Amazon Leo](https://jobright.ai/jobs/info/6ab6d59881e327c4bf20164b) | Amazon | Sunnyvale, CA | 11/05/2026 12:24:43 | Sponsorship: Past Sponsorship |
 | 63 (Good) | [Applications Engineer-I, Electronic Warfare](https://jobright.ai/jobs/info/6aeccc18a2661405dc2c665d) | Motorola Solutions | Los Angeles, CA | 11/05/2026 18:46:17 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer 1 (Entry Level)](https://jobright.ai/jobs/info/6aecd209465e3d237138203a) | Wagstaff, Inc. | Spokane Valley, WA | 11/05/2026 12:23:54 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6ad92b8139284cd524284fb4) | P2S | Long Beach, CA | 11/05/2026 12:33:26 | Sponsorship: Past Sponsorship |
-| 69 (Good) | [SRAM Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6aecdd29a9ea762a04092d0b) | NVIDIA | Santa Clara, CA | 11/05/2026 19:46:49 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aecd1693967d67f635a0038) | ELM MicroGrid | The Colony, TX | 11/05/2026 10:56:41 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Test Engineer I](https://jobright.ai/jobs/info/6aecde293a3fa7f03ea89e38) | Sonny's Enterprises Inc. - Conveyorized Car Wash Equipment Leader | Savage, MN | 11/05/2026 11:51:05 | Sponsorship: Not Sure |
