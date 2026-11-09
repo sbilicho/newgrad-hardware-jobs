@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-09 01:48:04Z UTC
+Updated: 2026-11-09 08:45:20Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 86 (Strong) | [Physical Design Methodology CAD Engineer](https://jobright.ai/jobs/info/6aebea84ef3e65925305a66d) | Apple | Austin, TX | 09/21/2026 02:31:19 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6af0f98f40b5de2d2b3156ca) | Dice | East Hartford, CT | 11/08/2026 22:37:03 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Early Career Substation Electrical Engineer](https://jobright.ai/jobs/info/6af0b6e28022f8ddd31a24ea) | WSP in the U.S. | Hallowell, ME | 11/08/2026 09:52:34 | Sponsorship: No |
 | 37 (Possible) | [Substation Electrical Engineer I](https://jobright.ai/jobs/info/6ad5bf7354bbabbab06eed56) | Bowman Consulting | Raleigh, NC | 11/08/2026 14:35:24 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-11-09 01:48:04Z UTC
 | 69 (Good) | [SRAM Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6aecdd29a9ea762a04092d0b) | NVIDIA | Santa Clara, CA | 11/05/2026 19:46:49 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aecd1693967d67f635a0038) | ELM MicroGrid | The Colony, TX | 11/05/2026 10:56:41 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Test Engineer I](https://jobright.ai/jobs/info/6aecde293a3fa7f03ea89e38) | Sonny's Enterprises Inc. - Conveyorized Car Wash Equipment Leader | Savage, MN | 11/05/2026 11:51:05 | Sponsorship: Not Sure |
-| 89 (Strong) | [Low Power ASIC Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6aecb9ffab48a7079381dd99) | NVIDIA | Santa Clara, CA | 11/05/2026 17:16:47 | Sponsorship: Past Sponsorship |
