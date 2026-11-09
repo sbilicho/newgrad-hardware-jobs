@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-09 19:16:37Z UTC
+Updated: 2026-11-09 21:06:57Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6af230261aaffa49f73827b7) | Naval Nuclear Laboratory (FMP) | West Milton, NY | 11/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6af216321aaffa49f7380332) | TTM Technologies | Farmingdale, NY | 11/09/2026 18:34:06 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Electrical Engineer (Nuclear Energy)](https://jobright.ai/jobs/info/6af2297a1116f6f0a0766c76) | GD Barri & Associates, Inc. | Tonopah, AZ | 11/09/2026 20:13:46 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 49 (Possible) | [VLSI Design Engineer](https://jobright.ai/jobs/info/6af21f550cb834dad9323e41) | MaximaTek | Austin, TX | 11/09/2026 19:30:29 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry-Level Electrical Engineer (Power System Studies) - Hybrid \| Pittsburgh Area](https://jobright.ai/jobs/info/6af20a3062fb9f5fcd89304a) | Pioneer Power Group | Wexford, PA | 11/09/2026 18:00:16 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry level Electrical Engineer](https://jobright.ai/jobs/info/6af20816905985ccaa407cf2) | Jacobs | Honolulu, HI | 11/09/2026 17:51:18 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [Protection & Controls Engineer - Entry-Level](https://jobright.ai/jobs/info/6af1e6268cbcfef4a59d6413) | Commonwealth Associates, Inc. | Liberty Lake, WA | 11/09/2026 18:28:13 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-11-09 19:16:37Z UTC
 | 48 (Possible) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6aed0da63967d67f635a22e8) | Textron | Cockeysville, MD | 11/05/2026 23:13:42 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 59 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA) Job Details \| Teradyne](https://jobright.ai/jobs/info/6ad8b828b0725dc268dd554c) | Teradyne | North Reading, MA | 11/05/2026 18:15:40 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Semiconductor Engineer I](https://jobright.ai/jobs/info/6aecfef93a3fa7f03ea8b13a) | Honeywell Aerospace | Moca, PR | 11/05/2026 22:11:05 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Propulsion Integration & Test Engineer I, First shift](https://jobright.ai/jobs/info/6aecfad1465e3d2371383787) | Relativity Space | Long Beach, CA | 11/05/2026 13:53:21 | Sponsorship: Not Sure |
-| 54 (Good) | [2027 Enterprise Resiliency Modeling and Simulation Engineer](https://jobright.ai/jobs/info/6aecd4dcab48a7079381ee0a) | The Aerospace Corporation | El Segundo, CA; Chantilly, VA | 11/05/2026 14:08:25 | Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aecfe5e3a3fa7f03ea8b0d4) | RK Industries | Aurora, CO | 11/05/2026 14:08:30 | Sponsorship: No |
-| 65 (Good) | [Design Verification Engineer, New Grad (AI-Driven)](https://jobright.ai/jobs/info/6aed0b323a3fa7f03ea8b8b8) | Persimmons, Inc. | San Jose, CA | 11/05/2026 00:00:00 | Sponsorship: Past Sponsorship |
