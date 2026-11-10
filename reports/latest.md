@@ -1,9 +1,21 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-10 17:46:13Z UTC
+Updated: 2026-11-10 22:35:57Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6af38f86769e9374033c7aeb) | GFT | State College, PA | 11/10/2026 17:05:00 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae8c036777c336eb6d65d00) | Raytheon | Portsmouth, RI | 11/10/2026 16:41:40 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6af368307c81de7a524bf0ec) | Syska Hennessy Group | New York, NY | 11/10/2026 18:53:36 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [R&D Electrical Engineer I, Steward Observatory](https://jobright.ai/jobs/info/6af379aaf6053e296fc7cd72) | University of Arizona | Tucson, AZ | 11/10/2026 20:08:10 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Missile Test Engineer - Entry Level](https://jobright.ai/jobs/info/6af38ef880020ca3a8976ef1) | BAE Systems | Rockville, MD | 11/10/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6af38ab07c81de7a524c0b80) | Verex Engineering LLC | Chicago, IL | 11/10/2026 21:20:48 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6af38f877c81de7a524c0e45) | GFT | Ebensburg, PA | 11/10/2026 22:27:34 | Sponsorship: Past Sponsorship |
+| 51 (Good) | [Electronic Systems Product Engineer](https://jobright.ai/jobs/info/6af397df769e9374033c7f38) | Cummins Inc. | Columbus, IN | 11/10/2026 22:17:03 | Sponsorship: Past Sponsorship |
+| 85 (Strong) | [ASIC Verification Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6af368354ac248020e8d0953) | NVIDIA | Santa Clara, CA | 11/10/2026 18:53:41 | Sponsorship: Past Sponsorship |
+| 85 (Strong) | [ASIC Verification Engineer, Memory Management - New College Grad 2027](https://jobright.ai/jobs/info/6af369f580020ca3a89757cb) | NVIDIA | Durham, NC | 11/10/2026 19:01:09 | Sponsorship: Past Sponsorship |
+| 83 (Strong) | [Cell Modeling and Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6af3677980020ca3a8975174) | NVIDIA | Santa Clara, CA | 11/10/2026 18:50:33 | Sponsorship: Past Sponsorship |
+| 64 (Good) | [Hardware Engineer (FPGA/ASIC)](https://jobright.ai/jobs/info/6af395b87c81de7a524c1141) | Jane Street | New York, NY | 11/10/2026 22:07:52 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6af35784769e9374033c563e) | Gannett Fleming | State College, PA | 11/10/2026 17:42:28 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Security Electronics Engineer I](https://jobright.ai/jobs/info/6af3352510c7aed778618056) | CHA Consulting, Inc. | Albany, NY | 11/10/2026 16:51:04 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6af34bbd4ac248020e8cfa5f) | Amentum | Crane, IN | 11/10/2026 16:48:12 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
@@ -92,15 +104,3 @@ Updated: 2026-11-10 17:46:13Z UTC
 | 45 (Possible) | [Silicon Design Engineer](https://jobright.ai/jobs/info/6aee14cbbd2f33eea72d6f7d) | AMD | San Jose, CA | 11/06/2026 17:56:27 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aee3368caf8e660b87dccd7) | Salas O'Brien | Richmond, VA | 11/06/2026 15:06:31 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aee1aa3e0c9de7b05f8a1ac) | CS GROUP - USA | East Hartford, CT | 11/06/2026 16:18:58 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aee33dbbd2f33eea72d95fa) | CS GROUP - USA | Platteville, WI | 11/06/2026 17:08:13 | Sponsorship: Past Sponsorship |
-| 31 (Possible) | [Electronics Engineer New Grad](https://jobright.ai/jobs/info/6aee31ecbd2f33eea72d92f2) | BubblyNet | Clearwater, FL | 11/06/2026 00:00:16 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Silicon Design Engineer](https://jobright.ai/jobs/info/6aee14c85c81f621d31114ea) | AMD | Austin, TX | 11/06/2026 11:45:09 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aee2fda5c81f621d3113599) | Starkey México | Eden Prairie, MN | 11/06/2026 11:51:54 | Sponsorship: Past Sponsorship |
-| 74 (Strong) | [MLA Design Verification Engineer I, Annapurna Labs](https://jobright.ai/jobs/info/6ad14f4318608b6f36f832b3) | Amazon | Cupertino, CA | 11/06/2026 08:47:24 | Sponsorship: Not Sure |
-| 78 (Strong) | [MLA Design Verification Engineer I, Annapurna Labs](https://jobright.ai/jobs/info/6aa8a947f74328685440fe38) | Amazon | Austin, TX | 11/06/2026 08:47:24 | Sponsorship: Not Sure |
-| 45 (Possible) | [Electrical Engineer (Entry Level) - Malta, NY](https://jobright.ai/jobs/info/6aee0795caf8e660b87d9d44) | Hallam-ICS | Malta, NY | 11/06/2026 09:00:05 | Sponsorship: Not Sure |
-| 47 (Possible) | [Electrical Product Engineer, AutoCAD](https://jobright.ai/jobs/info/6aee07e4caf8e660b87d9dbf) | Siemens | Grand Prairie, TX | 11/06/2026 09:01:24 | Sponsorship: No |
-| 41 (Possible) | [Electrical Engineer I, II, III or Principal](https://jobright.ai/jobs/info/6aedd041d20350c7a50754b5) | LG&E and KU Energy LLC | Louisville, KY | 11/06/2026 11:03:50 | Sponsorship: Past Sponsorship |
-| 59 (Good) | [FPGA Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6aeddfb1caf8e660b87d81af) | Raytheon | Huntsville, AL | 11/06/2026 14:09:53 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad19fc053547a88ce9ea7bd) | BAE Systems | Nashua, NH | 11/06/2026 16:22:15 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry-Level Electrical Engineer (Power System Studies) - Hybrid \| Pittsburgh Area](https://jobright.ai/jobs/info/6aedf673caf8e660b87d8ecc) | Pioneer Power Group | Wexford, PA | 11/06/2026 15:46:59 | Sponsorship: Past Sponsorship |
