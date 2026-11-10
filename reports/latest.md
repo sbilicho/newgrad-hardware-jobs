@@ -1,9 +1,19 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-10 03:03:49Z UTC
+Updated: 2026-11-10 10:05:14Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 77 (Strong) | [SoC Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/SoC-Design-Verification-Engineer_JR0288406) | Intel | US, California, Santa Clara | 11/09/2026 00:00:00 |  |
+| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6af24ad30cb834dad9325d77) | Sierra Nevada Corporation | Lone Tree, CO | 11/10/2026 03:55:23 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Instrumentation and Controls Engineer I – Power Generation](https://jobright.ai/jobs/info/6af28c67d622b1b75451a54e) | Strive Solutions | Bolingbrook, IL | 11/10/2026 03:15:51 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6af298166d2bd34f89adb948) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 11/09/2026 06:00:00 | Sponsorship: Past Sponsorship |
+| 63 (Good) | [2026 Early Career System Hardware Design Engineer](https://jobright.ai/jobs/info/6ad98366950ef68d51851367) | TP-Link Systems Inc. | Irvine, CA | 11/10/2026 05:13:25 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Junior Electrical Engineer  --  Radiological Work](https://jobright.ai/jobs/info/6aa8ac8ceff87f571fc96ffa) | APTIM | Niskayuna, NY; West Milton, NY | 11/09/2026 22:24:58 | U.S. citizenship language is present; Sponsorship: No |
+| 37 (Possible) | [2026 Associate/Electrical Engineer- Gilbert AZ](https://jobright.ai/jobs/info/6af2bb0e41f4504a0888d583) | Eaton | Gilbert, AZ | 11/09/2026 22:34:54 | Sponsorship: No |
+| 42 (Possible) | [Test and Evaluation Hardware Design Engineer (Associate & Experienced)](https://jobright.ai/jobs/info/6af1cd6b62fb9f5fcd8911ef) | Boeing | Long Beach, CA | 11/09/2026 22:48:29 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: No |
+| 37 (Possible) | [2026 Associate/Electrical Engineer- Gilbert AZ](https://jobright.ai/jobs/info/6af2c4bcdb8bcd9ac74b7d5d) | Military Spouse Jobs | Gilbert, AZ | 11/09/2026 23:16:12 | Sponsorship: No |
+| 47 (Possible) | [NVH Test Engineer](https://jobright.ai/jobs/info/6af2e00f4ac248020e8ccb65) | CNH | Racine, WI | 11/10/2026 01:12:47 | Sponsorship: Not Sure |
 | 69 (Good) | [Silicon Photonics Device Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6af2532962fb9f5fcd89705c) | GlobalFoundries | Malta, NY | 11/09/2026 23:11:37 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Embedded Engineer (New Graduate Opportunities) (based in Grand Rapids, MI)](https://jobright.ai/jobs/info/6af285ba41f4504a0888c8b1) | DornerWorks | Grand Rapids, MI | 11/10/2026 02:47:22 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Associate, Electrical Engineer](https://jobright.ai/jobs/info/6af27ab10cb834dad9327170) | L3Harris Technologies | Clifton, NJ | 11/09/2026 18:00:17 | Sponsorship: Not Sure |
@@ -94,13 +104,3 @@ Updated: 2026-11-10 03:03:49Z UTC
 | 39 (Possible) | [New College Grad - HBM Design Architect](https://jobright.ai/jobs/info/6aecc7f0465e3d2371381949) | Micron Technology | Richardson, TX | 11/06/2026 12:38:14 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aee010abd2f33eea72d5ccb) | Sopra Steria | East Hartford, CT | 11/06/2026 16:36:21 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aee01165c81f621d31102d0) | Sopra Steria | Platteville, WI | 11/06/2026 16:32:22 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aee09bbbd2f33eea72d68e7) | CS GROUP | East Hartford, CT | 11/06/2026 17:09:15 | Sponsorship: Past Sponsorship |
-| 60 (Good) | [#Digital Hardware Engineer](https://jobright.ai/jobs/info/6aeb71bb65311d97105b89dc) | Qualcomm | Boulder, CO | 11/06/2026 03:28:13 | Sponsorship: No |
-| 41 (Possible) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6aec7dfe3967d67f6359d232) | New York Power Authority | Astoria, OR | 11/06/2026 09:37:16 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I, II, III or Principal](https://jobright.ai/jobs/info/6ad5f107950ef68d518345c9) | PPL Corporation | Louisville, KY | 11/06/2026 10:19:42 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6a95b26ac8763a3a87ffb7e4) | Eaton | Arden, NC; Sumter, SC; Fayetteville, NC; Greenwood, SC; El Paso, TX; Asheville, NC | 11/06/2026 01:12:01 | Sponsorship: No |
-| 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aeda98ecaf8e660b87d6836) | Westinghouse Electric Company | New Stanton, PA | 11/06/2026 02:18:54 | Sponsorship: Not Sure |
-| 47 (Possible) | [Validation Engineer I](https://jobright.ai/jobs/info/6aed5f1ea2661405dc2ca7f7) | Valspec | Royersford, PA | 11/06/2026 05:01:18 | Sponsorship: Past Sponsorship |
-| 54 (Good) | [Electronics Engineer I (Advanced Electronics Systems and Technologies \| 345C)](https://jobright.ai/jobs/info/6aed3d25a3da3840d4aba677) | NASA Jet Propulsion Laboratory | Pasadena, CA | 11/06/2026 04:15:44 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [2027 Associate H/W Electronics Engineer – Sykesville MD](https://jobright.ai/jobs/info/6aeabd6d1ba298c777774abb) | Northrop Grumman | Sykesville, MD | 11/05/2026 21:25:51 | Security clearance language is present; Sponsorship: No |
-| 54 (Good) | [Test Engineer I](https://jobright.ai/jobs/info/6aed36e0ab48a70793821df7) | Ducommun Incorporated | Carson, CA | 11/05/2026 22:22:40 | Sponsorship: Not Sure |
