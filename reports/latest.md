@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-10 02:18:10Z UTC
+Updated: 2026-11-10 03:03:49Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 69 (Good) | [Silicon Photonics Device Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6af2532962fb9f5fcd89705c) | GlobalFoundries | Malta, NY | 11/09/2026 23:11:37 | Sponsorship: Past Sponsorship |
+| 59 (Good) | [Embedded Engineer (New Graduate Opportunities) (based in Grand Rapids, MI)](https://jobright.ai/jobs/info/6af285ba41f4504a0888c8b1) | DornerWorks | Grand Rapids, MI | 11/10/2026 02:47:22 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Associate, Electrical Engineer](https://jobright.ai/jobs/info/6af27ab10cb834dad9327170) | L3Harris Technologies | Clifton, NJ | 11/09/2026 18:00:17 | Sponsorship: Not Sure |
 | 40 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6af260531aaffa49f7384332) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 11/10/2026 00:07:47 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6af27cf041f4504a0888c36d) | Naval Nuclear Laboratory (FMP) | West Milton, NY | 11/10/2026 00:04:41 | Sponsorship: Past Sponsorship |
 | 68 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6af26edb62fb9f5fcd897a1c) | TSMC | Camas, WA | 11/10/2026 01:09:47 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-11-10 02:18:10Z UTC
 | 54 (Good) | [Electronics Engineer I (Advanced Electronics Systems and Technologies \| 345C)](https://jobright.ai/jobs/info/6aed3d25a3da3840d4aba677) | NASA Jet Propulsion Laboratory | Pasadena, CA | 11/06/2026 04:15:44 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [2027 Associate H/W Electronics Engineer – Sykesville MD](https://jobright.ai/jobs/info/6aeabd6d1ba298c777774abb) | Northrop Grumman | Sykesville, MD | 11/05/2026 21:25:51 | Security clearance language is present; Sponsorship: No |
 | 54 (Good) | [Test Engineer I](https://jobright.ai/jobs/info/6aed36e0ab48a70793821df7) | Ducommun Incorporated | Carson, CA | 11/05/2026 22:22:40 | Sponsorship: Not Sure |
-| 41 (Possible) | [Electrical Engineer I, Test Equipment Maintenance Support - 2nd Shift](https://jobright.ai/jobs/info/6aecc6f1a2661405dc2c6299) | RTX | Andover, MA | 11/05/2026 23:46:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 48 (Possible) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6aed1535a2661405dc2c8ffe) | Textron Aviation | Cockeysville, MD | 11/05/2026 23:45:57 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 91 (Strong) | [Entry Level- FPGA Engineer (Onsite- Aberdeen, Maryland)](https://jobright.ai/jobs/info/6adf742a5dc7953215a3efcc) | Fairwinds Technologies | Middletown, DE | 11/05/2026 16:56:03 | Sponsorship: Past Sponsorship |
