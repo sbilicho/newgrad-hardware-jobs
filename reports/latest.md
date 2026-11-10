@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-09 23:04:57Z UTC
+Updated: 2026-11-10 02:18:10Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6af260531aaffa49f7384332) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 11/10/2026 00:07:47 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6af27cf041f4504a0888c36d) | Naval Nuclear Laboratory (FMP) | West Milton, NY | 11/10/2026 00:04:41 | Sponsorship: Past Sponsorship |
+| 68 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6af26edb62fb9f5fcd897a1c) | TSMC | Camas, WA | 11/10/2026 01:09:47 | Sponsorship: Past Sponsorship |
+| 73 (Strong) | [Entry-Level Application Engineer – Semiconductor Test](https://jobright.ai/jobs/info/6af2688e905985ccaa40c513) | Advantest | San Jose, CA | 11/10/2026 00:42:54 | Sponsorship: Past Sponsorship |
+| 86 (Strong) | [DFT Engineer](https://jobright.ai/jobs/info/6af22b3762fb9f5fcd895450) | Broadcom | San Jose, CA | 11/09/2026 16:42:08 | Sponsorship: Not Sure |
+| 47 (Possible) | [QA Validation Engineer](https://jobright.ai/jobs/info/6af26d038cbcfef4a59dc2e6) | Allergan Aesthetics, an AbbVie Company | Irvine, CA | 11/09/2026 17:01:55 | Sponsorship: Not Sure |
 | 50 (Good) | [Electrical Engineer (New Grad)](https://jobright.ai/jobs/info/6af24a631aaffa49f73837bf) | Dice | Torrance, CA | 11/09/2026 22:34:11 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6af230261aaffa49f73827b7) | Naval Nuclear Laboratory (FMP) | West Milton, NY | 11/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6af216321aaffa49f7380332) | TTM Technologies | Farmingdale, NY | 11/09/2026 18:34:06 | Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-11-09 23:04:57Z UTC
 | 41 (Possible) | [Electrical Engineer I, Test Equipment Maintenance Support - 2nd Shift](https://jobright.ai/jobs/info/6aecc6f1a2661405dc2c6299) | RTX | Andover, MA | 11/05/2026 23:46:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 48 (Possible) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6aed1535a2661405dc2c8ffe) | Textron Aviation | Cockeysville, MD | 11/05/2026 23:45:57 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 91 (Strong) | [Entry Level- FPGA Engineer (Onsite- Aberdeen, Maryland)](https://jobright.ai/jobs/info/6adf742a5dc7953215a3efcc) | Fairwinds Technologies | Middletown, DE | 11/05/2026 16:56:03 | Sponsorship: Past Sponsorship |
-| 74 (Strong) | [ASIC Formal Verification Engineer I, Annapurna Labs](https://jobright.ai/jobs/info/6aece2ae3967d67f635a0923) | Amazon | Austin, TX; Cupertino, CA | 11/05/2026 17:04:23 | Sponsorship: Not Sure |
-| 72 (Strong) | [Electrical Engineer (FPGA Design) - Early Career](https://jobright.ai/jobs/info/6aed2a783967d67f635a2f39) | Lockheed Martin | Orlando, FL | 11/05/2026 17:16:40 | Sponsorship: No |
-| 54 (Good) | [Jr Power Electronics Engineer](https://jobright.ai/jobs/info/6aed2de2465e3d23713850a2) | ITT Inc. | Syracuse, NY | 11/05/2026 17:31:14 | Sponsorship: Not Sure |
-| 51 (Good) | [Robotics Test Engineer](https://jobright.ai/jobs/info/6aed3b53465e3d237138541c) | Premier Global Links LLC | San Francisco, CA | 11/05/2026 18:28:35 | Sponsorship: Not Sure |
-| 48 (Possible) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6aed0da63967d67f635a22e8) | Textron | Cockeysville, MD | 11/05/2026 23:13:42 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 59 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA) Job Details \| Teradyne](https://jobright.ai/jobs/info/6ad8b828b0725dc268dd554c) | Teradyne | North Reading, MA | 11/05/2026 18:15:40 | Sponsorship: Past Sponsorship |
