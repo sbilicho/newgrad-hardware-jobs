@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-10 10:05:14Z UTC
+Updated: 2026-11-10 17:46:13Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6af35784769e9374033c563e) | Gannett Fleming | State College, PA | 11/10/2026 17:42:28 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Security Electronics Engineer I](https://jobright.ai/jobs/info/6af3352510c7aed778618056) | CHA Consulting, Inc. | Albany, NY | 11/10/2026 16:51:04 | Sponsorship: Past Sponsorship |
+| 48 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6af34bbd4ac248020e8cfa5f) | Amentum | Crane, IN | 11/10/2026 16:48:12 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6af3580cf6053e296fc7ba22) | Gannett Fleming | Ebensburg, PA | 11/10/2026 17:44:44 | Sponsorship: Past Sponsorship |
+| 86 (Strong) | [Design-for-Test (DFT) Engineer — ASIC Backend – (Associate, Experienced, or Lead)](https://jobright.ai/jobs/info/6af327384ac248020e8ce0cf) | Boeing | El Segundo, CA | 11/10/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6af34f0f10c7aed77861933f) | Boeing | Hazelwood, MO | 11/10/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 77 (Strong) | [SoC Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/SoC-Design-Verification-Engineer_JR0288406) | Intel | US, California, Santa Clara | 11/09/2026 00:00:00 |  |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6af24ad30cb834dad9325d77) | Sierra Nevada Corporation | Lone Tree, CO | 11/10/2026 03:55:23 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Instrumentation and Controls Engineer I – Power Generation](https://jobright.ai/jobs/info/6af28c67d622b1b75451a54e) | Strive Solutions | Bolingbrook, IL | 11/10/2026 03:15:51 | Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-11-10 10:05:14Z UTC
 | 59 (Good) | [FPGA Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6aeddfb1caf8e660b87d81af) | Raytheon | Huntsville, AL | 11/06/2026 14:09:53 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ad19fc053547a88ce9ea7bd) | BAE Systems | Nashua, NH | 11/06/2026 16:22:15 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry-Level Electrical Engineer (Power System Studies) - Hybrid \| Pittsburgh Area](https://jobright.ai/jobs/info/6aedf673caf8e660b87d8ecc) | Pioneer Power Group | Wexford, PA | 11/06/2026 15:46:59 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Electrical Engineer (Entry Level) - Malta, NY](https://jobright.ai/jobs/info/6aee06b5caf8e660b87d9c23) | Hallam-ICS | Malta, NY | 11/06/2026 16:56:21 | Sponsorship: Past Sponsorship |
-| 34 (Possible) | [Sr. Silicon Design Engineer](https://jobright.ai/jobs/info/6aee0d26bd2f33eea72d6c35) | AMD | Austin, TX | 11/06/2026 17:23:50 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aee012de0c9de7b05f88a39) | Sopra Steria | Platteville, WI | 11/06/2026 16:52:03 | Sponsorship: Past Sponsorship |
-| 39 (Possible) | [New College Grad - HBM Design Architect](https://jobright.ai/jobs/info/6aecc7f0465e3d2371381949) | Micron Technology | Richardson, TX | 11/06/2026 12:38:14 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aee010abd2f33eea72d5ccb) | Sopra Steria | East Hartford, CT | 11/06/2026 16:36:21 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aee01165c81f621d31102d0) | Sopra Steria | Platteville, WI | 11/06/2026 16:32:22 | Sponsorship: Past Sponsorship |
