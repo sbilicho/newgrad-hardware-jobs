@@ -1,9 +1,25 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-11 17:28:32Z UTC
+Updated: 2026-11-11 23:40:44Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 86 (Strong) | [Design Verification Engineer](https://jobs.ashbyhq.com/matx/8abaab55-daa7-49c6-af53-5856f033cd22) | MatX | Mountain View (HQ) or Remote | 11/03/2026 21:11:21 |  |
+| 43 (Possible) | [Silicon Engineer, PhD, University Graduate, 2027 Start](https://jobright.ai/jobs/info/6aba7a84be5f1e93251159d7) | Google | Sunnyvale, CA | 11/11/2026 12:19:06 | Sponsorship: Past Sponsorship |
+| 78 (Strong) | [Post-Silicon Systems Validation Engineer I, Annapurna Labs](https://jobright.ai/jobs/info/6af4cbf6cd7be4db20d887d6) | Amazon | Austin, TX | 11/11/2026 20:11:34 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6af4f78bcd7be4db20d8a2a8) | Virtue America | United States | 11/11/2026 23:17:31 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6af4f1583a9a26aee70a2040) | Salas O'Brien | Portland, ME | 11/11/2026 22:51:04 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Cortez - Electrical Engineer I](https://jobright.ai/jobs/info/6af4a63f3a9a26aee709f484) | Barrick Mining Corporation | Crescent Valley, NV | 11/11/2026 17:30:39 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Cortez - Electrical Engineer I](https://jobright.ai/jobs/info/6af4a7e82278454e18c3727b) | Nevada Gold Mines | Nevada State | 11/11/2026 18:14:49 | Sponsorship: Past Sponsorship |
+| 53 (Good) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6ae242f9de23f466ec8c48b8) | Formlabs | Boston, MA | 11/11/2026 19:47:40 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6af4ef7ecbd2ee75d155e8f7) | Salas O'Brien | Lakewood, CO | 11/11/2026 22:43:10 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6af4f7b73a9a26aee70a236c) | Ehvert Mission Critical - a Salas O'Brien Company | New York, NY | 11/11/2026 23:18:15 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6af4f9ec1b2c5dcbbcd65f85) | Haag, a Salas O'Brien Company | Lakewood, CO | 11/11/2026 23:27:40 | Sponsorship: Past Sponsorship |
+| 55 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6af4d9862278454e18c38fb3) | Leonardo DRS | Dallas, TX | 11/11/2026 21:09:26 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 85 (Strong) | [ASIC Verification Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6af4b1452278454e18c379ac) | NVIDIA | Austin, TX | 11/11/2026 18:17:41 | Sponsorship: Past Sponsorship |
+| 88 (Strong) | [Physical Design Engineer - Static Timing Analysis, Annapurna Labs, Cloud Scale Machine Learning](https://jobright.ai/jobs/info/6af4e7af2278454e18c396da) | Amazon | Austin, TX; San Diego, CA; Cupertino, CA | 11/11/2026 14:09:51 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Instrumentation & Controls Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6af4d8cccd7be4db20d8904e) | Sargent & Lundy | Richland, WA | 11/11/2026 14:09:52 | Sponsorship: No |
+| 40 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6af4db049144106c56a22153) | Sargent & Lundy | Chicago, IL | 11/11/2026 14:09:59 | Sponsorship: No |
 | 67 (Good) | [CPU Circuit Design Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Circuit-Design-Engineer_JR0289183) | Intel | US, Texas, Austin | 11/11/2026 00:00:00 |  |
 | 90 (Strong) | [Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Design-Verification-Engineer_JR0288929-1) | Intel | US, California, Santa Clara | 11/11/2026 00:00:00 |  |
 | 50 (Good) | [Material Verification Engineer](https://jobright.ai/jobs/info/6af49c342278454e18c36b11) | RTX | Manchester, NH | 11/11/2026 17:17:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -88,19 +104,3 @@ Updated: 2026-11-11 17:28:32Z UTC
 | 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc32f9f8e479a8bcfe949) | Leidos | Lanham, MD; Springfield, VA; Washington, DC | 11/07/2026 16:32:47 | Sponsorship: No |
 | 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc3308022f8ddd319fc36) | Leidos | Lanham, MD; Washington, DC | 11/07/2026 16:32:48 | Sponsorship: No |
 | 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc336676e3f91d326db6e) | Leidos | Bladensburg, MD; Fort Washington, MD; Glenn Dale, MD; Greenbelt, MD; Lorton, VA; Riverdale Park, MD; Waldorf, MD; Washington, DC | 11/07/2026 16:32:54 | Sponsorship: No |
-| 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc336676e3f91d326db6d) | Leidos | Alexandria, VA; Washington, DC | 11/07/2026 16:32:54 | Sponsorship: No |
-| 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc3399f8e479a8bcfe999) | Leidos | Accokeek, MD; Glenn Dale, MD; Riverdale Park, MD; Upper Marlboro, MD; Washington, DC | 11/07/2026 16:32:57 | Sponsorship: No |
-| 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc33b676e3f91d326db85) | Leidos | Annandale, VA; Bowie, MD; Fairfax, VA; Greenbelt, MD; Upper Marlboro, MD; Waldorf, MD; Washington, DC | 11/07/2026 16:32:59 | Sponsorship: No |
-| 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc33f0fe787d00ed1c897) | Leidos | Alexandria, VA; Annandale, VA; Clinton, MD; Fort Belvoir, VA; Fort Washington, MD; Mount Rainier, MD; Oxon Hill, MD; Temple Hills, MD; Washington, DC | 11/07/2026 16:33:03 | Sponsorship: No |
-| 97 (Strong) | [SoC Design Engineer](https://jobright.ai/jobs/info/6ab7456d3a2ec87116e25df6) | OMNIVISION | Santa Clara, CA | 11/07/2026 11:08:55 | Sponsorship: Not Sure |
-| 37 (Possible) | [Data Center Electrical Engineer,  Assistant Consultant](https://jobright.ai/jobs/info/6ab6b4c29d4843569fe4ef4f) | WSP in the U.S. | Herndon, VA; New York, NY | 11/07/2026 10:34:28 | Sponsorship: Not Sure |
-| 73 (Strong) | [ASIC Physical Design and Timing Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6aef6a7740b5de2d2b310d02) | NVIDIA | Santa Clara, CA | 10/30/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [RTL Power Optimization Engineer – New College Grad 2026](https://jobright.ai/jobs/info/6aef62bb8022f8ddd319df50) | NVIDIA | Santa Clara, CA | 11/07/2026 17:41:15 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Mechanical or Electrical Engineer I/II - Monticello, MN](https://jobright.ai/jobs/info/6aef58a68022f8ddd319dbd2) | Xcel Energy | Monticello, MN | 11/07/2026 08:58:14 | Sponsorship: Not Sure |
-| 52 (Good) | [Timing Engineer](https://jobright.ai/jobs/info/6aef37a340b5de2d2b30fbcb) | City of New York | Queens, NY, United States | 11/07/2026 06:37:23 | Sponsorship: Not Sure |
-| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6ad26f2df04335fc70ed583b) | UL Solutions | Northbrook, IL | 11/07/2026 07:13:34 | Sponsorship: No |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aeec0490fe787d00ed189b6) | McClure Engineering | St. Louis, MO | 11/06/2026 12:52:40 | Sponsorship: Past Sponsorship |
-| 80 (Strong) | [ASIC Engineer - Early Career](https://jobright.ai/jobs/info/6aeee68e8022f8ddd319bfd8) | Blue Origin | Greater Seattle Area, United States; Hutto, TX; Cupertino, CA | 11/07/2026 01:19:03 | Sponsorship: Not Sure |
-| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aeec05440b5de2d2b30e5af) | C&S Group | Platteville, WI | 11/06/2026 14:21:10 | Sponsorship: Past Sponsorship |
-| 90 (Strong) | [ASIC DFT Engineer I (Full Time) - United States](https://jobright.ai/jobs/info/6aee9f1740b5de2d2b30dabe) | Cisco | Allentown, PA | 11/06/2026 23:46:13 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aee8a865c81f621d311718c) | Starkey Hearing | Eden Prairie, MN | 11/06/2026 23:18:35 | Sponsorship: Past Sponsorship |
