@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-11 03:02:58Z UTC
+Updated: 2026-11-11 09:36:41Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 47 (Possible) | [Validation Engineer I](https://jobright.ai/jobs/info/6af3b6877c81de7a524c2651) | Tolmar | Windsor, CO | 11/10/2026 21:24:48 | Sponsorship: Not Sure |
+| 56 (Good) | [Mechanical Application Engineer](https://jobright.ai/jobs/info/6af41d1efee40b4fffbddca2) | Kaiyiee Global Talent | Milpitas, CA | 11/10/2026 23:45:34 | Sponsorship: Not Sure |
+| 64 (Good) | [Hardware Engineer (FPGA/ASIC)](https://jobright.ai/jobs/info/6af4282455dfd18e245c3525) | Jane Street | New York, NY | 11/11/2026 00:32:36 | Sponsorship: Not Sure |
+| 59 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA)](https://jobright.ai/jobs/info/6af3f853ebe39ae3299d9c51) | Teradyne | North Reading, MA | 10/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6af36f0410c7aed77861a6f0) | American Outdoor Brands Inc. | Columbia, MO | 11/10/2026 19:22:44 | Sponsorship: Past Sponsorship |
+| 85 (Strong) | [Junior CPU Verification Engineer](https://jobright.ai/jobs/info/6af3ca09f6053e296fc7ff97) | Intel | Austin, TX | 11/11/2026 05:40:48 | Sponsorship: Past Sponsorship |
 | 67 (Good) | [Substrate Packaging Research and Development Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Substrate-Packaging-Research-and-Development-Engineer_JR0287474) | Intel | US, Arizona, Phoenix | 11/10/2026 00:00:00 |  |
 | 44 (Possible) | [Electrical Engineer I (C&DH/GNC Hardware)](https://jobright.ai/jobs/info/6af38743f6053e296fc7d8e0) | Sierra Space | Centennial, CO | 11/11/2026 00:28:19 | Sponsorship: Past Sponsorship |
 | 64 (Good) | [Hardware Engineer (FPGA/ASIC)](https://jobright.ai/jobs/info/6af3c10810c7aed77861daf3) | Jane Street | New York, NY | 11/10/2026 17:12:40 | Sponsorship: Not Sure |
@@ -98,9 +104,3 @@ Updated: 2026-11-11 03:02:58Z UTC
 | 58 (Good) | [Software Engineer Embedded Systems I (Full Time) - United States](https://jobright.ai/jobs/info/6aee74f15c81f621d3116a45) | Cisco | San Jose, CA | 11/07/2026 00:07:54 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aee6958c7498922fe0cc7f2) | BAE Systems, Inc. | Nashua, NH | 11/06/2026 16:56:58 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6adbae4d9e3e874dbfba139e) | CAMS | Houston, TX | 11/06/2026 21:37:50 | Sponsorship: Past Sponsorship |
-| 59 (Good) | [Design Verification Engineering Technician I](https://jobright.ai/jobs/info/6ad039b72cc4e9d17e90c7f1) | Minnetronix Medical | Saint Paul, MN | 11/06/2026 23:20:57 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aedfad7e0c9de7b05f886a9) | Jacobs | Honolulu, HI | 11/06/2026 16:05:43 | Sponsorship: Past Sponsorship |
-| 58 (Good) | [Software Engineer Embedded Systems I (Full Time) - United States](https://jobright.ai/jobs/info/6aee6116bd2f33eea72dbb08) | Cisco | San Jose, CA | 11/06/2026 23:38:53 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Silicon Design Engineer](https://jobright.ai/jobs/info/6aee14c3c7498922fe0c7942) | AMD | Santa Clara, CA | 11/06/2026 23:15:11 | Sponsorship: Past Sponsorship |
-| 81 (Strong) | [Microarchitecture and Design Engineer - AI SoC](https://jobright.ai/jobs/info/6aee6471caf8e660b87df4a8) | Intel | Santa Clara, CA | 11/06/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 60 (Good) | [Embedded Hardware Design Engineer](https://jobright.ai/jobs/info/6aee63b6e0c9de7b05f8e92a) | Emerson | Round Rock, TX | 11/06/2026 23:59:40 | Sponsorship: Past Sponsorship |
