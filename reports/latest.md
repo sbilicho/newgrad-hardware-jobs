@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-10 22:35:57Z UTC
+Updated: 2026-11-11 01:04:49Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 59 (Good) | [Hardware Validation Engineer: Level 1](https://jobright.ai/jobs/info/6af3a14a10c7aed77861cc66) | Quanta Manufacturing Nashville | Fremont, CA | 11/10/2026 22:57:14 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Hardware Engineer 1](https://jobright.ai/jobs/info/6af397cd7c81de7a524c1288) | Dexcom | San Diego, CA | 11/10/2026 22:48:09 | Sponsorship: Past Sponsorship |
+| 78 (Strong) | [Hardware Engineer](https://jobright.ai/jobs/info/6af3a81d80020ca3a89783b0) | WD | Colorado Springs, CO | 11/10/2026 23:26:21 | Sponsorship: Past Sponsorship |
+| 58 (Good) | [RF Test Engineer I (Entry-Level)](https://jobright.ai/jobs/info/6af3b3e37c81de7a524c2590) | AST SpaceMobile | Dallas, TX | 11/11/2026 00:16:34 | Sponsorship: Past Sponsorship |
+| 64 (Good) | [Regional Development Applications Engineer - eBeam](https://jobright.ai/jobs/info/6af36977769e9374033c61ad) | KLA | Austin, TX | 11/10/2026 15:19:11 | Sponsorship: Not Sure |
+| 59 (Good) | [R&D Reliability/Test Engineer - Entry Level](https://jobright.ai/jobs/info/6abc32c87119e56191cec0e4) | Formlabs | Boston, MA | 11/10/2026 15:33:04 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6af38f86769e9374033c7aeb) | GFT | State College, PA | 11/10/2026 17:05:00 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae8c036777c336eb6d65d00) | Raytheon | Portsmouth, RI | 11/10/2026 16:41:40 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6af368307c81de7a524bf0ec) | Syska Hennessy Group | New York, NY | 11/10/2026 18:53:36 | Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-11-10 22:35:57Z UTC
 | 90 (Strong) | [ASIC DFT Engineer I (Full Time) - United States](https://jobright.ai/jobs/info/6aee588dc7498922fe0cbe64) | Cisco | San Jose, CA | 11/06/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 58 (Good) | [Software Engineer Embedded Systems I (Full Time) - United States](https://jobright.ai/jobs/info/6aee60fcc7498922fe0cc4a7) | Cisco | Milpitas, CA | 11/06/2026 23:21:32 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Electrical Engineer I, X-BAT (New Grad)](https://jobright.ai/jobs/info/6ab6ac19c6fe0dec811a60a8) | Shield AI | Seattle, WA | 11/06/2026 21:23:11 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aee4193bd2f33eea72da3e2) | CS GROUP | Platteville, WI | 11/06/2026 17:07:05 | Sponsorship: Past Sponsorship |
-| 31 (Possible) | [Electronics Engineer New Grad](https://jobright.ai/jobs/info/6aee41c1bd2f33eea72da401) | BubblyNet | Clearwater, FL | 11/06/2026 21:08:17 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Analog & Power Design Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6aedf559d20350c7a50768ff) | Raytheon | Marlborough, MA | 11/06/2026 15:42:17 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Silicon Design Engineer](https://jobright.ai/jobs/info/6aee14cbbd2f33eea72d6f7d) | AMD | San Jose, CA | 11/06/2026 17:56:27 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aee3368caf8e660b87dccd7) | Salas O'Brien | Richmond, VA | 11/06/2026 15:06:31 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aee1aa3e0c9de7b05f8a1ac) | CS GROUP - USA | East Hartford, CT | 11/06/2026 16:18:58 | Sponsorship: Past Sponsorship |
