@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-11 09:36:41Z UTC
+Updated: 2026-11-11 17:28:32Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 67 (Good) | [CPU Circuit Design Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Circuit-Design-Engineer_JR0289183) | Intel | US, Texas, Austin | 11/11/2026 00:00:00 |  |
+| 90 (Strong) | [Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Design-Verification-Engineer_JR0288929-1) | Intel | US, California, Santa Clara | 11/11/2026 00:00:00 |  |
+| 50 (Good) | [Material Verification Engineer](https://jobright.ai/jobs/info/6af49c342278454e18c36b11) | RTX | Manchester, NH | 11/11/2026 17:17:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 33 (Possible) | [AI Processor Hardware/Software Integration Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6af487d11b2c5dcbbcd61a1b) | GlobalFoundries | Richardson, TX | 08/07/2026 15:20:35 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6ad79a5f950ef68d51841b85) | Leidos | Bridgewater, VA | 11/11/2026 08:06:31 | Sponsorship: No |
 | 47 (Possible) | [Validation Engineer I](https://jobright.ai/jobs/info/6af3b6877c81de7a524c2651) | Tolmar | Windsor, CO | 11/10/2026 21:24:48 | Sponsorship: Not Sure |
 | 56 (Good) | [Mechanical Application Engineer](https://jobright.ai/jobs/info/6af41d1efee40b4fffbddca2) | Kaiyiee Global Talent | Milpitas, CA | 11/10/2026 23:45:34 | Sponsorship: Not Sure |
 | 64 (Good) | [Hardware Engineer (FPGA/ASIC)](https://jobright.ai/jobs/info/6af4282455dfd18e245c3525) | Jane Street | New York, NY | 11/11/2026 00:32:36 | Sponsorship: Not Sure |
@@ -99,8 +104,3 @@ Updated: 2026-11-11 09:36:41Z UTC
 | 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aeec05440b5de2d2b30e5af) | C&S Group | Platteville, WI | 11/06/2026 14:21:10 | Sponsorship: Past Sponsorship |
 | 90 (Strong) | [ASIC DFT Engineer I (Full Time) - United States](https://jobright.ai/jobs/info/6aee9f1740b5de2d2b30dabe) | Cisco | Allentown, PA | 11/06/2026 23:46:13 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aee8a865c81f621d311718c) | Starkey Hearing | Eden Prairie, MN | 11/06/2026 23:18:35 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Electrical Engineer (New Grad)](https://jobright.ai/jobs/info/6aee853ae0c9de7b05f8f861) | Northwood | Torrance, CA | 11/07/2026 01:56:10 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aee91cecaf8e660b87e0911) | C&S Group | East Hartford, CT | 11/06/2026 07:19:48 | Sponsorship: Past Sponsorship |
-| 58 (Good) | [Software Engineer Embedded Systems I (Full Time) - United States](https://jobright.ai/jobs/info/6aee74f15c81f621d3116a45) | Cisco | San Jose, CA | 11/07/2026 00:07:54 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aee6958c7498922fe0cc7f2) | BAE Systems, Inc. | Nashua, NH | 11/06/2026 16:56:58 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6adbae4d9e3e874dbfba139e) | CAMS | Houston, TX | 11/06/2026 21:37:50 | Sponsorship: Past Sponsorship |
