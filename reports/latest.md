@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-11 01:04:49Z UTC
+Updated: 2026-11-11 02:15:45Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 67 (Good) | [Substrate Packaging Research and Development Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Substrate-Packaging-Research-and-Development-Engineer_JR0287474) | Intel | US, Arizona, Phoenix | 11/10/2026 00:00:00 |  |
+| 44 (Possible) | [Electrical Engineer I (C&DH/GNC Hardware)](https://jobright.ai/jobs/info/6af38743f6053e296fc7d8e0) | Sierra Space | Centennial, CO | 11/11/2026 00:28:19 | Sponsorship: Past Sponsorship |
+| 64 (Good) | [Hardware Engineer (FPGA/ASIC)](https://jobright.ai/jobs/info/6af3c10810c7aed77861daf3) | Jane Street | New York, NY | 11/10/2026 17:12:40 | Sponsorship: Not Sure |
 | 59 (Good) | [Hardware Validation Engineer: Level 1](https://jobright.ai/jobs/info/6af3a14a10c7aed77861cc66) | Quanta Manufacturing Nashville | Fremont, CA | 11/10/2026 22:57:14 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Hardware Engineer 1](https://jobright.ai/jobs/info/6af397cd7c81de7a524c1288) | Dexcom | San Diego, CA | 11/10/2026 22:48:09 | Sponsorship: Past Sponsorship |
 | 78 (Strong) | [Hardware Engineer](https://jobright.ai/jobs/info/6af3a81d80020ca3a89783b0) | WD | Colorado Springs, CO | 11/10/2026 23:26:21 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-11-11 01:04:49Z UTC
 | 40 (Possible) | [Silicon Design Engineer](https://jobright.ai/jobs/info/6aee14c3c7498922fe0c7942) | AMD | Santa Clara, CA | 11/06/2026 23:15:11 | Sponsorship: Past Sponsorship |
 | 81 (Strong) | [Microarchitecture and Design Engineer - AI SoC](https://jobright.ai/jobs/info/6aee6471caf8e660b87df4a8) | Intel | Santa Clara, CA | 11/06/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 60 (Good) | [Embedded Hardware Design Engineer](https://jobright.ai/jobs/info/6aee63b6e0c9de7b05f8e92a) | Emerson | Round Rock, TX | 11/06/2026 23:59:40 | Sponsorship: Past Sponsorship |
-| 90 (Strong) | [ASIC DFT Engineer I (Full Time) - United States](https://jobright.ai/jobs/info/6aee588dc7498922fe0cbe64) | Cisco | San Jose, CA | 11/06/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 58 (Good) | [Software Engineer Embedded Systems I (Full Time) - United States](https://jobright.ai/jobs/info/6aee60fcc7498922fe0cc4a7) | Cisco | Milpitas, CA | 11/06/2026 23:21:32 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [Electrical Engineer I, X-BAT (New Grad)](https://jobright.ai/jobs/info/6ab6ac19c6fe0dec811a60a8) | Shield AI | Seattle, WA | 11/06/2026 21:23:11 | Sponsorship: Past Sponsorship |
