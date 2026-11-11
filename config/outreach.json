@@ -1,6 +1,6 @@
 {
     "version":  1,
-    "researchedOn":  "2026-11-10",
+    "researchedOn":  "2026-11-11",
     "scope":  "Public hiring posts and indexed recruiter activity researched twice daily from this Windows computer using the existing ChatGPT sign-in. Private messages are not accessed. Older leads retain their own last-checked date.",
     "newRoleFamilies":  [
                             "EDA software and applications",
@@ -40,6 +40,20 @@
                       "lastCheckedUtc":  "2026-11-10T03:02:13.0306050Z"
                   },
                   {
+                      "person":  "Micron Product Test hiring team",
+                      "company":  "Micron Technology",
+                      "role":  "New College Grad – Product Test Engineer",
+                      "location":  "Boise, Idaho, United States",
+                      "url":  "https://www.linkedin.com/jobs/view/new-college-grad-product-test-engineer-at-micron-technology-4460019143",
+                      "evidence":  "Micron’s public listing is explicitly for a New College Grad Product Test Engineer in Boise. Responsibilities include developing and debugging semiconductor test programs, C++/Python scripting, DFT input, test-data analysis, and collaboration with design, fab, manufacturing, and yield teams.",
+                      "observedAge":  "13 hours ago",
+                      "verification":  "Verified current public employer job listing; not a direct recruiter or hiring-manager post.",
+                      "caution":  "The public page does not clearly state the exact graduation cutoff or start date. Confirm eligibility for a December 2026 MS graduate starting January 2027 and review any work-authorization/export-control conditions.",
+                      "message":  "Hello Micron hiring team, I’m interested in the New College Grad Product Test Engineer role in Boise. I’m completing an MS in Electrical Engineering in December 2026 and bring Python automation, device characterization, RTL/ASIC, and semiconductor test-related project experience; could you confirm January 2027 eligibility?",
+                      "sourceKind":  "job_listing",
+                      "lastCheckedUtc":  "2026-11-08T09:11:45.3424114Z"
+                  },
+                  {
                       "person":  "Qualcomm Product and Test Engineering hiring team",
                       "company":  "Qualcomm Technologies",
                       "role":  "Digital Test Engineer",
@@ -68,20 +82,6 @@
                       "lastCheckedUtc":  "2026-11-08T09:11:45.3424114Z"
                   },
                   {
-                      "person":  "Micron Product Test hiring team",
-                      "company":  "Micron Technology",
-                      "role":  "New College Grad – Product Test Engineer",
-                      "location":  "Boise, Idaho, United States",
-                      "url":  "https://www.linkedin.com/jobs/view/new-college-grad-product-test-engineer-at-micron-technology-4460019143",
-                      "evidence":  "Micron’s public listing is explicitly for a New College Grad Product Test Engineer in Boise. Responsibilities include developing and debugging semiconductor test programs, C++/Python scripting, DFT input, test-data analysis, and collaboration with design, fab, manufacturing, and yield teams.",
-                      "observedAge":  "13 hours ago",
-                      "verification":  "Verified current public employer job listing; not a direct recruiter or hiring-manager post.",
-                      "caution":  "The public page does not clearly state the exact graduation cutoff or start date. Confirm eligibility for a December 2026 MS graduate starting January 2027 and review any work-authorization/export-control conditions.",
-                      "message":  "Hello Micron hiring team, I’m interested in the New College Grad Product Test Engineer role in Boise. I’m completing an MS in Electrical Engineering in December 2026 and bring Python automation, device characterization, RTL/ASIC, and semiconductor test-related project experience; could you confirm January 2027 eligibility?",
-                      "sourceKind":  "job_listing",
-                      "lastCheckedUtc":  "2026-11-08T09:11:45.3424114Z"
-                  },
-                  {
                       "person":  "Hiring team",
                       "company":  "Aquatech",
                       "role":  "Microelectronics Project Engineer — Entry Level",
@@ -92,6 +92,34 @@
                       "verification":  "Verified public LinkedIn job listing; not a recruiter-authored direct post.",
                       "caution":  "This is semiconductor-facilities/utility infrastructure work, not chip design. The listing does not specify an exact U.S. city or January 2027 start date; confirm travel and location expectations.",
                       "message":  "Hello Aquatech recruiting team, I’m completing an MS in Electrical Engineering in December 2026 and am interested in entry-level microelectronics project work beginning January 2027. My hardware, automation, and semiconductor-process background may fit your advanced-manufacturing projects. Which U.S. location is associated with this opening?",
+                      "sourceKind":  "job_listing",
+                      "lastCheckedUtc":  "2026-11-04T18:13:05.8842332Z"
+                  },
+                  {
+                      "person":  "SinA Kim / HOW CONSULTING LLC",
+                      "company":  "Undisclosed semiconductor employer",
+                      "role":  "Semiconductor Engineer",
+                      "location":  "Austin, Texas, United States",
+                      "url":  "https://www.linkedin.com/in/howcareers",
+                      "evidence":  "Public LinkedIn profile activity describes a hiring announcement for an Austin semiconductor engineer role and explicitly says entry-level candidates are welcome; backgrounds listed include electrical/electronics and semiconductor engineering.",
+                      "observedAge":  "1 week at indexing; profile-based post date is not independently confirmed",
+                      "verification":  "Indexed profile with described hiring activity; not a directly verified post URL and employer is undisclosed.",
+                      "caution":  "Korean-language proficiency is required; role scope may include process, equipment, facility, or manufacturing engineering rather than only electrical hardware. Confirm full-time status and January 2027 start fit.",
+                      "message":  "Hello SinA, I saw your public Austin semiconductor-engineer hiring announcement welcoming entry-level candidates. My graduate work spans RTL-to-GDSII, timing analysis, silicon-oriented characterization, and electrical engineering. Could you share the employer and role details if the opening is still active?",
+                      "sourceKind":  "indexed_profile",
+                      "lastCheckedUtc":  "2026-11-04T18:13:05.8842332Z"
+                  },
+                  {
+                      "person":  "Hiring team",
+                      "company":  "Renesas Electronics",
+                      "role":  "Analog Engineer",
+                      "location":  "Morrisville, North Carolina, United States",
+                      "url":  "https://www.linkedin.com/jobs/view/analog-engineer-at-renesas-electronics-4433340381",
+                      "evidence":  "Public listing identifies an entry-level analog IC role for a recent master\u0027s graduate with no experience, supporting analog design, verification, and simulation; CMOS analog and switch-mode-power knowledge are relevant.",
+                      "observedAge":  "1 day at indexing",
+                      "verification":  "Verified public LinkedIn job listing; not a recruiter-authored direct post.",
+                      "caution":  "Requires current U.S. full-time work authorization, offers no visa sponsorship, prefers local candidates, and provides no relocation. Hybrid schedule.",
+                      "message":  "Hello Renesas recruiting team, I’m completing an MS in Electrical Engineering in December 2026 and am interested in the entry-level Analog Engineer opening in Morrisville. My background includes CMOS custom layout, HSPICE, device characterization, and digital implementation. Is a January 2027 start compatible?",
                       "sourceKind":  "job_listing",
                       "lastCheckedUtc":  "2026-11-04T18:13:05.8842332Z"
                   },
@@ -124,34 +152,6 @@
                       "lastCheckedUtc":  "2026-11-04T18:13:05.8842332Z"
                   },
                   {
-                      "person":  "Hiring team",
-                      "company":  "Renesas Electronics",
-                      "role":  "Analog Engineer",
-                      "location":  "Morrisville, North Carolina, United States",
-                      "url":  "https://www.linkedin.com/jobs/view/analog-engineer-at-renesas-electronics-4433340381",
-                      "evidence":  "Public listing identifies an entry-level analog IC role for a recent master\u0027s graduate with no experience, supporting analog design, verification, and simulation; CMOS analog and switch-mode-power knowledge are relevant.",
-                      "observedAge":  "1 day at indexing",
-                      "verification":  "Verified public LinkedIn job listing; not a recruiter-authored direct post.",
-                      "caution":  "Requires current U.S. full-time work authorization, offers no visa sponsorship, prefers local candidates, and provides no relocation. Hybrid schedule.",
-                      "message":  "Hello Renesas recruiting team, I’m completing an MS in Electrical Engineering in December 2026 and am interested in the entry-level Analog Engineer opening in Morrisville. My background includes CMOS custom layout, HSPICE, device characterization, and digital implementation. Is a January 2027 start compatible?",
-                      "sourceKind":  "job_listing",
-                      "lastCheckedUtc":  "2026-11-04T18:13:05.8842332Z"
-                  },
-                  {
-                      "person":  "SinA Kim / HOW CONSULTING LLC",
-                      "company":  "Undisclosed semiconductor employer",
-                      "role":  "Semiconductor Engineer",
-                      "location":  "Austin, Texas, United States",
-                      "url":  "https://www.linkedin.com/in/howcareers",
-                      "evidence":  "Public LinkedIn profile activity describes a hiring announcement for an Austin semiconductor engineer role and explicitly says entry-level candidates are welcome; backgrounds listed include electrical/electronics and semiconductor engineering.",
-                      "observedAge":  "1 week at indexing; profile-based post date is not independently confirmed",
-                      "verification":  "Indexed profile with described hiring activity; not a directly verified post URL and employer is undisclosed.",
-                      "caution":  "Korean-language proficiency is required; role scope may include process, equipment, facility, or manufacturing engineering rather than only electrical hardware. Confirm full-time status and January 2027 start fit.",
-                      "message":  "Hello SinA, I saw your public Austin semiconductor-engineer hiring announcement welcoming entry-level candidates. My graduate work spans RTL-to-GDSII, timing analysis, silicon-oriented characterization, and electrical engineering. Could you share the employer and role details if the opening is still active?",
-                      "sourceKind":  "indexed_profile",
-                      "lastCheckedUtc":  "2026-11-04T18:13:05.8842332Z"
-                  },
-                  {
                       "person":  "Analog Devices hiring team",
                       "company":  "Analog Devices",
                       "role":  "Associate Design Verification Engineer",
@@ -168,15 +168,29 @@
                   {
                       "person":  "Hiring team",
                       "company":  "NXP Semiconductors",
-                      "role":  "Product/Test Engineer, Entry Level",
+                      "role":  "Entry Level Digital Physical Design Engineer",
                       "location":  "Austin, TX, United States",
-                      "url":  "https://www.linkedin.com/jobs/view/product-test-engineer-entry-level-at-nxp-semiconductors-4438506357",
-                      "evidence":  "Public announcement seeks a recent engineering graduate for automotive semiconductor NPI test, DFT/ATPG, scan/BIST, silicon bring-up, characterization, emulation, ATE, and automation.",
-                      "observedAge":  "About 3 weeks",
-                      "verification":  "Verified recent public LinkedIn job announcement.",
-                      "caution":  "The posting says graduated within the last 12 months, so a December 2026 graduate may need confirmation of eligibility and start-date flexibility.",
-                      "message":  "Hello, I’m completing an MS in Electrical Engineering in December 2026 with RTL, STA, Python automation, and device-characterization experience. Would the Austin entry-level NPI Test Engineer role consider a January 2027 graduate?",
+                      "url":  "https://www.linkedin.com/jobs/view/entry-level-digital-physical-design-engineer-at-nxp-semiconductors-4464303521",
+                      "evidence":  "Public LinkedIn hiring announcement describes physical-design implementation, timing/power/rule-check support, and collaboration with methodology teams; recent degree or graduating soon is accepted and anticipated hire date is Q1 2027.",
+                      "observedAge":  "Less than 1 month",
+                      "verification":  "Verified recent public LinkedIn job announcement; hiring-team source rather than a personal post.",
+                      "caution":  "Seniority metadata is inconsistent, but the description explicitly targets recent graduates or candidates graduating soon. Confirm January 2027 start alignment.",
+                      "message":  "Hello, I’m completing an MS in Electrical Engineering in December 2026 and have RTL-to-GDSII, Innovus, Design Compiler, PrimeTime MMMC, and ECO experience. I’m interested in the Austin entry-level physical-design role for Q1 2027.",
                       "sourceKind":  "job_listing",
+                      "lastCheckedUtc":  "2026-11-03T03:01:46.9174194Z"
+                  },
+                  {
+                      "person":  "Brad Presutto",
+                      "company":  "Renesas Electronics",
+                      "role":  "Entry-level Product Engineer",
+                      "location":  "Austin, TX, United States",
+                      "url":  "https://www.linkedin.com/posts/bpresutto_product-engineer-activity-7465500809775001600--8LX",
+                      "evidence":  "Public LinkedIn post says Renesas seeks an entry-level Product Engineer for semiconductor power products; BS with up to two years or MS with no experience, supporting NPI, qualification, characterization, yield and production.",
+                      "observedAge":  "3 months",
+                      "verification":  "Older networking lead; verified public LinkedIn post by a named engineer, not a company job-listing page.",
+                      "caution":  "Older than the 30-day target; sponsorship update is mentioned, but current requisition status should be confirmed. Austin role is fully onsite.",
+                      "message":  "Hi Brad, I saw your Renesas Austin Product Engineer announcement. I finish my MS in Electrical Engineering in December 2026 and have semiconductor design, characterization, and Python automation experience. Is the entry-level opening still active for a January 2027 start?",
+                      "sourceKind":  "linkedin_post",
                       "lastCheckedUtc":  "2026-11-03T03:01:46.9174194Z"
                   },
                   {
@@ -190,20 +204,6 @@
                       "verification":  "Verified recent public LinkedIn job announcement.",
                       "caution":  "The posting does not explicitly state a new-graduate graduation window; confirm January 2027 eligibility and whether semiconductor-adjacent manufacturing hardware is suitable.",
                       "message":  "Hello, I’m completing an MS in Electrical Engineering in December 2026 and have hardware, circuits, Python, and validation experience. I’d like to learn whether the Austin entry-level Hardware Design Engineer role is open to January 2027 graduates.",
-                      "sourceKind":  "job_listing",
-                      "lastCheckedUtc":  "2026-11-03T03:01:46.9174194Z"
-                  },
-                  {
-                      "person":  "Hiring team",
-                      "company":  "NXP Semiconductors",
-                      "role":  "Entry Level Digital Physical Design Engineer",
-                      "location":  "Austin, TX, United States",
-                      "url":  "https://www.linkedin.com/jobs/view/entry-level-digital-physical-design-engineer-at-nxp-semiconductors-4464303521",
-                      "evidence":  "Public LinkedIn hiring announcement describes physical-design implementation, timing/power/rule-check support, and collaboration with methodology teams; recent degree or graduating soon is accepted and anticipated hire date is Q1 2027.",
-                      "observedAge":  "Less than 1 month",
-                      "verification":  "Verified recent public LinkedIn job announcement; hiring-team source rather than a personal post.",
-                      "caution":  "Seniority metadata is inconsistent, but the description explicitly targets recent graduates or candidates graduating soon. Confirm January 2027 start alignment.",
-                      "message":  "Hello, I’m completing an MS in Electrical Engineering in December 2026 and have RTL-to-GDSII, Innovus, Design Compiler, PrimeTime MMMC, and ECO experience. I’m interested in the Austin entry-level physical-design role for Q1 2027.",
                       "sourceKind":  "job_listing",
                       "lastCheckedUtc":  "2026-11-03T03:01:46.9174194Z"
                   },
@@ -237,6 +237,20 @@
                   },
                   {
                       "person":  "Hiring team",
+                      "company":  "NXP Semiconductors",
+                      "role":  "Product/Test Engineer, Entry Level",
+                      "location":  "Austin, TX, United States",
+                      "url":  "https://www.linkedin.com/jobs/view/product-test-engineer-entry-level-at-nxp-semiconductors-4438506357",
+                      "evidence":  "Public announcement seeks a recent engineering graduate for automotive semiconductor NPI test, DFT/ATPG, scan/BIST, silicon bring-up, characterization, emulation, ATE, and automation.",
+                      "observedAge":  "About 3 weeks",
+                      "verification":  "Verified recent public LinkedIn job announcement.",
+                      "caution":  "The posting says graduated within the last 12 months, so a December 2026 graduate may need confirmation of eligibility and start-date flexibility.",
+                      "message":  "Hello, I’m completing an MS in Electrical Engineering in December 2026 with RTL, STA, Python automation, and device-characterization experience. Would the Austin entry-level NPI Test Engineer role consider a January 2027 graduate?",
+                      "sourceKind":  "job_listing",
+                      "lastCheckedUtc":  "2026-11-03T03:01:46.9174194Z"
+                  },
+                  {
+                      "person":  "Hiring team",
                       "company":  "Infineon Technologies",
                       "role":  "Graduate Test Engineer",
                       "location":  "San Jose, CA, United States",
@@ -247,20 +261,6 @@
                       "caution":  "The posting requires legal U.S. work authorization and may involve export-control review; confirm whether January 2027 graduates are accepted.",
                       "message":  "Hello, I’m completing an MS in Electrical Engineering in December 2026 and have device-characterization, HSPICE, Python, and hardware-validation experience. I’m interested in the San Jose Graduate Test Engineer role and its January 2027 timing.",
                       "sourceKind":  "job_listing",
-                      "lastCheckedUtc":  "2026-11-03T03:01:46.9174194Z"
-                  },
-                  {
-                      "person":  "Brad Presutto",
-                      "company":  "Renesas Electronics",
-                      "role":  "Entry-level Product Engineer",
-                      "location":  "Austin, TX, United States",
-                      "url":  "https://www.linkedin.com/posts/bpresutto_product-engineer-activity-7465500809775001600--8LX",
-                      "evidence":  "Public LinkedIn post says Renesas seeks an entry-level Product Engineer for semiconductor power products; BS with up to two years or MS with no experience, supporting NPI, qualification, characterization, yield and production.",
-                      "observedAge":  "3 months",
-                      "verification":  "Older networking lead; verified public LinkedIn post by a named engineer, not a company job-listing page.",
-                      "caution":  "Older than the 30-day target; sponsorship update is mentioned, but current requisition status should be confirmed. Austin role is fully onsite.",
-                      "message":  "Hi Brad, I saw your Renesas Austin Product Engineer announcement. I finish my MS in Electrical Engineering in December 2026 and have semiconductor design, characterization, and Python automation experience. Is the entry-level opening still active for a January 2027 start?",
-                      "sourceKind":  "linkedin_post",
                       "lastCheckedUtc":  "2026-11-03T03:01:46.9174194Z"
                   },
                   {
@@ -278,20 +278,6 @@
                       "lastCheckedUtc":  "2026-11-03T03:01:46.9174194Z"
                   },
                   {
-                      "person":  "NVIDIA hiring team",
-                      "company":  "NVIDIA",
-                      "role":  "Software Engineer, Hardware Tools and Methodology – New College Grad 2026",
-                      "location":  "Santa Clara, California, United States",
-                      "url":  "https://www.linkedin.com/jobs/view/software-engineer-hardware-tools-and-methodology-new-college-grad-2026-at-nvidia-4424322453",
-                      "evidence":  "Public listing targets a new-college graduate with an M.S. or higher for C++ hardware-tool development, Verilog RTL processing, ASIC workflows, synthesis/verification, and Python/Perl/Make scripting.",
-                      "observedAge":  "2 days old at search time",
-                      "verification":  "Verified recent public LinkedIn employer listing.",
-                      "caution":  "The title says 2026; confirm whether the requisition accepts a December 2026 graduate starting January 2027 and whether the work is software-heavy.",
-                      "message":  "Hello NVIDIA recruiting team—my M.S. Electrical Engineering work includes RTL-to-GDSII, Verilog/SystemVerilog, Python automation, and a Python STA prototype. I’m interested in the hardware tools and methodology new-grad role and can start January 2027.",
-                      "sourceKind":  "job_listing",
-                      "lastCheckedUtc":  "2026-10-30T23:08:38.8829859Z"
-                  },
-                  {
                       "person":  "NXP hiring team",
                       "company":  "NXP Semiconductors",
                       "role":  "Entry-Level Semiconductor Test Engineer",
@@ -302,6 +288,20 @@
                       "verification":  "Verified recent public LinkedIn employer listing.",
                       "caution":  "The listing does not state a precise graduation cutoff or start date; confirm January 2027 eligibility and any work-authorization conditions.",
                       "message":  "Hello NXP recruiting team—I’m finishing an M.S. in Electrical Engineering in December 2026 and have experience with device characterization, Python automation, RTL/ASIC flows, and hardware validation. I’m interested in the Chandler entry-level semiconductor test role for January 2027.",
+                      "sourceKind":  "job_listing",
+                      "lastCheckedUtc":  "2026-10-30T23:08:38.8829859Z"
+                  },
+                  {
+                      "person":  "NVIDIA hiring team",
+                      "company":  "NVIDIA",
+                      "role":  "Software Engineer, Hardware Tools and Methodology – New College Grad 2026",
+                      "location":  "Santa Clara, California, United States",
+                      "url":  "https://www.linkedin.com/jobs/view/software-engineer-hardware-tools-and-methodology-new-college-grad-2026-at-nvidia-4424322453",
+                      "evidence":  "Public listing targets a new-college graduate with an M.S. or higher for C++ hardware-tool development, Verilog RTL processing, ASIC workflows, synthesis/verification, and Python/Perl/Make scripting.",
+                      "observedAge":  "2 days old at search time",
+                      "verification":  "Verified recent public LinkedIn employer listing.",
+                      "caution":  "The title says 2026; confirm whether the requisition accepts a December 2026 graduate starting January 2027 and whether the work is software-heavy.",
+                      "message":  "Hello NVIDIA recruiting team—my M.S. Electrical Engineering work includes RTL-to-GDSII, Verilog/SystemVerilog, Python automation, and a Python STA prototype. I’m interested in the hardware tools and methodology new-grad role and can start January 2027.",
                       "sourceKind":  "job_listing",
                       "lastCheckedUtc":  "2026-10-30T23:08:38.8829859Z"
                   },
@@ -390,17 +390,31 @@
                       "lastCheckedUtc":  "2026-10-30T23:08:38.8829859Z"
                   },
                   {
-                      "person":  "NXP recruiting team",
-                      "company":  "NXP Semiconductors",
-                      "role":  "Entry-Level NVM Reliability Lab Engineer",
+                      "person":  "IBM recruiting team",
+                      "company":  "IBM",
+                      "role":  "Entry-Level Hardware Developer, Austin 2027",
                       "location":  "Austin, Texas, United States",
-                      "url":  "https://www.linkedin.com/jobs/view/entry-level-nvm-reliability-lab-engineer-at-nxp-semiconductors-4461269823",
-                      "evidence":  "Entry-level role accepts a bachelor’s or master’s degree completed within the past two years and involves NVM reliability characterization, lab automation, embedded C/C++, oscilloscope/logic-analyzer debugging, PCB schematics, and statistical analysis.",
-                      "observedAge":  "5 hours in the indexed job view",
-                      "verification":  "Verified very recent public employer job listing.",
-                      "caution":  "The role is device-reliability/lab focused; the candidate’s device-characterization and Python evidence is relevant, but NVM-specific experience is not claimed.",
-                      "message":  "Hello NXP recruiting—I’m completing an MS in Electrical Engineering in December 2026 with device characterization, HSPICE, Python analysis, and hardware-debug experience. I’d be interested in the Austin NVM reliability lab role for a January 2027 start.",
+                      "url":  "https://www.linkedin.com/jobs/view/entry-level-hardware-developer-austin-tx-2027-at-ibm-4459557654",
+                      "evidence":  "2027 entry-level hardware-development listing includes VLSI/physical-design/integration and analog-circuit tracks, Python scripting, Cadence/Spice, processor/ASIC physical-design exposure, and high-speed interface concepts.",
+                      "observedAge":  "1 day in the indexed job view",
+                      "verification":  "Verified recent public employer job listing.",
+                      "caution":  "The listing aggregates several tracks; exact team assignment, start date, and sponsorship need confirmation. Do not infer that all tracks require the candidate’s full skill set.",
+                      "message":  "Hello IBM recruiting—I’m completing an MS in Electrical Engineering in December 2026 with RTL-to-GDSII, Innovus/Design Compiler/PrimeTime, MMMC/ECO, Python STA, CMOS layout, and HSPICE experience. I’m interested in the Austin 2027 entry-level hardware tracks.",
                       "sourceKind":  "job_listing",
+                      "lastCheckedUtc":  "2026-10-29T19:30:23.4527467Z"
+                  },
+                  {
+                      "person":  "James Mitchell / NVIDIA University Recruiting",
+                      "company":  "NVIDIA",
+                      "role":  "SoC Hardware Engineer, New College Graduate",
+                      "location":  "United States; exact site not stated in the post",
+                      "url":  "https://www.linkedin.com/posts/jamesmitchellhardware_soc-hardware-engineer-new-college-grad-activity-7439669325692743681-YPp-",
+                      "evidence":  "Named recruiting professional announced a recent-college-graduate SoC hardware role involving architecture and design of networking and SoC solutions, seeking computer architecture, digital logic, and chip-design fundamentals.",
+                      "observedAge":  "5 months in the indexed post view",
+                      "verification":  "Verified public direct post by a named recruiting professional, but old networking lead rather than a current vacancy.",
+                      "caution":  "The post does not identify an exact U.S. location or confirm that the requisition remains open; graduation timing and sponsorship are unconfirmed.",
+                      "message":  "Hi James—I’m finishing an MS in Electrical Engineering in December 2026 with RTL, ASIC flow, SystemVerilog, and hardware-validation projects. Is the new-college-grad SoC hardware role, or a similar U.S. opening, still active for a January 2027 start?",
+                      "sourceKind":  "linkedin_post",
                       "lastCheckedUtc":  "2026-10-29T19:30:23.4527467Z"
                   },
                   {
@@ -432,30 +446,30 @@
                       "lastCheckedUtc":  "2026-10-29T19:30:23.4527467Z"
                   },
                   {
-                      "person":  "James Mitchell / NVIDIA University Recruiting",
-                      "company":  "NVIDIA",
-                      "role":  "SoC Hardware Engineer, New College Graduate",
-                      "location":  "United States; exact site not stated in the post",
-                      "url":  "https://www.linkedin.com/posts/jamesmitchellhardware_soc-hardware-engineer-new-college-grad-activity-7439669325692743681-YPp-",
-                      "evidence":  "Named recruiting professional announced a recent-college-graduate SoC hardware role involving architecture and design of networking and SoC solutions, seeking computer architecture, digital logic, and chip-design fundamentals.",
-                      "observedAge":  "5 months in the indexed post view",
-                      "verification":  "Verified public direct post by a named recruiting professional, but old networking lead rather than a current vacancy.",
-                      "caution":  "The post does not identify an exact U.S. location or confirm that the requisition remains open; graduation timing and sponsorship are unconfirmed.",
-                      "message":  "Hi James—I’m finishing an MS in Electrical Engineering in December 2026 with RTL, ASIC flow, SystemVerilog, and hardware-validation projects. Is the new-college-grad SoC hardware role, or a similar U.S. opening, still active for a January 2027 start?",
-                      "sourceKind":  "linkedin_post",
+                      "person":  "NXP recruiting team",
+                      "company":  "NXP Semiconductors",
+                      "role":  "Entry-Level NVM Reliability Lab Engineer",
+                      "location":  "Austin, Texas, United States",
+                      "url":  "https://www.linkedin.com/jobs/view/entry-level-nvm-reliability-lab-engineer-at-nxp-semiconductors-4461269823",
+                      "evidence":  "Entry-level role accepts a bachelor’s or master’s degree completed within the past two years and involves NVM reliability characterization, lab automation, embedded C/C++, oscilloscope/logic-analyzer debugging, PCB schematics, and statistical analysis.",
+                      "observedAge":  "5 hours in the indexed job view",
+                      "verification":  "Verified very recent public employer job listing.",
+                      "caution":  "The role is device-reliability/lab focused; the candidate’s device-characterization and Python evidence is relevant, but NVM-specific experience is not claimed.",
+                      "message":  "Hello NXP recruiting—I’m completing an MS in Electrical Engineering in December 2026 with device characterization, HSPICE, Python analysis, and hardware-debug experience. I’d be interested in the Austin NVM reliability lab role for a January 2027 start.",
+                      "sourceKind":  "job_listing",
                       "lastCheckedUtc":  "2026-10-29T19:30:23.4527467Z"
                   },
                   {
-                      "person":  "Cirrus Logic recruiting team",
-                      "company":  "Cirrus Logic",
-                      "role":  "Product Test Engineer – New College Graduate",
+                      "person":  "Emerson / NI recruiting team",
+                      "company":  "Emerson",
+                      "role":  "Digital Hardware Engineer",
                       "location":  "Austin, Texas, United States",
-                      "url":  "https://www.linkedin.com/jobs/view/product-test-engineer-new-college-graduate-at-cirrus-logic-4463579384",
-                      "evidence":  "Full-time product-test role accepts December 2026 graduates, with May 2027 graduates also considered. It involves IC testing or mixed-signal product development, Python/MATLAB-style analysis, test-hardware debugging, schematic tracing, and board troubleshooting.",
-                      "observedAge":  "3 weeks in the indexed job view",
-                      "verification":  "Verified public employer job listing.",
-                      "caution":  "The listing states applicants must be authorized to work for any U.S. employer and that sponsorship is unavailable; exact start date is not stated.",
-                      "message":  "Hello Cirrus Logic recruiting—I’m completing an MS in Electrical Engineering in December 2026 with device characterization, HSPICE, CMOS layout, Python analysis, and hardware-validation experience. I’d welcome consideration for the Austin new-college-graduate product-test role.",
+                      "url":  "https://www.linkedin.com/jobs/view/hardware-digital-engineer-at-emerson-4476781599",
+                      "evidence":  "Immediate entry-level opening in Austin for digital board-level design, schematic entry, layout guidance, signal-integrity simulation, and prototype validation, with development support for early-career engineers.",
+                      "observedAge":  "3 hours in the indexed job view",
+                      "verification":  "Verified very recent public employer job listing.",
+                      "caution":  "The excerpt does not state a graduation window or sponsorship policy; verify January 2027 start and eligibility.",
+                      "message":  "Hello Emerson/NI recruiting—I’m completing an MS in Electrical Engineering in December 2026 with board-level, CMOS, RTL, and validation experience. I’m interested in the Austin entry-level digital hardware opening and would appreciate confirmation of start-date eligibility.",
                       "sourceKind":  "job_listing",
                       "lastCheckedUtc":  "2026-10-29T19:30:23.4527467Z"
                   },
@@ -474,20 +488,6 @@
                       "lastCheckedUtc":  "2026-10-29T19:30:23.4527467Z"
                   },
                   {
-                      "person":  "Emerson / NI recruiting team",
-                      "company":  "Emerson",
-                      "role":  "Digital Hardware Engineer",
-                      "location":  "Austin, Texas, United States",
-                      "url":  "https://www.linkedin.com/jobs/view/hardware-digital-engineer-at-emerson-4476781599",
-                      "evidence":  "Immediate entry-level opening in Austin for digital board-level design, schematic entry, layout guidance, signal-integrity simulation, and prototype validation, with development support for early-career engineers.",
-                      "observedAge":  "3 hours in the indexed job view",
-                      "verification":  "Verified very recent public employer job listing.",
-                      "caution":  "The excerpt does not state a graduation window or sponsorship policy; verify January 2027 start and eligibility.",
-                      "message":  "Hello Emerson/NI recruiting—I’m completing an MS in Electrical Engineering in December 2026 with board-level, CMOS, RTL, and validation experience. I’m interested in the Austin entry-level digital hardware opening and would appreciate confirmation of start-date eligibility.",
-                      "sourceKind":  "job_listing",
-                      "lastCheckedUtc":  "2026-10-29T19:30:23.4527467Z"
-                  },
-                  {
                       "person":  "Graphcore recruiting team",
                       "company":  "Graphcore",
                       "role":  "Graduate Hardware Engineer",
@@ -502,16 +502,16 @@
                       "lastCheckedUtc":  "2026-10-29T19:30:23.4527467Z"
                   },
                   {
-                      "person":  "IBM recruiting team",
-                      "company":  "IBM",
-                      "role":  "Entry-Level Hardware Developer, Austin 2027",
+                      "person":  "Cirrus Logic recruiting team",
+                      "company":  "Cirrus Logic",
+                      "role":  "Product Test Engineer – New College Graduate",
                       "location":  "Austin, Texas, United States",
-                      "url":  "https://www.linkedin.com/jobs/view/entry-level-hardware-developer-austin-tx-2027-at-ibm-4459557654",
-                      "evidence":  "2027 entry-level hardware-development listing includes VLSI/physical-design/integration and analog-circuit tracks, Python scripting, Cadence/Spice, processor/ASIC physical-design exposure, and high-speed interface concepts.",
-                      "observedAge":  "1 day in the indexed job view",
-                      "verification":  "Verified recent public employer job listing.",
-                      "caution":  "The listing aggregates several tracks; exact team assignment, start date, and sponsorship need confirmation. Do not infer that all tracks require the candidate’s full skill set.",
-                      "message":  "Hello IBM recruiting—I’m completing an MS in Electrical Engineering in December 2026 with RTL-to-GDSII, Innovus/Design Compiler/PrimeTime, MMMC/ECO, Python STA, CMOS layout, and HSPICE experience. I’m interested in the Austin 2027 entry-level hardware tracks.",
+                      "url":  "https://www.linkedin.com/jobs/view/product-test-engineer-new-college-graduate-at-cirrus-logic-4463579384",
+                      "evidence":  "Full-time product-test role accepts December 2026 graduates, with May 2027 graduates also considered. It involves IC testing or mixed-signal product development, Python/MATLAB-style analysis, test-hardware debugging, schematic tracing, and board troubleshooting.",
+                      "observedAge":  "3 weeks in the indexed job view",
+                      "verification":  "Verified public employer job listing.",
+                      "caution":  "The listing states applicants must be authorized to work for any U.S. employer and that sponsorship is unavailable; exact start date is not stated.",
+                      "message":  "Hello Cirrus Logic recruiting—I’m completing an MS in Electrical Engineering in December 2026 with device characterization, HSPICE, CMOS layout, Python analysis, and hardware-validation experience. I’d welcome consideration for the Austin new-college-graduate product-test role.",
                       "sourceKind":  "job_listing",
                       "lastCheckedUtc":  "2026-10-29T19:30:23.4527467Z"
                   },
@@ -558,20 +558,6 @@
                       "lastCheckedUtc":  "2026-10-26T11:30:25.2742988Z"
                   },
                   {
-                      "person":  "Eric Williams",
-                      "company":  "Delos Data",
-                      "role":  "Electrical systems and RTL hiring - exploratory graduate inquiry",
-                      "location":  "Palo Alto / Santa Barbara, California, United States; verify the opening\u0027s worksite",
-                      "url":  "https://www.linkedin.com/in/ericrwilliams",
-                      "evidence":  "Indexed public profile activity says the systems team seeks electrical, packaging, signal-integrity and power-integrity engineers, and contains shared RTL hiring activity at Delos Data.",
-                      "observedAge":  "The systems hiring activity displays 1 month; the RTL activity date is unconfirmed",
-                      "verification":  "Public indexed people-operations profile, not a verified graduate requisition",
-                      "caution":  "Entry-level suitability, active vacancies and January 2027 start are unconfirmed. Treat this as a targeted startup networking inquiry, not a verified new-grad vacancy. Signal/power integrity or packaging expertise is not claimed.",
-                      "message":  "Hi Eric, I saw your Delos Data electrical-systems and RTL hiring activity. I finish my MS EE at ASU in December 2026 and have SystemVerilog, ASIC implementation, STA and Python automation projects. Is there room for a new graduate on the U.S. digital hardware or implementation team from January 2027? I would be glad to share a concise resume if relevant.",
-                      "sourceKind":  "indexed_profile",
-                      "lastCheckedUtc":  "2026-10-26T11:30:25.2742988Z"
-                  },
-                  {
                       "person":  "Infineon Technologies hiring team",
                       "company":  "Infineon Technologies",
                       "role":  "Graduate – Test Engineer",
@@ -596,6 +582,20 @@
                       "verification":  "Indexed profile activity, not a verified original post or current application window",
                       "caution":  "One graduate announcement described a three-day application window that may already be closed. Check current requisitions before applying. Defense roles may require U.S. citizenship, clearance or export eligibility; none is assumed. Do not address him as the hiring manager.",
                       "message":  "Hi Mark, thank you for sharing the 2027 graduate engineering openings. I finish my MS EE at ASU in December 2026, with SystemVerilog, RTL-to-GDSII, timing and verification-automation projects. I understand you share these for visibility rather than as the hiring manager. Is there a current U.S. electrical/digital hardware graduate search I should follow?",
+                      "sourceKind":  "indexed_profile",
+                      "lastCheckedUtc":  "2026-10-26T11:30:25.2742988Z"
+                  },
+                  {
+                      "person":  "Eric Williams",
+                      "company":  "Delos Data",
+                      "role":  "Electrical systems and RTL hiring - exploratory graduate inquiry",
+                      "location":  "Palo Alto / Santa Barbara, California, United States; verify the opening\u0027s worksite",
+                      "url":  "https://www.linkedin.com/in/ericrwilliams",
+                      "evidence":  "Indexed public profile activity says the systems team seeks electrical, packaging, signal-integrity and power-integrity engineers, and contains shared RTL hiring activity at Delos Data.",
+                      "observedAge":  "The systems hiring activity displays 1 month; the RTL activity date is unconfirmed",
+                      "verification":  "Public indexed people-operations profile, not a verified graduate requisition",
+                      "caution":  "Entry-level suitability, active vacancies and January 2027 start are unconfirmed. Treat this as a targeted startup networking inquiry, not a verified new-grad vacancy. Signal/power integrity or packaging expertise is not claimed.",
+                      "message":  "Hi Eric, I saw your Delos Data electrical-systems and RTL hiring activity. I finish my MS EE at ASU in December 2026 and have SystemVerilog, ASIC implementation, STA and Python automation projects. Is there room for a new graduate on the U.S. digital hardware or implementation team from January 2027? I would be glad to share a concise resume if relevant.",
                       "sourceKind":  "indexed_profile",
                       "lastCheckedUtc":  "2026-10-26T11:30:25.2742988Z"
                   },
@@ -640,19 +640,6 @@
                       "lastCheckedUtc":  "2026-10-26T10:28:22.4568380Z"
                   },
                   {
-                      "person":  "Michelle L. / NVIDIA recruiting",
-                      "company":  "NVIDIA",
-                      "role":  "ASIC Verification Engineer - New College Grad 2026",
-                      "location":  "Austin, Texas, United States",
-                      "url":  "https://www.linkedin.com/posts/missmichelleyy_asic-verification-engineer-new-college-activity-7470176469902639104-9dVQ",
-                      "evidence":  "Public LinkedIn post explicitly says Michelle is hiring a 2026 new-college-graduate ASIC Design Verification Engineer for NVIDIA in Austin; the associated role concerns hardware/chip verification.",
-                      "observedAge":  "2 months",
-                      "verification":  "Verified older public recruiter/hiring post; outside the preferred 30-day window.",
-                      "caution":  "The post is older and the associated LinkedIn job page separately shows the role in Austin; confirm that the requisition remains open. The candidate has relevant SystemVerilog/RTL and verification projects, but no UVM experience should be assumed.",
-                      "message":  "Hello Michelle—I\u0027m completing an MS in Electrical Engineering in December 2026 and targeting January 2027 full-time ASIC/DV roles. My projects include SystemVerilog, RTL-to-GDSII work, and a cocotb/Docker Verilog repair agent. Is this NVIDIA opportunity or a similar Austin new-grad role still open?",
-                      "lastCheckedUtc":  "2026-10-26T10:28:22.4568380Z"
-                  },
-                  {
                       "person":  "Microchip ASIC/SoC design hiring team",
                       "company":  "Microchip Technology",
                       "role":  "Engineer I - Design",
@@ -663,6 +650,19 @@
                       "verification":  "Indexed job announcement; the page returned gone when rechecked, so opening is not currently verified.",
                       "caution":  "Do not treat the index date as a live employer publication unless the opening is confirmed elsewhere. Allentown onsite expectations, requisition status, and January 2027 eligibility require confirmation.",
                       "message":  "Hello Microchip ASIC/SoC hiring team—I\u0027m finishing an MS in Electrical Engineering in December 2026 and available January 2027. My RTL-to-GDSII, synthesis, PrimeTime MMMC/ECO, SystemVerilog, and Python STA projects align with the advertised Engineer I scope. Has this Allentown opening been reposted or filled?",
+                      "lastCheckedUtc":  "2026-10-26T10:28:22.4568380Z"
+                  },
+                  {
+                      "person":  "Michelle L. / NVIDIA recruiting",
+                      "company":  "NVIDIA",
+                      "role":  "ASIC Verification Engineer - New College Grad 2026",
+                      "location":  "Austin, Texas, United States",
+                      "url":  "https://www.linkedin.com/posts/missmichelleyy_asic-verification-engineer-new-college-activity-7470176469902639104-9dVQ",
+                      "evidence":  "Public LinkedIn post explicitly says Michelle is hiring a 2026 new-college-graduate ASIC Design Verification Engineer for NVIDIA in Austin; the associated role concerns hardware/chip verification.",
+                      "observedAge":  "2 months",
+                      "verification":  "Verified older public recruiter/hiring post; outside the preferred 30-day window.",
+                      "caution":  "The post is older and the associated LinkedIn job page separately shows the role in Austin; confirm that the requisition remains open. The candidate has relevant SystemVerilog/RTL and verification projects, but no UVM experience should be assumed.",
+                      "message":  "Hello Michelle—I\u0027m completing an MS in Electrical Engineering in December 2026 and targeting January 2027 full-time ASIC/DV roles. My projects include SystemVerilog, RTL-to-GDSII work, and a cocotb/Docker Verilog repair agent. Is this NVIDIA opportunity or a similar Austin new-grad role still open?",
                       "lastCheckedUtc":  "2026-10-26T10:28:22.4568380Z"
                   },
                   {
@@ -679,19 +679,6 @@
                       "lastCheckedUtc":  "2026-10-26T10:28:22.4568380Z"
                   },
                   {
-                      "person":  "Rambus Controller IP verification team",
-                      "company":  "Rambus",
-                      "role":  "SMTS Verification Engineering — junior/recent college graduate",
-                      "location":  "Hillsboro, Oregon, United States",
-                      "url":  "https://careers-rambus.icims.com/jobs/23084/smts-verification-engineering/job?in_iframe=1",
-                      "evidence":  "Public Rambus posting explicitly seeks a junior/recent-college-graduate Design Verification Engineer for DRAM-controller IP and pre-silicon RTL verification; it is full-time with a hybrid/onsite Hillsboro arrangement.",
-                      "observedAge":  "3 days",
-                      "verification":  "Verified recent public employer posting.",
-                      "caution":  "The title includes SMTS, and the posting may expect more than purely academic experience; confirm level and January 2027 start timing. DRAM-controller/domain knowledge is not established by the candidate evidence.",
-                      "message":  "Hello Rambus Controller IP team—I\u0027m finishing an MS in Electrical Engineering in December 2026 and seeking a January 2027 start. My SystemVerilog, RTL-to-GDSII, STA, and verification-automation projects may fit junior pre-silicon DV work. Is the Hillsboro role open to upcoming graduates?",
-                      "lastCheckedUtc":  "2026-10-26T10:28:22.4568380Z"
-                  },
-                  {
                       "person":  "VeriSilicon U.S. hiring team",
                       "company":  "VeriSilicon",
                       "role":  "Digital Design Engineer (New Grad / Entry-Level) — ASIC Design Services",
@@ -702,6 +689,19 @@
                       "verification":  "Verified current public company careers page.",
                       "caution":  "The posting asks for familiarity with UVM and may involve customer-facing work; do not infer UVM experience. The page displays a public recruiting email, which is intentionally omitted here.",
                       "message":  "Hello VeriSilicon hiring team—I\u0027m completing an MS in Electrical Engineering in December 2026 and available January 2027. My RTL-to-GDSII, Design Compiler/PrimeTime MMMC/ECO, SystemVerilog, and Python automation projects align with your entry-level ASIC design and STA work. Are U.S. new-grad applications still being reviewed?",
+                      "lastCheckedUtc":  "2026-10-26T10:28:22.4568380Z"
+                  },
+                  {
+                      "person":  "Rambus Controller IP verification team",
+                      "company":  "Rambus",
+                      "role":  "SMTS Verification Engineering — junior/recent college graduate",
+                      "location":  "Hillsboro, Oregon, United States",
+                      "url":  "https://careers-rambus.icims.com/jobs/23084/smts-verification-engineering/job?in_iframe=1",
+                      "evidence":  "Public Rambus posting explicitly seeks a junior/recent-college-graduate Design Verification Engineer for DRAM-controller IP and pre-silicon RTL verification; it is full-time with a hybrid/onsite Hillsboro arrangement.",
+                      "observedAge":  "3 days",
+                      "verification":  "Verified recent public employer posting.",
+                      "caution":  "The title includes SMTS, and the posting may expect more than purely academic experience; confirm level and January 2027 start timing. DRAM-controller/domain knowledge is not established by the candidate evidence.",
+                      "message":  "Hello Rambus Controller IP team—I\u0027m finishing an MS in Electrical Engineering in December 2026 and seeking a January 2027 start. My SystemVerilog, RTL-to-GDSII, STA, and verification-automation projects may fit junior pre-silicon DV work. Is the Hillsboro role open to upcoming graduates?",
                       "lastCheckedUtc":  "2026-10-26T10:28:22.4568380Z"
                   },
                   {
@@ -718,6 +718,19 @@
                       "lastCheckedUtc":  "2026-10-26T10:28:22.4568380Z"
                   },
                   {
+                      "person":  "Alfredo N. / Michelle L.",
+                      "company":  "NVIDIA",
+                      "role":  "ASIC Verification Engineer - New College Grad 2026",
+                      "location":  "Austin, TX",
+                      "url":  "https://www.linkedin.com/posts/alfnuno_asic-verification-engineer-new-college-activity-7470205718235672576-pL9V",
+                      "evidence":  "Direct public post reviewed; team member shares a recruiter post for an Austin new-graduate role.",
+                      "observedAge":  "Public page shows 4 months old",
+                      "verification":  "Post verified; current opening unconfirmed",
+                      "caution":  "Older networking lead. Ask about an active 2026/2027 requisition before treating it as a new vacancy.",
+                      "message":  "Hi Alfredo, I came across your team\u0027s Austin new-grad verification post. I graduate in December 2026 and have SystemVerilog, cocotb, and simulation/debug experience alongside an RTL-to-GDSII accelerator project. Is the team still considering January 2027 graduates, or is there a newer requisition I should use?",
+                      "lastCheckedUtc":  "2026-10-26T00:00:00Z"
+                  },
+                  {
                       "person":  "Shanwen Hou",
                       "company":  "International Recruiting LLC / unnamed semiconductor startup",
                       "role":  "New-grad-friendly ASIC verification",
@@ -728,19 +741,6 @@
                       "verification":  "Indexed lead; employer and active requisition not independently verified",
                       "caution":  "Request the employer, requisition, and full-time terms. Deep UVM experience is not established by the current resume.",
                       "message":  "Hi Shanwen, I saw your post about new-grad ASIC verification openings in Santa Clara and Boston. My background includes SystemVerilog RTL, cocotb test harnesses, simulation/debug automation, and a Python/Docker Verilog repair project. Could you share the employer, job description, and whether the team considers candidates with this verification background for a January 2027 start?",
-                      "lastCheckedUtc":  "2026-10-26T00:00:00Z"
-                  },
-                  {
-                      "person":  "MatX hiring team",
-                      "company":  "MatX",
-                      "role":  "AI-chip engineering across experience levels",
-                      "location":  "Mountain View, CA; role-dependent remote options",
-                      "url":  "https://matx.com/jobs",
-                      "evidence":  "Official careers page says all experience levels are considered and describes new graduates on the team.",
-                      "observedAge":  "Official careers statement checked October 26, 2026",
-                      "verification":  "Company page verified; each requisition has its own requirements",
-                      "caution":  "Choose the closest actual opening and confirm its location and experience requirements. This is a company lead rather than a named recruiter\u0027s post.",
-                      "message":  "I am completing an MS in EE in December 2026 and can start in January 2027. My background includes a routed ASAP7 accelerator, PrimeTime timing/ECO work, a Python STA prototype, and a cocotb-based Verilog repair agent. I would be interested in early-career RTL, physical implementation, or CAD/EDA tooling work at MatX.",
                       "lastCheckedUtc":  "2026-10-26T00:00:00Z"
                   },
                   {
@@ -770,16 +770,16 @@
                       "lastCheckedUtc":  "2026-10-26T00:00:00Z"
                   },
                   {
-                      "person":  "Alfredo N. / Michelle L.",
-                      "company":  "NVIDIA",
-                      "role":  "ASIC Verification Engineer - New College Grad 2026",
-                      "location":  "Austin, TX",
-                      "url":  "https://www.linkedin.com/posts/alfnuno_asic-verification-engineer-new-college-activity-7470205718235672576-pL9V",
-                      "evidence":  "Direct public post reviewed; team member shares a recruiter post for an Austin new-graduate role.",
-                      "observedAge":  "Public page shows 4 months old",
-                      "verification":  "Post verified; current opening unconfirmed",
-                      "caution":  "Older networking lead. Ask about an active 2026/2027 requisition before treating it as a new vacancy.",
-                      "message":  "Hi Alfredo, I came across your team\u0027s Austin new-grad verification post. I graduate in December 2026 and have SystemVerilog, cocotb, and simulation/debug experience alongside an RTL-to-GDSII accelerator project. Is the team still considering January 2027 graduates, or is there a newer requisition I should use?",
+                      "person":  "MatX hiring team",
+                      "company":  "MatX",
+                      "role":  "AI-chip engineering across experience levels",
+                      "location":  "Mountain View, CA; role-dependent remote options",
+                      "url":  "https://matx.com/jobs",
+                      "evidence":  "Official careers page says all experience levels are considered and describes new graduates on the team.",
+                      "observedAge":  "Official careers statement checked October 26, 2026",
+                      "verification":  "Company page verified; each requisition has its own requirements",
+                      "caution":  "Choose the closest actual opening and confirm its location and experience requirements. This is a company lead rather than a named recruiter\u0027s post.",
+                      "message":  "I am completing an MS in EE in December 2026 and can start in January 2027. My background includes a routed ASAP7 accelerator, PrimeTime timing/ECO work, a Python STA prototype, and a cocotb-based Verilog repair agent. I would be interested in early-career RTL, physical implementation, or CAD/EDA tooling work at MatX.",
                       "lastCheckedUtc":  "2026-10-26T00:00:00Z"
                   }
               ],
@@ -787,8 +787,8 @@
                        "status":  "active",
                        "schedule":  "08:00 and 20:00 America/Phoenix",
                        "requiresComputer":  true,
-                       "lastSuccessfulResearchUtc":  "2026-11-10T03:02:13.0306050Z",
-                       "latestLeadCount":  2,
+                       "lastSuccessfulResearchUtc":  "2026-11-11T03:01:21.5278088Z",
+                       "latestLeadCount":  0,
                        "note":  "Uses the existing ChatGPT allowance; runs after missed schedules when the computer is available."
                    }
 }
