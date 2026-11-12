@@ -1,9 +1,21 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-12 14:05:15Z UTC
+Updated: 2026-11-12 20:48:07Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 74 (Strong) | [Memory Circuit Design Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Memory-Circuit-Design-Engineer_JR0285104) | Intel | US, Oregon, Hillsboro; US, California, Santa Clara; US, Texas, Austin; US, Arizona, Phoenix | 11/12/2026 00:00:00 |  |
+| 74 (Strong) | [Failure Analysis Engineer](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Failure-Analysis-Engineer_R027786) | Broadcom | USA-Colorado-Fort Collins-4380 Ziegler Road | 11/12/2026 00:00:00 |  |
+| 44 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6af6026880054650a5e7b18a) | Antares | Los Angeles, CA | 11/12/2026 18:16:07 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6af5f51f79862a378dcef3c8) | AECOM | Atlanta, GA | 11/12/2026 17:18:35 | Sponsorship: Past Sponsorship |
+| 31 (Possible) | [Principal Packaging Design Integration Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6af6233880054650a5e7c5e6) | GlobalFoundries | Malta, NY | 11/12/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Test Engineer Asc - E1](https://jobright.ai/jobs/info/6ac6a2950e027c0f3b3b38e8) | Lockheed Martin | Oldsmar, FL | 11/12/2026 11:18:40 | Sponsorship: Not Sure |
+| 50 (Good) | [Test Engineer Asc - E1](https://jobright.ai/jobs/info/6abbfd1a92b2612ef0f8c288) | Lockheed Martin | Ocala, FL | 11/12/2026 11:18:45 | Sponsorship: No |
+| 54 (Good) | [Test Engineer Asc - E1](https://jobright.ai/jobs/info/6af5efe38cc703bba47ae396) | Lockheed Martin | Ocala, FL | 11/12/2026 11:18:45 | Sponsorship: Not Sure |
+| 51 (Good) | [Systems Integration/Test Engineer - E2](https://jobright.ai/jobs/info/6acff3b42cc4e9d17e90b625) | Lockheed Martin | Littleton, CO; Houston, TX | 11/12/2026 11:18:48 | Sponsorship: No |
+| 44 (Possible) | [Radio Frequency (RF) Engineer Asc - Level 1](https://jobright.ai/jobs/info/6aef60438022f8ddd319def1) | Lockheed Martin | Chelmsford, MA | 11/12/2026 11:18:49 | U.S. citizenship language is present; Sponsorship: No |
+| 82 (Strong) | [ASIC & FPGA Design Engineer](https://jobright.ai/jobs/info/6ae93ab932411b3e5a2df952) | Lockheed Martin | Orlando, FL | 11/12/2026 11:20:59 | Sponsorship: No |
+| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6af612fff10ae27369e16501) | Superior | Columbus, OH | 11/12/2026 11:26:55 | Sponsorship: Not Sure |
 | 88 (Strong) | [SOC Design Verification Engineer](https://jobright.ai/jobs/info/6aabea00636cddf7396f1338) | Qualcomm | San Diego, CA | 11/12/2026 04:12:01 | Sponsorship: Not Sure |
 | 75 (Strong) | [Hardware Verification Engineer, New College Graduate, (Teradyne, Agoura Hills, CA) Job Details \| Teradyne](https://jobright.ai/jobs/info/6af57f46c5a45ba25e111fc7) | Teradyne | Agoura Hills, CA | 10/20/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Entry-Level Electrical Hardware Design Engineer](https://jobright.ai/jobs/info/6af4edc13a9a26aee70a1d4b) | Dice | Huntsville, AL | 10/10/2026 22:35:34 | Sponsorship: Past Sponsorship |
@@ -92,15 +104,3 @@ Updated: 2026-11-12 14:05:15Z UTC
 | 47 (Possible) | [QA Validation Engineer](https://jobright.ai/jobs/info/6af26d038cbcfef4a59dc2e6) | Allergan Aesthetics, an AbbVie Company | Irvine, CA | 11/09/2026 17:01:55 | Sponsorship: Not Sure |
 | 50 (Good) | [Electrical Engineer (New Grad)](https://jobright.ai/jobs/info/6af24a631aaffa49f73837bf) | Dice | Torrance, CA | 11/09/2026 22:34:11 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6af230261aaffa49f73827b7) | Naval Nuclear Laboratory (FMP) | West Milton, NY | 11/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 49 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6af216321aaffa49f7380332) | TTM Technologies | Farmingdale, NY | 11/09/2026 18:34:06 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Electrical Engineer (Nuclear Energy)](https://jobright.ai/jobs/info/6af2297a1116f6f0a0766c76) | GD Barri & Associates, Inc. | Tonopah, AZ | 11/09/2026 20:13:46 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 49 (Possible) | [VLSI Design Engineer](https://jobright.ai/jobs/info/6af21f550cb834dad9323e41) | MaximaTek | Austin, TX | 11/09/2026 19:30:29 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry-Level Electrical Engineer (Power System Studies) - Hybrid \| Pittsburgh Area](https://jobright.ai/jobs/info/6af20a3062fb9f5fcd89304a) | Pioneer Power Group | Wexford, PA | 11/09/2026 18:00:16 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Entry level Electrical Engineer](https://jobright.ai/jobs/info/6af20816905985ccaa407cf2) | Jacobs | Honolulu, HI | 11/09/2026 17:51:18 | Sponsorship: Past Sponsorship |
-| 43 (Possible) | [Protection & Controls Engineer - Entry-Level](https://jobright.ai/jobs/info/6af1e6268cbcfef4a59d6413) | Commonwealth Associates, Inc. | Liberty Lake, WA | 11/09/2026 18:28:13 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae31f4ec3139b475b5ab1cf) | Freeport-McMoRan | Safford, AZ | 11/09/2026 16:59:55 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6af0f8bf8022f8ddd31a2c1d) | Dice | Platteville, WI | 11/08/2026 22:33:35 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry Level Electrical Engineer (Energy/Power)](https://jobright.ai/jobs/info/6af1f74c0cb834dad93217ed) | Jacobs | Clark, NJ | 11/09/2026 16:39:40 | Sponsorship: Past Sponsorship |
-| 54 (Good) | [Entry-Level Electrical Hardware Design Engineer](https://jobright.ai/jobs/info/6af1f8568cbcfef4a59d6d9d) | Leidos | Huntsville, AL | 11/09/2026 00:00:00 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 81 (Strong) | [GPU Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6af201eb62fb9f5fcd892bbf) | NVIDIA | Westford, MA | 11/09/2026 17:24:59 | Sponsorship: Past Sponsorship |
-| 86 (Strong) | [Physical Design Methodology CAD Engineer](https://jobright.ai/jobs/info/6aebea84ef3e65925305a66d) | Apple | Austin, TX | 09/21/2026 02:31:19 | Sponsorship: Past Sponsorship |
