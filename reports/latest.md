@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-12 00:41:12Z UTC
+Updated: 2026-11-12 01:34:41Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 69 (Good) | [Career Accelerator Program - Design Verification Engineer- MS/PhD](https://jobright.ai/jobs/info/6a98808283fc633357631d75) | Texas Instruments | Phoenix, AZ | 11/11/2026 22:50:45 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [(Dec 2026 New Graduates) - Associate Electrical Engineer - Nuclear Design Team](https://jobright.ai/jobs/info/6af5090e1b2c5dcbbcd664fa) | Enercon | Kennesaw, GA | 11/12/2026 00:32:14 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6af4f9facbd2ee75d155ee64) | Haag, a Salas O'Brien Company | Portland, ME | 11/11/2026 15:27:54 | Sponsorship: Not Sure |
 | 86 (Strong) | [Design Verification Engineer](https://jobs.ashbyhq.com/matx/8abaab55-daa7-49c6-af53-5856f033cd22) | MatX | Mountain View (HQ) or Remote | 11/03/2026 21:11:21 |  |
@@ -103,4 +104,3 @@ Updated: 2026-11-12 00:41:12Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ae41063fb2cd420ace560f8) | Jacobs | Austin, TX; Philadelphia, PA; San Diego, CA | 11/08/2026 08:04:46 | Sponsorship: Not Sure |
 | 37 (Possible) | [Early Career Substation Electrical Engineer](https://jobright.ai/jobs/info/6af0ad4a8022f8ddd31a2204) | WSP in the U.S. | Hallowell, ME | 11/08/2026 09:11:38 | Sponsorship: No |
 | 60 (Good) | [Customer Engagement Applications Engineer](https://jobright.ai/jobs/info/6aea31e8fc85f3a39433151e) | KLA | Chandler, AZ | 11/08/2026 04:05:40 | Sponsorship: Not Sure |
-| 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc32f9f8e479a8bcfe949) | Leidos | Lanham, MD; Springfield, VA; Washington, DC | 11/07/2026 16:32:47 | Sponsorship: No |
