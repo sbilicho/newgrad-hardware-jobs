@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-11 23:40:44Z UTC
+Updated: 2026-11-12 00:41:12Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [(Dec 2026 New Graduates) - Associate Electrical Engineer - Nuclear Design Team](https://jobright.ai/jobs/info/6af5090e1b2c5dcbbcd664fa) | Enercon | Kennesaw, GA | 11/12/2026 00:32:14 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6af4f9facbd2ee75d155ee64) | Haag, a Salas O'Brien Company | Portland, ME | 11/11/2026 15:27:54 | Sponsorship: Not Sure |
 | 86 (Strong) | [Design Verification Engineer](https://jobs.ashbyhq.com/matx/8abaab55-daa7-49c6-af53-5856f033cd22) | MatX | Mountain View (HQ) or Remote | 11/03/2026 21:11:21 |  |
 | 43 (Possible) | [Silicon Engineer, PhD, University Graduate, 2027 Start](https://jobright.ai/jobs/info/6aba7a84be5f1e93251159d7) | Google | Sunnyvale, CA | 11/11/2026 12:19:06 | Sponsorship: Past Sponsorship |
 | 78 (Strong) | [Post-Silicon Systems Validation Engineer I, Annapurna Labs](https://jobright.ai/jobs/info/6af4cbf6cd7be4db20d887d6) | Amazon | Austin, TX | 11/11/2026 20:11:34 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-11-11 23:40:44Z UTC
 | 37 (Possible) | [Early Career Substation Electrical Engineer](https://jobright.ai/jobs/info/6af0ad4a8022f8ddd31a2204) | WSP in the U.S. | Hallowell, ME | 11/08/2026 09:11:38 | Sponsorship: No |
 | 60 (Good) | [Customer Engagement Applications Engineer](https://jobright.ai/jobs/info/6aea31e8fc85f3a39433151e) | KLA | Chandler, AZ | 11/08/2026 04:05:40 | Sponsorship: Not Sure |
 | 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc32f9f8e479a8bcfe949) | Leidos | Lanham, MD; Springfield, VA; Washington, DC | 11/07/2026 16:32:47 | Sponsorship: No |
-| 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc3308022f8ddd319fc36) | Leidos | Lanham, MD; Washington, DC | 11/07/2026 16:32:48 | Sponsorship: No |
-| 40 (Possible) | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://jobright.ai/jobs/info/6aefc336676e3f91d326db6e) | Leidos | Bladensburg, MD; Fort Washington, MD; Glenn Dale, MD; Greenbelt, MD; Lorton, VA; Riverdale Park, MD; Waldorf, MD; Washington, DC | 11/07/2026 16:32:54 | Sponsorship: No |
