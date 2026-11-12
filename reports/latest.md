@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-12 02:35:04Z UTC
+Updated: 2026-11-12 03:02:39Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 47 (Possible) | [Failure Analysis Engineer, Electronics Debug](https://jobright.ai/jobs/info/6af51e4a2278454e18c3aea5) | Tesla | Palo Alto, CA | 11/11/2026 18:02:50 | Sponsorship: Not Sure |
 | 84 (Strong) | [ASICS Design Verification Engineer](https://careers.qualcomm.com/careers/job/446722076356?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 11/11/2026 00:00:00 |  |
 | 48 (Possible) | [Software Engineer - Embedded Systems (Entry Level)](https://jobright.ai/jobs/info/6a8f173e309e5f224870a4ef) | Battelle | Columbus, OH | 08/26/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 69 (Good) | [Career Accelerator Program - Design Verification Engineer- MS/PhD](https://jobright.ai/jobs/info/6a98808283fc633357631d75) | Texas Instruments | Phoenix, AZ | 11/11/2026 22:50:45 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-11-12 02:35:04Z UTC
 | 80 (Strong) | [ASIC Design Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6af0bdc640b5de2d2b314f33) | NVIDIA | Austin, TX | 11/08/2026 19:44:45 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [FRISCO - Electrical Engineer, New Grad](https://jobright.ai/jobs/info/6a9b2125fe45b8490f606f32) | BGE, Inc. | Houston, TX | 11/08/2026 10:54:05 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6ad5dbe7361c015bf0cfc5b7) | Mead & Hunt | Milwaukee, WI | 11/08/2026 12:55:05 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ae41063fb2cd420ace560f8) | Jacobs | Austin, TX; Philadelphia, PA; San Diego, CA | 11/08/2026 08:04:46 | Sponsorship: Not Sure |
