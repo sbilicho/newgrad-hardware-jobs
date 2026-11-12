@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-12 13:05:36Z UTC
+Updated: 2026-11-12 14:05:15Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 88 (Strong) | [SOC Design Verification Engineer](https://jobright.ai/jobs/info/6aabea00636cddf7396f1338) | Qualcomm | San Diego, CA | 11/12/2026 04:12:01 | Sponsorship: Not Sure |
 | 75 (Strong) | [Hardware Verification Engineer, New College Graduate, (Teradyne, Agoura Hills, CA) Job Details \| Teradyne](https://jobright.ai/jobs/info/6af57f46c5a45ba25e111fc7) | Teradyne | Agoura Hills, CA | 10/20/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Entry-Level Electrical Hardware Design Engineer](https://jobright.ai/jobs/info/6af4edc13a9a26aee70a1d4b) | Dice | Huntsville, AL | 10/10/2026 22:35:34 | Sponsorship: Past Sponsorship |
 | 82 (Strong) | [Design Verification Engineer](https://jobright.ai/jobs/info/6af4b244cbd2ee75d155c571) | Intel | Santa Clara, CA | 11/11/2026 00:00:00 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-11-12 13:05:36Z UTC
 | 54 (Good) | [Entry-Level Electrical Hardware Design Engineer](https://jobright.ai/jobs/info/6af1f8568cbcfef4a59d6d9d) | Leidos | Huntsville, AL | 11/09/2026 00:00:00 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 81 (Strong) | [GPU Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6af201eb62fb9f5fcd892bbf) | NVIDIA | Westford, MA | 11/09/2026 17:24:59 | Sponsorship: Past Sponsorship |
 | 86 (Strong) | [Physical Design Methodology CAD Engineer](https://jobright.ai/jobs/info/6aebea84ef3e65925305a66d) | Apple | Austin, TX | 09/21/2026 02:31:19 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6af0f98f40b5de2d2b3156ca) | Dice | East Hartford, CT | 11/08/2026 22:37:03 | Sponsorship: Past Sponsorship |
