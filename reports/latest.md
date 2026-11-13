@@ -1,9 +1,20 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-13 16:48:44Z UTC
+Updated: 2026-11-13 22:16:59Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6adaca702dd1bb4030610495) | RTX | Louisville, KY | 11/13/2026 16:55:33 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 30 (Possible) | [Electrical Controls Engineer Level I or Level II - Corporate](https://jobright.ai/jobs/info/6af762203ba46d7b6c166301) | Rogers Machinery Company, Inc. | Portland, OR | 11/13/2026 18:53:22 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6af7694fc7349029d7095663) | Thorlabs | Sparta, NJ | 11/13/2026 19:47:27 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Substation Electrical Engineer (Entry-Level)](https://jobright.ai/jobs/info/6af77c52c7349029d709653b) | Primera Engineers | Chicago, IL | 11/13/2026 14:57:09 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer (Entry-level)](https://jobright.ai/jobs/info/6af7416841166cab756497a1) | Current Lighting | Greenville, SC | 11/13/2026 16:57:12 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6af75af241166cab7564aa92) | SmithGroup | Pittsburgh, PA | 11/13/2026 18:46:10 | Sponsorship: Past Sponsorship |
+| 55 (Good) | [Circuit Design Engineer Asc - E1](https://jobright.ai/jobs/info/6aeb7e8b765815f7d7460fa6) | Lockheed Martin | Littleton, CO | 11/13/2026 20:10:24 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 51 (Good) | [Reliability Engineer-Entry Level](https://jobright.ai/jobs/info/6ae4c2a3eab1f9673097c584) | Amphenol | Valley Green, PA | 10/30/2026 18:16:21 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [Junior Validation Engineer](https://jobright.ai/jobs/info/6ab3072d30340229a323140e) | PSC Biotech® Corporation | Minneapolis, MN | 11/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 48 (Possible) | [New College Grad - Design Engineer](https://jobright.ai/jobs/info/6af7555f41166cab7564a5e8) | Micron Technology | San Jose, CA | 11/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6af77cfec7349029d7096612) | CSA Engineering AG | Brookfield, CT | 11/13/2026 13:11:26 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [Silicon Packaging Design Engineer](https://jobright.ai/jobs/info/6af6baa4af034cc4ddad20ff) | Intel | Phoenix, AZ | 11/13/2026 10:20:19 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6af626c080054650a5e7c97a) | Generac | Waukesha, WI | 11/13/2026 11:14:52 | Sponsorship: Past Sponsorship |
 | 60 (Good) | [Electrical Engineer I, Walchem Controllers & Sensors](https://jobright.ai/jobs/info/6af738ad8242286400642d3b) | Iwaki America Inc. | Holliston, MA | 11/13/2026 16:19:57 | Sponsorship: Past Sponsorship |
@@ -93,14 +104,3 @@ Updated: 2026-11-13 16:48:44Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6af38f877c81de7a524c0e45) | GFT | Ebensburg, PA | 11/10/2026 22:27:34 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Electronic Systems Product Engineer](https://jobright.ai/jobs/info/6af397df769e9374033c7f38) | Cummins Inc. | Columbus, IN | 11/10/2026 22:17:03 | Sponsorship: Past Sponsorship |
 | 85 (Strong) | [ASIC Verification Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6af368354ac248020e8d0953) | NVIDIA | Santa Clara, CA | 11/10/2026 18:53:41 | Sponsorship: Past Sponsorship |
-| 85 (Strong) | [ASIC Verification Engineer, Memory Management - New College Grad 2027](https://jobright.ai/jobs/info/6af369f580020ca3a89757cb) | NVIDIA | Durham, NC | 11/10/2026 19:01:09 | Sponsorship: Past Sponsorship |
-| 83 (Strong) | [Cell Modeling and Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6af3677980020ca3a8975174) | NVIDIA | Santa Clara, CA | 11/10/2026 18:50:33 | Sponsorship: Past Sponsorship |
-| 64 (Good) | [Hardware Engineer (FPGA/ASIC)](https://jobright.ai/jobs/info/6af395b87c81de7a524c1141) | Jane Street | New York, NY | 11/10/2026 22:07:52 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6af35784769e9374033c563e) | Gannett Fleming | State College, PA | 11/10/2026 17:42:28 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Security Electronics Engineer I](https://jobright.ai/jobs/info/6af3352510c7aed778618056) | CHA Consulting, Inc. | Albany, NY | 11/10/2026 16:51:04 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6af34bbd4ac248020e8cfa5f) | Amentum | Crane, IN | 11/10/2026 16:48:12 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6af3580cf6053e296fc7ba22) | Gannett Fleming | Ebensburg, PA | 11/10/2026 17:44:44 | Sponsorship: Past Sponsorship |
-| 86 (Strong) | [Design-for-Test (DFT) Engineer — ASIC Backend – (Associate, Experienced, or Lead)](https://jobright.ai/jobs/info/6af327384ac248020e8ce0cf) | Boeing | El Segundo, CA | 11/10/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6af34f0f10c7aed77861933f) | Boeing | Hazelwood, MO | 11/10/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 77 (Strong) | [SoC Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/SoC-Design-Verification-Engineer_JR0288406) | Intel | US, California, Santa Clara | 11/09/2026 00:00:00 |  |
-| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6af24ad30cb834dad9325d77) | Sierra Nevada Corporation | Lone Tree, CO | 11/10/2026 03:55:23 | Security clearance language is present; Sponsorship: Past Sponsorship |
