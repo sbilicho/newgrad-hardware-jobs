@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-13 01:32:45Z UTC
+Updated: 2026-11-13 08:45:26Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6af4cd4d2278454e18c386ba) | Electrical Power Products | Des Moines, IA | 11/13/2026 01:08:59 | Sponsorship: Past Sponsorship |
+| 54 (Good) | [Hardware Reliability Engineer (Starlink Aviation)](https://jobright.ai/jobs/info/6af656b9a4a5218a07e8574c) | SpaceX | Woodinville, WA | 11/12/2026 20:30:43 | Sponsorship: Not Sure |
 | 35 (Possible) | [Digitial Design Engineer](https://jobright.ai/jobs/info/6af62e96f10ae27369e1776c) | Renesas Electronics | Austin, TX | 11/12/2026 21:24:38 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Entry Level IBM Z Engineering System Test Hardware Engineer - Poughkeepsie, NY - 2027](https://jobright.ai/jobs/info/6af5d635f10ae27369e13f05) | IBM | Poughkeepsie, NY | 10/20/2026 15:07:16 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6af6284479862a378dcf1524) | OXOS Medical | Atlanta, GA | 11/12/2026 20:57:40 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-11-13 01:32:45Z UTC
 | 42 (Possible) | [Test and Evaluation Hardware Design Engineer (Associate & Experienced)](https://jobright.ai/jobs/info/6af1cd6b62fb9f5fcd8911ef) | Boeing | Long Beach, CA | 11/09/2026 22:48:29 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: No |
 | 37 (Possible) | [2026 Associate/Electrical Engineer- Gilbert AZ](https://jobright.ai/jobs/info/6af2c4bcdb8bcd9ac74b7d5d) | Military Spouse Jobs | Gilbert, AZ | 11/09/2026 23:16:12 | Sponsorship: No |
 | 47 (Possible) | [NVH Test Engineer](https://jobright.ai/jobs/info/6af2e00f4ac248020e8ccb65) | CNH | Racine, WI | 11/10/2026 01:12:47 | Sponsorship: Not Sure |
-| 69 (Good) | [Silicon Photonics Device Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6af2532962fb9f5fcd89705c) | GlobalFoundries | Malta, NY | 11/09/2026 23:11:37 | Sponsorship: Past Sponsorship |
-| 59 (Good) | [Embedded Engineer (New Graduate Opportunities) (based in Grand Rapids, MI)](https://jobright.ai/jobs/info/6af285ba41f4504a0888c8b1) | DornerWorks | Grand Rapids, MI | 11/10/2026 02:47:22 | Sponsorship: Past Sponsorship |
