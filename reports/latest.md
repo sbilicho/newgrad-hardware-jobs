@@ -1,9 +1,17 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-13 08:45:26Z UTC
+Updated: 2026-11-13 16:48:44Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 43 (Possible) | [Silicon Packaging Design Engineer](https://jobright.ai/jobs/info/6af6baa4af034cc4ddad20ff) | Intel | Phoenix, AZ | 11/13/2026 10:20:19 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6af626c080054650a5e7c97a) | Generac | Waukesha, WI | 11/13/2026 11:14:52 | Sponsorship: Past Sponsorship |
+| 60 (Good) | [Electrical Engineer I, Walchem Controllers & Sensors](https://jobright.ai/jobs/info/6af738ad8242286400642d3b) | Iwaki America Inc. | Holliston, MA | 11/13/2026 16:19:57 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6a5b95df3ac7627fe9008b00) | Curtiss-Wright Corporation | Cheswick, PA; Pittsburgh, PA | 11/13/2026 07:07:24 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: No |
+| 51 (Good) | [Reliability Engineer-Entry Level](https://jobright.ai/jobs/info/6af7391f3ba46d7b6c16445f) | Amphenol Communications Solutions | Valley Green, PA | 10/30/2026 16:21:09 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Entry Level Electrical Design Engineer (Texas A&M Spring 2027)](https://jobright.ai/jobs/info/6af62c1e8cc703bba47b0a5a) | DMC Engineering | Boston, MA | 11/12/2026 21:14:06 | Sponsorship: Past Sponsorship |
+| 51 (Good) | [Failure Analysis Engineer I (Full-Time) United States](https://jobright.ai/jobs/info/6af72d578242286400642660) | Cisco | Maynard, MA | 11/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 70 (Strong) | [IP Design Verification Engineer](https://jobright.ai/jobs/info/6af265d2905985ccaa40c3ab) | Intel | Santa Clara, CA | 11/13/2026 12:11:58 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6af4cd4d2278454e18c386ba) | Electrical Power Products | Des Moines, IA | 11/13/2026 01:08:59 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Hardware Reliability Engineer (Starlink Aviation)](https://jobright.ai/jobs/info/6af656b9a4a5218a07e8574c) | SpaceX | Woodinville, WA | 11/12/2026 20:30:43 | Sponsorship: Not Sure |
 | 35 (Possible) | [Digitial Design Engineer](https://jobright.ai/jobs/info/6af62e96f10ae27369e1776c) | Renesas Electronics | Austin, TX | 11/12/2026 21:24:38 | Sponsorship: Past Sponsorship |
@@ -96,11 +104,3 @@ Updated: 2026-11-13 08:45:26Z UTC
 | 42 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6af34f0f10c7aed77861933f) | Boeing | Hazelwood, MO | 11/10/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 77 (Strong) | [SoC Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/SoC-Design-Verification-Engineer_JR0288406) | Intel | US, California, Santa Clara | 11/09/2026 00:00:00 |  |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6af24ad30cb834dad9325d77) | Sierra Nevada Corporation | Lone Tree, CO | 11/10/2026 03:55:23 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Instrumentation and Controls Engineer I – Power Generation](https://jobright.ai/jobs/info/6af28c67d622b1b75451a54e) | Strive Solutions | Bolingbrook, IL | 11/10/2026 03:15:51 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6af298166d2bd34f89adb948) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 11/09/2026 06:00:00 | Sponsorship: Past Sponsorship |
-| 63 (Good) | [2026 Early Career System Hardware Design Engineer](https://jobright.ai/jobs/info/6ad98366950ef68d51851367) | TP-Link Systems Inc. | Irvine, CA | 11/10/2026 05:13:25 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Junior Electrical Engineer  --  Radiological Work](https://jobright.ai/jobs/info/6aa8ac8ceff87f571fc96ffa) | APTIM | Niskayuna, NY; West Milton, NY | 11/09/2026 22:24:58 | U.S. citizenship language is present; Sponsorship: No |
-| 37 (Possible) | [2026 Associate/Electrical Engineer- Gilbert AZ](https://jobright.ai/jobs/info/6af2bb0e41f4504a0888d583) | Eaton | Gilbert, AZ | 11/09/2026 22:34:54 | Sponsorship: No |
-| 42 (Possible) | [Test and Evaluation Hardware Design Engineer (Associate & Experienced)](https://jobright.ai/jobs/info/6af1cd6b62fb9f5fcd8911ef) | Boeing | Long Beach, CA | 11/09/2026 22:48:29 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: No |
-| 37 (Possible) | [2026 Associate/Electrical Engineer- Gilbert AZ](https://jobright.ai/jobs/info/6af2c4bcdb8bcd9ac74b7d5d) | Military Spouse Jobs | Gilbert, AZ | 11/09/2026 23:16:12 | Sponsorship: No |
-| 47 (Possible) | [NVH Test Engineer](https://jobright.ai/jobs/info/6af2e00f4ac248020e8ccb65) | CNH | Racine, WI | 11/10/2026 01:12:47 | Sponsorship: Not Sure |
