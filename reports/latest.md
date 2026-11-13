@@ -1,9 +1,18 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-12 20:48:07Z UTC
+Updated: 2026-11-13 01:32:45Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 35 (Possible) | [Digitial Design Engineer](https://jobright.ai/jobs/info/6af62e96f10ae27369e1776c) | Renesas Electronics | Austin, TX | 11/12/2026 21:24:38 | Sponsorship: Past Sponsorship |
+| 62 (Good) | [Entry Level IBM Z Engineering System Test Hardware Engineer - Poughkeepsie, NY - 2027](https://jobright.ai/jobs/info/6af5d635f10ae27369e13f05) | IBM | Poughkeepsie, NY | 10/20/2026 15:07:16 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6af6284479862a378dcf1524) | OXOS Medical | Atlanta, GA | 11/12/2026 20:57:40 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Entry Level Electrical Design Engineer (Mizzou Spring 2027)](https://jobright.ai/jobs/info/6af6454980054650a5e7de0d) | DMC Engineering | Boston, MA | 11/12/2026 23:01:29 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial (Summer 2027)](https://jobright.ai/jobs/info/6af5ec4ba4a5218a07e815c8) | Sargent & Lundy | Chicago, IL | 11/12/2026 22:09:51 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Entry Level Electrical Design Engineer (University of Cincinnati Spring 2027)](https://jobright.ai/jobs/info/6af645538cc703bba47b1c41) | DMC Engineering | Boston, MA | 11/12/2026 23:01:39 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Entry Level Electrical Design Engineer (Missouri S&T Spring 2027)](https://jobright.ai/jobs/info/6af6442380054650a5e7ddaf) | DMC Engineering | Boston, MA | 11/12/2026 22:56:35 | Sponsorship: Past Sponsorship |
+| 35 (Possible) | [Digitial Design Engineer](https://jobright.ai/jobs/info/6af63e24323c531f31e3136a) | Renesas Electronics | Austin, TX | 11/12/2026 22:31:00 | Sponsorship: Past Sponsorship |
+| 60 (Good) | [Digital Design Engineer II - onsite](https://jobright.ai/jobs/info/6af5fbeaf10ae27369e154a7) | RTX | Tucson, AZ | 11/12/2026 15:27:55 | Security clearance language is present; Sponsorship: No |
 | 74 (Strong) | [Memory Circuit Design Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Memory-Circuit-Design-Engineer_JR0285104) | Intel | US, Oregon, Hillsboro; US, California, Santa Clara; US, Texas, Austin; US, Arizona, Phoenix | 11/12/2026 00:00:00 |  |
 | 74 (Strong) | [Failure Analysis Engineer](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Failure-Analysis-Engineer_R027786) | Broadcom | USA-Colorado-Fort Collins-4380 Ziegler Road | 11/12/2026 00:00:00 |  |
 | 44 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6af6026880054650a5e7b18a) | Antares | Los Angeles, CA | 11/12/2026 18:16:07 | Sponsorship: Past Sponsorship |
@@ -95,12 +104,3 @@ Updated: 2026-11-12 20:48:07Z UTC
 | 47 (Possible) | [NVH Test Engineer](https://jobright.ai/jobs/info/6af2e00f4ac248020e8ccb65) | CNH | Racine, WI | 11/10/2026 01:12:47 | Sponsorship: Not Sure |
 | 69 (Good) | [Silicon Photonics Device Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6af2532962fb9f5fcd89705c) | GlobalFoundries | Malta, NY | 11/09/2026 23:11:37 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Embedded Engineer (New Graduate Opportunities) (based in Grand Rapids, MI)](https://jobright.ai/jobs/info/6af285ba41f4504a0888c8b1) | DornerWorks | Grand Rapids, MI | 11/10/2026 02:47:22 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Associate, Electrical Engineer](https://jobright.ai/jobs/info/6af27ab10cb834dad9327170) | L3Harris Technologies | Clifton, NJ | 11/09/2026 18:00:17 | Sponsorship: Not Sure |
-| 40 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6af260531aaffa49f7384332) | Naval Nuclear Laboratory (FMP) | West Mifflin, PA | 11/10/2026 00:07:47 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer, Associate (Entry Level)](https://jobright.ai/jobs/info/6af27cf041f4504a0888c36d) | Naval Nuclear Laboratory (FMP) | West Milton, NY | 11/10/2026 00:04:41 | Sponsorship: Past Sponsorship |
-| 68 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6af26edb62fb9f5fcd897a1c) | TSMC | Camas, WA | 11/10/2026 01:09:47 | Sponsorship: Past Sponsorship |
-| 73 (Strong) | [Entry-Level Application Engineer – Semiconductor Test](https://jobright.ai/jobs/info/6af2688e905985ccaa40c513) | Advantest | San Jose, CA | 11/10/2026 00:42:54 | Sponsorship: Past Sponsorship |
-| 86 (Strong) | [DFT Engineer](https://jobright.ai/jobs/info/6af22b3762fb9f5fcd895450) | Broadcom | San Jose, CA | 11/09/2026 16:42:08 | Sponsorship: Not Sure |
-| 47 (Possible) | [QA Validation Engineer](https://jobright.ai/jobs/info/6af26d038cbcfef4a59dc2e6) | Allergan Aesthetics, an AbbVie Company | Irvine, CA | 11/09/2026 17:01:55 | Sponsorship: Not Sure |
-| 50 (Good) | [Electrical Engineer (New Grad)](https://jobright.ai/jobs/info/6af24a631aaffa49f73837bf) | Dice | Torrance, CA | 11/09/2026 22:34:11 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer, Entry Level](https://jobright.ai/jobs/info/6af230261aaffa49f73827b7) | Naval Nuclear Laboratory (FMP) | West Milton, NY | 11/09/2026 00:00:00 | Sponsorship: Past Sponsorship |
