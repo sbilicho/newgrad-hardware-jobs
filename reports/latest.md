@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-14 15:59:25Z UTC
+Updated: 2026-11-14 20:37:43Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 93 (Strong) | [Physical Design Engineer (Silicon Engineering)](https://jobright.ai/jobs/info/6aa49576c1928370a285e8f0) | SpaceX | Austin, TX | 11/14/2026 16:57:45 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aebc04cf40efa43f4a1a5ef) | Ampirical | Duluth, GA | 11/14/2026 17:50:58 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6af8636042ae65e2c8f3ce31) | Leonardo DRS | Dallas, TX | 11/14/2026 13:34:24 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 77 (Strong) | [Design Verification Engineer](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Design-Verification-Engineer_R027819) | Broadcom | USA-CA San Jose Innovation Drive | 11/13/2026 00:00:00 |  |
 | 59 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6af86459cb5a5d4a77fcbf42) | Leonardo DRS | Dallas, TX | 11/14/2026 13:38:33 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-11-14 15:59:25Z UTC
 | 56 (Good) | [Mechanical Application Engineer](https://jobright.ai/jobs/info/6af41d1efee40b4fffbddca2) | Kaiyiee Global Talent | Milpitas, CA | 11/10/2026 23:45:34 | Sponsorship: Not Sure |
 | 64 (Good) | [Hardware Engineer (FPGA/ASIC)](https://jobright.ai/jobs/info/6af4282455dfd18e245c3525) | Jane Street | New York, NY | 11/11/2026 00:32:36 | Sponsorship: Not Sure |
 | 59 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA)](https://jobright.ai/jobs/info/6af3f853ebe39ae3299d9c51) | Teradyne | North Reading, MA | 10/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6af36f0410c7aed77861a6f0) | American Outdoor Brands Inc. | Columbia, MO | 11/10/2026 19:22:44 | Sponsorship: Past Sponsorship |
-| 85 (Strong) | [Junior CPU Verification Engineer](https://jobright.ai/jobs/info/6af3ca09f6053e296fc7ff97) | Intel | Austin, TX | 11/11/2026 05:40:48 | Sponsorship: Past Sponsorship |
