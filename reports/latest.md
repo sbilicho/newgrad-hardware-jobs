@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-14 09:24:22Z UTC
+Updated: 2026-11-14 15:59:25Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 59 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6af8636042ae65e2c8f3ce31) | Leonardo DRS | Dallas, TX | 11/14/2026 13:34:24 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 77 (Strong) | [Design Verification Engineer](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Design-Verification-Engineer_R027819) | Broadcom | USA-CA San Jose Innovation Drive | 11/13/2026 00:00:00 |  |
+| 59 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6af86459cb5a5d4a77fcbf42) | Leonardo DRS | Dallas, TX | 11/14/2026 13:38:33 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6aefc2ff0fe787d00ed1c75f) | Leidos | Oklahoma City, OK | 11/14/2026 07:07:52 | Sponsorship: Not Sure |
 | 84 (Strong) | [ASICS Design Verification Engineer- (Multiple Levels)](https://careers.qualcomm.com/careers/job/446722118827?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 11/13/2026 00:00:00 |  |
 | 45 (Possible) | [Electrical Engineer I - New Grad (BOS)](https://jobright.ai/jobs/info/6af7f17234e2d29dcb752a76) | Shield | Boston, MA | 11/13/2026 12:35:25 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6af78e7c41166cab7564ccb4) | Sargent & Lundy | Farmington Hills, MI | 11/13/2026 22:26:04 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-11-14 09:24:22Z UTC
 | 59 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA)](https://jobright.ai/jobs/info/6af3f853ebe39ae3299d9c51) | Teradyne | North Reading, MA | 10/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6af36f0410c7aed77861a6f0) | American Outdoor Brands Inc. | Columbia, MO | 11/10/2026 19:22:44 | Sponsorship: Past Sponsorship |
 | 85 (Strong) | [Junior CPU Verification Engineer](https://jobright.ai/jobs/info/6af3ca09f6053e296fc7ff97) | Intel | Austin, TX | 11/11/2026 05:40:48 | Sponsorship: Past Sponsorship |
-| 67 (Good) | [Substrate Packaging Research and Development Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Substrate-Packaging-Research-and-Development-Engineer_JR0287474) | Intel | US, Arizona, Phoenix | 11/10/2026 00:00:00 |  |
-| 44 (Possible) | [Electrical Engineer I (C&DH/GNC Hardware)](https://jobright.ai/jobs/info/6af38743f6053e296fc7d8e0) | Sierra Space | Centennial, CO | 11/11/2026 00:28:19 | Sponsorship: Past Sponsorship |
-| 64 (Good) | [Hardware Engineer (FPGA/ASIC)](https://jobright.ai/jobs/info/6af3c10810c7aed77861daf3) | Jane Street | New York, NY | 11/10/2026 17:12:40 | Sponsorship: Not Sure |
-| 59 (Good) | [Hardware Validation Engineer: Level 1](https://jobright.ai/jobs/info/6af3a14a10c7aed77861cc66) | Quanta Manufacturing Nashville | Fremont, CA | 11/10/2026 22:57:14 | Sponsorship: Past Sponsorship |
