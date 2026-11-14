@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-13 22:16:59Z UTC
+Updated: 2026-11-14 02:32:09Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I, Cement Plant](https://jobright.ai/jobs/info/6af778473ba46d7b6c16717e) | Amrize | Ravena, NY | 11/13/2026 22:11:03 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Electrical Controls Engineer](https://jobright.ai/jobs/info/6af790c741166cab7564cee6) | Kleinfelder | Perrysburg, OH | 11/13/2026 23:25:56 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [New Grad - Applications Engineer](https://jobright.ai/jobs/info/6af79479d0eefb7d11b8e314) | Blast Cleaning Technologies, Inc. | West Allis, WI | 11/13/2026 22:51:37 | Sponsorship: Past Sponsorship |
+| 80 (Strong) | [Entry Level Analog Circuit Design Engineer 2027 -Rochester, MN](https://jobright.ai/jobs/info/6af795458242286400646f7b) | IBM | Rochester, MN | 11/13/2026 23:06:51 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6af7a86441166cab7564db42) | Concord Engineering Group, Inc. | Bellevue, WA | 11/13/2026 16:16:36 | Sponsorship: Not Sure |
+| 88 (Strong) | [ASIC Design Engineer](https://jobright.ai/jobs/info/6ae545fbeab1f96730980c38) | Broadcom | Fort Collins, CO | 11/13/2026 16:40:19 | Sponsorship: Not Sure |
 | 46 (Possible) | [Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6adaca702dd1bb4030610495) | RTX | Louisville, KY | 11/13/2026 16:55:33 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Electrical Controls Engineer Level I or Level II - Corporate](https://jobright.ai/jobs/info/6af762203ba46d7b6c166301) | Rogers Machinery Company, Inc. | Portland, OR | 11/13/2026 18:53:22 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6af7694fc7349029d7095663) | Thorlabs | Sparta, NJ | 11/13/2026 19:47:27 | Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-11-13 22:16:59Z UTC
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6af38f86769e9374033c7aeb) | GFT | State College, PA | 11/10/2026 17:05:00 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae8c036777c336eb6d65d00) | Raytheon | Portsmouth, RI | 11/10/2026 16:41:40 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6af368307c81de7a524bf0ec) | Syska Hennessy Group | New York, NY | 11/10/2026 18:53:36 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [R&D Electrical Engineer I, Steward Observatory](https://jobright.ai/jobs/info/6af379aaf6053e296fc7cd72) | University of Arizona | Tucson, AZ | 11/10/2026 20:08:10 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Missile Test Engineer - Entry Level](https://jobright.ai/jobs/info/6af38ef880020ca3a8976ef1) | BAE Systems | Rockville, MD | 11/10/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6af38ab07c81de7a524c0b80) | Verex Engineering LLC | Chicago, IL | 11/10/2026 21:20:48 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6af38f877c81de7a524c0e45) | GFT | Ebensburg, PA | 11/10/2026 22:27:34 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [Electronic Systems Product Engineer](https://jobright.ai/jobs/info/6af397df769e9374033c7f38) | Cummins Inc. | Columbus, IN | 11/10/2026 22:17:03 | Sponsorship: Past Sponsorship |
-| 85 (Strong) | [ASIC Verification Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6af368354ac248020e8d0953) | NVIDIA | Santa Clara, CA | 11/10/2026 18:53:41 | Sponsorship: Past Sponsorship |
