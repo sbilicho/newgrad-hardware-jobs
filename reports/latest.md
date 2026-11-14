@@ -1,9 +1,17 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-14 02:32:09Z UTC
+Updated: 2026-11-14 09:24:22Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 84 (Strong) | [ASICS Design Verification Engineer- (Multiple Levels)](https://careers.qualcomm.com/careers/job/446722118827?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 11/13/2026 00:00:00 |  |
+| 45 (Possible) | [Electrical Engineer I - New Grad (BOS)](https://jobright.ai/jobs/info/6af7f17234e2d29dcb752a76) | Shield | Boston, MA | 11/13/2026 12:35:25 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6af78e7c41166cab7564ccb4) | Sargent & Lundy | Farmington Hills, MI | 11/13/2026 22:26:04 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Power Electronics - Electrical Engineer I](https://jobright.ai/jobs/info/6af7ed8635427cce9bb2af07) | Shield AI | Seattle, WA | 11/13/2026 21:11:34 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 75 (Strong) | [Hardware Verification Engineer, New College Graduate, (Teradyne, Agoura Hills, CA)](https://jobright.ai/jobs/info/6af8227a86a9b19681af7bfd) | Teradyne | Agoura Hills, CA | 10/20/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 59 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA)](https://jobright.ai/jobs/info/6af8228c35427cce9bb2bafc) | Teradyne | North Reading, MA | 11/12/2026 08:00:00 | Sponsorship: Past Sponsorship |
+| 95 (Strong) | [ASIC Physical Design Engineer — New Graduate (MS/PhD)](https://jobright.ai/jobs/info/6af7ea8c4ddfc50167b94ed4) | Alpaca Research | Cambridge, MA | 11/13/2026 04:58:24 | Sponsorship: Past Sponsorship |
+| 82 (Strong) | [Entry Level Analog Circuit Design Engineer 2027 -Rochester, MN](https://jobright.ai/jobs/info/6af7ea5042ae65e2c8f3a1c1) | Hakkōda, an IBM Company | Rochester, MN | 11/14/2026 00:57:37 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I, Cement Plant](https://jobright.ai/jobs/info/6af778473ba46d7b6c16717e) | Amrize | Ravena, NY | 11/13/2026 22:11:03 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Controls Engineer](https://jobright.ai/jobs/info/6af790c741166cab7564cee6) | Kleinfelder | Perrysburg, OH | 11/13/2026 23:25:56 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [New Grad - Applications Engineer](https://jobright.ai/jobs/info/6af79479d0eefb7d11b8e314) | Blast Cleaning Technologies, Inc. | West Allis, WI | 11/13/2026 22:51:37 | Sponsorship: Past Sponsorship |
@@ -96,11 +104,3 @@ Updated: 2026-11-14 02:32:09Z UTC
 | 44 (Possible) | [Electrical Engineer I (C&DH/GNC Hardware)](https://jobright.ai/jobs/info/6af38743f6053e296fc7d8e0) | Sierra Space | Centennial, CO | 11/11/2026 00:28:19 | Sponsorship: Past Sponsorship |
 | 64 (Good) | [Hardware Engineer (FPGA/ASIC)](https://jobright.ai/jobs/info/6af3c10810c7aed77861daf3) | Jane Street | New York, NY | 11/10/2026 17:12:40 | Sponsorship: Not Sure |
 | 59 (Good) | [Hardware Validation Engineer: Level 1](https://jobright.ai/jobs/info/6af3a14a10c7aed77861cc66) | Quanta Manufacturing Nashville | Fremont, CA | 11/10/2026 22:57:14 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Hardware Engineer 1](https://jobright.ai/jobs/info/6af397cd7c81de7a524c1288) | Dexcom | San Diego, CA | 11/10/2026 22:48:09 | Sponsorship: Past Sponsorship |
-| 78 (Strong) | [Hardware Engineer](https://jobright.ai/jobs/info/6af3a81d80020ca3a89783b0) | WD | Colorado Springs, CO | 11/10/2026 23:26:21 | Sponsorship: Past Sponsorship |
-| 58 (Good) | [RF Test Engineer I (Entry-Level)](https://jobright.ai/jobs/info/6af3b3e37c81de7a524c2590) | AST SpaceMobile | Dallas, TX | 11/11/2026 00:16:34 | Sponsorship: Past Sponsorship |
-| 64 (Good) | [Regional Development Applications Engineer - eBeam](https://jobright.ai/jobs/info/6af36977769e9374033c61ad) | KLA | Austin, TX | 11/10/2026 15:19:11 | Sponsorship: Not Sure |
-| 59 (Good) | [R&D Reliability/Test Engineer - Entry Level](https://jobright.ai/jobs/info/6abc32c87119e56191cec0e4) | Formlabs | Boston, MA | 11/10/2026 15:33:04 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6af38f86769e9374033c7aeb) | GFT | State College, PA | 11/10/2026 17:05:00 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6ae8c036777c336eb6d65d00) | Raytheon | Portsmouth, RI | 11/10/2026 16:41:40 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6af368307c81de7a524bf0ec) | Syska Hennessy Group | New York, NY | 11/10/2026 18:53:36 | Sponsorship: Past Sponsorship |
