@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-15 14:32:29Z UTC
+Updated: 2026-11-15 19:57:30Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6af3804e10c7aed77861b137) | RTX | Bellevue, IA | 11/15/2026 09:48:43 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Electrical Engineer I, X-BAT (New Grad)](https://jobright.ai/jobs/info/6af91d6a48f3528e5a72ec66) | Shield | Seattle, WA | 11/14/2026 09:10:49 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer I - New Grad (SEA) (R6107)](https://jobright.ai/jobs/info/6af91d631465de0d45f83c2b) | Shield | Seattle, WA | 11/14/2026 09:10:49 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer I - New Grad](https://jobright.ai/jobs/info/6af8e84248f3528e5a72e697) | Shield AI | San Diego, CA | 11/14/2026 23:01:22 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-11-15 14:32:29Z UTC
 | 67 (Good) | [CPU Circuit Design Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Circuit-Design-Engineer_JR0289183) | Intel | US, Texas, Austin | 11/11/2026 00:00:00 |  |
 | 90 (Strong) | [Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Design-Verification-Engineer_JR0288929-1) | Intel | US, California, Santa Clara | 11/11/2026 00:00:00 |  |
 | 50 (Good) | [Material Verification Engineer](https://jobright.ai/jobs/info/6af49c342278454e18c36b11) | RTX | Manchester, NH | 11/11/2026 17:17:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 33 (Possible) | [AI Processor Hardware/Software Integration Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6af487d11b2c5dcbbcd61a1b) | GlobalFoundries | Richardson, TX | 08/07/2026 15:20:35 | Sponsorship: Past Sponsorship |
