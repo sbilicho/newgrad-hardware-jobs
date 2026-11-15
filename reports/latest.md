@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-14 20:37:43Z UTC
+Updated: 2026-11-15 00:18:47Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 45 (Possible) | [Electrical Engineer I - New Grad](https://jobright.ai/jobs/info/6af8e84248f3528e5a72e697) | Shield AI | San Diego, CA | 11/14/2026 23:01:22 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 52 (Good) | [Electrical Engineer I, X-BAT (New Grad)](https://jobright.ai/jobs/info/6af8e86fa68705504beb90f3) | Shield AI | Seattle, WA | 11/14/2026 23:02:07 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Electrical Engineer I - New Grad (BOS)](https://jobright.ai/jobs/info/6af8e84448f3528e5a72e69b) | Shield AI | Boston, MA | 11/14/2026 23:01:24 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 93 (Strong) | [Physical Design Engineer (Silicon Engineering)](https://jobright.ai/jobs/info/6aa49576c1928370a285e8f0) | SpaceX | Austin, TX | 11/14/2026 16:57:45 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aebc04cf40efa43f4a1a5ef) | Ampirical | Duluth, GA | 11/14/2026 17:50:58 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6af8636042ae65e2c8f3ce31) | Leonardo DRS | Dallas, TX | 11/14/2026 13:34:24 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-11-14 20:37:43Z UTC
 | 33 (Possible) | [AI Processor Hardware/Software Integration Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6af487d11b2c5dcbbcd61a1b) | GlobalFoundries | Richardson, TX | 08/07/2026 15:20:35 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Junior Electrical Engineer](https://jobright.ai/jobs/info/6ad79a5f950ef68d51841b85) | Leidos | Bridgewater, VA | 11/11/2026 08:06:31 | Sponsorship: No |
 | 47 (Possible) | [Validation Engineer I](https://jobright.ai/jobs/info/6af3b6877c81de7a524c2651) | Tolmar | Windsor, CO | 11/10/2026 21:24:48 | Sponsorship: Not Sure |
-| 56 (Good) | [Mechanical Application Engineer](https://jobright.ai/jobs/info/6af41d1efee40b4fffbddca2) | Kaiyiee Global Talent | Milpitas, CA | 11/10/2026 23:45:34 | Sponsorship: Not Sure |
-| 64 (Good) | [Hardware Engineer (FPGA/ASIC)](https://jobright.ai/jobs/info/6af4282455dfd18e245c3525) | Jane Street | New York, NY | 11/11/2026 00:32:36 | Sponsorship: Not Sure |
-| 59 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA)](https://jobright.ai/jobs/info/6af3f853ebe39ae3299d9c51) | Teradyne | North Reading, MA | 10/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
