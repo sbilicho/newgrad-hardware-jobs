@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-16 05:47:53Z UTC
+Updated: 2026-11-16 14:03:48Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Electrical Hardware Engineer Graduate](https://jobright.ai/jobs/info/6ab3304078c69ff506c429fa) | Hewlett Packard Enterprise | Spring, TX | 11/16/2026 12:40:00 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Mechanical/Hardware Engineer](https://jobright.ai/jobs/info/6aed7e92f46c27c797e9cdef) | Hewlett Packard Enterprise | Chippewa Falls, WI | 11/16/2026 04:32:03 | Sponsorship: Not Sure |
 | 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6af3804e10c7aed77861b137) | RTX | Bellevue, IA | 11/15/2026 09:48:43 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Electrical Engineer I, X-BAT (New Grad)](https://jobright.ai/jobs/info/6af91d6a48f3528e5a72ec66) | Shield | Seattle, WA | 11/14/2026 09:10:49 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer I - New Grad (SEA) (R6107)](https://jobright.ai/jobs/info/6af91d631465de0d45f83c2b) | Shield | Seattle, WA | 11/14/2026 09:10:49 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-11-16 05:47:53Z UTC
 | 37 (Possible) | [Instrumentation & Controls Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6af4d8cccd7be4db20d8904e) | Sargent & Lundy | Richland, WA | 11/11/2026 14:09:52 | Sponsorship: No |
 | 40 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6af4db049144106c56a22153) | Sargent & Lundy | Chicago, IL | 11/11/2026 14:09:59 | Sponsorship: No |
 | 67 (Good) | [CPU Circuit Design Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Circuit-Design-Engineer_JR0289183) | Intel | US, Texas, Austin | 11/11/2026 00:00:00 |  |
-| 90 (Strong) | [Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Design-Verification-Engineer_JR0288929-1) | Intel | US, California, Santa Clara | 11/11/2026 00:00:00 |  |
-| 50 (Good) | [Material Verification Engineer](https://jobright.ai/jobs/info/6af49c342278454e18c36b11) | RTX | Manchester, NH | 11/11/2026 17:17:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
