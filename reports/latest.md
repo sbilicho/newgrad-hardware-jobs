@@ -1,9 +1,25 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-16 14:03:48Z UTC
+Updated: 2026-11-16 23:23:29Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 71 (Strong) | [Electrical Failure Analysis Engineer - Shift2 Nanoprobing](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Electrical-Failure-Analysis-Engineer---Shift2-Nanoprobing_JR0289219) | Intel | US, Oregon, Hillsboro | 11/16/2026 00:00:00 |  |
+| 71 (Strong) | [Electrical Failure Analysis Engineer - Nanoprobing](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Electrical-Failure-Analysis-Engineer---Nanoprobing_JR0289232) | Intel | US, Oregon, Hillsboro | 11/16/2026 00:00:00 |  |
+| 72 (Strong) | [Onsite - Post Silicon Validation](https://jobright.ai/jobs/info/6afb3e9704af1c9f075c5a8e) | Talent Groups | Santa Clara, CA | 11/16/2026 15:33:41 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Semiconductor Design Engineer](https://jobright.ai/jobs/info/6afb88e9c2bd7db01b882a7a) | Micron Technology | Folsom, CA | 11/16/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Electrical/Hardware Engineer I](https://jobright.ai/jobs/info/6ab376375d482753f3e68d93) | Hewlett Packard Enterprise | Spring, TX | 11/16/2026 12:54:43 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Supervising Electrical Engineer I](https://jobright.ai/jobs/info/6a3ce101882f121f56a35aef) | Syska Hennessy Group | Jacksonville, FL | 11/16/2026 18:55:27 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afb3dc9317abe715a26244a) | Pond & Company | Peachtree Corners, GA | 11/16/2026 22:28:19 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I - Solar](https://jobright.ai/jobs/info/6afb8809b2e06df257975548) | RRC Companies | United States | 11/16/2026 22:47:37 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afb88da06c0aac84dd96c91) | Quanta Services, Inc. | Houston, TX | 11/16/2026 22:51:06 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afb8a01c2bd7db01b882b83) | Advanced Electric Systems | Houston, TX | 11/16/2026 22:56:01 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6afb65f37f9ead6668ea1e89) | Belcan | Lexington, KY | 11/16/2026 20:22:11 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer— Entry Level](https://jobright.ai/jobs/info/6afb893ac5917ce34b5dc0d8) | Wavetronix | Springville, UT | 11/16/2026 22:52:42 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [Post Silicon Validation Engineer](https://jobright.ai/jobs/info/6afb68717f9ead6668ea2065) | Dice | Santa Clara, CA | 11/16/2026 20:32:49 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [Post Silicon Validation Engineering](https://jobright.ai/jobs/info/6afb61385305ed998d91d3b5) | KTek Resourcing | Santa Clara, CA | 11/16/2026 20:02:00 | Sponsorship: Past Sponsorship |
+| 89 (Strong) | [ASIC Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6afb50625305ed998d91c582) | NVIDIA | Santa Clara, CA | 11/16/2026 18:50:10 | Sponsorship: Past Sponsorship |
+| 73 (Strong) | [Physical Design Engineer](https://jobright.ai/jobs/info/6afb7eb5be8589f0b74be67f) | Microsoft | Raleigh, NC | 11/16/2026 14:07:49 | Sponsorship: Not Sure |
 | 46 (Possible) | [Electrical Hardware Engineer Graduate](https://jobright.ai/jobs/info/6ab3304078c69ff506c429fa) | Hewlett Packard Enterprise | Spring, TX | 11/16/2026 12:40:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Mechanical/Hardware Engineer](https://jobright.ai/jobs/info/6aed7e92f46c27c797e9cdef) | Hewlett Packard Enterprise | Chippewa Falls, WI | 11/16/2026 04:32:03 | Sponsorship: Not Sure |
 | 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6af3804e10c7aed77861b137) | RTX | Bellevue, IA | 11/15/2026 09:48:43 | Sponsorship: Past Sponsorship |
@@ -88,19 +104,3 @@ Updated: 2026-11-16 14:03:48Z UTC
 | 40 (Possible) | [(Dec 2026 New Graduates) - Associate Electrical Engineer - Nuclear Design Team](https://jobright.ai/jobs/info/6af5090e1b2c5dcbbcd664fa) | Enercon | Kennesaw, GA | 11/12/2026 00:32:14 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6af4f9facbd2ee75d155ee64) | Haag, a Salas O'Brien Company | Portland, ME | 11/11/2026 15:27:54 | Sponsorship: Not Sure |
 | 86 (Strong) | [Design Verification Engineer](https://jobs.ashbyhq.com/matx/8abaab55-daa7-49c6-af53-5856f033cd22) | MatX | Mountain View (HQ) or Remote | 11/03/2026 21:11:21 |  |
-| 43 (Possible) | [Silicon Engineer, PhD, University Graduate, 2027 Start](https://jobright.ai/jobs/info/6aba7a84be5f1e93251159d7) | Google | Sunnyvale, CA | 11/11/2026 12:19:06 | Sponsorship: Past Sponsorship |
-| 78 (Strong) | [Post-Silicon Systems Validation Engineer I, Annapurna Labs](https://jobright.ai/jobs/info/6af4cbf6cd7be4db20d887d6) | Amazon | Austin, TX | 11/11/2026 20:11:34 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6af4f78bcd7be4db20d8a2a8) | Virtue America | United States | 11/11/2026 23:17:31 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6af4f1583a9a26aee70a2040) | Salas O'Brien | Portland, ME | 11/11/2026 22:51:04 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Cortez - Electrical Engineer I](https://jobright.ai/jobs/info/6af4a63f3a9a26aee709f484) | Barrick Mining Corporation | Crescent Valley, NV | 11/11/2026 17:30:39 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Cortez - Electrical Engineer I](https://jobright.ai/jobs/info/6af4a7e82278454e18c3727b) | Nevada Gold Mines | Nevada State | 11/11/2026 18:14:49 | Sponsorship: Past Sponsorship |
-| 53 (Good) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6ae242f9de23f466ec8c48b8) | Formlabs | Boston, MA | 11/11/2026 19:47:40 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6af4ef7ecbd2ee75d155e8f7) | Salas O'Brien | Lakewood, CO | 11/11/2026 22:43:10 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6af4f7b73a9a26aee70a236c) | Ehvert Mission Critical - a Salas O'Brien Company | New York, NY | 11/11/2026 23:18:15 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-level Electrical Engineer](https://jobright.ai/jobs/info/6af4f9ec1b2c5dcbbcd65f85) | Haag, a Salas O'Brien Company | Lakewood, CO | 11/11/2026 23:27:40 | Sponsorship: Past Sponsorship |
-| 55 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6af4d9862278454e18c38fb3) | Leonardo DRS | Dallas, TX | 11/11/2026 21:09:26 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 85 (Strong) | [ASIC Verification Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6af4b1452278454e18c379ac) | NVIDIA | Austin, TX | 11/11/2026 18:17:41 | Sponsorship: Past Sponsorship |
-| 88 (Strong) | [Physical Design Engineer - Static Timing Analysis, Annapurna Labs, Cloud Scale Machine Learning](https://jobright.ai/jobs/info/6af4e7af2278454e18c396da) | Amazon | Austin, TX; San Diego, CA; Cupertino, CA | 11/11/2026 14:09:51 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Instrumentation & Controls Engineer 1 (Entry-Level) - Nuclear](https://jobright.ai/jobs/info/6af4d8cccd7be4db20d8904e) | Sargent & Lundy | Richland, WA | 11/11/2026 14:09:52 | Sponsorship: No |
-| 40 (Possible) | [Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6af4db049144106c56a22153) | Sargent & Lundy | Chicago, IL | 11/11/2026 14:09:59 | Sponsorship: No |
-| 67 (Good) | [CPU Circuit Design Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Circuit-Design-Engineer_JR0289183) | Intel | US, Texas, Austin | 11/11/2026 00:00:00 |  |
