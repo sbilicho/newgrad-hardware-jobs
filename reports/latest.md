@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-17 05:12:28Z UTC
+Updated: 2026-11-17 14:37:10Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Assistant Electrical Engineer](https://jobright.ai/jobs/info/6afc490f755d7cdf657ff70f) | NYC Department of Health and Mental Hygiene | New York, NY; Long Island City, NY | 11/17/2026 04:31:11 | Sponsorship: Not Sure |
+| 49 (Possible) | [Electrical Engineer (hybrid)](https://jobright.ai/jobs/info/6af373df10c7aed77861a956) | BAE Systems | Cedar Rapids, IA | 11/17/2026 04:36:06 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I - Solar](https://jobright.ai/jobs/info/6afba48dbe8589f0b74bfe95) | RRC Companies | United States | 11/17/2026 00:49:17 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Test Technician, Hardware Validation & Testing, Optimus](https://jobright.ai/jobs/info/6afbb3d1c5917ce34b5dd512) | Tesla | Palo Alto, CA | 11/16/2026 17:54:25 | Sponsorship: Not Sure |
 | 37 (Possible) | [Assistant Electrical Engineer](https://jobright.ai/jobs/info/6afbb715be8589f0b74c0484) | Metropolitan Transportation Authority | Brooklyn, NY | 11/16/2026 18:08:21 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-11-17 05:12:28Z UTC
 | 64 (Good) | [Circuit Design Engineer Asc - Early Career](https://jobright.ai/jobs/info/6af53301cbd2ee75d155ff03) | Lockheed Martin | Littleton, CO | 11/12/2026 03:31:13 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Failure Analysis Engineer, Electronics Debug](https://jobright.ai/jobs/info/6af51e4a2278454e18c3aea5) | Tesla | Palo Alto, CA | 11/11/2026 18:02:50 | Sponsorship: Not Sure |
 | 84 (Strong) | [ASICS Design Verification Engineer](https://careers.qualcomm.com/careers/job/446722076356?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 11/11/2026 00:00:00 |  |
-| 48 (Possible) | [Software Engineer - Embedded Systems (Entry Level)](https://jobright.ai/jobs/info/6a8f173e309e5f224870a4ef) | Battelle | Columbus, OH | 08/26/2026 00:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 69 (Good) | [Career Accelerator Program - Design Verification Engineer- MS/PhD](https://jobright.ai/jobs/info/6a98808283fc633357631d75) | Texas Instruments | Phoenix, AZ | 11/11/2026 22:50:45 | Sponsorship: Past Sponsorship |
