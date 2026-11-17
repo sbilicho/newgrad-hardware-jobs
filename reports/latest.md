@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-17 14:37:10Z UTC
+Updated: 2026-11-17 22:40:29Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 72 (Strong) | [Field Application Engineer, Entry Level](https://jobright.ai/jobs/info/6afc9557bc723850cf83561a) | NXP Semiconductors | Austin, TX | 11/17/2026 17:56:39 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Silicon Design Engineer](https://jobright.ai/jobs/info/6aee14db5c81f621d31114f4) | AMD | San Diego, CA | 11/17/2026 05:02:24 | Sponsorship: Past Sponsorship |
+| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6afca000e0cdcfc91142e087) | ByteDance | San Jose, CA | 11/17/2026 18:42:08 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Assistant Electrical Engineer](https://jobright.ai/jobs/info/6afc490f755d7cdf657ff70f) | NYC Department of Health and Mental Hygiene | New York, NY; Long Island City, NY | 11/17/2026 04:31:11 | Sponsorship: Not Sure |
 | 49 (Possible) | [Electrical Engineer (hybrid)](https://jobright.ai/jobs/info/6af373df10c7aed77861a956) | BAE Systems | Cedar Rapids, IA | 11/17/2026 04:36:06 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I - Solar](https://jobright.ai/jobs/info/6afba48dbe8589f0b74bfe95) | RRC Companies | United States | 11/17/2026 00:49:17 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-11-17 14:37:10Z UTC
 | 82 (Strong) | [Design Verification Engineer](https://jobright.ai/jobs/info/6af4b244cbd2ee75d155c571) | Intel | Santa Clara, CA | 11/11/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Analog Hardware Design Engineer 1](https://jobright.ai/jobs/info/6ae0f4c067c31ab34899f024) | Draper | Cambridge, MA | 11/12/2026 03:31:05 | Sponsorship: No |
 | 45 (Possible) | [Analog Hardware Design Engineer 1](https://jobright.ai/jobs/info/6ad8d060950ef68d5184a682) | Draper | Cambridge, MA | 11/12/2026 03:31:05 | Sponsorship: No |
-| 64 (Good) | [Circuit Design Engineer Asc - Early Career](https://jobright.ai/jobs/info/6af53301cbd2ee75d155ff03) | Lockheed Martin | Littleton, CO | 11/12/2026 03:31:13 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Failure Analysis Engineer, Electronics Debug](https://jobright.ai/jobs/info/6af51e4a2278454e18c3aea5) | Tesla | Palo Alto, CA | 11/11/2026 18:02:50 | Sponsorship: Not Sure |
-| 84 (Strong) | [ASICS Design Verification Engineer](https://careers.qualcomm.com/careers/job/446722076356?domain=qualcomm.com) | Qualcomm | San Diego, California, United States of America | 11/11/2026 00:00:00 |  |
