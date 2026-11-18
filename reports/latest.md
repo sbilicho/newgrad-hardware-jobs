@@ -1,9 +1,19 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-17 22:40:29Z UTC
+Updated: 2026-11-18 03:55:24Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 69 (Good) | [Electrical Engineer Associate - Early Career Level 1- Orlando, FL](https://jobright.ai/jobs/info/6afc2bb17df9c4ceafeb8ab7) | Lockheed Martin | Orlando, FL | 11/17/2026 16:01:22 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afc7d7e755d7cdf65800db5) | Twenty-Six Defense | Roanoke, VA | 11/17/2026 16:12:04 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I / II](https://jobright.ai/jobs/info/6afc8b6093c0a36328a8c8d3) | General Dynamics Electric Boat | Groton, CT | 11/17/2026 17:24:26 | Sponsorship: Past Sponsorship |
+| 35 (Possible) | [Electronic and Electrical Design and Analysis Engineer (Associate or Mid-Level)](https://jobright.ai/jobs/info/6afc9e08d86c15318a38c5e9) | Boeing | Jackson, MS | 11/17/2026 18:33:44 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afc9bc894232f5ac42cfc89) | Delkor Systems | Saint Paul, MN | 11/17/2026 19:44:40 | Sponsorship: Past Sponsorship |
+| 51 (Good) | [Reliability Engineer I - Sr Job Details \| Arkansas Electric Cooperative](https://jobright.ai/jobs/info/6accd8993c831dc4086bf510) | Arkansas Electric Cooperative Corporation | Little Rock, AR | 11/17/2026 19:20:13 | Sponsorship: Past Sponsorship |
+| 43 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afce3b1d163750294927eda) | Daimler Truck North America | Gaffney, SC | 11/17/2026 23:07:03 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afd047cd86c15318a390467) | Austal USA | Mobile, AL | 11/18/2026 01:39:00 | Sponsorship: Past Sponsorship |
+| 73 (Strong) | [Analog IC Design Engineer](https://jobright.ai/jobs/info/6a5040089469c06620350ab9) | Texas Instruments | Dallas, TX | 11/17/2026 22:39:33 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6afcd81d2ac165125e4cd578) | Pentangle Tech Services \| P5 Group | Michigan State | 11/17/2026 22:41:33 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [Field Application Engineer, Entry Level](https://jobright.ai/jobs/info/6afc9557bc723850cf83561a) | NXP Semiconductors | Austin, TX | 11/17/2026 17:56:39 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Silicon Design Engineer](https://jobright.ai/jobs/info/6aee14db5c81f621d31114f4) | AMD | San Diego, CA | 11/17/2026 05:02:24 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6afca000e0cdcfc91142e087) | ByteDance | San Jose, CA | 11/17/2026 18:42:08 | Sponsorship: Past Sponsorship |
@@ -94,13 +104,3 @@ Updated: 2026-11-17 22:40:29Z UTC
 | 50 (Good) | [Test Engineer Asc - E1](https://jobright.ai/jobs/info/6ac6a2950e027c0f3b3b38e8) | Lockheed Martin | Oldsmar, FL | 11/12/2026 11:18:40 | Sponsorship: Not Sure |
 | 50 (Good) | [Test Engineer Asc - E1](https://jobright.ai/jobs/info/6abbfd1a92b2612ef0f8c288) | Lockheed Martin | Ocala, FL | 11/12/2026 11:18:45 | Sponsorship: No |
 | 54 (Good) | [Test Engineer Asc - E1](https://jobright.ai/jobs/info/6af5efe38cc703bba47ae396) | Lockheed Martin | Ocala, FL | 11/12/2026 11:18:45 | Sponsorship: Not Sure |
-| 51 (Good) | [Systems Integration/Test Engineer - E2](https://jobright.ai/jobs/info/6acff3b42cc4e9d17e90b625) | Lockheed Martin | Littleton, CO; Houston, TX | 11/12/2026 11:18:48 | Sponsorship: No |
-| 44 (Possible) | [Radio Frequency (RF) Engineer Asc - Level 1](https://jobright.ai/jobs/info/6aef60438022f8ddd319def1) | Lockheed Martin | Chelmsford, MA | 11/12/2026 11:18:49 | U.S. citizenship language is present; Sponsorship: No |
-| 82 (Strong) | [ASIC & FPGA Design Engineer](https://jobright.ai/jobs/info/6ae93ab932411b3e5a2df952) | Lockheed Martin | Orlando, FL | 11/12/2026 11:20:59 | Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6af612fff10ae27369e16501) | Superior | Columbus, OH | 11/12/2026 11:26:55 | Sponsorship: Not Sure |
-| 88 (Strong) | [SOC Design Verification Engineer](https://jobright.ai/jobs/info/6aabea00636cddf7396f1338) | Qualcomm | San Diego, CA | 11/12/2026 04:12:01 | Sponsorship: Not Sure |
-| 75 (Strong) | [Hardware Verification Engineer, New College Graduate, (Teradyne, Agoura Hills, CA) Job Details \| Teradyne](https://jobright.ai/jobs/info/6af57f46c5a45ba25e111fc7) | Teradyne | Agoura Hills, CA | 10/20/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 54 (Good) | [Entry-Level Electrical Hardware Design Engineer](https://jobright.ai/jobs/info/6af4edc13a9a26aee70a1d4b) | Dice | Huntsville, AL | 10/10/2026 22:35:34 | Sponsorship: Past Sponsorship |
-| 82 (Strong) | [Design Verification Engineer](https://jobright.ai/jobs/info/6af4b244cbd2ee75d155c571) | Intel | Santa Clara, CA | 11/11/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Analog Hardware Design Engineer 1](https://jobright.ai/jobs/info/6ae0f4c067c31ab34899f024) | Draper | Cambridge, MA | 11/12/2026 03:31:05 | Sponsorship: No |
-| 45 (Possible) | [Analog Hardware Design Engineer 1](https://jobright.ai/jobs/info/6ad8d060950ef68d5184a682) | Draper | Cambridge, MA | 11/12/2026 03:31:05 | Sponsorship: No |
