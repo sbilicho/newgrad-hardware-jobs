@@ -1,9 +1,19 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-18 12:49:11Z UTC
+Updated: 2026-11-18 21:07:00Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 81 (Strong) | [GPU Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0289247) | Intel | US, California, Folsom; US, California, Santa Clara | 11/18/2026 00:00:00 |  |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afdd8808cffea7c97c8d751) | Westinghouse Electric Company | Rock Hill, SC | 11/18/2026 17:25:09 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Computer/Electrical Engineer I](https://jobright.ai/jobs/info/6afdc4d88cffea7c97c8c9f5) | TSC | Bloomington, IN | 11/18/2026 17:32:50 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Electrical Engineer - Power](https://jobright.ai/jobs/info/6afde2b70cde47528ec0f6d0) | UL Solutions | Northbrook, IL | 11/18/2026 06:00:00 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Entry Level Electrical Engineer- Water/Wastewater](https://jobright.ai/jobs/info/6afdcbc2f3e7976cc6108a98) | Kimley-Horn | Akron, OH | 11/18/2026 08:47:00 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6afdebe40cde47528ec0ffb8) | Salas O'Brien | New York, NY | 11/18/2026 18:06:16 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Quality Test Engineer (Entry Level) - Medical Devices](https://jobright.ai/jobs/info/6afdf67e758942b6422b6076) | Planet Pharma | Greater Minneapolis–St. Paul Area | 11/18/2026 19:03:26 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Entry-level Electrical Design Engineer](https://jobright.ai/jobs/info/6afdd6cef170d82b3966e840) | Haag, a Salas O'Brien Company | Rochester, NY | 11/18/2026 16:48:14 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Entry-level Electrical Design Engineer](https://jobright.ai/jobs/info/6afdd258758942b6422b43a6) | Salas O'Brien | Rochester, NY | 11/18/2026 16:17:42 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Instrumentation & Controls Engineer I](https://jobright.ai/jobs/info/6afdfc66f3e7976cc610ad5f) | Relativity Space | Cape Canaveral, FL | 11/18/2026 11:28:38 | Sponsorship: Not Sure |
 | 70 (Strong) | [RTL Design Engineer](https://jobright.ai/jobs/info/6af38d1a4ac248020e8d248e) | Intel | Austin, TX; Phoenix, AZ; Hillsboro, OR | 11/18/2026 03:32:24 | Sponsorship: Not Sure |
 | 69 (Good) | [Electrical Engineer Associate - Early Career Level 1- Orlando, FL](https://jobright.ai/jobs/info/6afc2bb17df9c4ceafeb8ab7) | Lockheed Martin | Orlando, FL | 11/17/2026 16:01:22 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afc7d7e755d7cdf65800db5) | Twenty-Six Defense | Roanoke, VA | 11/17/2026 16:12:04 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -94,13 +104,3 @@ Updated: 2026-11-18 12:49:11Z UTC
 | 45 (Possible) | [Entry Level Electrical Design Engineer (Mizzou Spring 2027)](https://jobright.ai/jobs/info/6af6454980054650a5e7de0d) | DMC Engineering | Boston, MA | 11/12/2026 23:01:29 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial (Summer 2027)](https://jobright.ai/jobs/info/6af5ec4ba4a5218a07e815c8) | Sargent & Lundy | Chicago, IL | 11/12/2026 22:09:51 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Entry Level Electrical Design Engineer (University of Cincinnati Spring 2027)](https://jobright.ai/jobs/info/6af645538cc703bba47b1c41) | DMC Engineering | Boston, MA | 11/12/2026 23:01:39 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Entry Level Electrical Design Engineer (Missouri S&T Spring 2027)](https://jobright.ai/jobs/info/6af6442380054650a5e7ddaf) | DMC Engineering | Boston, MA | 11/12/2026 22:56:35 | Sponsorship: Past Sponsorship |
-| 35 (Possible) | [Digitial Design Engineer](https://jobright.ai/jobs/info/6af63e24323c531f31e3136a) | Renesas Electronics | Austin, TX | 11/12/2026 22:31:00 | Sponsorship: Past Sponsorship |
-| 60 (Good) | [Digital Design Engineer II - onsite](https://jobright.ai/jobs/info/6af5fbeaf10ae27369e154a7) | RTX | Tucson, AZ | 11/12/2026 15:27:55 | Security clearance language is present; Sponsorship: No |
-| 74 (Strong) | [Memory Circuit Design Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Memory-Circuit-Design-Engineer_JR0285104) | Intel | US, Oregon, Hillsboro; US, California, Santa Clara; US, Texas, Austin; US, Arizona, Phoenix | 11/12/2026 00:00:00 |  |
-| 74 (Strong) | [Failure Analysis Engineer](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Failure-Analysis-Engineer_R027786) | Broadcom | USA-Colorado-Fort Collins-4380 Ziegler Road | 11/12/2026 00:00:00 |  |
-| 44 (Possible) | [Electrical Engineer I/II](https://jobright.ai/jobs/info/6af6026880054650a5e7b18a) | Antares | Los Angeles, CA | 11/12/2026 18:16:07 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Electrical Engineer](https://jobright.ai/jobs/info/6af5f51f79862a378dcef3c8) | AECOM | Atlanta, GA | 11/12/2026 17:18:35 | Sponsorship: Past Sponsorship |
-| 31 (Possible) | [Principal Packaging Design Integration Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6af6233880054650a5e7c5e6) | GlobalFoundries | Malta, NY | 11/12/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Test Engineer Asc - E1](https://jobright.ai/jobs/info/6ac6a2950e027c0f3b3b38e8) | Lockheed Martin | Oldsmar, FL | 11/12/2026 11:18:40 | Sponsorship: Not Sure |
-| 50 (Good) | [Test Engineer Asc - E1](https://jobright.ai/jobs/info/6abbfd1a92b2612ef0f8c288) | Lockheed Martin | Ocala, FL | 11/12/2026 11:18:45 | Sponsorship: No |
