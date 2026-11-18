@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-18 03:55:24Z UTC
+Updated: 2026-11-18 12:49:11Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 70 (Strong) | [RTL Design Engineer](https://jobright.ai/jobs/info/6af38d1a4ac248020e8d248e) | Intel | Austin, TX; Phoenix, AZ; Hillsboro, OR | 11/18/2026 03:32:24 | Sponsorship: Not Sure |
 | 69 (Good) | [Electrical Engineer Associate - Early Career Level 1- Orlando, FL](https://jobright.ai/jobs/info/6afc2bb17df9c4ceafeb8ab7) | Lockheed Martin | Orlando, FL | 11/17/2026 16:01:22 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afc7d7e755d7cdf65800db5) | Twenty-Six Defense | Roanoke, VA | 11/17/2026 16:12:04 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I / II](https://jobright.ai/jobs/info/6afc8b6093c0a36328a8c8d3) | General Dynamics Electric Boat | Groton, CT | 11/17/2026 17:24:26 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-11-18 03:55:24Z UTC
 | 31 (Possible) | [Principal Packaging Design Integration Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6af6233880054650a5e7c5e6) | GlobalFoundries | Malta, NY | 11/12/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Test Engineer Asc - E1](https://jobright.ai/jobs/info/6ac6a2950e027c0f3b3b38e8) | Lockheed Martin | Oldsmar, FL | 11/12/2026 11:18:40 | Sponsorship: Not Sure |
 | 50 (Good) | [Test Engineer Asc - E1](https://jobright.ai/jobs/info/6abbfd1a92b2612ef0f8c288) | Lockheed Martin | Ocala, FL | 11/12/2026 11:18:45 | Sponsorship: No |
-| 54 (Good) | [Test Engineer Asc - E1](https://jobright.ai/jobs/info/6af5efe38cc703bba47ae396) | Lockheed Martin | Ocala, FL | 11/12/2026 11:18:45 | Sponsorship: Not Sure |
