@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-18 21:07:00Z UTC
+Updated: 2026-11-19 02:33:32Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6afde8940cde47528ec0fd7f) | C&S Group | Platteville, WI | 11/06/2026 14:21:10 | Sponsorship: Past Sponsorship |
+| 30 (Possible) | [Electrical Engineer Level I or Level II - Corporate](https://jobright.ai/jobs/info/6afe1c06f170d82b396716b5) | Rogers Machinery Company, Inc. | Portland, OR | 11/18/2026 21:31:48 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afe1ca9f3e7976cc610c04a) | Karman Space & Defense | Seattle, WA | 11/18/2026 21:46:17 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer – Radar Systems Analysis Entry Level](https://jobright.ai/jobs/info/6afe0fd40cde47528ec116aa) | Leidos | Huntsville, AL | 11/18/2026 22:09:26 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6ad908b5e4b94611ab852331) | I.B. Abel, Inc. | York, PA | 11/18/2026 20:59:56 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [System Safety & Reliability Engineer](https://jobright.ai/jobs/info/6af4c53a1b2c5dcbbcd64036) | Rolls-Royce | Indianapolis, IN; Novi, MI | 11/18/2026 17:02:19 | Sponsorship: No |
 | 81 (Strong) | [GPU Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0289247) | Intel | US, California, Folsom; US, California, Santa Clara | 11/18/2026 00:00:00 |  |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afdd8808cffea7c97c8d751) | Westinghouse Electric Company | Rock Hill, SC | 11/18/2026 17:25:09 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Computer/Electrical Engineer I](https://jobright.ai/jobs/info/6afdc4d88cffea7c97c8c9f5) | TSC | Bloomington, IN | 11/18/2026 17:32:50 | Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-11-18 21:07:00Z UTC
 | 70 (Strong) | [IP Design Verification Engineer](https://jobright.ai/jobs/info/6af265d2905985ccaa40c3ab) | Intel | Santa Clara, CA | 11/13/2026 12:11:58 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6af4cd4d2278454e18c386ba) | Electrical Power Products | Des Moines, IA | 11/13/2026 01:08:59 | Sponsorship: Past Sponsorship |
 | 54 (Good) | [Hardware Reliability Engineer (Starlink Aviation)](https://jobright.ai/jobs/info/6af656b9a4a5218a07e8574c) | SpaceX | Woodinville, WA | 11/12/2026 20:30:43 | Sponsorship: Not Sure |
-| 35 (Possible) | [Digitial Design Engineer](https://jobright.ai/jobs/info/6af62e96f10ae27369e1776c) | Renesas Electronics | Austin, TX | 11/12/2026 21:24:38 | Sponsorship: Past Sponsorship |
-| 62 (Good) | [Entry Level IBM Z Engineering System Test Hardware Engineer - Poughkeepsie, NY - 2027](https://jobright.ai/jobs/info/6af5d635f10ae27369e13f05) | IBM | Poughkeepsie, NY | 10/20/2026 15:07:16 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6af6284479862a378dcf1524) | OXOS Medical | Atlanta, GA | 11/12/2026 20:57:40 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Entry Level Electrical Design Engineer (Mizzou Spring 2027)](https://jobright.ai/jobs/info/6af6454980054650a5e7de0d) | DMC Engineering | Boston, MA | 11/12/2026 23:01:29 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial (Summer 2027)](https://jobright.ai/jobs/info/6af5ec4ba4a5218a07e815c8) | Sargent & Lundy | Chicago, IL | 11/12/2026 22:09:51 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Entry Level Electrical Design Engineer (University of Cincinnati Spring 2027)](https://jobright.ai/jobs/info/6af645538cc703bba47b1c41) | DMC Engineering | Boston, MA | 11/12/2026 23:01:39 | Sponsorship: Past Sponsorship |
