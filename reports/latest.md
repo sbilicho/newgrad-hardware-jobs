@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-19 02:33:32Z UTC
+Updated: 2026-11-19 10:45:19Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 59 (Good) | [Hardware Validation Engineer: Level 1](https://jobright.ai/jobs/info/6afe9db70fe3ac852ce52994) | Quanta Manufacturing Nashville | Fremont, CA | 11/19/2026 06:56:55 | Sponsorship: Past Sponsorship |
+| 59 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6afe9db7959c7033f184c47b) | Quanta Manufacturing Nashville | Fremont, CA | 11/18/2026 22:56:55 | Sponsorship: Not Sure |
 | 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6afde8940cde47528ec0fd7f) | C&S Group | Platteville, WI | 11/06/2026 14:21:10 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [Electrical Engineer Level I or Level II - Corporate](https://jobright.ai/jobs/info/6afe1c06f170d82b396716b5) | Rogers Machinery Company, Inc. | Portland, OR | 11/18/2026 21:31:48 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afe1ca9f3e7976cc610c04a) | Karman Space & Defense | Seattle, WA | 11/18/2026 21:46:17 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-11-19 02:33:32Z UTC
 | 45 (Possible) | [Entry Level Electrical Design Engineer (Texas A&M Spring 2027)](https://jobright.ai/jobs/info/6af62c1e8cc703bba47b0a5a) | DMC Engineering | Boston, MA | 11/12/2026 21:14:06 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Failure Analysis Engineer I (Full-Time) United States](https://jobright.ai/jobs/info/6af72d578242286400642660) | Cisco | Maynard, MA | 11/13/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 70 (Strong) | [IP Design Verification Engineer](https://jobright.ai/jobs/info/6af265d2905985ccaa40c3ab) | Intel | Santa Clara, CA | 11/13/2026 12:11:58 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6af4cd4d2278454e18c386ba) | Electrical Power Products | Des Moines, IA | 11/13/2026 01:08:59 | Sponsorship: Past Sponsorship |
-| 54 (Good) | [Hardware Reliability Engineer (Starlink Aviation)](https://jobright.ai/jobs/info/6af656b9a4a5218a07e8574c) | SpaceX | Woodinville, WA | 11/12/2026 20:30:43 | Sponsorship: Not Sure |
