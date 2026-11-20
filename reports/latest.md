@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-20 08:55:03Z UTC
+Updated: 2026-11-20 17:37:18Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 52 (Good) | [Hardware Engineer I (Full-Time) - United States](https://jobright.ai/jobs/info/6af6ce44d0eefb7d11b87c1c) | Cisco | San Jose, CA | 11/20/2026 14:02:55 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Component Electrical Engineer I (Hybrid)](https://jobright.ai/jobs/info/6afefa1b1c42ea8f6b9fc206) | RTX | McKinney, TX | 11/20/2026 16:37:39 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ac6c2b70e027c0f3b3b4333) | Jacobs | Austin, TX; Philadelphia, PA; San Diego, CA | 11/20/2026 08:01:29 | Sponsorship: Not Sure |
+| 47 (Possible) | [Systems Integration/Test Engineer Associate - Entry Level](https://jobright.ai/jobs/info/6aff91a36f4ca73dfeb4598e) | Lockheed Martin | Littleton, CO | 11/20/2026 08:01:33 | Sponsorship: Past Sponsorship |
 | 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6affbb74dd029d798066e521) | SYNCRIS | Bloomington, MN | 11/19/2026 16:15:49 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Test Engineer I/II - Electrical](https://jobright.ai/jobs/info/6affafbb1126e09fee091fe0) | Woodward, Inc. | Rockford, IL | 11/20/2026 05:50:00 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Analog & Power Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ada7a12e4b94611ab85d216) | Raytheon | McKinney, TX | 11/20/2026 05:24:59 | Security clearance language is present; Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-11-20 08:55:03Z UTC
 | 46 (Possible) | [Electrical Hardware Engineer Graduate](https://jobright.ai/jobs/info/6ab3304078c69ff506c429fa) | Hewlett Packard Enterprise | Spring, TX | 11/16/2026 12:40:00 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Mechanical/Hardware Engineer](https://jobright.ai/jobs/info/6aed7e92f46c27c797e9cdef) | Hewlett Packard Enterprise | Chippewa Falls, WI | 11/16/2026 04:32:03 | Sponsorship: Not Sure |
 | 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6af3804e10c7aed77861b137) | RTX | Bellevue, IA | 11/15/2026 09:48:43 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [Electrical Engineer I, X-BAT (New Grad)](https://jobright.ai/jobs/info/6af91d6a48f3528e5a72ec66) | Shield | Seattle, WA | 11/14/2026 09:10:49 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Electrical Engineer I - New Grad (SEA) (R6107)](https://jobright.ai/jobs/info/6af91d631465de0d45f83c2b) | Shield | Seattle, WA | 11/14/2026 09:10:49 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Electrical Engineer I - New Grad](https://jobright.ai/jobs/info/6af8e84248f3528e5a72e697) | Shield AI | San Diego, CA | 11/14/2026 23:01:22 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 52 (Good) | [Electrical Engineer I, X-BAT (New Grad)](https://jobright.ai/jobs/info/6af8e86fa68705504beb90f3) | Shield AI | Seattle, WA | 11/14/2026 23:02:07 | Sponsorship: Past Sponsorship |
