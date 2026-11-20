@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-20 01:20:29Z UTC
+Updated: 2026-11-20 08:55:03Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6affbb74dd029d798066e521) | SYNCRIS | Bloomington, MN | 11/19/2026 16:15:49 | Sponsorship: Past Sponsorship |
+| 51 (Good) | [Test Engineer I/II - Electrical](https://jobright.ai/jobs/info/6affafbb1126e09fee091fe0) | Woodward, Inc. | Rockford, IL | 11/20/2026 05:50:00 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Analog & Power Electrical Engineer I - Onsite](https://jobright.ai/jobs/info/6ada7a12e4b94611ab85d216) | Raytheon | McKinney, TX | 11/20/2026 05:24:59 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 60 (Good) | [High Speed SerDes Validation Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6aff741d865dbcc3f26fc69f) | NVIDIA | Santa Clara, CA | 11/19/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 81 (Strong) | [Formal Verification Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6aff5d7fb88323bd981be339) | NVIDIA | Santa Clara, CA | 10/21/2026 20:35:04 | Sponsorship: Past Sponsorship |
+| 88 (Strong) | [ASIC Clocks Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6aff7433b47661ae4a62caf1) | NVIDIA | Santa Clara, CA | 11/19/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 75 (Strong) | [Design Verification Engineer - SoC](https://jobs.ashbyhq.com/Etched/33adf31c-e0ad-4080-bb83-1b3859f95d35) | Etched | Austin | 04/16/2026 02:39:09 |  |
 | 79 (Strong) | [Design Verification Engineer - Internal IP](https://jobs.ashbyhq.com/Etched/77f0497f-086e-4d89-bbcd-bac7a79bf9a1) | Etched | Austin | 04/16/2026 02:34:19 |  |
 | 71 (Strong) | [Design Verification Engineer - Interface IP](https://jobs.ashbyhq.com/Etched/6f4df530-6d67-4df9-903c-645c20e84845) | Etched | Austin | 04/16/2026 02:28:44 |  |
@@ -98,9 +104,3 @@ Updated: 2026-11-20 01:20:29Z UTC
 | 45 (Possible) | [Electrical Engineer I - New Grad (SEA) (R6107)](https://jobright.ai/jobs/info/6af91d631465de0d45f83c2b) | Shield | Seattle, WA | 11/14/2026 09:10:49 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Electrical Engineer I - New Grad](https://jobright.ai/jobs/info/6af8e84248f3528e5a72e697) | Shield AI | San Diego, CA | 11/14/2026 23:01:22 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 52 (Good) | [Electrical Engineer I, X-BAT (New Grad)](https://jobright.ai/jobs/info/6af8e86fa68705504beb90f3) | Shield AI | Seattle, WA | 11/14/2026 23:02:07 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Electrical Engineer I - New Grad (BOS)](https://jobright.ai/jobs/info/6af8e84448f3528e5a72e69b) | Shield AI | Boston, MA | 11/14/2026 23:01:24 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 93 (Strong) | [Physical Design Engineer (Silicon Engineering)](https://jobright.ai/jobs/info/6aa49576c1928370a285e8f0) | SpaceX | Austin, TX | 11/14/2026 16:57:45 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6aebc04cf40efa43f4a1a5ef) | Ampirical | Duluth, GA | 11/14/2026 17:50:58 | Sponsorship: Past Sponsorship |
-| 59 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6af8636042ae65e2c8f3ce31) | Leonardo DRS | Dallas, TX | 11/14/2026 13:34:24 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 77 (Strong) | [Design Verification Engineer](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Design-Verification-Engineer_R027819) | Broadcom | USA-CA San Jose Innovation Drive | 11/13/2026 00:00:00 |  |
-| 59 (Good) | [Product Engineer](https://jobright.ai/jobs/info/6af86459cb5a5d4a77fcbf42) | Leonardo DRS | Dallas, TX | 11/14/2026 13:38:33 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
