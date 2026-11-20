@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-20 17:37:18Z UTC
+Updated: 2026-11-20 23:22:08Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 66 (Good) | [Advanced Packaging Failure Analysis Engineer – Federal](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Advanced-Packaging-Failure-Analysis-Engineer---Federal_JR0289392) | Intel | US, Arizona, Phoenix | 11/20/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present |
+| 66 (Good) | [Advanced Packaging Failure Analysis Engineer – Federal](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Advanced-Packaging-Failure-Analysis-Engineer---Federal_JR0289391) | Intel | US, Arizona, Phoenix | 11/20/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present |
+| 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6b00ad22e0dc96195928315e) | Haag, a Salas O'Brien Company | Rochester, NY | 11/20/2026 22:19:43 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6b00a3820f536e0ba7275bdb) | McClure Engineering-St. Louis (MEP) | St. Louis, MO | 11/20/2026 13:31:22 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Entry-Level Manufacturing Electrical Engineer](https://jobright.ai/jobs/info/6b009d87dfa58e4c244dce33) | RG&T Solutions | Warroad, MN | 11/20/2026 19:20:39 | Sponsorship: Past Sponsorship |
+| 69 (Good) | [Silicon Photonics Device Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6b00c81f89d8ca1e8495980e) | GlobalFoundries | Malta, NY | 11/20/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 77 (Strong) | [Post-Si Electrical Validation Engineer NCG](https://jobright.ai/jobs/info/6b00c5a989d8ca1e84959699) | Astera Labs | San Jose, CA | 11/20/2026 14:11:53 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Hardware Engineer I (Full-Time) - United States](https://jobright.ai/jobs/info/6af6ce44d0eefb7d11b87c1c) | Cisco | San Jose, CA | 11/20/2026 14:02:55 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Component Electrical Engineer I (Hybrid)](https://jobright.ai/jobs/info/6afefa1b1c42ea8f6b9fc206) | RTX | McKinney, TX | 11/20/2026 16:37:39 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ac6c2b70e027c0f3b3b4333) | Jacobs | Austin, TX; Philadelphia, PA; San Diego, CA | 11/20/2026 08:01:29 | Sponsorship: Not Sure |
@@ -97,10 +104,3 @@ Updated: 2026-11-20 17:37:18Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afb8a01c2bd7db01b882b83) | Advanced Electric Systems | Houston, TX | 11/16/2026 22:56:01 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6afb65f37f9ead6668ea1e89) | Belcan | Lexington, KY | 11/16/2026 20:22:11 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer— Entry Level](https://jobright.ai/jobs/info/6afb893ac5917ce34b5dc0d8) | Wavetronix | Springville, UT | 11/16/2026 22:52:42 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [Post Silicon Validation Engineer](https://jobright.ai/jobs/info/6afb68717f9ead6668ea2065) | Dice | Santa Clara, CA | 11/16/2026 20:32:49 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [Post Silicon Validation Engineering](https://jobright.ai/jobs/info/6afb61385305ed998d91d3b5) | KTek Resourcing | Santa Clara, CA | 11/16/2026 20:02:00 | Sponsorship: Past Sponsorship |
-| 89 (Strong) | [ASIC Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6afb50625305ed998d91c582) | NVIDIA | Santa Clara, CA | 11/16/2026 18:50:10 | Sponsorship: Past Sponsorship |
-| 73 (Strong) | [Physical Design Engineer](https://jobright.ai/jobs/info/6afb7eb5be8589f0b74be67f) | Microsoft | Raleigh, NC | 11/16/2026 14:07:49 | Sponsorship: Not Sure |
-| 46 (Possible) | [Electrical Hardware Engineer Graduate](https://jobright.ai/jobs/info/6ab3304078c69ff506c429fa) | Hewlett Packard Enterprise | Spring, TX | 11/16/2026 12:40:00 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Mechanical/Hardware Engineer](https://jobright.ai/jobs/info/6aed7e92f46c27c797e9cdef) | Hewlett Packard Enterprise | Chippewa Falls, WI | 11/16/2026 04:32:03 | Sponsorship: Not Sure |
-| 40 (Possible) | [Manufacturing Electrical Engineer I (Onsite)](https://jobright.ai/jobs/info/6af3804e10c7aed77861b137) | RTX | Bellevue, IA | 11/15/2026 09:48:43 | Sponsorship: Past Sponsorship |
