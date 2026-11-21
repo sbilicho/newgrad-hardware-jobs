@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-21 12:48:22Z UTC
+Updated: 2026-11-21 19:52:24Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 31 (Possible) | [Applied Machine Learning Engineer, AI for VLSI Design - New College Grad 2026](https://jobright.ai/jobs/info/6aff5debaea17e3f50eaff6f) | NVIDIA | Santa Clara, CA | 09/23/2026 20:36:41 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry-Level Manufacturing Electrical Engineer](https://jobright.ai/jobs/info/6b01e78da512f514bbde3f15) | RG&T Solutions | Warroad, MN | 11/21/2026 18:48:45 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Silicon Engineer](https://jobright.ai/jobs/info/6b0109602ad6cde5ef250c03) | Microsoft | Redmond, WA | 11/21/2026 16:05:04 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Electrical Design Engineer (Starfall Avionics)](https://jobright.ai/jobs/info/6b01e381df73191d2e6b21cd) | SpaceX | Hawthorne, CA | 11/21/2026 10:31:29 | Sponsorship: Not Sure |
 | 50 (Good) | [Associate Electrical Hardware Engineer](https://jobright.ai/jobs/info/6b011a00f6ef85c61a50e873) | Rhoda AI | Mountain View, CA | 11/21/2026 02:30:15 | Sponsorship: Not Sure |
 | 45 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6b016646f6ef85c61a50f34c) | Eaton | Davenport, IA | 11/21/2026 02:55:45 | Sponsorship: No |
 | 47 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6aea5adf440b469a1c0ad34f) | Eaton | Omaha, NE | 11/21/2026 02:55:45 | Sponsorship: No |
@@ -100,7 +104,3 @@ Updated: 2026-11-21 12:48:22Z UTC
 | 49 (Possible) | [Electrical Engineer (hybrid)](https://jobright.ai/jobs/info/6af373df10c7aed77861a956) | BAE Systems | Cedar Rapids, IA | 11/17/2026 04:36:06 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: No |
 | 37 (Possible) | [Electrical Engineer I - Solar](https://jobright.ai/jobs/info/6afba48dbe8589f0b74bfe95) | RRC Companies | United States | 11/17/2026 00:49:17 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Test Technician, Hardware Validation & Testing, Optimus](https://jobright.ai/jobs/info/6afbb3d1c5917ce34b5dd512) | Tesla | Palo Alto, CA | 11/16/2026 17:54:25 | Sponsorship: Not Sure |
-| 37 (Possible) | [Assistant Electrical Engineer](https://jobright.ai/jobs/info/6afbb715be8589f0b74c0484) | Metropolitan Transportation Authority | Brooklyn, NY | 11/16/2026 18:08:21 | Sponsorship: Not Sure |
-| 71 (Strong) | [Electrical Failure Analysis Engineer - Shift2 Nanoprobing](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Electrical-Failure-Analysis-Engineer---Shift2-Nanoprobing_JR0289219) | Intel | US, Oregon, Hillsboro | 11/16/2026 00:00:00 |  |
-| 71 (Strong) | [Electrical Failure Analysis Engineer - Nanoprobing](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Electrical-Failure-Analysis-Engineer---Nanoprobing_JR0289232) | Intel | US, Oregon, Hillsboro | 11/16/2026 00:00:00 |  |
-| 72 (Strong) | [Onsite - Post Silicon Validation](https://jobright.ai/jobs/info/6afb3e9704af1c9f075c5a8e) | Talent Groups | Santa Clara, CA | 11/16/2026 15:33:41 | Sponsorship: Past Sponsorship |
