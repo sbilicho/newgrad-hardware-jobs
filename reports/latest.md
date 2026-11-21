@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-20 23:22:08Z UTC
+Updated: 2026-11-21 04:10:56Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 45 (Possible) | [Electrical Engineer I - RF/Microwave](https://jobright.ai/jobs/info/6b009628dfa58e4c244dc93b) | Thorlabs | Ann Arbor, MI | 11/20/2026 18:37:10 | Sponsorship: Past Sponsorship |
+| 88 (Strong) | [CPU Physical Design Engineer](https://jobright.ai/jobs/info/6b00ed392ad6cde5ef2502e7) | Qualcomm | Austin, TX | 11/20/2026 17:00:41 | Sponsorship: Past Sponsorship |
 | 66 (Good) | [Advanced Packaging Failure Analysis Engineer – Federal](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Advanced-Packaging-Failure-Analysis-Engineer---Federal_JR0289392) | Intel | US, Arizona, Phoenix | 11/20/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present |
 | 66 (Good) | [Advanced Packaging Failure Analysis Engineer – Federal](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Advanced-Packaging-Failure-Analysis-Engineer---Federal_JR0289391) | Intel | US, Arizona, Phoenix | 11/20/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present |
 | 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6b00ad22e0dc96195928315e) | Haag, a Salas O'Brien Company | Rochester, NY | 11/20/2026 22:19:43 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-11-20 23:22:08Z UTC
 | 37 (Possible) | [Electrical Engineer I - Solar](https://jobright.ai/jobs/info/6afb8809b2e06df257975548) | RRC Companies | United States | 11/16/2026 22:47:37 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afb88da06c0aac84dd96c91) | Quanta Services, Inc. | Houston, TX | 11/16/2026 22:51:06 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afb8a01c2bd7db01b882b83) | Advanced Electric Systems | Houston, TX | 11/16/2026 22:56:01 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6afb65f37f9ead6668ea1e89) | Belcan | Lexington, KY | 11/16/2026 20:22:11 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer— Entry Level](https://jobright.ai/jobs/info/6afb893ac5917ce34b5dc0d8) | Wavetronix | Springville, UT | 11/16/2026 22:52:42 | Sponsorship: Past Sponsorship |
