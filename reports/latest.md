@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-21 04:10:56Z UTC
+Updated: 2026-11-21 12:48:22Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 50 (Good) | [Associate Electrical Hardware Engineer](https://jobright.ai/jobs/info/6b011a00f6ef85c61a50e873) | Rhoda AI | Mountain View, CA | 11/21/2026 02:30:15 | Sponsorship: Not Sure |
+| 45 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6b016646f6ef85c61a50f34c) | Eaton | Davenport, IA | 11/21/2026 02:55:45 | Sponsorship: No |
+| 47 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6aea5adf440b469a1c0ad34f) | Eaton | Omaha, NE | 11/21/2026 02:55:45 | Sponsorship: No |
+| 40 (Possible) | [Electrical Engineer - Philadelphia, PA](https://jobright.ai/jobs/info/6ae547f4d45dc30fb7d363d3) | Eaton | Philadelphia, PA | 11/21/2026 02:55:45 | Sponsorship: No |
+| 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6adbadc70a4cc7090f974378) | Eaton | South Milwaukee, WI | 11/21/2026 02:55:45 | Sponsorship: No |
+| 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6af2ccdefb5e064d9db433ba) | Pfizer | Andover, MA | 11/21/2026 03:07:42 | Sponsorship: Not Sure |
+| 46 (Possible) | [Hardware Engineer](https://jobright.ai/jobs/info/6aa9b83e28e24cb38513ba3e) | Qualcomm | San Diego, CA | 11/21/2026 03:51:37 | Sponsorship: Not Sure |
 | 45 (Possible) | [Electrical Engineer I - RF/Microwave](https://jobright.ai/jobs/info/6b009628dfa58e4c244dc93b) | Thorlabs | Ann Arbor, MI | 11/20/2026 18:37:10 | Sponsorship: Past Sponsorship |
 | 88 (Strong) | [CPU Physical Design Engineer](https://jobright.ai/jobs/info/6b00ed392ad6cde5ef2502e7) | Qualcomm | Austin, TX | 11/20/2026 17:00:41 | Sponsorship: Past Sponsorship |
 | 66 (Good) | [Advanced Packaging Failure Analysis Engineer – Federal](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Advanced-Packaging-Failure-Analysis-Engineer---Federal_JR0289392) | Intel | US, Arizona, Phoenix | 11/20/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present |
@@ -97,10 +104,3 @@ Updated: 2026-11-21 04:10:56Z UTC
 | 71 (Strong) | [Electrical Failure Analysis Engineer - Shift2 Nanoprobing](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Electrical-Failure-Analysis-Engineer---Shift2-Nanoprobing_JR0289219) | Intel | US, Oregon, Hillsboro | 11/16/2026 00:00:00 |  |
 | 71 (Strong) | [Electrical Failure Analysis Engineer - Nanoprobing](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Electrical-Failure-Analysis-Engineer---Nanoprobing_JR0289232) | Intel | US, Oregon, Hillsboro | 11/16/2026 00:00:00 |  |
 | 72 (Strong) | [Onsite - Post Silicon Validation](https://jobright.ai/jobs/info/6afb3e9704af1c9f075c5a8e) | Talent Groups | Santa Clara, CA | 11/16/2026 15:33:41 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Semiconductor Design Engineer](https://jobright.ai/jobs/info/6afb88e9c2bd7db01b882a7a) | Micron Technology | Folsom, CA | 11/16/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [Electrical/Hardware Engineer I](https://jobright.ai/jobs/info/6ab376375d482753f3e68d93) | Hewlett Packard Enterprise | Spring, TX | 11/16/2026 12:54:43 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Supervising Electrical Engineer I](https://jobright.ai/jobs/info/6a3ce101882f121f56a35aef) | Syska Hennessy Group | Jacksonville, FL | 11/16/2026 18:55:27 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afb3dc9317abe715a26244a) | Pond & Company | Peachtree Corners, GA | 11/16/2026 22:28:19 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I - Solar](https://jobright.ai/jobs/info/6afb8809b2e06df257975548) | RRC Companies | United States | 11/16/2026 22:47:37 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afb88da06c0aac84dd96c91) | Quanta Services, Inc. | Houston, TX | 11/16/2026 22:51:06 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afb8a01c2bd7db01b882b83) | Advanced Electric Systems | Houston, TX | 11/16/2026 22:56:01 | Sponsorship: Past Sponsorship |
