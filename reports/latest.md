@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-21 19:52:24Z UTC
+Updated: 2026-11-22 00:07:14Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 66 (Good) | [ASIC Design Verification Engineer (Santa Clara, CA)](https://careers.qualcomm.com/careers/job/446722250323?domain=qualcomm.com) | Qualcomm | Santa Clara, California, United States of America | 11/20/2026 00:00:00 |  |
+| 62 (Good) | [Embedded Software Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6b021c4d505c87ccb3a2e76b) | Dice | United States | 11/21/2026 22:33:49 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6b021c4ebf981a04582278cf) | Dice | United States | 11/21/2026 22:33:50 | Sponsorship: Past Sponsorship |
 | 31 (Possible) | [Applied Machine Learning Engineer, AI for VLSI Design - New College Grad 2026](https://jobright.ai/jobs/info/6aff5debaea17e3f50eaff6f) | NVIDIA | Santa Clara, CA | 09/23/2026 20:36:41 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Manufacturing Electrical Engineer](https://jobright.ai/jobs/info/6b01e78da512f514bbde3f15) | RG&T Solutions | Warroad, MN | 11/21/2026 18:48:45 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Silicon Engineer](https://jobright.ai/jobs/info/6b0109602ad6cde5ef250c03) | Microsoft | Redmond, WA | 11/21/2026 16:05:04 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-11-21 19:52:24Z UTC
 | 45 (Possible) | [Silicon Design Engineer](https://jobright.ai/jobs/info/6aee14db5c81f621d31114f4) | AMD | San Diego, CA | 11/17/2026 05:02:24 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6afca000e0cdcfc91142e087) | ByteDance | San Jose, CA | 11/17/2026 18:42:08 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Assistant Electrical Engineer](https://jobright.ai/jobs/info/6afc490f755d7cdf657ff70f) | NYC Department of Health and Mental Hygiene | New York, NY; Long Island City, NY | 11/17/2026 04:31:11 | Sponsorship: Not Sure |
-| 49 (Possible) | [Electrical Engineer (hybrid)](https://jobright.ai/jobs/info/6af373df10c7aed77861a956) | BAE Systems | Cedar Rapids, IA | 11/17/2026 04:36:06 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: No |
-| 37 (Possible) | [Electrical Engineer I - Solar](https://jobright.ai/jobs/info/6afba48dbe8589f0b74bfe95) | RRC Companies | United States | 11/17/2026 00:49:17 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [Test Technician, Hardware Validation & Testing, Optimus](https://jobright.ai/jobs/info/6afbb3d1c5917ce34b5dd512) | Tesla | Palo Alto, CA | 11/16/2026 17:54:25 | Sponsorship: Not Sure |
