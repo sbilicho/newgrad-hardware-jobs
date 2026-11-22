@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-22 00:07:14Z UTC
+Updated: 2026-11-22 06:43:51Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6b026992505c87ccb3a2f1ec) | McClure Engineering | St. Louis, MO | 11/21/2026 09:23:39 | Sponsorship: Past Sponsorship |
 | 66 (Good) | [ASIC Design Verification Engineer (Santa Clara, CA)](https://careers.qualcomm.com/careers/job/446722250323?domain=qualcomm.com) | Qualcomm | Santa Clara, California, United States of America | 11/20/2026 00:00:00 |  |
 | 62 (Good) | [Embedded Software Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6b021c4d505c87ccb3a2e76b) | Dice | United States | 11/21/2026 22:33:49 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6b021c4ebf981a04582278cf) | Dice | United States | 11/21/2026 22:33:50 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-11-22 00:07:14Z UTC
 | 72 (Strong) | [Field Application Engineer, Entry Level](https://jobright.ai/jobs/info/6afc9557bc723850cf83561a) | NXP Semiconductors | Austin, TX | 11/17/2026 17:56:39 | Sponsorship: Past Sponsorship |
 | 45 (Possible) | [Silicon Design Engineer](https://jobright.ai/jobs/info/6aee14db5c81f621d31114f4) | AMD | San Diego, CA | 11/17/2026 05:02:24 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6afca000e0cdcfc91142e087) | ByteDance | San Jose, CA | 11/17/2026 18:42:08 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Assistant Electrical Engineer](https://jobright.ai/jobs/info/6afc490f755d7cdf657ff70f) | NYC Department of Health and Mental Hygiene | New York, NY; Long Island City, NY | 11/17/2026 04:31:11 | Sponsorship: Not Sure |
