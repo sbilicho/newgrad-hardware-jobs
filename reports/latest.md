@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-23 01:37:22Z UTC
+Updated: 2026-11-23 09:48:16Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Electrical Instrumentation and Controls Engineer I – Power Generation](https://jobright.ai/jobs/info/6b03b215754c32e575312e19) | Strive Solutions | Bolingbrook, IL | 11/23/2026 03:25:09 | Sponsorship: Past Sponsorship |
+| 50 (Good) | [Electric Propulsion Test Engineer](https://jobright.ai/jobs/info/6b03fe63a72582cade08b405) | General Galactic | El Segundo, CA | 11/23/2026 00:50:43 | Sponsorship: No |
 | 41 (Possible) | [Entry-Level Manufacturing Electrical Engineer](https://jobright.ai/jobs/info/6b0389d96300701fae1ad5ce) | Coastal Elite Pro | Warroad, MN | 11/23/2026 00:33:29 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Electrical Engineer & Mechanical Engineer](https://jobright.ai/jobs/info/6b0394223482807223d84b4d) | MDP Engineering Group | Denver, CO | 11/23/2026 01:17:22 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Switchgear Electrical Engineer](https://jobright.ai/jobs/info/6adf92d20a4cc7090f980a8f) | RESA Power | Plant City, FL | 11/22/2026 16:13:04 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-11-23 01:37:22Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afc9bc894232f5ac42cfc89) | Delkor Systems | Saint Paul, MN | 11/17/2026 19:44:40 | Sponsorship: Past Sponsorship |
 | 51 (Good) | [Reliability Engineer I - Sr Job Details \| Arkansas Electric Cooperative](https://jobright.ai/jobs/info/6accd8993c831dc4086bf510) | Arkansas Electric Cooperative Corporation | Little Rock, AR | 11/17/2026 19:20:13 | Sponsorship: Past Sponsorship |
 | 43 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afce3b1d163750294927eda) | Daimler Truck North America | Gaffney, SC | 11/17/2026 23:07:03 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afd047cd86c15318a390467) | Austal USA | Mobile, AL | 11/18/2026 01:39:00 | Sponsorship: Past Sponsorship |
-| 73 (Strong) | [Analog IC Design Engineer](https://jobright.ai/jobs/info/6a5040089469c06620350ab9) | Texas Instruments | Dallas, TX | 11/17/2026 22:39:33 | Sponsorship: Past Sponsorship |
