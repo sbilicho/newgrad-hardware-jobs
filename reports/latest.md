@@ -1,9 +1,17 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-23 09:48:16Z UTC
+Updated: 2026-11-23 21:45:55Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Electrical Engineer I, Life Cycle Engineering](https://jobright.ai/jobs/info/6b045b11c8533c23e3c35031) | General Dynamics - Bath Iron Works | Brunswick, ME | 11/23/2026 15:26:09 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6b0478e7a72582cade08dd1f) | Honeywell Aerospace | Torrance, CA | 11/23/2026 17:33:27 | Sponsorship: Past Sponsorship |
+| 49 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6b04aa8113646880439e4454) | Advanced Energy | Wilmington, MA | 11/23/2026 18:18:27 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ae36fedfb2cd420ace50cfd) | Jacobs | Austin, TX | 11/21/2026 04:51:51 | Sponsorship: Past Sponsorship |
+| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6b04aeb67bec27df08f935ff) | C&S Group | United States | 11/19/2026 10:28:40 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Entry Level Test Engineer - CASD](https://jobright.ai/jobs/info/6b04a5987fd2e33bde096064) | TRAX International Corporation | Yuma, AZ | 11/23/2026 06:00:00 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 67 (Good) | [Corporate Application Engineer, Physical AI (2027 New College Graduate)](https://jobright.ai/jobs/info/6b046b4e566251ad7b86193d) | GlobalFoundries | Austin, TX | 11/23/2026 06:00:00 | Sponsorship: Past Sponsorship |
+| 65 (Good) | [Design Reliability Engineer (New Grad)](https://jobright.ai/jobs/info/6b04890421f0a1e0c849c096) | General Matter | Los Angeles, CA | 11/23/2026 18:42:12 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Instrumentation and Controls Engineer I – Power Generation](https://jobright.ai/jobs/info/6b03b215754c32e575312e19) | Strive Solutions | Bolingbrook, IL | 11/23/2026 03:25:09 | Sponsorship: Past Sponsorship |
 | 50 (Good) | [Electric Propulsion Test Engineer](https://jobright.ai/jobs/info/6b03fe63a72582cade08b405) | General Galactic | El Segundo, CA | 11/23/2026 00:50:43 | Sponsorship: No |
 | 41 (Possible) | [Entry-Level Manufacturing Electrical Engineer](https://jobright.ai/jobs/info/6b0389d96300701fae1ad5ce) | Coastal Elite Pro | Warroad, MN | 11/23/2026 00:33:29 | Sponsorship: Past Sponsorship |
@@ -96,11 +104,3 @@ Updated: 2026-11-23 09:48:16Z UTC
 | 42 (Possible) | [Entry-level Electrical Design Engineer](https://jobright.ai/jobs/info/6afdd6cef170d82b3966e840) | Haag, a Salas O'Brien Company | Rochester, NY | 11/18/2026 16:48:14 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Entry-level Electrical Design Engineer](https://jobright.ai/jobs/info/6afdd258758942b6422b43a6) | Salas O'Brien | Rochester, NY | 11/18/2026 16:17:42 | Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Instrumentation & Controls Engineer I](https://jobright.ai/jobs/info/6afdfc66f3e7976cc610ad5f) | Relativity Space | Cape Canaveral, FL | 11/18/2026 11:28:38 | Sponsorship: Not Sure |
-| 70 (Strong) | [RTL Design Engineer](https://jobright.ai/jobs/info/6af38d1a4ac248020e8d248e) | Intel | Austin, TX; Phoenix, AZ; Hillsboro, OR | 11/18/2026 03:32:24 | Sponsorship: Not Sure |
-| 69 (Good) | [Electrical Engineer Associate - Early Career Level 1- Orlando, FL](https://jobright.ai/jobs/info/6afc2bb17df9c4ceafeb8ab7) | Lockheed Martin | Orlando, FL | 11/17/2026 16:01:22 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afc7d7e755d7cdf65800db5) | Twenty-Six Defense | Roanoke, VA | 11/17/2026 16:12:04 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I / II](https://jobright.ai/jobs/info/6afc8b6093c0a36328a8c8d3) | General Dynamics Electric Boat | Groton, CT | 11/17/2026 17:24:26 | Sponsorship: Past Sponsorship |
-| 35 (Possible) | [Electronic and Electrical Design and Analysis Engineer (Associate or Mid-Level)](https://jobright.ai/jobs/info/6afc9e08d86c15318a38c5e9) | Boeing | Jackson, MS | 11/17/2026 18:33:44 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afc9bc894232f5ac42cfc89) | Delkor Systems | Saint Paul, MN | 11/17/2026 19:44:40 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [Reliability Engineer I - Sr Job Details \| Arkansas Electric Cooperative](https://jobright.ai/jobs/info/6accd8993c831dc4086bf510) | Arkansas Electric Cooperative Corporation | Little Rock, AR | 11/17/2026 19:20:13 | Sponsorship: Past Sponsorship |
-| 43 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afce3b1d163750294927eda) | Daimler Truck North America | Gaffney, SC | 11/17/2026 23:07:03 | Sponsorship: Past Sponsorship |
