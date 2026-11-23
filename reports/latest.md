@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-22 20:59:57Z UTC
+Updated: 2026-11-23 01:37:22Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 41 (Possible) | [Entry-Level Manufacturing Electrical Engineer](https://jobright.ai/jobs/info/6b0389d96300701fae1ad5ce) | Coastal Elite Pro | Warroad, MN | 11/23/2026 00:33:29 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Electrical Engineer & Mechanical Engineer](https://jobright.ai/jobs/info/6b0394223482807223d84b4d) | MDP Engineering Group | Denver, CO | 11/23/2026 01:17:22 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Switchgear Electrical Engineer](https://jobright.ai/jobs/info/6adf92d20a4cc7090f980a8f) | RESA Power | Plant City, FL | 11/22/2026 16:13:04 | Sponsorship: Not Sure |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6b026a42bf981a0458228379) | McClure Engineering | St. Louis, MO | 11/21/2026 09:23:33 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6b026992505c87ccb3a2f1ec) | McClure Engineering | St. Louis, MO | 11/21/2026 09:23:39 | Sponsorship: Past Sponsorship |
 | 66 (Good) | [ASIC Design Verification Engineer (Santa Clara, CA)](https://careers.qualcomm.com/careers/job/446722250323?domain=qualcomm.com) | Qualcomm | Santa Clara, California, United States of America | 11/20/2026 00:00:00 |  |
@@ -101,6 +104,3 @@ Updated: 2026-11-22 20:59:57Z UTC
 | 43 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afce3b1d163750294927eda) | Daimler Truck North America | Gaffney, SC | 11/17/2026 23:07:03 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afd047cd86c15318a390467) | Austal USA | Mobile, AL | 11/18/2026 01:39:00 | Sponsorship: Past Sponsorship |
 | 73 (Strong) | [Analog IC Design Engineer](https://jobright.ai/jobs/info/6a5040089469c06620350ab9) | Texas Instruments | Dallas, TX | 11/17/2026 22:39:33 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [Validation Engineer](https://jobright.ai/jobs/info/6afcd81d2ac165125e4cd578) | Pentangle Tech Services \| P5 Group | Michigan State | 11/17/2026 22:41:33 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [Field Application Engineer, Entry Level](https://jobright.ai/jobs/info/6afc9557bc723850cf83561a) | NXP Semiconductors | Austin, TX | 11/17/2026 17:56:39 | Sponsorship: Past Sponsorship |
-| 45 (Possible) | [Silicon Design Engineer](https://jobright.ai/jobs/info/6aee14db5c81f621d31114f4) | AMD | San Diego, CA | 11/17/2026 05:02:24 | Sponsorship: Past Sponsorship |
