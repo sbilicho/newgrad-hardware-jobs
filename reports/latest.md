@@ -1,9 +1,15 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-23 21:45:55Z UTC
+Updated: 2026-11-24 05:37:40Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 77 (Strong) | [GPU Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0289249-1) | Intel | US, California, Folsom; US, California, Santa Clara | 11/23/2026 00:00:00 |  |
+| 42 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6b04bbe62d88b678f11792a4) | ESCO Technologies | Accident, MD | 11/23/2026 22:19:18 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6b04ba682d88b678f11791c1) | ETS-Lindgren | Accident, MD | 11/23/2026 22:12:56 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6b04e2907bec27df08f951fa) | Freeport-McMoRan | Chino Mine, NM; Green Valley, AZ | 11/24/2026 05:02:47 | Sponsorship: Past Sponsorship |
+| 43 (Possible) | [Electrical Engineer - Entry Level (Billings, MT)](https://jobright.ai/jobs/info/6b04d791b4933fb9f4361d28) | Tetra Tech | Billings, MT | 11/24/2026 00:17:21 | Sponsorship: Past Sponsorship |
+| 62 (Good) | [Embedded Software Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6b04b4e22d88b678f1178dc7) | C&S Group | United States | 11/19/2026 10:28:37 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer I, Life Cycle Engineering](https://jobright.ai/jobs/info/6b045b11c8533c23e3c35031) | General Dynamics - Bath Iron Works | Brunswick, ME | 11/23/2026 15:26:09 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6b0478e7a72582cade08dd1f) | Honeywell Aerospace | Torrance, CA | 11/23/2026 17:33:27 | Sponsorship: Past Sponsorship |
 | 49 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6b04aa8113646880439e4454) | Advanced Energy | Wilmington, MA | 11/23/2026 18:18:27 | Sponsorship: Past Sponsorship |
@@ -98,9 +104,3 @@ Updated: 2026-11-23 21:45:55Z UTC
 | 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afdd8808cffea7c97c8d751) | Westinghouse Electric Company | Rock Hill, SC | 11/18/2026 17:25:09 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Computer/Electrical Engineer I](https://jobright.ai/jobs/info/6afdc4d88cffea7c97c8c9f5) | TSC | Bloomington, IN | 11/18/2026 17:32:50 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry-Level Electrical Engineer - Power](https://jobright.ai/jobs/info/6afde2b70cde47528ec0f6d0) | UL Solutions | Northbrook, IL | 11/18/2026 06:00:00 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Entry Level Electrical Engineer- Water/Wastewater](https://jobright.ai/jobs/info/6afdcbc2f3e7976cc6108a98) | Kimley-Horn | Akron, OH | 11/18/2026 08:47:00 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6afdebe40cde47528ec0ffb8) | Salas O'Brien | New York, NY | 11/18/2026 18:06:16 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Quality Test Engineer (Entry Level) - Medical Devices](https://jobright.ai/jobs/info/6afdf67e758942b6422b6076) | Planet Pharma | Greater Minneapolis–St. Paul Area | 11/18/2026 19:03:26 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Entry-level Electrical Design Engineer](https://jobright.ai/jobs/info/6afdd6cef170d82b3966e840) | Haag, a Salas O'Brien Company | Rochester, NY | 11/18/2026 16:48:14 | Sponsorship: Past Sponsorship |
-| 42 (Possible) | [Entry-level Electrical Design Engineer](https://jobright.ai/jobs/info/6afdd258758942b6422b43a6) | Salas O'Brien | Rochester, NY | 11/18/2026 16:17:42 | Sponsorship: Past Sponsorship |
-| 40 (Possible) | [Instrumentation & Controls Engineer I](https://jobright.ai/jobs/info/6afdfc66f3e7976cc610ad5f) | Relativity Space | Cape Canaveral, FL | 11/18/2026 11:28:38 | Sponsorship: Not Sure |
