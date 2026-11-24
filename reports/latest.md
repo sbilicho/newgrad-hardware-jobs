@@ -1,9 +1,19 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-24 05:37:40Z UTC
+Updated: 2026-11-24 16:27:33Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6b056a0c2cb8a4d8561c46f9) | ByteDance | San Jose, CA | 11/24/2026 10:42:20 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Communication Systems Electrical Engineer (Entry Level)](https://jobright.ai/jobs/info/6b05b9002835ccc63ff541f1) | BAE Systems, Inc. | Saint Inigoes, MD | 11/24/2026 06:00:00 | Sponsorship: Past Sponsorship |
+| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6b056a1063d280053ef8299e) | ByteDance | San Jose, CA | 11/24/2026 10:42:24 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Associate Electrical Engineer - Buildings](https://jobright.ai/jobs/info/6ae22b81de23f466ec8c3928) | WSP in the U.S. | Minneapolis, MN | 11/24/2026 06:08:20 | Sponsorship: No |
+| 37 (Possible) | [Associate Electrical Engineer - Buildings](https://jobright.ai/jobs/info/6ada7e2fe4b94611ab85d4ce) | WSP in the U.S. | Dallas, TX | 11/24/2026 06:08:20 | Sponsorship: No |
+| 37 (Possible) | [Controls Engineer](https://jobright.ai/jobs/info/6ae9164efb2cd420ace6c055) | Daikin Applied Americas | Plymouth, MN | 11/24/2026 06:11:26 | Sponsorship: No |
+| 53 (Good) | [AEGS Pro Electrical Engineer I (On-Site)](https://jobright.ai/jobs/info/6afb6d57be8589f0b74bdacd) | Raytheon | Tucson, AZ | 11/24/2026 06:26:29 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 50 (Good) | [R&D Engineer I](https://jobright.ai/jobs/info/6b05a115707ad7f35053923d) | General Dynamics Ordnance and Tactical Systems | Marion, IL | 11/24/2026 06:37:09 | Sponsorship: Not Sure |
+| 40 (Possible) | [Communication Systems Electrical Engineer (Entry Level)](https://jobright.ai/jobs/info/6b05af3f707ad7f350539919) | BAE Systems | Saint Inigoes, MD; Upper Jutland, MD, United States | 11/24/2026 07:37:35 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6b05b019707ad7f350539951) | Yaskawa America, Inc. -  Drives & Motion Division | Waukegan, IL | 11/24/2026 07:41:13 | Sponsorship: Not Sure |
 | 77 (Strong) | [GPU Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0289249-1) | Intel | US, California, Folsom; US, California, Santa Clara | 11/23/2026 00:00:00 |  |
 | 42 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6b04bbe62d88b678f11792a4) | ESCO Technologies | Accident, MD | 11/23/2026 22:19:18 | Sponsorship: Past Sponsorship |
 | 42 (Possible) | [Electrical Design Engineer I](https://jobright.ai/jobs/info/6b04ba682d88b678f11791c1) | ETS-Lindgren | Accident, MD | 11/23/2026 22:12:56 | Sponsorship: Past Sponsorship |
@@ -94,13 +104,3 @@ Updated: 2026-11-24 05:37:40Z UTC
 | 35 (Possible) | [Junior RF Engineer](https://jobright.ai/jobs/info/6ac65c694ac55253f5d79c7f) | Amentum | Dahlgren, VA | 11/19/2026 10:24:36 | Sponsorship: No |
 | 59 (Good) | [Hardware Validation Engineer: Level 1](https://jobright.ai/jobs/info/6afe9db70fe3ac852ce52994) | Quanta Manufacturing Nashville | Fremont, CA | 11/19/2026 06:56:55 | Sponsorship: Past Sponsorship |
 | 59 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6afe9db7959c7033f184c47b) | Quanta Manufacturing Nashville | Fremont, CA | 11/18/2026 22:56:55 | Sponsorship: Not Sure |
-| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6afde8940cde47528ec0fd7f) | C&S Group | Platteville, WI | 11/06/2026 14:21:10 | Sponsorship: Past Sponsorship |
-| 30 (Possible) | [Electrical Engineer Level I or Level II - Corporate](https://jobright.ai/jobs/info/6afe1c06f170d82b396716b5) | Rogers Machinery Company, Inc. | Portland, OR | 11/18/2026 21:31:48 | Sponsorship: Past Sponsorship |
-| 50 (Good) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afe1ca9f3e7976cc610c04a) | Karman Space & Defense | Seattle, WA | 11/18/2026 21:46:17 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer – Radar Systems Analysis Entry Level](https://jobright.ai/jobs/info/6afe0fd40cde47528ec116aa) | Leidos | Huntsville, AL | 11/18/2026 22:09:26 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer - Entry Level](https://jobright.ai/jobs/info/6ad908b5e4b94611ab852331) | I.B. Abel, Inc. | York, PA | 11/18/2026 20:59:56 | Sponsorship: Past Sponsorship |
-| 46 (Possible) | [System Safety & Reliability Engineer](https://jobright.ai/jobs/info/6af4c53a1b2c5dcbbcd64036) | Rolls-Royce | Indianapolis, IN; Novi, MI | 11/18/2026 17:02:19 | Sponsorship: No |
-| 81 (Strong) | [GPU Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0289247) | Intel | US, California, Folsom; US, California, Santa Clara | 11/18/2026 00:00:00 |  |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afdd8808cffea7c97c8d751) | Westinghouse Electric Company | Rock Hill, SC | 11/18/2026 17:25:09 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Computer/Electrical Engineer I](https://jobright.ai/jobs/info/6afdc4d88cffea7c97c8c9f5) | TSC | Bloomington, IN | 11/18/2026 17:32:50 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry-Level Electrical Engineer - Power](https://jobright.ai/jobs/info/6afde2b70cde47528ec0f6d0) | UL Solutions | Northbrook, IL | 11/18/2026 06:00:00 | Sponsorship: Past Sponsorship |
