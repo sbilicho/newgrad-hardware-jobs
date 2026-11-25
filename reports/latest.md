@@ -1,9 +1,16 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-24 16:27:33Z UTC
+Updated: 2026-11-25 01:01:31Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 52 (Good) | [Entry-Level – Researcher – Power Electronics & Energy Conversion Systems](https://jobright.ai/jobs/info/6af5e0738cc703bba47ad9d4) | General Motors | Warren, MI | 11/24/2026 12:07:55 | Sponsorship: Past Sponsorship |
+| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6b05e744460ce5352ae3c6dc) | Company Confidential | Salt Lake City, UT | 11/24/2026 19:36:36 | Sponsorship: Past Sponsorship |
+| 30 (Possible) | [PCB/CAD Layout Design Engineer (26903)](https://jobright.ai/jobs/info/6af3694280020ca3a897559f) | NEOTech | Naperville, IL | 11/24/2026 20:48:49 | Sponsorship: Past Sponsorship |
+| 42 (Possible) | [Entry Level Test Engineer - ASET Air Delivery](https://jobright.ai/jobs/info/6b05eafe460ce5352ae3c944) | TRAX International Corporation | Yuma, AZ | 11/24/2026 19:52:30 | Security clearance language is present; Sponsorship: Past Sponsorship |
+| 88 (Strong) | [ASIC Design Verification Engineer III (Full Time) - United States](https://jobright.ai/jobs/info/6b061f8a0e7eacd1ea6463d9) | Cisco | San Jose, CA | 11/24/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 88 (Strong) | [Entry Level ASIC/FPGA Design Verification Engineer](https://jobright.ai/jobs/info/6b05e3f00e7eacd1ea644126) | Boeing | El Segundo, CA | 11/24/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present; Sponsorship: Past Sponsorship |
+| 40 (Possible) | [Junior Electrical Engineer - GQ JPALS](https://jobright.ai/jobs/info/6b060f650e7eacd1ea645a3f) | DCS Corp | Patuxent River, MD | 11/24/2026 14:49:07 | Sponsorship: No |
 | 31 (Possible) | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6b056a0c2cb8a4d8561c46f9) | ByteDance | San Jose, CA | 11/24/2026 10:42:20 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Communication Systems Electrical Engineer (Entry Level)](https://jobright.ai/jobs/info/6b05b9002835ccc63ff541f1) | BAE Systems, Inc. | Saint Inigoes, MD | 11/24/2026 06:00:00 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6b056a1063d280053ef8299e) | ByteDance | San Jose, CA | 11/24/2026 10:42:24 | Sponsorship: Past Sponsorship |
@@ -97,10 +104,3 @@ Updated: 2026-11-24 16:27:33Z UTC
 | 89 (Strong) | [ASIC Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6aff42cfc1c02a9acd80a574) | NVIDIA | Santa Clara, CA | 11/19/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [RTL Power Optimization Engineer – New College Grad 2026](https://jobright.ai/jobs/info/6aff42bb72b9be3685290125) | NVIDIA | Santa Clara, CA | 11/19/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [Design-for-Test Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6aff0dfa72b9be368528ddd4) | GlobalFoundries | Richardson, TX | 11/19/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 88 (Strong) | [ASIC Physical Design Engineer, Netlisting - New College Grad 2026](https://jobright.ai/jobs/info/6aff42d6aea17e3f50eaf164) | NVIDIA | Santa Clara, CA | 11/19/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 89 (Strong) | [Design-for-Test Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6aff0df697dcc4fc8dca8297) | GlobalFoundries | Richardson, TX | 11/19/2026 17:09:46 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer (May/June 2027)](https://jobright.ai/jobs/info/6af87a05cb5a5d4a77fcc587) | Itron, Inc. | Liberty Lake, WA | 11/19/2026 10:07:09 | Sponsorship: Not Sure |
-| 76 (Strong) | [RGP - Advanced Mixed Signal Modeling Engineer](https://jobright.ai/jobs/info/6a99341d8974952dfc949dbd) | Infineon Technologies | Andover, MA; Raleigh, NC; Austin, TX | 11/19/2026 10:12:31 | Sponsorship: No |
-| 35 (Possible) | [Junior RF Engineer](https://jobright.ai/jobs/info/6ac65c694ac55253f5d79c7f) | Amentum | Dahlgren, VA | 11/19/2026 10:24:36 | Sponsorship: No |
-| 59 (Good) | [Hardware Validation Engineer: Level 1](https://jobright.ai/jobs/info/6afe9db70fe3ac852ce52994) | Quanta Manufacturing Nashville | Fremont, CA | 11/19/2026 06:56:55 | Sponsorship: Past Sponsorship |
-| 59 (Good) | [Test Engineer](https://jobright.ai/jobs/info/6afe9db7959c7033f184c47b) | Quanta Manufacturing Nashville | Fremont, CA | 11/18/2026 22:56:55 | Sponsorship: Not Sure |
