@@ -1,9 +1,22 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-25 09:48:02Z UTC
+Updated: 2026-11-25 19:39:13Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Build For Growth Electrical Engineer I Job Details \| Amrize](https://jobright.ai/jobs/info/6ae8bfe7061d6d7ff3d7caa3) | Amrize | Bloomsdale, MO | 11/25/2026 11:31:25 | Sponsorship: Past Sponsorship |
+| 37 (Possible) | [Entry Level Electrical Engineer - Data Centers](https://jobright.ai/jobs/info/6af201731116f6f0a076456f) | Jacobs | Portland, OR | 11/25/2026 16:18:13 | Sponsorship: Past Sponsorship |
+| 36 (Possible) | [GPU System and Scheduling Architect – New College Grad 2026](https://jobright.ai/jobs/info/6b0738a62c2b1d2eebe133ec) | NVIDIA | Santa Clara, CA | 11/25/2026 18:32:03 | Sponsorship: Past Sponsorship |
+| 46 (Possible) | [Customer Reliability Engineer (Entry level)](https://jobright.ai/jobs/info/6b070a35fbcb892eea5dfb7c) | Smiths Group plc | Pasadena, TX | 11/25/2026 16:18:02 | Sponsorship: Past Sponsorship |
+| 83 (Strong) | [Cell Modeling and Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6b07288e08b131a5c6578327) | NVIDIA | Santa Clara, CA | 11/25/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 74 (Strong) | [Device Engineer, ULP CMOS (2027 New College Graduate)](https://jobright.ai/jobs/info/6b0732d72c2b1d2eebe12f0d) | GlobalFoundries | Malta, NY | 11/25/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 89 (Strong) | [ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start](https://jobright.ai/jobs/info/6b06d7a42662686ad8e0504d) | ByteDance | San Jose, CA | 11/25/2026 12:42:12 | Sponsorship: Past Sponsorship |
+| 52 (Good) | [Digital Engineer](https://jobright.ai/jobs/info/6b0724f408b131a5c6578196) | Renesas Electronics | Duluth, GA | 11/25/2026 18:12:04 | Sponsorship: Past Sponsorship |
+| 70 (Strong) | [PCIe Post-Silicon Validation Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6b0738b208b131a5c6578d57) | NVIDIA | Santa Clara, CA | 11/25/2026 18:33:08 | Sponsorship: Past Sponsorship |
+| 40 (Possible) | [ASIC Floorplan Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6b0734c120135524ca72ac59) | NVIDIA | Santa Clara, CA | 08/27/2026 19:17:56 | Sponsorship: Past Sponsorship |
+| 73 (Strong) | [ASIC Physical Design and Timing Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6b0728e86c5083822fdc7453) | NVIDIA | Santa Clara, CA | 11/25/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 45 (Possible) | [Hardware Engineer I](https://jobright.ai/jobs/info/6a5efad2f3674a0545d2b7f8) | Honeywell Technologies | Minneapolis, MN; Clearwater, FL | 11/25/2026 09:00:02 | Sponsorship: No |
+| 45 (Possible) | [Entry Level Electrical Design Engineer](https://jobright.ai/jobs/info/6b072119fbcb892eea5e08d1) | Boeing | Hazelwood, MO | 11/25/2026 09:55:37 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 55 (Good) | [Sr. Electrical Test Engineer I](https://jobright.ai/jobs/info/6b0620a1460ce5352ae3e6e2) | Tandem Diabetes Care | California State | 11/25/2026 04:22:12 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Field Applications Engineer](https://jobright.ai/jobs/info/6b0682f267bccf421e6f98cf) | ASML | Boise, ID | 11/24/2026 22:40:50 | Sponsorship: Not Sure |
 | 52 (Good) | [Entry-Level – Researcher – Power Electronics & Energy Conversion Systems](https://jobright.ai/jobs/info/6af5e0738cc703bba47ad9d4) | General Motors | Warren, MI | 11/24/2026 12:07:55 | Sponsorship: Past Sponsorship |
@@ -91,16 +104,3 @@ Updated: 2026-11-25 09:48:02Z UTC
 | 92 (Strong) | [ASIC Design Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6aff7430865dbcc3f26fc6c6) | NVIDIA | Santa Clara, CA | 11/19/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Embedded Software Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aff43f41c42ea8f6b9fee93) | Sopra Steria | United States | 11/19/2026 18:46:12 | Sponsorship: Past Sponsorship |
 | 31 (Possible) | [GPU PCIe and Boot Architect - New College Grad 2027](https://jobright.ai/jobs/info/6aff4081c1c02a9acd80a3cd) | NVIDIA | Austin, TX | 11/19/2026 18:31:29 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6afe7e0221364a3788bcec80) | X Technologies, Inc. | San Antonio, TX | 11/19/2026 04:41:38 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6aff34d4aea17e3f50eae8ce) | Textron | Cockeysville, MD | 11/19/2026 12:37:54 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6aff3b4497dcc4fc8dcaa0aa) | SetupBoxs | St. Louis, MO | 11/19/2026 18:09:08 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [2027 Electrical Engineer I (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6aff361f1c42ea8f6b9fe609) | Textron Aviation | Cockeysville, MD | 11/19/2026 17:46:17 | Security clearance language is present; Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Electrical Engineer – Radar Systems Analysis Entry Level](https://jobright.ai/jobs/info/6aff2b62aea17e3f50eae05f) | Leidos | Huntsville, AL | 11/19/2026 17:01:22 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 43 (Possible) | [Senior PCB Layout Engineer I](https://jobright.ai/jobs/info/6aff40d5aea17e3f50eaefca) | Rocket Lab | Long Beach, CA | 11/19/2026 18:32:53 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
-| 91 (Strong) | [ASIC & FPGA Design Engineer Asc - Level 1](https://jobright.ai/jobs/info/6afe953b5695a992780abe37) | Lockheed Martin | Grand Prairie, TX | 11/19/2026 16:02:07 | Sponsorship: Past Sponsorship |
-| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aff43eaaea17e3f50eaf206) | Sopra Steria | United States | 11/19/2026 18:46:02 | Sponsorship: Past Sponsorship |
-| 81 (Strong) | [GPU Verification Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6aff42bb97dcc4fc8dcaa638) | NVIDIA | Westford, MA | 11/19/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 62 (Good) | [Embedded Software Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aff3749aea17e3f50eae97e) | Sopra Steria | United States | 11/19/2026 17:52:09 | Sponsorship: Past Sponsorship |
-| 68 (Good) | [Validation Engineer](https://jobright.ai/jobs/info/6aff27be72b9be368528ee57) | Renesas Electronics | Duluth, GA | 11/19/2026 16:45:50 | Sponsorship: Past Sponsorship |
-| 62 (Good) | [Embedded Software Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aff43e9b88323bd981bd616) | Sopra Steria | United States | 11/19/2026 18:46:01 | Sponsorship: Past Sponsorship |
-| 89 (Strong) | [ASIC Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6aff42cfc1c02a9acd80a574) | NVIDIA | Santa Clara, CA | 11/19/2026 00:00:00 | Sponsorship: Past Sponsorship |
