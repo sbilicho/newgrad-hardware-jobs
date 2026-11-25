@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-25 01:01:31Z UTC
+Updated: 2026-11-25 09:48:02Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 55 (Good) | [Sr. Electrical Test Engineer I](https://jobright.ai/jobs/info/6b0620a1460ce5352ae3e6e2) | Tandem Diabetes Care | California State | 11/25/2026 04:22:12 | Sponsorship: Past Sponsorship |
+| 55 (Good) | [Field Applications Engineer](https://jobright.ai/jobs/info/6b0682f267bccf421e6f98cf) | ASML | Boise, ID | 11/24/2026 22:40:50 | Sponsorship: Not Sure |
 | 52 (Good) | [Entry-Level – Researcher – Power Electronics & Energy Conversion Systems](https://jobright.ai/jobs/info/6af5e0738cc703bba47ad9d4) | General Motors | Warren, MI | 11/24/2026 12:07:55 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6b05e744460ce5352ae3c6dc) | Company Confidential | Salt Lake City, UT | 11/24/2026 19:36:36 | Sponsorship: Past Sponsorship |
 | 30 (Possible) | [PCB/CAD Layout Design Engineer (26903)](https://jobright.ai/jobs/info/6af3694280020ca3a897559f) | NEOTech | Naperville, IL | 11/24/2026 20:48:49 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-11-25 01:01:31Z UTC
 | 68 (Good) | [Validation Engineer](https://jobright.ai/jobs/info/6aff27be72b9be368528ee57) | Renesas Electronics | Duluth, GA | 11/19/2026 16:45:50 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Embedded Software Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6aff43e9b88323bd981bd616) | Sopra Steria | United States | 11/19/2026 18:46:01 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [ASIC Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6aff42cfc1c02a9acd80a574) | NVIDIA | Santa Clara, CA | 11/19/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 47 (Possible) | [RTL Power Optimization Engineer – New College Grad 2026](https://jobright.ai/jobs/info/6aff42bb72b9be3685290125) | NVIDIA | Santa Clara, CA | 11/19/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 89 (Strong) | [Design-for-Test Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6aff0dfa72b9be368528ddd4) | GlobalFoundries | Richardson, TX | 11/19/2026 00:00:00 | Sponsorship: Past Sponsorship |
