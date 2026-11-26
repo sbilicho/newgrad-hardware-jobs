@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-26 02:30:40Z UTC
+Updated: 2026-11-26 11:29:31Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 46 (Possible) | [Customer Reliability Engineer (Entry level)](https://jobright.ai/jobs/info/6b079d05e68b15bbbb560752) | John Crane | Pasadena, TX | 11/25/2026 09:34:30 | Sponsorship: Past Sponsorship |
+| 69 (Good) | [SRAM Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6b07aa92c4f040f478a44679) | NVIDIA | Santa Clara, CA | 10/12/2026 03:41:27 | Sponsorship: Past Sponsorship |
+| 55 (Good) | [Rack Test Engineer](https://jobright.ai/jobs/info/6af85da2cb5a5d4a77fcb4de) | Supermicro | San Jose, CA | 11/26/2026 01:58:08 | Sponsorship: Not Sure |
+| 45 (Possible) | [Display Electrical Engineer 1 (Onsite)](https://jobright.ai/jobs/info/6afcf535e8a9612f4e0dd4be) | RTX | Cedar Rapids, IA | 11/26/2026 02:06:27 | Sponsorship: Not Sure |
 | 40 (Possible) | [Entry Level Electrical Engineer – Class of 2026/2027](https://jobright.ai/jobs/info/6b0742ffb624dcc57de78e49) | Amphenol FCi | Santa Clara, CA | 11/25/2026 20:20:15 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Electrical Engineer 1 (Entry-Level) - Mission Critical](https://jobright.ai/jobs/info/6b0797e0e68b15bbbb5605b7) | Sargent & Lundy | Richland, WA | 11/26/2026 02:22:24 | Security clearance language is present; Sponsorship: Past Sponsorship |
 | 40 (Possible) | [Entry Level Electrical Engineer – Class of 2026/2027](https://jobright.ai/jobs/info/6b0742e82c2b1d2eebe138a4) | Amphenol TCS | Santa Clara, CA | 11/25/2026 20:19:52 | Sponsorship: Past Sponsorship |
@@ -100,7 +104,3 @@ Updated: 2026-11-26 02:30:40Z UTC
 | 77 (Strong) | [Post-Si Electrical Validation Engineer NCG](https://jobright.ai/jobs/info/6b00c5a989d8ca1e84959699) | Astera Labs | San Jose, CA | 11/20/2026 14:11:53 | Sponsorship: Past Sponsorship |
 | 52 (Good) | [Hardware Engineer I (Full-Time) - United States](https://jobright.ai/jobs/info/6af6ce44d0eefb7d11b87c1c) | Cisco | San Jose, CA | 11/20/2026 14:02:55 | Sponsorship: Past Sponsorship |
 | 44 (Possible) | [Component Electrical Engineer I (Hybrid)](https://jobright.ai/jobs/info/6afefa1b1c42ea8f6b9fc206) | RTX | McKinney, TX | 11/20/2026 16:37:39 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6ac6c2b70e027c0f3b3b4333) | Jacobs | Austin, TX; Philadelphia, PA; San Diego, CA | 11/20/2026 08:01:29 | Sponsorship: Not Sure |
-| 47 (Possible) | [Systems Integration/Test Engineer Associate - Entry Level](https://jobright.ai/jobs/info/6aff91a36f4ca73dfeb4598e) | Lockheed Martin | Littleton, CO | 11/20/2026 08:01:33 | Sponsorship: Past Sponsorship |
-| 48 (Possible) | [Electrical Engineer I](https://jobright.ai/jobs/info/6affbb74dd029d798066e521) | SYNCRIS | Bloomington, MN | 11/19/2026 16:15:49 | Sponsorship: Past Sponsorship |
-| 51 (Good) | [Test Engineer I/II - Electrical](https://jobright.ai/jobs/info/6affafbb1126e09fee091fe0) | Woodward, Inc. | Rockford, IL | 11/20/2026 05:50:00 | Sponsorship: Past Sponsorship |
