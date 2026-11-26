@@ -1,9 +1,13 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-26 11:29:31Z UTC
+Updated: 2026-11-26 20:32:22Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 47 (Possible) | [Electromechanical Assembly and Test Engineer – Microscope Production](https://jobright.ai/jobs/info/6abe722d4ac55253f5d60873) | Bruker | Washington, United States | 11/26/2026 10:11:42 | Sponsorship: Not Sure |
+| 37 (Possible) | [Electrical Controls Engineer](https://jobright.ai/jobs/info/6acfc118c0dd9da253cf4506) | enVista | Willowbrook, IL | 11/26/2026 10:15:37 | Sponsorship: Not Sure |
+| 37 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial](https://jobright.ai/jobs/info/6af5ec4a79862a378dceedeb) | Sargent & Lundy | San Juan, PR | 11/26/2026 18:42:02 | Sponsorship: Past Sponsorship |
+| 66 (Good) | [New College Graduate, Senior Device Engineer: 3D NAND Flash Memory](https://jobright.ai/jobs/info/6aebc7e5a0b134121d99de26) | Sandisk | Milpitas, CA | 11/26/2026 10:55:03 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Customer Reliability Engineer (Entry level)](https://jobright.ai/jobs/info/6b079d05e68b15bbbb560752) | John Crane | Pasadena, TX | 11/25/2026 09:34:30 | Sponsorship: Past Sponsorship |
 | 69 (Good) | [SRAM Circuit Design Engineer - New College Grad 2026](https://jobright.ai/jobs/info/6b07aa92c4f040f478a44679) | NVIDIA | Santa Clara, CA | 10/12/2026 03:41:27 | Sponsorship: Past Sponsorship |
 | 55 (Good) | [Rack Test Engineer](https://jobright.ai/jobs/info/6af85da2cb5a5d4a77fcb4de) | Supermicro | San Jose, CA | 11/26/2026 01:58:08 | Sponsorship: Not Sure |
@@ -100,7 +104,3 @@ Updated: 2026-11-26 11:29:31Z UTC
 | 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6b00ad22e0dc96195928315e) | Haag, a Salas O'Brien Company | Rochester, NY | 11/20/2026 22:19:43 | Sponsorship: Past Sponsorship |
 | 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6b00a3820f536e0ba7275bdb) | McClure Engineering-St. Louis (MEP) | St. Louis, MO | 11/20/2026 13:31:22 | Sponsorship: Past Sponsorship |
 | 41 (Possible) | [Entry-Level Manufacturing Electrical Engineer](https://jobright.ai/jobs/info/6b009d87dfa58e4c244dce33) | RG&T Solutions | Warroad, MN | 11/20/2026 19:20:39 | Sponsorship: Past Sponsorship |
-| 69 (Good) | [Silicon Photonics Device Engineer (2027 New College Graduate)](https://jobright.ai/jobs/info/6b00c81f89d8ca1e8495980e) | GlobalFoundries | Malta, NY | 11/20/2026 00:00:00 | Sponsorship: Past Sponsorship |
-| 77 (Strong) | [Post-Si Electrical Validation Engineer NCG](https://jobright.ai/jobs/info/6b00c5a989d8ca1e84959699) | Astera Labs | San Jose, CA | 11/20/2026 14:11:53 | Sponsorship: Past Sponsorship |
-| 52 (Good) | [Hardware Engineer I (Full-Time) - United States](https://jobright.ai/jobs/info/6af6ce44d0eefb7d11b87c1c) | Cisco | San Jose, CA | 11/20/2026 14:02:55 | Sponsorship: Past Sponsorship |
-| 44 (Possible) | [Component Electrical Engineer I (Hybrid)](https://jobright.ai/jobs/info/6afefa1b1c42ea8f6b9fc206) | RTX | McKinney, TX | 11/20/2026 16:37:39 | Sponsorship: Past Sponsorship |
