@@ -1,9 +1,12 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-26 20:32:22Z UTC
+Updated: 2026-11-27 03:16:57Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 87 (Strong) | [Microprocessor Silicon Validation and Optimization Engineer](https://jobright.ai/jobs/info/6b073e91fbcb892eea5e1b7a) | Qualcomm | San Diego, CA | 11/26/2026 16:48:07 | Sponsorship: Past Sponsorship |
+| 60 (Good) | [System Validation Engineer 1](https://jobright.ai/jobs/info/6b0863ff03dd5bd15ba47400) | Wipro | Santa Clara, CA | 11/26/2026 00:00:00 | Sponsorship: Past Sponsorship |
+| 47 (Possible) | [Electromechanical Assembly and Test Engineer – Microscope Production](https://jobright.ai/jobs/info/6abe794e372c01f6cd723ba3) | Bruker | Washington, United States | 11/26/2026 13:56:06 | Sponsorship: Not Sure |
 | 47 (Possible) | [Electromechanical Assembly and Test Engineer – Microscope Production](https://jobright.ai/jobs/info/6abe722d4ac55253f5d60873) | Bruker | Washington, United States | 11/26/2026 10:11:42 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Controls Engineer](https://jobright.ai/jobs/info/6acfc118c0dd9da253cf4506) | enVista | Willowbrook, IL | 11/26/2026 10:15:37 | Sponsorship: Not Sure |
 | 37 (Possible) | [Electrical Engineer 1 (Entry Level) - Energy & Industrial](https://jobright.ai/jobs/info/6af5ec4a79862a378dceedeb) | Sargent & Lundy | San Juan, PR | 11/26/2026 18:42:02 | Sponsorship: Past Sponsorship |
@@ -101,6 +104,3 @@ Updated: 2026-11-26 20:32:22Z UTC
 | 88 (Strong) | [CPU Physical Design Engineer](https://jobright.ai/jobs/info/6b00ed392ad6cde5ef2502e7) | Qualcomm | Austin, TX | 11/20/2026 17:00:41 | Sponsorship: Past Sponsorship |
 | 66 (Good) | [Advanced Packaging Failure Analysis Engineer – Federal](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Advanced-Packaging-Failure-Analysis-Engineer---Federal_JR0289392) | Intel | US, Arizona, Phoenix | 11/20/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present |
 | 66 (Good) | [Advanced Packaging Failure Analysis Engineer – Federal](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Advanced-Packaging-Failure-Analysis-Engineer---Federal_JR0289391) | Intel | US, Arizona, Phoenix | 11/20/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present |
-| 42 (Possible) | [Electrical Design Engineer](https://jobright.ai/jobs/info/6b00ad22e0dc96195928315e) | Haag, a Salas O'Brien Company | Rochester, NY | 11/20/2026 22:19:43 | Sponsorship: Past Sponsorship |
-| 37 (Possible) | [Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6b00a3820f536e0ba7275bdb) | McClure Engineering-St. Louis (MEP) | St. Louis, MO | 11/20/2026 13:31:22 | Sponsorship: Past Sponsorship |
-| 41 (Possible) | [Entry-Level Manufacturing Electrical Engineer](https://jobright.ai/jobs/info/6b009d87dfa58e4c244dce33) | RG&T Solutions | Warroad, MN | 11/20/2026 19:20:39 | Sponsorship: Past Sponsorship |
