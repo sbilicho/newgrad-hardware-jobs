@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-27 03:16:57Z UTC
+Updated: 2026-11-27 12:47:46Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 75 (Strong) | [Hardware Verification Engineer, New College Graduate, (Teradyne, Agoura Hills, CA) Job Details \| Teradyne](https://jobright.ai/jobs/info/6b090e4546c5edde42731bd0) | Teradyne | Agoura Hills, CA | 11/18/2026 08:00:00 | Sponsorship: Past Sponsorship |
+| 95 (Strong) | [Engineer, ASIC Physical Design (New Grad, MS/PhD)](https://jobright.ai/jobs/info/6b0941b4610246a6c09755fb) | Alpaca Research | Cambridge, MA | 11/09/2026 18:22:26 | Sponsorship: Past Sponsorship |
 | 87 (Strong) | [Microprocessor Silicon Validation and Optimization Engineer](https://jobright.ai/jobs/info/6b073e91fbcb892eea5e1b7a) | Qualcomm | San Diego, CA | 11/26/2026 16:48:07 | Sponsorship: Past Sponsorship |
 | 60 (Good) | [System Validation Engineer 1](https://jobright.ai/jobs/info/6b0863ff03dd5bd15ba47400) | Wipro | Santa Clara, CA | 11/26/2026 00:00:00 | Sponsorship: Past Sponsorship |
 | 47 (Possible) | [Electromechanical Assembly and Test Engineer – Microscope Production](https://jobright.ai/jobs/info/6abe794e372c01f6cd723ba3) | Bruker | Washington, United States | 11/26/2026 13:56:06 | Sponsorship: Not Sure |
@@ -102,5 +104,3 @@ Updated: 2026-11-27 03:16:57Z UTC
 | 46 (Possible) | [Hardware Engineer](https://jobright.ai/jobs/info/6aa9b83e28e24cb38513ba3e) | Qualcomm | San Diego, CA | 11/21/2026 03:51:37 | Sponsorship: Not Sure |
 | 45 (Possible) | [Electrical Engineer I - RF/Microwave](https://jobright.ai/jobs/info/6b009628dfa58e4c244dc93b) | Thorlabs | Ann Arbor, MI | 11/20/2026 18:37:10 | Sponsorship: Past Sponsorship |
 | 88 (Strong) | [CPU Physical Design Engineer](https://jobright.ai/jobs/info/6b00ed392ad6cde5ef2502e7) | Qualcomm | Austin, TX | 11/20/2026 17:00:41 | Sponsorship: Past Sponsorship |
-| 66 (Good) | [Advanced Packaging Failure Analysis Engineer – Federal](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Advanced-Packaging-Failure-Analysis-Engineer---Federal_JR0289392) | Intel | US, Arizona, Phoenix | 11/20/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present |
-| 66 (Good) | [Advanced Packaging Failure Analysis Engineer – Federal](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Advanced-Packaging-Failure-Analysis-Engineer---Federal_JR0289391) | Intel | US, Arizona, Phoenix | 11/20/2026 00:00:00 | U.S. citizenship language is present; Security clearance language is present |
