@@ -1,9 +1,14 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-27 12:47:46Z UTC
+Updated: 2026-11-27 21:42:40Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6b09d49762c6023db3022bdc) | C&S Group | United States | 11/19/2026 10:28:40 | Sponsorship: Past Sponsorship |
+| 62 (Good) | [Embedded Software Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6b09d5705f0c27a3a3cecf79) | C&S Group | United States | 11/19/2026 10:28:37 | Sponsorship: Past Sponsorship |
+| 89 (Strong) | [Low Power ASIC Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6b076f0820135524ca72cab7) | NVIDIA | Santa Clara, CA | 11/27/2026 15:29:49 | Sponsorship: Past Sponsorship |
+| 51 (Good) | [Reliability Engineer I](https://jobright.ai/jobs/info/6aed08733a3fa7f03ea8b707) | GAF | Gainesville, TX | 11/27/2026 10:22:58 | Sponsorship: No |
+| 37 (Possible) | [Jr. Electrical Engineer](https://jobright.ai/jobs/info/6ae4c79fc3139b475b5b5b34) | INFICON | East Syracuse, NY; Syracuse, NY | 11/27/2026 11:36:27 | Sponsorship: Not Sure |
 | 75 (Strong) | [Hardware Verification Engineer, New College Graduate, (Teradyne, Agoura Hills, CA) Job Details \| Teradyne](https://jobright.ai/jobs/info/6b090e4546c5edde42731bd0) | Teradyne | Agoura Hills, CA | 11/18/2026 08:00:00 | Sponsorship: Past Sponsorship |
 | 95 (Strong) | [Engineer, ASIC Physical Design (New Grad, MS/PhD)](https://jobright.ai/jobs/info/6b0941b4610246a6c09755fb) | Alpaca Research | Cambridge, MA | 11/09/2026 18:22:26 | Sponsorship: Past Sponsorship |
 | 87 (Strong) | [Microprocessor Silicon Validation and Optimization Engineer](https://jobright.ai/jobs/info/6b073e91fbcb892eea5e1b7a) | Qualcomm | San Diego, CA | 11/26/2026 16:48:07 | Sponsorship: Past Sponsorship |
@@ -99,8 +104,3 @@ Updated: 2026-11-27 12:47:46Z UTC
 | 45 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6b016646f6ef85c61a50f34c) | Eaton | Davenport, IA | 11/21/2026 02:55:45 | Sponsorship: No |
 | 47 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6aea5adf440b469a1c0ad34f) | Eaton | Omaha, NE | 11/21/2026 02:55:45 | Sponsorship: No |
 | 40 (Possible) | [Electrical Engineer - Philadelphia, PA](https://jobright.ai/jobs/info/6ae547f4d45dc30fb7d363d3) | Eaton | Philadelphia, PA | 11/21/2026 02:55:45 | Sponsorship: No |
-| 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6adbadc70a4cc7090f974378) | Eaton | South Milwaukee, WI | 11/21/2026 02:55:45 | Sponsorship: No |
-| 41 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6af2ccdefb5e064d9db433ba) | Pfizer | Andover, MA | 11/21/2026 03:07:42 | Sponsorship: Not Sure |
-| 46 (Possible) | [Hardware Engineer](https://jobright.ai/jobs/info/6aa9b83e28e24cb38513ba3e) | Qualcomm | San Diego, CA | 11/21/2026 03:51:37 | Sponsorship: Not Sure |
-| 45 (Possible) | [Electrical Engineer I - RF/Microwave](https://jobright.ai/jobs/info/6b009628dfa58e4c244dc93b) | Thorlabs | Ann Arbor, MI | 11/20/2026 18:37:10 | Sponsorship: Past Sponsorship |
-| 88 (Strong) | [CPU Physical Design Engineer](https://jobright.ai/jobs/info/6b00ed392ad6cde5ef2502e7) | Qualcomm | Austin, TX | 11/20/2026 17:00:41 | Sponsorship: Past Sponsorship |
