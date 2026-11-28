@@ -1,9 +1,10 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-27 21:42:40Z UTC
+Updated: 2026-11-28 03:35:36Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 59 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA) Job Details \| Teradyne](https://jobright.ai/jobs/info/6b090e5d6dd5c7e7934c6b10) | Teradyne | North Reading, MA | 11/27/2026 15:12:07 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6b09d49762c6023db3022bdc) | C&S Group | United States | 11/19/2026 10:28:40 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Embedded Software Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6b09d5705f0c27a3a3cecf79) | C&S Group | United States | 11/19/2026 10:28:37 | Sponsorship: Past Sponsorship |
 | 89 (Strong) | [Low Power ASIC Engineer - New College Grad 2027](https://jobright.ai/jobs/info/6b076f0820135524ca72cab7) | NVIDIA | Santa Clara, CA | 11/27/2026 15:29:49 | Sponsorship: Past Sponsorship |
@@ -103,4 +104,3 @@ Updated: 2026-11-27 21:42:40Z UTC
 | 50 (Good) | [Associate Electrical Hardware Engineer](https://jobright.ai/jobs/info/6b011a00f6ef85c61a50e873) | Rhoda AI | Mountain View, CA | 11/21/2026 02:30:15 | Sponsorship: Not Sure |
 | 45 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6b016646f6ef85c61a50f34c) | Eaton | Davenport, IA | 11/21/2026 02:55:45 | Sponsorship: No |
 | 47 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6aea5adf440b469a1c0ad34f) | Eaton | Omaha, NE | 11/21/2026 02:55:45 | Sponsorship: No |
-| 40 (Possible) | [Electrical Engineer - Philadelphia, PA](https://jobright.ai/jobs/info/6ae547f4d45dc30fb7d363d3) | Eaton | Philadelphia, PA | 11/21/2026 02:55:45 | Sponsorship: No |
