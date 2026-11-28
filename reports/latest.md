@@ -1,9 +1,11 @@
 # Full-Time Hardware Job Matches
 
-Updated: 2026-11-28 03:35:36Z UTC
+Updated: 2026-11-28 12:22:11Z UTC
 
 | Score | Role | Company | Location | Posted | Warnings |
 |---:|---|---|---|---|---|
+| 37 (Possible) | [Senior Electrical Engineer I](https://jobright.ai/jobs/info/6af699bf80054650a5e7f71c) | New York Power Authority | Astoria, OR | 11/28/2026 10:10:47 | Sponsorship: Past Sponsorship |
+| 44 (Possible) | [Electrical Engineer – Radar Systems Analysis Entry Level](https://jobright.ai/jobs/info/6b0a5940dd884ad2cc58fda6) | Leidos | Huntsville, AL | 11/28/2026 04:32:00 | U.S. citizenship language is present; Sponsorship: Past Sponsorship |
 | 59 (Good) | [Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA) Job Details \| Teradyne](https://jobright.ai/jobs/info/6b090e5d6dd5c7e7934c6b10) | Teradyne | North Reading, MA | 11/27/2026 15:12:07 | Sponsorship: Past Sponsorship |
 | 72 (Strong) | [FPGA Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6b09d49762c6023db3022bdc) | C&S Group | United States | 11/19/2026 10:28:40 | Sponsorship: Past Sponsorship |
 | 62 (Good) | [Embedded Software Verification Engineer (Entry Level)](https://jobright.ai/jobs/info/6b09d5705f0c27a3a3cecf79) | C&S Group | United States | 11/19/2026 10:28:37 | Sponsorship: Past Sponsorship |
@@ -102,5 +104,3 @@ Updated: 2026-11-28 03:35:36Z UTC
 | 50 (Good) | [Silicon Engineer](https://jobright.ai/jobs/info/6b0109602ad6cde5ef250c03) | Microsoft | Redmond, WA | 11/21/2026 16:05:04 | Sponsorship: Past Sponsorship |
 | 46 (Possible) | [Electrical Design Engineer (Starfall Avionics)](https://jobright.ai/jobs/info/6b01e381df73191d2e6b21cd) | SpaceX | Hawthorne, CA | 11/21/2026 10:31:29 | Sponsorship: Not Sure |
 | 50 (Good) | [Associate Electrical Hardware Engineer](https://jobright.ai/jobs/info/6b011a00f6ef85c61a50e873) | Rhoda AI | Mountain View, CA | 11/21/2026 02:30:15 | Sponsorship: Not Sure |
-| 45 (Possible) | [Electrical Engineer](https://jobright.ai/jobs/info/6b016646f6ef85c61a50f34c) | Eaton | Davenport, IA | 11/21/2026 02:55:45 | Sponsorship: No |
-| 47 (Possible) | [Product Engineer](https://jobright.ai/jobs/info/6aea5adf440b469a1c0ad34f) | Eaton | Omaha, NE | 11/21/2026 02:55:45 | Sponsorship: No |
